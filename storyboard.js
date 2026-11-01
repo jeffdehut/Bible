@@ -29,7 +29,7 @@
   const rid = () => (crypto.randomUUID ? crypto.randomUUID().replace(/-/g, "").slice(0, 20) : Math.random().toString(36).slice(2, 12) + Date.now().toString(36));
   const blank = () => ({ bg: "hills", items: [] });
   const newDoc = (name, folder = "", data = null) => ({ id: rid(), name, folder, data: data || blank(), t: Date.now() });
-  const cleanData = d => ({ bg: sceneById[d && d.bg] ? d.bg : "hills", items: ((d && d.items) || []).filter(i => byId[i.a]) });
+  const cleanData = d => ({ bg: sceneById[d && d.bg] ? d.bg : "hills", items: ((d && d.items) || []).filter(i => byId[i.a]), ...(d && d.cap && d.cap.text ? { cap: d.cap } : {}) });
   const untitled = () => t("Untitled board");
   let lib = (() => {
     try { const l = JSON.parse(localStorage.getItem(DOCS)); if (l && l.docs) return { folders: [], dirty: {}, ...l }; } catch (e) { /* none yet */ }
@@ -50,7 +50,7 @@
   let doc = lib.docs[lib.cur] && !lib.docs[lib.cur].del ? lib.docs[lib.cur] : firstDoc();
   lib.cur = doc.id;
   let board = cleanData(doc.data);
-  let sel = null, uid = board.items.reduce((m, i) => Math.max(m, i.k), 0);
+  let sel = [], uid = board.items.reduce((m, i) => Math.max(m, i.k), 0);
   const past = [];
   function save() {
     doc.data = board; doc.t = Date.now(); lib.dirty[doc.id] = true;
@@ -63,7 +63,7 @@
     lib.cur = doc.id; persist();
     board = cleanData(doc.data);
     uid = board.items.reduce((m, i) => Math.max(m, i.k), 0);
-    past.length = 0; $("undo").disabled = true; sel = null;
+    past.length = 0; $("undo").disabled = true; sel = []; capSel = false; choosing = false;
     itemsG.textContent = "";
     render(); showName();
     if (!quiet) say(t("Opened: ") + doc.name);
@@ -72,7 +72,7 @@
   function remember() { past.push(JSON.stringify(board)); if (past.length > 60) past.shift(); $("undo").disabled = false; }
   function undo() {
     if (!past.length) return;
-    board = JSON.parse(past.pop()); sel = null;
+    board = JSON.parse(past.pop()); sel = []; capSel = false; choosing = false;
     $("undo").disabled = !past.length;
     render(); save(); say(t("Undone"));
   }
@@ -80,6 +80,10 @@
   const nameOf = it => t(byId[it.a].name);
 
   /* ---------- Drawing ---------- */
+  // sel: the pieces picked up. A piece clipped to others comes with them (it.g, the clip they
+  // share); several can be chosen at once (Shift, or "Choose more"). capSel: the verse picked.
+  let capSel = false, choosing = false;
+  const groupOf = it => (it.g ? board.items.filter(i => i.g === it.g) : [it]);
   function render() {
     bgG.innerHTML = (sceneById[board.bg] || ART.scenes[0]).svg;
     const keep = new Map([...itemsG.children].map(g => [+g.dataset.k, g]));
@@ -89,12 +93,16 @@
       if (!g) g = make(it);
       keep.delete(it.k);
       place(g, it);
+      g.classList.toggle("clipped", !!it.g);
       order.push(g);
     }
     for (const g of keep.values()) g.remove();
     order.forEach(g => itemsG.append(g));
+    sel = sel.filter(i => board.items.includes(i));
+    $("cap").innerHTML = capSVG(board.cap);
+    if (!board.cap) capSel = false;
     drawSel();
-    $("empty").hidden = board.items.length > 0;
+    $("empty").hidden = board.items.length > 0 || !!board.cap;
     syncScenes();
   }
   function make(it) {
@@ -108,36 +116,241 @@
     u.setAttribute("href", "#a-" + p.id);
     u.setAttribute("x", -p.w / 2); u.setAttribute("y", -p.h / 2); u.setAttribute("width", p.w); u.setAttribute("height", p.h);
     g.append(u);
-    g.addEventListener("focus", () => { if (!sel || sel.k !== it.k) pick(board.items.find(i => i.k === +g.dataset.k), false); });
+    g.addEventListener("focus", () => { const it2 = board.items.find(i => i.k === +g.dataset.k); if (it2 && !sel.includes(it2)) pickItems(groupOf(it2), false); });
     g.addEventListener("keydown", onKey);
     return g;
   }
   const xf = it => `translate(${it.x} ${it.y}) rotate(${it.r || 0}) scale(${it.s * (it.f || 1)} ${it.s})`;
   function place(g, it) { g.setAttribute("transform", xf(it)); }
+  // A piece's corners on the board, and the box around several.
+  function corners(it) {
+    const p = byId[it.a], a = (it.r || 0) * Math.PI / 180, c = Math.cos(a), s = Math.sin(a);
+    return [[-1, -1], [1, -1], [1, 1], [-1, 1]].map(([u, v]) => {
+      const x = u * p.w / 2 * it.s * (it.f || 1), y = v * p.h / 2 * it.s;
+      return [it.x + x * c - y * s, it.y + x * s + y * c];
+    });
+  }
+  function boxOf(items) {
+    const pts = items.flatMap(corners);
+    const xs = pts.map(q => q[0]), ys = pts.map(q => q[1]);
+    const x0 = Math.min(...xs), y0 = Math.min(...ys), x1 = Math.max(...xs), y1 = Math.max(...ys);
+    return { x0, y0, x1, y1, cx: (x0 + x1) / 2, cy: (y0 + y1) / 2 };
+  }
+  const CLIP_SVG = '<path d="M15.5 7.5 9 14a2 2 0 0 0 2.8 2.8l7-7a4 4 0 0 0-5.6-5.6l-7.1 7.1a6 6 0 0 0 8.5 8.5L20 14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>';
   function drawSel() {
     selG.innerHTML = "";
-    $("tools").hidden = !sel;
-    if (!sel) return;
-    const it = sel, p = byId[it.a], pad = 10 / it.s;
-    const g = document.createElementNS(NS, "g");
-    g.setAttribute("transform", `translate(${it.x} ${it.y}) rotate(${it.r || 0}) scale(${it.s})`);
-    const r = 15 / it.s, x0 = -p.w / 2 - pad, y0 = -p.h / 2 - pad, w = p.w + 2 * pad, h = p.h + 2 * pad;
-    g.innerHTML = `<rect class="sel-box" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="${8 / it.s}"/><rect class="sel-box2" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="${8 / it.s}"/>` +
-      `<line x1="0" y1="${y0}" x2="0" y2="${y0 - 34 / it.s}" stroke="#2646a1" stroke-width="3" vector-effect="non-scaling-stroke"/>` +
-      `<circle class="handle rot" data-h="rot" cx="0" cy="${y0 - 34 / it.s}" r="${r}"/>` +
-      `<circle class="handle" data-h="size" cx="${x0 + w}" cy="${y0 + h}" r="${r}"/>`;
-    selG.append(g);
+    if (capSel && board.cap) {
+      const b = capBox(board.cap);
+      selG.innerHTML = `<rect class="sel-box" x="${b.x - 8}" y="${b.y - 8}" width="${b.w + 16}" height="${b.h + 16}" rx="16"/><rect class="sel-box2" x="${b.x - 8}" y="${b.y - 8}" width="${b.w + 16}" height="${b.h + 16}" rx="16"/>`;
+      Pop.show(); return;
+    }
+    if (!sel.length) { Pop.hide(); return; }
+    let out = "";
+    // Each piece chosen gets its own outline when there are several; the handles go round them all.
+    if (sel.length > 1) for (const it of sel) {
+      const c = corners(it);
+      out += `<polygon class="sel-one" points="${c.map(q => q.join(",")).join(" ")}"/>`;
+    }
+    if (sel.length === 1) {
+      const it = sel[0], p = byId[it.a], pad = 10 / it.s, x0 = -p.w / 2 - pad, y0 = -p.h / 2 - pad, w = p.w + 2 * pad, h = p.h + 2 * pad, r = 15 / it.s;
+      out += `<g transform="translate(${it.x} ${it.y}) rotate(${it.r || 0}) scale(${it.s})"><rect class="sel-box" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="${8 / it.s}"/><rect class="sel-box2" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="${8 / it.s}"/>` +
+        (choosing ? "" : `<line x1="0" y1="${y0}" x2="0" y2="${y0 - 34 / it.s}" stroke="#2646a1" stroke-width="3" vector-effect="non-scaling-stroke"/><circle class="handle rot" data-h="rot" cx="0" cy="${y0 - 34 / it.s}" r="${r}"/><circle class="handle" data-h="size" cx="${x0 + w}" cy="${y0 + h}" r="${r}"/>`) + `</g>`;
+    } else {
+      const b = boxOf(sel), x0 = b.x0 - 12, y0 = b.y0 - 12, w = b.x1 - b.x0 + 24, h = b.y1 - b.y0 + 24;
+      out += `<rect class="sel-box" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="10"/><rect class="sel-box2" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="10"/>`;
+      if (!choosing) out += `<line x1="${b.cx}" y1="${y0}" x2="${b.cx}" y2="${y0 - 34}" stroke="#2646a1" stroke-width="3"/><circle class="handle rot" data-h="rot" cx="${b.cx}" cy="${y0 - 34}" r="15"/><circle class="handle" data-h="size" cx="${x0 + w}" cy="${y0 + h}" r="15"/>`;
+      if (sel.every(i => i.g && i.g === sel[0].g)) out += `<g transform="translate(${x0 - 14} ${y0 - 14})"><circle cx="14" cy="14" r="16" fill="#fff" stroke="#2646a1" stroke-width="2.5"/><g transform="translate(2 2)" color="#2646a1">${CLIP_SVG}</g></g>`;
+    }
+    selG.innerHTML = out;
+    Pop.show();
   }
-  function pick(it, announce = true) {
-    sel = it || null;
+  function pickItems(items, announce = true) {
+    sel = items ? [...items] : [];
+    capSel = false;
+    if (!sel.length) choosing = false;
     drawSel();
-    if (sel && announce) say(t("Picked up: ") + nameOf(sel));
+    if (sel.length && announce) say(t("Picked up: ") + sel.map(nameOf).join(", "));
   }
-  function update(it) {
-    const g = itemsG.querySelector(`[data-k="${it.k}"]`);
-    if (g) place(g, it);
-    if (sel === it) drawSel();
+  const pick = (it, announce) => pickItems(it ? groupOf(it) : [], announce);
+  function update() {
+    for (const it of sel) { const g = itemsG.querySelector(`[data-k="${it.k}"]`); if (g) place(g, it); }
+    drawSel();
   }
+
+  /* ---------- A verse on the board ---------- */
+  // board.cap = { text, ref, ver, pos: "bottom" | "top", size }: the words of a passage, brought
+  // from the reader, on a felt strip along the bottom (or top) of the scene, with its reference.
+  const measure = document.createElement("canvas").getContext("2d");
+  const CJK = /[㐀-鿿　-〿＀-￯]/;
+  function wrap(text, font, max) {
+    measure.font = font;
+    const parts = CJK.test(text) ? [...text] : text.split(/(\s+)/);
+    const lines = []; let line = "";
+    for (const w of parts) {
+      const next = line + w;
+      if (measure.measureText(next).width > max && line.trim()) { lines.push(line.trim()); line = w.trimStart(); }
+      else line = next;
+    }
+    if (line.trim()) lines.push(line.trim());
+    return lines;
+  }
+  const SERIF = '"Frank Ruhl Libre", "Noto Serif TC", "Noto Serif", Georgia, serif';
+  function capLayout(cap) {
+    const maxW = W - 200;
+    let size = Math.round(42 * (cap.size || 1)), lines;
+    for (;;) { lines = wrap(cap.text, `500 ${size}px ${SERIF}`, maxW); if (lines.length <= 5 || size <= 20) break; size -= 2; }
+    const lh = Math.round(size * 1.32), refSize = Math.max(18, Math.round(size * 0.62));
+    const h = 48 + lines.length * lh + refSize + 20;
+    const y = cap.pos === "top" ? 40 : H - 40 - h;
+    return { size, lines, lh, refSize, h, y };
+  }
+  function capBox(cap) { const l = capLayout(cap); return { x: 60, y: l.y, w: W - 120, h: l.h }; }
+  function capSVG(cap) {
+    if (!cap || !cap.text) return "";
+    const l = capLayout(cap), b = capBox(cap);
+    const tx = l.lines.map((ln, i) => `<text x="${W / 2}" y="${l.y + 34 + l.size * 0.9 + i * l.lh}" text-anchor="middle" font-family='${SERIF}' font-size="${l.size}" font-weight="500" fill="#2b2420">${esc(ln)}</text>`).join("");
+    const ref = `<text x="${W / 2}" y="${l.y + 34 + (l.lines.length - 1) * l.lh + l.size * 0.9 + l.refSize + 22}" text-anchor="middle" font-family='"Libre Franklin", system-ui, sans-serif' font-size="${l.refSize}" font-weight="600" letter-spacing="1" fill="#7a5a2e">${esc(cap.ref + (cap.ver ? " · " + cap.ver : ""))}</text>`;
+    return `<g class="cap" role="button" tabindex="0" aria-label="${esc(t("The verse: ") + cap.ref)}"><rect x="${b.x}" y="${b.y}" width="${b.w}" height="${b.h}" rx="22" fill="#f6eedb" filter="url(#felt)"/><g class="own">${tx}${ref}</g></g>`;
+  }
+  function capTool(what) {
+    const cap = board.cap; if (!cap) return;
+    remember();
+    if (what === "move") cap.pos = cap.pos === "top" ? "bottom" : "top";
+    else if (what === "smaller") cap.size = Math.max(0.6, (cap.size || 1) / 1.12);
+    else if (what === "bigger") cap.size = Math.min(1.6, (cap.size || 1) * 1.12);
+    else if (what === "delete") { delete board.cap; capSel = false; say(t("The verse is off the board")); }
+    render(); save();
+  }
+
+  /* ---------- Changing the pieces picked up ---------- */
+  const clampS = s => Math.max(0.15, Math.min(6, s));
+  const norm = r => { r = ((r % 360) + 540) % 360 - 180; return Math.round(r * 10) / 10; };
+  // Turn and size the pieces round the middle of their box, from where they started (snap).
+  function snapshot(items) { return items.map(it => ({ it, x: it.x, y: it.y, s: it.s, r: it.r || 0 })); }
+  function transformFrom(snap, cx, cy, k, d) {
+    if (snap.some(o => o.s * k < 0.15 || o.s * k > 6)) k = Math.min(...snap.map(o => 6 / o.s), Math.max(...snap.map(o => 0.15 / o.s), k));
+    const a = d * Math.PI / 180, c = Math.cos(a), s = Math.sin(a);
+    for (const o of snap) {
+      const dx = (o.x - cx) * k, dy = (o.y - cy) * k;
+      o.it.x = Math.round(cx + dx * c - dy * s); o.it.y = Math.round(cy + dx * s + dy * c);
+      o.it.s = o.s * k; o.it.r = norm(o.r + d);
+    }
+  }
+  let gid = 0;
+  const newClip = () => "c" + Date.now().toString(36) + (gid++);
+  function tool(what) {
+    if (capSel) { capTool(what); return; }
+    if (!sel.length) return;
+    if (what === "done") { pickItems([]); return; }
+    if (what === "choose") { choosing = true; drawSel(); say(t("Tap the pieces to clip to this one, then Done")); return; }
+    if (what === "cancel-choose") { choosing = false; pickItems(groupOf(sel[0]), false); return; }
+    remember();
+    const b = boxOf(sel), snap = snapshot(sel);
+    if (what === "smaller") transformFrom(snap, b.cx, b.cy, 1 / 1.15, 0);
+    else if (what === "bigger") transformFrom(snap, b.cx, b.cy, 1.15, 0);
+    else if (what === "left") transformFrom(snap, b.cx, b.cy, 1, -15);
+    else if (what === "right") transformFrom(snap, b.cx, b.cy, 1, 15);
+    else if (what === "flip") for (const it of sel) { it.x = Math.round(2 * b.cx - it.x); it.f = -(it.f || 1); it.r = norm(-(it.r || 0)); }
+    else if (what === "flipv") for (const it of sel) { it.y = Math.round(2 * b.cy - it.y); it.f = -(it.f || 1); it.r = norm(180 - (it.r || 0)); }
+    else if (what === "front" || what === "back") {
+      const moving = board.items.filter(i => sel.includes(i)), rest = board.items.filter(i => !sel.includes(i));
+      board.items = what === "front" ? [...rest, ...moving] : [...moving, ...rest];
+    } else if (what === "copy") {
+      const map = {};
+      const copies = board.items.filter(i => sel.includes(i)).map(it => ({ ...it, k: ++uid, x: Math.min(W, it.x + 40), y: Math.min(H, it.y + 30), ...(it.g ? { g: map[it.g] || (map[it.g] = newClip()) } : {}) }));
+      board.items.push(...copies); render(); pickItems(copies, false); save(); say(t("Copied: ") + copies.map(nameOf).join(", ")); return;
+    } else if (what === "clip") {
+      const g = newClip();
+      for (const it of sel) it.g = g;
+      choosing = false; say(t("Clipped together: ") + sel.map(nameOf).join(", "));
+    } else if (what === "unclip") {
+      for (const it of sel) delete it.g;
+      say(t("Unclipped"));
+    } else if (what === "delete") {
+      const names = sel.map(nameOf).join(", ");
+      board.items = board.items.filter(i => !sel.includes(i)); sel = []; render(); save(); say(t("Taken off the board: ") + names); return;
+    }
+    render(); save();
+    const g = sel[0] && itemsG.querySelector(`[data-k="${sel[0].k}"]`);
+    if (kbd && g && document.activeElement !== g && (what === "front" || what === "back")) g.focus();
+  }
+
+  /* ---------- The menu over what is picked up ---------- */
+  // A small balloon over the pieces, as the reader's balloon over chosen words: the ways to change
+  // them, then what to do with them.
+  const IC = {
+    smaller: '<circle cx="11" cy="11" r="7"/><path d="M8 11h6M20 20l-4-4"/>',
+    bigger: '<circle cx="11" cy="11" r="7"/><path d="M8 11h6M11 8v6M20 20l-4-4"/>',
+    left: '<path d="M4 12a8 8 0 1 0 2.3-5.6"/><path d="M4 4v5h5"/>',
+    right: '<path d="M20 12a8 8 0 1 1-2.3-5.6"/><path d="M20 4v5h-5"/>',
+    flip: '<path d="M12 3v18" stroke-dasharray="2 3"/><path d="M9 7 4 17h5ZM15 7l5 10h-5Z"/>',
+    flipv: '<path d="M3 12h18" stroke-dasharray="2 3"/><path d="M7 9 17 4v5ZM7 15l10 5v-5Z"/>',
+    front: '<rect x="8" y="8" width="12" height="12" rx="2" fill="currentColor" fill-opacity=".25"/><path d="M4 16V5a1 1 0 0 1 1-1h11"/>',
+    back: '<rect x="4" y="4" width="12" height="12" rx="2"/><path d="M20 8v11a1 1 0 0 1-1 1H8"/>',
+    copy: '<rect x="8" y="8" width="12" height="12" rx="2"/><path d="M4 16V5a1 1 0 0 1 1-1h11"/>',
+    clip: '<path d="M15.5 7.5 9 14a2 2 0 0 0 2.8 2.8l7-7a4 4 0 0 0-5.6-5.6l-7.1 7.1a6 6 0 0 0 8.5 8.5L20 14"/>',
+    unclip: '<path d="M15.5 7.5 9 14a2 2 0 0 0 2.8 2.8l7-7a4 4 0 0 0-5.6-5.6l-7.1 7.1a6 6 0 0 0 8.5 8.5L20 14"/><path d="M3 3l18 18"/>',
+    delete: '<path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3"/>',
+    done: '<path d="m5 12.5 4.5 4.5L19 7.5"/>',
+    move: '<path d="M12 3v18M7 8l5-5 5 5M7 16l5 5 5-5"/>',
+  };
+  const icon = k => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${IC[k]}</svg>`;
+  const Pop = (() => {
+    const pop = $("pop");
+    const btn = (k, label, text, cls) => {
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "pb" + (text ? " wide" : "") + (cls ? " " + cls : "");
+      b.title = t(label); b.setAttribute("aria-label", t(label));
+      b.innerHTML = icon(k) + (text ? `<span>${esc(t(text))}</span>` : "");
+      b.onclick = e => { e.stopPropagation(); tool(k); };
+      return b;
+    };
+    const row = (...kids) => { const d = document.createElement("div"); d.className = "prow"; d.append(...kids); return d; };
+    function build() {
+      if (capSel) {
+        return [row(btn("smaller", "Smaller words"), btn("bigger", "Bigger words"), btn("move", board.cap.pos === "top" ? "Move to the bottom" : "Move to the top")),
+          row(btn("delete", "Take the verse off the board", "Remove", "del"), btn("done", "Done", "Done"))];
+      }
+      if (choosing) {
+        const n = document.createElement("p"); n.className = "pnote";
+        n.textContent = t("Tap the pieces to clip to this one.");
+        return [n, row(btn("clip", "Clip them together", "Clip", sel.length > 1 ? "on" : ""), btn("cancel-choose", "Cancel", "Cancel"))];
+      }
+      const clipped = sel.length > 1 && sel.every(i => i.g && i.g === sel[0].g);
+      const clipBtn = clipped ? btn("unclip", "Unclip these pieces", "Unclip") : sel.length > 1 ? btn("clip", "Clip them together", "Clip") : btn("choose", "Clip other pieces to this one", "Clip");
+      return [row(btn("smaller", "Smaller"), btn("bigger", "Bigger"), btn("left", "Turn left"), btn("right", "Turn right"), btn("flip", "Flip side to side"), btn("flipv", "Flip upside down")),
+        row(btn("front", "Bring to front", "Front"), btn("back", "Send to back", "Back"), btn("copy", "Copy", "Copy"), clipBtn, btn("delete", "Take off the board", "", "del"))];
+    }
+    let shown = false;
+    function show() {
+      const opening = !shown;
+      pop.replaceChildren(...build());
+      pop.hidden = false; shown = true;
+      place();
+      if (opening) { pop.classList.remove("in"); void pop.offsetWidth; pop.classList.add("in"); }
+    }
+    function hide() { pop.hidden = true; shown = false; }
+    // Above the pieces; below them where there is no room.
+    function place() {
+      if (pop.hidden) return;
+      const m = stage.getScreenCTM();
+      let b;
+      if (capSel && board.cap) { const c = capBox(board.cap); b = { x0: c.x, y0: c.y, x1: c.x + c.w, y1: c.y + c.h }; }
+      else if (sel.length) b = boxOf(sel);
+      else return;
+      const tl = new DOMPoint(b.x0, b.y0 - 50).matrixTransform(m), br = new DOMPoint(b.x1, b.y1 + 20).matrixTransform(m);
+      const wrapR = $("wrap").getBoundingClientRect();
+      const ph = pop.offsetHeight, pw = pop.offsetWidth;
+      let top = tl.y - ph - 8, below = false;
+      if (top < wrapR.top + 6) { top = br.y + 8; below = true; }
+      if (top + ph > innerHeight - 8) { top = Math.max(wrapR.top + 6, innerHeight - ph - 8); }
+      const left = Math.max(8, Math.min(innerWidth - pw - 8, (tl.x + br.x) / 2 - pw / 2));
+      pop.style.top = top + "px"; pop.style.left = left + "px";
+      pop.classList.toggle("below", below);
+    }
+    addEventListener("resize", place);
+    return { show, hide, place };
+  })();
 
   /* ---------- Adding pieces ---------- */
   let added = 0;
@@ -147,14 +360,14 @@
     if (x == null) { const k = added++ % 6; x = W / 2 - 150 + k * 60; y = H / 2 - 60 + k * 24; }
     const it = { k: ++uid, a: id, x: Math.round(x), y: Math.round(y), s: p.s, r: 0, f: 1 };
     board.items.push(it);
-    render(); pick(it, false); save();
+    render(); pick(it, false); save(); used(id);
     say(t("Added: ") + t(p.name));
     const g = itemsG.querySelector(`[data-k="${it.k}"]`);
     if (g && document.activeElement && document.activeElement.closest(".piece") && kbd) g.focus();
   }
   function setScene(id) {
     if (board.bg === id) return;
-    remember(); board.bg = id; render(); save();
+    remember(); board.bg = id; render(); save(); used("scene:" + id);
     say(t("Scene: ") + t(sceneById[id].name));
   }
 
@@ -170,23 +383,33 @@
     const q = toBoard(e);
     pts.set(e.pointerId, q);
     stage.setPointerCapture(e.pointerId);
-    if (pts.size === 2 && sel) { startPinch(); return; }
+    if (pts.size === 2 && sel.length) { startPinch(); return; }
     if (pts.size > 2) return;
     const h = e.target.closest && e.target.closest(".handle");
-    if (h && sel) {
+    if (h && sel.length) {
       remember();
-      drag = { mode: h.dataset.h, it: sel, s0: sel.s, r0: sel.r || 0, d0: Math.hypot(q.x - sel.x, q.y - sel.y), a0: Math.atan2(q.y - sel.y, q.x - sel.x) };
+      const b = boxOf(sel);
+      drag = { mode: h.dataset.h, snap: snapshot(sel), cx: b.cx, cy: b.cy, d0: Math.hypot(q.x - b.cx, q.y - b.cy), a0: Math.atan2(q.y - b.cy, q.x - b.cx) };
       return;
     }
+    if (e.target.closest && e.target.closest(".cap")) { pickItems([]); capSel = true; drawSel(); drag = null; return; }
     const g = e.target.closest && e.target.closest(".item");
     if (g) {
-      const it = board.items.find(i => i.k === +g.dataset.k);
-      pick(it, false);
+      const it = board.items.find(i => i.k === +g.dataset.k), grp = groupOf(it);
+      // Choosing pieces to clip, or Shift held: the piece joins (or leaves) those picked up.
+      if (choosing || e.shiftKey || e.metaKey || e.ctrlKey) {
+        const inSel = sel.includes(it);
+        if (choosing && inSel && grp.includes(sel[0])) { drag = null; return; }
+        sel = inSel ? sel.filter(i => !grp.includes(i)) : [...sel, ...grp];
+        capSel = false; drawSel(); drag = null; return;
+      }
+      if (!sel.includes(it)) pickItems(grp, false);
       remember();
-      drag = { mode: "move", it, dx: q.x - it.x, dy: q.y - it.y, moved: false };
+      drag = { mode: "move", start: q, snap: snapshot(sel), moved: false };
       stage.classList.add("dragging");
+      Pop.hide();
       e.preventDefault();
-    } else { pick(null); drag = null; }
+    } else { if (!choosing) pickItems([]); drag = null; }
   });
   stage.addEventListener("pointermove", e => {
     if (!pts.has(e.pointerId)) return;
@@ -194,175 +417,234 @@
     pts.set(e.pointerId, q);
     if (drag && drag.mode === "pinch") { doPinch(); return; }
     if (!drag) return;
-    const it = drag.it;
     if (drag.mode === "move") {
-      it.x = Math.round(Math.max(0, Math.min(W, q.x - drag.dx)));
-      it.y = Math.round(Math.max(0, Math.min(H, q.y - drag.dy)));
+      let dx = q.x - drag.start.x, dy = q.y - drag.start.y;
+      if (!drag.moved && Math.hypot(dx, dy) < 3) return;
       drag.moved = true;
-    } else if (drag.mode === "size") {
-      const d = Math.hypot(q.x - it.x, q.y - it.y);
-      it.s = clampS(drag.s0 * d / Math.max(1, drag.d0));
-    } else if (drag.mode === "rot") {
-      let r = drag.r0 + (Math.atan2(q.y - it.y, q.x - it.x) - drag.a0) * 180 / Math.PI;
-      r = ((r + 540) % 360) - 180;
-      if (Math.abs(r) < 4) r = 0;
-      it.r = Math.round(r);
+      // The pieces stay on the board: the whole group stops at its edges.
+      const xs = drag.snap.map(o => o.x), ys = drag.snap.map(o => o.y);
+      dx = Math.max(-Math.min(...xs), Math.min(W - Math.max(...xs), dx));
+      dy = Math.max(-Math.min(...ys), Math.min(H - Math.max(...ys), dy));
+      for (const o of drag.snap) { o.it.x = Math.round(o.x + dx); o.it.y = Math.round(o.y + dy); }
+      for (const o of drag.snap) { const g = itemsG.querySelector(`[data-k="${o.it.k}"]`); if (g) place(g, o.it); }
+      selG.innerHTML = "";
+      return;
     }
-    update(it);
+    if (drag.mode === "size") transformFrom(drag.snap, drag.cx, drag.cy, Math.hypot(q.x - drag.cx, q.y - drag.cy) / Math.max(1, drag.d0), 0);
+    else if (drag.mode === "rot") {
+      let d = (Math.atan2(q.y - drag.cy, q.x - drag.cx) - drag.a0) * 180 / Math.PI;
+      const r0 = drag.snap[0].r, r = norm(r0 + d);
+      if (Math.abs(r) < 4 && drag.snap.length === 1) d = -r0;
+      transformFrom(drag.snap, drag.cx, drag.cy, 1, d);
+    }
+    update();
   });
   const end = e => {
     pts.delete(e.pointerId);
-    if (drag && drag.mode === "pinch") { if (pts.size < 2) { drag = null; save(); } return; }
+    stage.classList.remove("dragging");
+    if (drag && drag.mode === "pinch") { if (pts.size < 2) { drag = null; save(); drawSel(); } return; }
     if (!drag) return;
     if (drag.mode === "move" && !drag.moved) past.pop();     // a tap: nothing to undo
     $("undo").disabled = !past.length;
-    drag = null; stage.classList.remove("dragging"); save();
+    drag = null; save(); drawSel();
   };
   stage.addEventListener("pointerup", end);
   stage.addEventListener("pointercancel", end);
-  const clampS = s => Math.max(0.2, Math.min(5, s));
   function startPinch() {
     const [a, b] = [...pts.values()];
     if (!drag || drag.mode !== "move") remember();
-    drag = { mode: "pinch", it: sel, s0: sel.s, r0: sel.r || 0, d0: Math.hypot(b.x - a.x, b.y - a.y), a0: Math.atan2(b.y - a.y, b.x - a.x) };
+    if (drag && drag.mode === "move") for (const o of drag.snap) { o.x = o.it.x; o.y = o.it.y; }
+    const bx = boxOf(sel);
+    drag = { mode: "pinch", snap: snapshot(sel), cx: bx.cx, cy: bx.cy, d0: Math.hypot(b.x - a.x, b.y - a.y), a0: Math.atan2(b.y - a.y, b.x - a.x) };
+    Pop.hide();
   }
   function doPinch() {
-    const [a, b] = [...pts.values()], it = drag.it;
-    it.s = clampS(drag.s0 * Math.hypot(b.x - a.x, b.y - a.y) / Math.max(1, drag.d0));
-    it.r = Math.round(drag.r0 + (Math.atan2(b.y - a.y, b.x - a.x) - drag.a0) * 180 / Math.PI);
-    update(it);
+    const [a, b] = [...pts.values()];
+    transformFrom(drag.snap, drag.cx, drag.cy, Math.hypot(b.x - a.x, b.y - a.y) / Math.max(1, drag.d0), (Math.atan2(b.y - a.y, b.x - a.x) - drag.a0) * 180 / Math.PI);
+    for (const o of drag.snap) { const g = itemsG.querySelector(`[data-k="${o.it.k}"]`); if (g) place(g, o.it); }
+    selG.innerHTML = "";
   }
-  // A mouse wheel or trackpad over a picked-up piece resizes it.
+  // A mouse wheel or trackpad over the board resizes what is picked up.
   stage.addEventListener("wheel", e => {
-    if (!sel) return;
+    if (!sel.length) return;
     e.preventDefault();
-    sel.s = clampS(sel.s * Math.exp(-e.deltaY * 0.0015));
-    update(sel); clearTimeout(stage._w); stage._w = setTimeout(save, 300);
+    const b = boxOf(sel);
+    transformFrom(snapshot(sel), b.cx, b.cy, Math.exp(-e.deltaY * 0.0015), 0);
+    update(); clearTimeout(stage._w); stage._w = setTimeout(save, 300);
   }, { passive: false });
+  addEventListener("scroll", () => Pop.place(), { passive: true });
 
   /* ---------- Moving pieces: keyboard ---------- */
   let kbd = false;
   document.addEventListener("keydown", e => { if (e.key === "Tab") kbd = true; });
   function onKey(e) {
-    const it = sel; if (!it) return;
+    if (!sel.length) return;
     const step = e.shiftKey ? 50 : 10;
+    const move = (dx, dy) => () => { for (const it of sel) { it.x = Math.max(0, Math.min(W, it.x + dx)); it.y = Math.max(0, Math.min(H, it.y + dy)); } };
     const act = {
-      ArrowLeft: () => { it.x = Math.max(0, it.x - step); }, ArrowRight: () => { it.x = Math.min(W, it.x + step); },
-      ArrowUp: () => { it.y = Math.max(0, it.y - step); }, ArrowDown: () => { it.y = Math.min(H, it.y + step); },
+      ArrowLeft: move(-step, 0), ArrowRight: move(step, 0), ArrowUp: move(0, -step), ArrowDown: move(0, step),
       "+": () => tool("bigger"), "=": () => tool("bigger"), "-": () => tool("smaller"),
-      f: () => tool("flip"), r: () => tool("turn"), "]": () => tool("front"), "[": () => tool("back"),
-      Delete: () => tool("delete"), Backspace: () => tool("delete"), Escape: () => { pick(null); stage.focus?.(); },
+      f: () => tool("flip"), v: () => tool("flipv"), r: () => tool("right"), R: () => tool("left"), "]": () => tool("front"), "[": () => tool("back"),
+      Delete: () => tool("delete"), Backspace: () => tool("delete"), Escape: () => { pickItems([]); stage.focus?.(); },
     }[e.key];
     if (!act) return;
     e.preventDefault();
-    if (e.key.startsWith("Arrow")) { if (!e.repeat) remember(); act(); update(it); save(); }
+    if (e.key.startsWith("Arrow")) { if (!e.repeat) remember(); act(); update(); save(); }
     else act();
   }
 
-  /* ---------- The tools for the piece picked up ---------- */
-  const IC = {
-    smaller: '<circle cx="11" cy="11" r="7"/><path d="M8 11h6M20 20l-4-4"/>',
-    bigger: '<circle cx="11" cy="11" r="7"/><path d="M8 11h6M11 8v6M20 20l-4-4"/>',
-    turn: '<path d="M20 12a8 8 0 1 1-2.3-5.6"/><path d="M20 4v5h-5"/>',
-    flip: '<path d="M12 3v18" stroke-dasharray="2 3"/><path d="M9 7 4 17h5ZM15 7l5 10h-5Z"/>',
-    front: '<rect x="8" y="8" width="12" height="12" rx="2" fill="currentColor" fill-opacity=".25"/><path d="M4 16V5a1 1 0 0 1 1-1h11"/>',
-    back: '<rect x="4" y="4" width="12" height="12" rx="2"/><path d="M20 8v11a1 1 0 0 1-1 1H8"/>',
-    copy: '<rect x="8" y="8" width="12" height="12" rx="2"/><path d="M4 16V5a1 1 0 0 1 1-1h11"/>',
-    delete: '<path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3"/>',
-    done: '<path d="m5 12.5 4.5 4.5L19 7.5"/>',
-  };
-  const TOOLS = [["smaller", "Smaller"], ["bigger", "Bigger"], ["turn", "Turn"], ["flip", "Flip"], "|", ["front", "Bring to front"], ["back", "Send to back"], ["copy", "Copy"], "|", ["delete", "Take off the board"], ["done", "Done"]];
-  $("tools").replaceChildren(...TOOLS.map(x => {
-    if (x === "|") return Object.assign(document.createElement("span"), { className: "sep" });
-    const b = document.createElement("button");
-    b.type = "button"; b.title = t(x[1]); b.setAttribute("aria-label", t(x[1]));
-    if (x[0] === "delete") b.className = "del";
-    b.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${IC[x[0]]}</svg>`;
-    b.onclick = () => tool(x[0]);
-    return b;
-  }));
-  function tool(what) {
-    const it = sel; if (!it) return;
-    const i = board.items.indexOf(it);
-    if (what === "done") { pick(null); return; }
-    remember();
-    if (what === "smaller") it.s = clampS(it.s / 1.15);
-    else if (what === "bigger") it.s = clampS(it.s * 1.15);
-    else if (what === "turn") it.r = (((it.r || 0) + 15 + 180) % 360) - 180;
-    else if (what === "flip") it.f = -(it.f || 1);
-    else if (what === "front") { board.items.splice(i, 1); board.items.push(it); }
-    else if (what === "back") { board.items.splice(i, 1); board.items.unshift(it); }
-    else if (what === "copy") {
-      const c = { ...it, k: ++uid, x: Math.min(W, it.x + 40), y: Math.min(H, it.y + 30) };
-      board.items.push(c); render(); pick(c, false); save(); say(t("Copied: ") + nameOf(c)); return;
-    } else if (what === "delete") {
-      board.items.splice(i, 1); const n = nameOf(it); sel = null; render(); save(); say(t("Taken off the board: ") + n); return;
-    }
-    render(); save();
-    const g = itemsG.querySelector(`[data-k="${it.k}"]`);
-    if (kbd && g && document.activeElement !== g && (what === "front" || what === "back")) g.focus();
-  }
-
-  /* ---------- The drawers ---------- */
-  const TAB_COLORS = { people: "#2459c4", animals: "#a8790a", things: "#bf5a1f", nature: "#2f8a3c", scenes: "#6d43c9" };
+  /* ---------- The drawers: finding a piece among hundreds ---------- */
+  // Tabs for the drawers (with Recent, and Stories, which gather a story's people, things and
+  // scenes), groups within each drawer, and a search over names, other words for them, and stories.
+  const TAB_COLORS = { recent: "#5b6475", stories: "#c23a7c", people: "#2459c4", animals: "#a8790a", things: "#bf5a1f", nature: "#2f8a3c", scenes: "#6d43c9" };
   const TAB_ICONS = {
+    recent: '<circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/>',
+    stories: '<path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/>',
     people: '<circle cx="12" cy="7" r="4"/><path d="M5 21c0-4 3-7 7-7s7 3 7 7"/>',
     animals: '<circle cx="7" cy="9" r="2"/><circle cx="17" cy="9" r="2"/><circle cx="10" cy="5" r="2"/><circle cx="14" cy="5" r="2"/><path d="M8 17c0-3 2-5 4-5s4 2 4 5-2 3-4 3-4 0-4-3Z"/>',
     things: '<path d="M4 10h16l-2 10H6Z"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/>',
     nature: '<path d="M12 21V11"/><path d="M12 13c-5 0-7-4-7-8 5 0 7 3 7 8Zm0 0c5 0 7-4 7-8-5 0-7 3-7 8Z"/>',
     scenes: '<rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 16 5-5 4 4 3-3 6 6"/>',
   };
-  let tab = (() => { try { return localStorage.getItem("sb.tab") || "people"; } catch (e) { return "people"; } })();
+  const storyById = Object.fromEntries(ART.stories.map(s => [s.id, s]));
+  const storeGet = (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch (e) { return d; } };
+  const storeSet = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* storage */ } };
+  let tab = storeGet("sb.tab2", "people"), sub = "", story = null, query = "";
   if (!ART.cats.some(c => c[0] === tab)) tab = "people";
+  function used(id) { const r = storeGet("sb.recent", []).filter(x => x !== id); r.unshift(id); storeSet("sb.recent", r.slice(0, 40)); }
   function renderTabs() {
     $("tabs").replaceChildren(...ART.cats.map(([id, name]) => {
       const b = document.createElement("button");
       b.type = "button"; b.setAttribute("role", "tab"); b.id = "tab-" + id;
-      b.setAttribute("aria-selected", String(id === tab)); b.setAttribute("aria-controls", "tray");
-      b.tabIndex = id === tab ? 0 : -1;
+      const on = id === tab && !query;
+      b.setAttribute("aria-selected", String(on)); b.setAttribute("aria-controls", "tray");
+      b.tabIndex = on ? 0 : -1;
       b.style.setProperty("--tc", TAB_COLORS[id]);
       b.innerHTML = `<i><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">${TAB_ICONS[id]}</svg></i><b></b>`;
       b.querySelector("b").textContent = t(name);
       b.title = t(name);
-      b.onclick = () => { tab = id; try { localStorage.setItem("sb.tab", id); } catch (e) { /* no storage */ } openDrawer(true); renderTabs(); renderTray(); };
+      b.onclick = () => { tab = id; sub = ""; story = null; storeSet("sb.tab2", id); if (query) { query = ""; $("find").value = ""; } openDrawer(true); renderTabs(); renderTray(); };
       b.onkeydown = e => {
         const i = ART.cats.findIndex(c => c[0] === tab), n = ART.cats.length;
         const j = e.key === "ArrowRight" || e.key === "ArrowDown" ? (i + 1) % n : e.key === "ArrowLeft" || e.key === "ArrowUp" ? (i + n - 1) % n : -1;
         if (j < 0) return;
-        e.preventDefault(); tab = ART.cats[j][0]; renderTabs(); renderTray(); $("tab-" + tab).focus();
+        e.preventDefault(); tab = ART.cats[j][0]; sub = ""; story = null; renderTabs(); renderTray(); $("tab-" + tab).focus();
       };
       return b;
     }));
     $("tray").setAttribute("aria-labelledby", "tab-" + tab);
   }
   function thumb(p) { return `<svg viewBox="${-6} ${-6} ${p.w + 12} ${p.h + 12}" aria-hidden="true"><use href="#a-${p.id}" width="${p.w}" height="${p.h}"/></svg>`; }
+  const li = node => { const l = document.createElement("li"); l.append(node); return l; };
+  function pieceBtn(p) {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "piece"; b.style.setProperty("--tc", TAB_COLORS[p.cat]);
+    b.dataset.id = p.id;
+    b.setAttribute("aria-label", t("Add to the board: ") + t(p.name));
+    b.innerHTML = thumb(p) + "<span></span>";
+    b.querySelector("span").textContent = t(p.name);
+    grab(b, p);
+    return li(b);
+  }
+  function sceneBtn(s) {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "piece scene"; b.style.setProperty("--tc", TAB_COLORS.scenes);
+    b.dataset.scene = s.id;
+    b.setAttribute("aria-pressed", String(board.bg === s.id));
+    b.setAttribute("aria-label", t("Scene: ") + t(s.name));
+    b.innerHTML = `<svg viewBox="0 0 1600 1000" aria-hidden="true">${s.svg}</svg><span></span>`;
+    b.querySelector("span").textContent = t(s.name);
+    b.onclick = () => setScene(s.id);
+    return li(b);
+  }
+  // The groups within a drawer, as chips to narrow it down.
+  function chips(list, current, onPick, color) {
+    const box = $("chips");
+    box.hidden = !list.length;
+    box.replaceChildren(...list.map(([id, label]) => {
+      const b = document.createElement("button");
+      b.type = "button"; b.textContent = label; b.style.setProperty("--tc", color);
+      b.setAttribute("aria-pressed", String(id === current));
+      b.onclick = () => onPick(id);
+      return b;
+    }));
+  }
+  // Search: every word asked for must be found in a piece's name (in either language), its other
+  // words, its group or its stories; names that begin with the words come first.
+  const hay = new Map();
+  function haystack(p) {
+    if (!hay.has(p.id)) {
+      const subName = ((ART.subs[p.cat] || []).find(s => s[0] === p.sub) || [])[1] || "";
+      hay.set(p.id, [p.name, t(p.name), p.tags, subName, t(subName), p.cat, ...(p.stories || []).map(id => storyById[id].name + " " + t(storyById[id].name))].join(" ").toLowerCase());
+    }
+    return hay.get(p.id);
+  }
+  function search(q) {
+    const words = q.toLowerCase().split(/\s+/).filter(Boolean);
+    const score = (name, h) => words.every(w => h.includes(w)) ? (name.startsWith(words[0]) ? 3 : name.includes(words[0]) ? 2 : 1) : 0;
+    const pieces = ART.pieces.map(p => [p, score(t(p.name).toLowerCase() + " " + p.name.toLowerCase(), haystack(p))]).filter(x => x[1]).sort((a, b) => b[1] - a[1] || t(a[0].name).localeCompare(t(b[0].name))).map(x => x[0]);
+    const scenes = ART.scenes.filter(s => words.every(w => (s.name + " " + t(s.name) + " " + s.id).toLowerCase().includes(w)));
+    const stories = ART.stories.filter(s => words.every(w => (s.name + " " + t(s.name) + " " + s.ref).toLowerCase().includes(w)));
+    return { pieces, scenes, stories };
+  }
+  function storyTile(s) {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "piece story"; b.style.setProperty("--tc", TAB_COLORS.stories);
+    const sc = sceneById[s.scenes[0]] || ART.scenes[0];
+    const faces = s.pieces.slice(0, 3).map(id => byId[id]).filter(Boolean);
+    b.innerHTML = `<svg viewBox="0 0 1600 1000" aria-hidden="true">${sc.svg}${faces.map((p, i) => { const h = 560, k = h / p.h; return `<use href="#a-${p.id}" x="${420 + i * 380 - p.w * k / 2}" y="${960 - h}" width="${p.w * k}" height="${h}"/>`; }).join("")}</svg><span><b></b><small></small></span>`;
+    b.querySelector("b").textContent = t(s.name);
+    b.querySelector("small").textContent = s.ref;
+    b.onclick = () => { story = s.id; renderTray(); };
+    return li(b);
+  }
   function renderTray() {
     const tray = $("tray"); tray.scrollLeft = 0; tray.scrollTop = 0;
     const col = TAB_COLORS[tab];
-    if (tab === "scenes") {
-      tray.replaceChildren(...ART.scenes.map(s => {
-        const li = document.createElement("li"), b = document.createElement("button");
-        b.type = "button"; b.className = "piece scene"; b.style.setProperty("--tc", col);
-        b.setAttribute("aria-pressed", String(board.bg === s.id));
-        b.innerHTML = `<svg viewBox="0 0 1600 1000" aria-hidden="true">${s.svg}</svg><span></span>`;
-        b.querySelector("span").textContent = t(s.name);
-        b.onclick = () => setScene(s.id);
-        li.append(b); return li;
-      }));
-      return;
+    $("drawer").style.setProperty("--tc", col);
+    const items = [];
+    let empty = "";
+    if (query) {
+      chips([], "", null, col);
+      const r = search(query);
+      items.push(...r.stories.map(storyTile), ...r.pieces.map(pieceBtn), ...r.scenes.map(sceneBtn));
+      $("found").textContent = r.pieces.length + r.scenes.length + r.stories.length ? t("{n} found").replace("{n}", r.pieces.length + r.scenes.length + r.stories.length) : "";
+      if (!items.length) empty = t("Nothing matches. Try another word, like a name, an animal or a story.");
+    } else {
+      $("found").textContent = "";
+      if (tab === "recent") {
+        chips([], "", null, col);
+        for (const id of storeGet("sb.recent", [])) {
+          if (id.startsWith("scene:")) { const s = sceneById[id.slice(6)]; if (s) items.push(sceneBtn(s)); }
+          else if (byId[id]) items.push(pieceBtn(byId[id]));
+        }
+        if (!items.length) empty = t("The pieces you use show up here.");
+      } else if (tab === "stories") {
+        if (story && storyById[story]) {
+          const s = storyById[story];
+          chips([["", "← " + t("All stories")], [s.id, t(s.name)]], s.id, id => { if (!id) { story = null; renderTray(); } }, col);
+          items.push(...s.scenes.map(id => sceneById[id]).filter(Boolean).map(sceneBtn), ...s.pieces.map(id => byId[id]).filter(Boolean).map(pieceBtn));
+        } else { chips([], "", null, col); items.push(...ART.stories.map(storyTile)); }
+      } else if (tab === "scenes") {
+        chips([], "", null, col);
+        items.push(...ART.scenes.map(sceneBtn));
+      } else {
+        const subs = (ART.subs[tab] || []).filter(([id]) => ART.pieces.some(p => p.cat === tab && p.sub === id));
+        chips(subs.length > 1 ? [["", t("All")], ...subs.map(([id, n]) => [id, t(n)])] : [], sub, id => { sub = id; renderTray(); }, col);
+        items.push(...ART.pieces.filter(p => p.cat === tab && (!sub || p.sub === sub)).map(pieceBtn));
+      }
     }
-    tray.replaceChildren(...ART.pieces.filter(p => p.cat === tab).map(p => {
-      const li = document.createElement("li"), b = document.createElement("button");
-      b.type = "button"; b.className = "piece"; b.style.setProperty("--tc", col);
-      b.dataset.id = p.id;
-      b.setAttribute("aria-label", t("Add to the board: ") + t(p.name));
-      b.innerHTML = thumb(p) + "<span></span>";
-      b.querySelector("span").textContent = t(p.name);
-      grab(b, p);
-      li.append(b); return li;
-    }));
+    if (empty) { const e = document.createElement("li"); e.className = "tray-empty"; e.textContent = empty; items.push(e); }
+    tray.replaceChildren(...items);
   }
-  function syncScenes() { if (tab === "scenes") for (const b of $("tray").querySelectorAll(".piece.scene")) b.setAttribute("aria-pressed", String(b.querySelector("span").textContent === t(sceneById[board.bg].name))); }
+  function syncScenes() { for (const b of $("tray").querySelectorAll(".piece.scene")) b.setAttribute("aria-pressed", String(b.dataset.scene === board.bg)); }
+  (() => {
+    const f = $("find");
+    let timer = 0;
+    f.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(() => { query = f.value.trim(); renderTabs(); renderTray(); }, 120); });
+    f.addEventListener("focus", () => openDrawer(true));
+    f.addEventListener("keydown", e => { if (e.key === "Escape" && f.value) { e.stopPropagation(); f.value = ""; query = ""; renderTabs(); renderTray(); } });
+  })();
 
   // A piece: a tap adds it near the middle; pulling it out of the drawer and onto the board puts
   // it where it is dropped.
@@ -425,7 +707,7 @@
   function clearBoard() {
     if (!board.items.length) return;
     if (!confirm(t("Take every piece off the board?"))) return;
-    remember(); board.items = []; sel = null; render(); save(); say(t("The board is clear"));
+    remember(); board.items = []; delete board.cap; sel = []; render(); save(); say(t("The board is clear"));
   }
   $("present").onclick = () => {
     const sb = $("sb");
@@ -453,7 +735,7 @@
     const style = line ? `<style>:not(.own, .own *){fill:#fff!important;stroke:#1d1d1d!important;stroke-width:2.4px!important;stroke-linejoin:round;stroke-linecap:round;opacity:1!important;fill-opacity:1!important;stroke-opacity:1!important;stroke-dasharray:none!important;vector-effect:non-scaling-stroke}:not(.own *)[fill="none"]{fill:none!important}</style>` : "";
     const filters = line ? "" : $("felt").outerHTML + $("feltbg").outerHTML;
     return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}">${style}<defs>${filters}</defs>` +
-      `<g${line ? "" : ' filter="url(#feltbg)"'}>${sc.svg}</g>${pieces}</svg>`;
+      `<g${line ? "" : ' filter="url(#feltbg)"'}>${sc.svg}</g>${pieces}${capSVG(board.cap).replace(/ role="button" tabindex="0"/, "")}</svg>`;
   }
   function boardPNG(mode = "color") {
     return new Promise((resolve, reject) => {
@@ -809,6 +1091,34 @@
     if (r && r.name) { doc.name = r.name; touch(doc); showName(); }
   };
 
+  /* ---------- A passage from the reader ---------- */
+  // The reader's "Felt Stories" leaves the passage in sb.incoming and comes here: it goes on the
+  // board open (or a new one), on a strip along the bottom.
+  function incoming() {
+    const v = storeGet("sb.incoming", null);
+    try { localStorage.removeItem("sb.incoming"); } catch (e) { /* storage */ }
+    if (location.hash === "#verse") history.replaceState(null, "", location.pathname);
+    if (!v || !v.text || Date.now() - (v.t || 0) > 30 * 60e3) return;
+    const cap = { text: v.text, ref: v.ref, ver: v.ver || "", pos: "bottom", size: 1 };
+    const put = () => { remember(); board.cap = cap; render(); save(); pickItems([]); capSel = true; drawSel(); say(t("Added the verse: ") + v.ref); };
+    if (!board.items.length && !board.cap) { put(); return; }
+    const dlg = $("verse-in");
+    $("vi-ref").textContent = v.ref + (v.ver ? " · " + v.ver : "");
+    $("vi-text").textContent = v.text;
+    $("vi-this").querySelector("small").textContent = (doc.name || untitled()) + (board.cap ? " — " + t("in place of its verse") : "");
+    $("vi-this").onclick = () => { dlg.close(); put(); };
+    $("vi-new").onclick = () => { dlg.close(); const d = newDoc(v.ref, doc.folder || ""); lib.docs[d.id] = d; touch(d); openDoc(d.id, true); put(); };
+    $("vi-cancel").onclick = () => dlg.close();
+    dlg.showModal();
+  }
+  // Tapping beside the menu lets go of what is picked up.
+  document.addEventListener("pointerdown", e => {
+    if (choosing || (!sel.length && !capSel)) return;
+    if (e.target.closest("#pop, #stage, dialog, .tbtn, .pmenu")) return;
+    pickItems([]);
+  }, true);
+
   renderTabs(); renderTray(); openDrawer(true); render(); showName(); persist();
+  incoming();
   Sync.run();
 })();
