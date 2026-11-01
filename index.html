@@ -1214,7 +1214,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div id="site-menu"><!-- nav.js: the site's menu, the same on every page --></div>
 </section>
 <script src="nav.js?v=50"></script>
-<script src="sketch.js?v=8"></script>
+<script src="sketch.js?v=9"></script>
 
 <section class="ui-sheet sheet dialog" id="mine" hidden aria-labelledby="mine-title">
   <div class="grab"></div>
@@ -5591,7 +5591,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=138").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=139").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {

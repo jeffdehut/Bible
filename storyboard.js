@@ -1279,7 +1279,7 @@
     b.hidden = Sync.email().toLowerCase() !== ARTIST;
     b.onclick = () => {
       if (window.Studio) { window.Studio.open(); return; }
-      const sc = document.createElement("script"); sc.src = "art-studio.js?v=1"; sc.onload = () => window.Studio && window.Studio.open(); document.head.append(sc);
+      const sc = document.createElement("script"); sc.src = "art-studio.js?v=2"; sc.onload = () => window.Studio && window.Studio.open(); document.head.append(sc);
     };
   }
   window.SB = { ART, W, H, t, byId, sceneById, artMarkup, Sync, notice, installed: rows => { artChanged(rows); try { localStorage.setItem(ART_KEY, JSON.stringify(rows)); } catch (e) { /* storage */ } }, ABASE, ACFG };
