@@ -2438,5 +2438,8 @@ I18N.add({
  "Keep it on every device": "在每部裝置上保持一致",
  "Sign in to keep your highlights, notes, bookmarks and Felt Stories boards the same on your phone, tablet and computer. Reading never needs an account.": "登入後，你的標記、筆記、書籤和絨布故事板在手機、平板和電腦上都會一致。閱讀不需要帳戶。",
  "That's the tour": "導覽結束",
- "You can take it again from About this project, in the menu. Enjoy reading!": "你可以從選單中的「關於這個計劃」再看一次。祝你閱讀愉快！"
+ "You can take it again from About this project, in the menu. Enjoy reading!": "你可以從選單中的「關於這個計劃」再看一次。祝你閱讀愉快！",
+ "Yours": "你的",
+ "Open yours": "打開你的",
+ "Start fresh": "重新開始"
 });

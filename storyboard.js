@@ -29,7 +29,7 @@
   const rid = () => (crypto.randomUUID ? crypto.randomUUID().replace(/-/g, "").slice(0, 20) : Math.random().toString(36).slice(2, 12) + Date.now().toString(36));
   const blank = () => ({ bg: "hills", items: [] });
   const newDoc = (name, folder = "", data = null) => ({ id: rid(), name, folder, data: data || blank(), t: Date.now() });
-  const cleanData = d => ({ bg: sceneById[d && d.bg] ? d.bg : "hills", items: ((d && d.items) || []).filter(i => byId[i.a]), ...(d && d.cap && d.cap.text ? { cap: d.cap } : {}), ...(d && d.lesson ? { lesson: d.lesson } : {}) });
+  const cleanData = d => ({ bg: sceneById[d && d.bg] ? d.bg : "hills", items: ((d && d.items) || []).filter(i => byId[i.a]), ...(d && d.cap && d.cap.text ? { cap: d.cap } : {}), ...(d && d.lesson ? { lesson: d.lesson } : {}), ...(d && d.from ? { from: d.from } : {}) });
   const untitled = () => t("Untitled board");
   let lib = (() => {
     try { const l = JSON.parse(localStorage.getItem(DOCS)); if (l && l.docs) return { folders: [], dirty: {}, ...l }; } catch (e) { /* none yet */ }
@@ -964,6 +964,7 @@
       if (!dlg.open) return;
       status();
       const box = $("lib-list"); box.textContent = "";
+      box.append(shelf());
       for (const f of allFolders()) {
         const docs = live().filter(d => (d.folder || "") === f).sort((a, b) => b.t - a.t);
         const sec = document.createElement("section"); sec.className = "lib-folder";
@@ -1021,6 +1022,47 @@
         sec.append(ul);
         box.append(sec);
       }
+    }
+    // The Felt Stories that come with the app: always here, never deleted. Tapping one opens your
+    // own board of it (made the first time), so the story itself stays as it is; Start fresh
+    // makes another.
+    function shelf() {
+      const sec = document.createElement("section"); sec.className = "lib-folder lib-shelf";
+      const h = document.createElement("h3");
+      h.innerHTML = `<i><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/></svg></i><span></span><small></small>`;
+      h.querySelector("span").textContent = t("Felt Stories");
+      h.querySelector("small").textContent = String(ART.stories.length);
+      const ul = document.createElement("ul"); ul.className = "lib-grid";
+      for (const s of ART.stories) {
+        const mine = live().filter(d => d.data && d.data.from === s.id).sort((a, b) => b.t - a.t)[0];
+        const li = document.createElement("li"); li.className = "lib-card story" + (mine && mine.id === doc.id ? " cur" : "");
+        const open = document.createElement("button");
+        open.type = "button"; open.className = "lib-open";
+        open.innerHTML = preview({ data: s.board || storyData(s.id, null, 5) }) + "<b></b><small></small>";
+        open.querySelector("b").textContent = t(s.name);
+        open.querySelector("small").textContent = s.ref + (mine ? " · " + t("Yours") : "");
+        open.onclick = () => { if (mine) openDoc(mine.id); else start(s); dlg.close(); };
+        const more = document.createElement("button");
+        more.type = "button"; more.className = "lib-more"; more.setAttribute("aria-label", t("More for ") + t(s.name));
+        const key = "story:" + s.id;
+        more.setAttribute("aria-expanded", String(openMore === key));
+        more.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>';
+        more.onclick = () => { openMore = openMore === key ? null : key; refresh(); };
+        li.append(open, more);
+        if (openMore === key) {
+          const acts = document.createElement("div"); acts.className = "lib-actions";
+          if (mine) acts.append(btn(t("Open yours"), () => { openDoc(mine.id); dlg.close(); }));
+          acts.append(btn(t("Start fresh"), () => { start(s); dlg.close(); }));
+          li.append(acts);
+        }
+        ul.append(li);
+      }
+      sec.append(h, ul);
+      return sec;
+    }
+    function start(s) {
+      const d = newDoc(t(s.name), "", { ...JSON.parse(JSON.stringify(s.board || storyData(s.id, null, 5))), from: s.id });
+      lib.docs[d.id] = d; touch(d); openDoc(d.id);
     }
     function btn(label, fn, cls) { const b = document.createElement("button"); b.type = "button"; b.textContent = label; if (cls) b.className = cls; b.onclick = fn; return b; }
     $("boards").onclick = () => { openMore = null; dlg.showModal(); refresh(); Sync.run(); };
@@ -1133,6 +1175,16 @@
     if (key) toLesson(key, h.get("t") || (st ? t(storyById[st].name) : find), st, find);
     openDrawer(true); renderTabs(); renderTray();
   }
+  // A story's starting scene: its backdrop, and some of its pieces standing on the ground.
+  function storyData(st, find, n = 4) {
+    const s = st && storyById[st];
+    const ids = s ? s.pieces.filter(id => byId[id]) : search(find || "").pieces.map(p => p.id);
+    const items = ids.slice(0, n).map((id, i, all) => {
+      const p = byId[id], gap = W / (all.length + 1);
+      return { k: i + 1, a: id, x: Math.round(gap * (i + 1)), y: Math.round(H * 0.68 - (p.h * p.s * 0.85) / 2 + 60), s: Math.round(p.s * 0.85 * 100) / 100, r: 0, f: 1 };
+    });
+    return { bg: (s && sceneById[s.scenes[0]]) ? s.scenes[0] : "hills", items };
+  }
   function toLesson(key, title, st, find) {
     let d = live().find(x => x.data && x.data.lesson === key);
     if (d && d === doc) return;
@@ -1143,14 +1195,7 @@
       notice(t("Your scene “{name}” is kept in Drafts").replace("{name}", doc.name || untitled()));
     } else if (!busy && !(doc.data && doc.data.lesson)) { doc.del = true; doc.data = null; touch(doc); }
     if (!d) {
-      // The lesson's starting scene: the story's backdrop, and up to four of its pieces on the ground.
-      const s = st && storyById[st];
-      const ids = s ? s.pieces.filter(id => byId[id]) : search(find || "").pieces.map(p => p.id);
-      const items = ids.slice(0, 4).map((id, i, all) => {
-        const p = byId[id], gap = W / (all.length + 1);
-        return { k: i + 1, a: id, x: Math.round(gap * (i + 1)), y: Math.round(H * 0.68 - (p.h * p.s * 0.85) / 2 + 60), s: Math.round(p.s * 0.85 * 100) / 100, r: 0, f: 1 };
-      });
-      d = newDoc(title, t("Lessons"), { bg: (s && sceneById[s.scenes[0]]) ? s.scenes[0] : "hills", items, lesson: key });
+      d = newDoc(title, t("Lessons"), { ...storyData(st, find), lesson: key });
       lib.docs[d.id] = d; touch(d);
       if (!lib.folders.includes(t("Lessons"))) setFolders([...lib.folders, t("Lessons")]);
     }

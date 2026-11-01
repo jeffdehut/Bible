@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=58"></script>
+<script src="i18n.js?v=59"></script>
 <script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
@@ -676,9 +676,13 @@ textarea { min-height: 88px; resize: vertical; }
 .group-label { margin: 16px 0 0; }
 /* Giving: a button for each way, with the handle beneath its name. */
 /* The tour: a light on one part of the page at a time, and a card about it (tour.js). */
-.tour { position: fixed; inset: 0; z-index: 200; }
-.tour-spot { position: fixed; border-radius: 14px; box-shadow: 0 0 0 9999px rgb(10 14 22 / 58%), 0 0 0 3px var(--gold, #e2b23c); pointer-events: none; transition: left .25s, top .25s, width .25s, height .25s; }
-.tour-card { position: fixed; padding: 14px 16px 12px; border-radius: 18px; background: var(--raised); color: var(--ink); border: 1px solid var(--line); box-shadow: 0 16px 44px rgb(0 0 0 / 30%); transition: top .25s, left .25s; }
+.tour { position: fixed; inset: 0; z-index: 200; opacity: 0; transition: opacity .3s ease; }
+.tour.in { opacity: 1; }
+.tour-spot { position: fixed; border-radius: 14px; box-shadow: 0 0 0 9999px rgb(10 14 22 / 58%), 0 0 0 3px var(--gold, #e2b23c); pointer-events: none;
+  transition: left .5s cubic-bezier(.22, .8, .22, 1), top .5s cubic-bezier(.22, .8, .22, 1), width .5s cubic-bezier(.22, .8, .22, 1), height .5s cubic-bezier(.22, .8, .22, 1); will-change: left, top, width, height; }
+.tour-card { position: fixed; padding: 14px 16px 12px; border-radius: 18px; background: var(--raised); color: var(--ink); border: 1px solid var(--line); box-shadow: 0 16px 44px rgb(0 0 0 / 30%);
+  transition: top .5s cubic-bezier(.22, .8, .22, 1), left .5s cubic-bezier(.22, .8, .22, 1), opacity .2s ease, transform .2s ease; }
+.tour-card.out { opacity: 0; transform: translateY(6px) scale(.98); }
 .tour-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; }
 .tour-n { font: 600 12px/1 var(--sans); letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); }
 .tour-x { border: 0; background: none; padding: 4px 6px; border-radius: 8px; color: var(--muted); font: 500 13px/1 var(--sans); cursor: pointer; }
@@ -5298,19 +5302,25 @@ function setPick(a, b) {
   drawPick();
   showSelBar();
 }
+// The two handles stay the same elements while the words change, so a finger dragging one keeps
+// hold of it word after word (a new handle each time would drop the drag after one word).
+const pickHandles = {};
+["lo", "hi"].forEach(cls => {
+  const h = el("span", { class: "pick-handle " + cls });
+  h.addEventListener("pointerdown", ev => dragHandle(ev, cls));
+  pickHandles[cls] = h;
+});
+const pickMarks = el("div", { class: "pick-marks" });
 function drawPick() {
   if (!pick) { pickLayer.replaceChildren(); return; }
   const rects = [...pick.range.getClientRects()].filter(r => r.width > 1);
   if (!rects.length) return;
   const X = scrollX, Y = scrollY;
   const first = rects[0], last = rects[rects.length - 1];
-  const handle = (cls, x, y) => {
-    const h = el("span", { class: "pick-handle " + cls, style: `left:${x + X}px;top:${y + Y}px` });
-    h.addEventListener("pointerdown", ev => dragHandle(ev, cls));
-    return h;
-  };
-  pickLayer.replaceChildren(...rects.map(r => el("i", { style: `left:${r.left + X - 1}px;top:${r.top + Y}px;width:${r.width + 2}px;height:${r.height}px` })),
-    handle("lo", first.left, first.top - 14), handle("hi", last.right, last.bottom - 30));
+  pickMarks.replaceChildren(...rects.map(r => el("i", { style: `left:${r.left + X - 1}px;top:${r.top + Y}px;width:${r.width + 2}px;height:${r.height}px` })));
+  Object.assign(pickHandles.lo.style, { left: first.left + X + "px", top: first.top - 14 + Y + "px" });
+  Object.assign(pickHandles.hi.style, { left: last.right + X + "px", top: last.bottom - 30 + Y + "px" });
+  if (pickMarks.parentNode !== pickLayer) pickLayer.replaceChildren(pickMarks, pickHandles.lo, pickHandles.hi);
 }
 function clearPick() {
   editingEmoji = null;
@@ -5319,20 +5329,37 @@ function clearPick() {
   pickLayer.replaceChildren();
   hlBar.hidden = true;
 }
-// Dragging a handle: the other end stays, this end follows the finger, a word at a time.
+// Dragging a handle: the other end stays, this end follows the finger, a word at a time. The
+// finger is followed on the whole page, so it may wander off the handle; the handle that ends up
+// at the moving end is the one under the finger, even when the ends cross.
+let dragging = false;
 function dragHandle(ev, which) {
   ev.preventDefault(); ev.stopPropagation();
-  const h = ev.currentTarget, fixed = which === "lo" ? pick.hi : pick.lo;
-  h.setPointerCapture(ev.pointerId);
-  const x0 = ev.clientX, y0 = ev.clientY;
-  let moved = false;
+  if (!pick) return;
+  const fixed = which === "lo" ? pick.hi : pick.lo;
+  try { ev.currentTarget.setPointerCapture(ev.pointerId); } catch (e) { /* not capturable */ }
+  const id = ev.pointerId, x0 = ev.clientX, y0 = ev.clientY;
+  // Where the finger is against the handle's end, kept through the drag.
+  const dy = which === "lo" ? 22 : -22;
+  let moved = false, last = null, frame = 0, at = null;
+  dragging = true;
+  const step = () => {
+    frame = 0;
+    if (!at) return;
+    const w = wordAt(caretAt(at.x, at.y + dy));
+    if (w && !(last && last.node === w.node && last.s === w.s)) { last = w; setPick(fixed, w); }
+  };
   const move = e => {
-    if (!moved && Math.hypot(e.clientX - x0, e.clientY - y0) < 6) return;
+    if (e.pointerId !== id) return;
+    e.preventDefault();
+    if (!moved && Math.hypot(e.clientX - x0, e.clientY - y0) < 4) return;
     moved = true;
-    const w = wordAt(caretAt(e.clientX, e.clientY + (which === "lo" ? 22 : -22)));
-    if (w) setPick(fixed, w);
+    at = { x: e.clientX, y: e.clientY };
+    if (!frame) frame = requestAnimationFrame(step);
   };
   const up = e => {
+    if (e.pointerId !== id) return;
+    if (frame) { cancelAnimationFrame(frame); step(); }
     // A tap on a handle, not a drag, is a tap on what lies under it (often the next verse number).
     if (!moved && e.type === "pointerup") {
       pickLayer.style.visibility = "hidden";
@@ -5341,10 +5368,13 @@ function dragHandle(ev, which) {
       const vn = under && under.closest(".vn");
       if (vn) pickVerse(vn.closest(".v"));
     }
-    h.removeEventListener("pointermove", move); h.removeEventListener("pointerup", up); h.removeEventListener("pointercancel", up); };
-  h.addEventListener("pointermove", move);
-  h.addEventListener("pointerup", up);
-  h.addEventListener("pointercancel", up);
+    dragging = false;
+    skipUntil = Date.now() + 400;
+    removeEventListener("pointermove", move, true); removeEventListener("pointerup", up, true); removeEventListener("pointercancel", up, true);
+  };
+  addEventListener("pointermove", move, true);
+  addEventListener("pointerup", up, true);
+  addEventListener("pointercancel", up, true);
 }
 let holdTimer = 0, holding = null, holdAt = null, skipUntil = 0;   // the tap that ends a hold is not a tap on the verse
 const coarse = matchMedia("(pointer: coarse)");
@@ -5376,7 +5406,7 @@ $("text").addEventListener("touchcancel", letGo);
 $("text").addEventListener("contextmenu", ev => { if (coarse.matches) ev.preventDefault(); });
 // A tap anywhere but the bar lets the words go.
 document.addEventListener("pointerdown", ev => {
-  if (pick && !holding && !ev.target.closest(".hl-bar, .pick-handle, .ui-sheet, .vn, #text .v")) { clearPick(); if (ev.target.closest("#text")) skipUntil = Date.now() + 800; }
+  if (pick && !holding && !dragging && !ev.target.closest(".hl-bar, .pick-handle, .ui-sheet, .vn, #text .v")) { clearPick(); if (ev.target.closest("#text")) skipUntil = Date.now() + 800; }
 }, true);
 addEventListener("resize", () => { if (pick) clearPick(); });
 // An emoji tapped: its words chosen, and the balloon on them with that emoji, to change or take off.
@@ -5561,7 +5591,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=136").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=137").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -5611,6 +5641,6 @@ var reader = {
 <script src="config.js?v=31"></script>
 <script src="share.js?v=32"></script>
 <script src="account.js?v=37"></script>
-<script src="tour.js?v=2"></script>
+<script src="tour.js?v=3"></script>
 </body>
 </html>
