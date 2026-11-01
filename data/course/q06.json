@@ -1,0 +1,562 @@
+{
+  "q": 6,
+  "lessons": [
+    {
+      "n": 1,
+      "title": { "en": "Saul, the first king of Israel", "zh": "以色列第一位王掃羅" },
+      "passages": ["1Sam.9-10"],
+      "key": "1Sam.9.15-17",
+      "points": {
+        "en": [
+          "Saul son of Kish, a Benjaminite, is handsome and a head taller than anyone.",
+          "Looking for his father's lost donkeys, Saul comes to the seer, Samuel.",
+          "The day before, the LORD told Samuel to anoint a man from Benjamin as ruler.",
+          "Samuel pours oil on Saul's head and tells him of signs to come.",
+          "God changes Saul's heart; the Spirit of God rushes on him, and he prophesies.",
+          "At Mizpah Saul is chosen by lot and found hiding among the baggage.",
+          "The people shout, \"Long live the king!\" but some worthless men despise him."
+        ],
+        "zh": [
+          "便雅憫人基士的兒子掃羅相貌俊美，比所有的人都高出一個頭。",
+          "掃羅尋找他父親走失的驢，來到先見撒母耳那裏。",
+          "前一天，耶和華吩咐撒母耳膏一個便雅憫人作領袖。",
+          "撒母耳把油倒在掃羅頭上，告訴他將要應驗的兆頭。",
+          "神給掃羅另一顆心；神的靈猛然臨到他，他就說預言。",
+          "在米斯巴，掃羅抽籤被選出，人們發現他躲在行李中間。",
+          "百姓歡呼：「願王萬歲！」但有些無賴之徒藐視他。"
+        ]
+      },
+      "readings": [
+        { "ref": "1Sam.11.1-15", "about": { "en": "Saul rescues Jabesh-gilead, and the kingdom is renewed", "zh": "掃羅救基列‧雅比，重新立國" } },
+        { "ref": "Acts.13.21", "about": { "en": "Paul: God gave them Saul for forty years", "zh": "保羅說神將掃羅賜給他們四十年" } },
+        { "ref": "Phil.3.5", "about": { "en": "Paul, whose Hebrew name was Saul, also of the tribe of Benjamin", "zh": "保羅（原名掃羅）也是便雅憫支派的人" } }
+      ],
+      "history": {
+        "en": [
+          "Saul reigned about 1050–1010 BC. The numbers for his age and years in 1 Samuel 13:1 have been lost from the Hebrew text.",
+          "Saul's town, Gibeah, is usually identified with Tell el-Ful, about 5 km north of Jerusalem.",
+          "There were no coins yet. A quarter shekel was a small piece of silver weighed out, about 3 grams."
+        ],
+        "zh": [
+          "掃羅作王約在主前1050至1010年。撒母耳記上13章1節記他年歲和在位年數的數字，在希伯來文抄本中已經失傳。",
+          "掃羅的家鄉基比亞通常被認為是耶路撒冷以北約5公里的富勒丘。",
+          "那時還沒有錢幣。四分之一舍客勒是稱出來的一小塊銀子，約3克。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "donkey" },
+      "connections": "1Sam.9"
+    },
+    {
+      "n": 2,
+      "title": { "en": "Saul's disobedience", "zh": "掃羅違命" },
+      "passages": ["1Sam.13", "1Sam.15"],
+      "key": "1Sam.15.22-23",
+      "points": {
+        "en": [
+          "At Gilgal Saul waits seven days for Samuel, and his troops begin to scatter.",
+          "Saul offers the burnt offering himself; Samuel arrives just as he finishes.",
+          "Samuel: your kingdom will not last; the LORD has sought a man after his own heart.",
+          "The LORD sends Saul to devote the Amalekites to destruction.",
+          "Saul spares King Agag and the best of the sheep and cattle.",
+          "Samuel: \"To obey is better than sacrifice.\" The LORD has rejected Saul as king.",
+          "Saul seizes Samuel's robe and it tears: the LORD has torn the kingdom from him."
+        ],
+        "zh": [
+          "掃羅在吉甲等候撒母耳七天，軍兵開始離開他散去。",
+          "掃羅自己獻上燔祭；剛獻完，撒母耳就到了。",
+          "撒母耳說：你的王國必不長久；耶和華已經尋到一個合他心意的人。",
+          "耶和華差遣掃羅去把亞瑪力人完全毀滅。",
+          "掃羅卻留下亞甲王和上好的牛羊。",
+          "撒母耳說：「聽從勝過獻祭。」耶和華已經厭棄掃羅作王。",
+          "掃羅抓住撒母耳的外袍，衣角撕裂了：耶和華已使國從他身上撕裂。"
+        ]
+      },
+      "readings": [
+        { "ref": "Exod.17.8-16", "about": { "en": "Amalek attacks Israel in the wilderness", "zh": "亞瑪力人在曠野攻擊以色列" } },
+        { "ref": "Hos.6.6", "about": { "en": "Hosea: faithful love, not sacrifice", "zh": "何西阿：我喜愛慈愛，不喜愛祭祀" } },
+        { "ref": "Acts.13.22", "about": { "en": "Paul: God found David, a man after his heart", "zh": "保羅說神尋得大衛，是合他心意的人" } }
+      ],
+      "history": {
+        "en": [
+          "Michmash, today's Mukhmas, lies about 11 km northeast of Jerusalem, across a steep gorge from Geba.",
+          "The Philistines kept control of iron-working (13:19-22). Small stone weights marked pim, about two-thirds of a shekel, have been found.",
+          "The Amalekites were nomads of the Negev and Sinai deserts, south of Judah."
+        ],
+        "zh": [
+          "密抹就是今天的穆赫馬斯，在耶路撒冷東北約11公里，與迦巴隔着一道陡峭的峽谷。",
+          "非利士人控制了打鐵的技術（13章19至22節）。考古出土過刻有「皮姆」的小石砝碼，約為三分之二舍客勒。",
+          "亞瑪力人是遊牧民族，住在猶大以南的南地和西奈曠野。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "sheep" },
+      "connections": "1Sam.15"
+    },
+    {
+      "n": 3,
+      "title": { "en": "Samuel anoints David", "zh": "撒母耳膏大衛" },
+      "passages": ["1Sam.16"],
+      "key": "1Sam.16.6-7",
+      "points": {
+        "en": [
+          "The LORD sends Samuel with a horn of oil to Jesse of Bethlehem.",
+          "Samuel sees Eliab and thinks he must be the LORD's anointed.",
+          "The LORD: people look at the outward appearance, but the LORD looks at the heart.",
+          "Seven of Jesse's sons pass before Samuel, but the LORD has chosen none of them.",
+          "The youngest, David, is brought in from the sheep, and Samuel anoints him.",
+          "The Spirit of the LORD rushes on David; the Spirit has left Saul.",
+          "David plays the lyre for Saul and becomes his armor-bearer."
+        ],
+        "zh": [
+          "耶和華差遣撒母耳帶着一角油，到伯利恆人耶西那裏去。",
+          "撒母耳看見以利押，心想他一定就是耶和華的受膏者。",
+          "耶和華說：人是看外表，耶和華卻是看內心。",
+          "耶西的七個兒子從撒母耳面前經過，耶和華都沒有揀選。",
+          "最小的大衛從羊群那裏被帶來，撒母耳就膏了他。",
+          "耶和華的靈猛然臨到大衛；耶和華的靈已經離開了掃羅。",
+          "大衛為掃羅彈琴，並作了替他拿兵器的人。"
+        ]
+      },
+      "readings": [
+        { "ref": "Ps.78.70-72", "about": { "en": "God chose David from the sheepfolds to shepherd Israel", "zh": "神從羊圈中揀選大衛牧養以色列" } },
+        { "ref": "Isa.11.1-2", "about": { "en": "A shoot from the stump of Jesse", "zh": "從耶西的樹墩必發出嫩枝" } },
+        { "ref": "Luke.2.4", "about": { "en": "Joseph goes to Bethlehem, the town of David", "zh": "約瑟上大衛的城伯利恆去" } }
+      ],
+      "history": {
+        "en": [
+          "Pouring olive oil on the head set apart kings and priests. \"Anointed one\" is mashiach in Hebrew, from which comes \"Messiah\".",
+          "The lyre (kinnor) was a small stringed instrument held in the arms; lyres appear in Egyptian and Mesopotamian art.",
+          "David's reign is usually dated about 1010–970 BC."
+        ],
+        "zh": [
+          "把橄欖油倒在頭上，表示分別人作王或作祭司。「受膏者」希伯來文是mashiach，「彌賽亞」一詞就由此而來。",
+          "琴（kinnor）是抱在臂中彈奏的小型弦樂器，在埃及和美索不達米亞的藝術中都可以看到。",
+          "大衛作王的年代通常定在約主前1010至970年。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "story": "david" },
+      "connections": "1Sam.16"
+    },
+    {
+      "n": 4,
+      "title": { "en": "David and Goliath", "zh": "大衛和歌利亞" },
+      "passages": ["1Sam.17"],
+      "key": "1Sam.17.45-47",
+      "points": {
+        "en": [
+          "The Philistines and Israel face each other across the Valley of Elah.",
+          "Goliath of Gath, six cubits and a span tall, defies Israel morning and evening for forty days.",
+          "Jesse sends David with food for his brothers, and David hears the challenge.",
+          "David tells Saul the LORD who rescued him from lion and bear will rescue him.",
+          "He puts off Saul's armor and takes his staff, five smooth stones and his sling.",
+          "David: \"I come against you in the name of the LORD of Armies. The battle is the LORD's.\"",
+          "David's stone strikes Goliath's forehead, and Israel pursues the Philistines."
+        ],
+        "zh": [
+          "非利士人和以色列人隔着以拉谷對陣。",
+          "迦特人歌利亞身高六肘零一虎口，早晚向以色列挑戰，一連四十天。",
+          "耶西派大衛給哥哥們送糧食，大衛聽見了那挑戰。",
+          "大衛對掃羅說，救他脫離獅子和熊的耶和華必救他。",
+          "他脫下掃羅的盔甲，拿着杖、五塊光滑的石子和機弦。",
+          "大衛說：「我來攻擊你，靠的是萬軍之耶和華的名；這場戰爭是屬於耶和華的。」",
+          "大衛的石子打中歌利亞的額頭，以色列人就追趕非利士人。"
+        ]
+      },
+      "readings": [
+        { "ref": "1Sam.18.6-7", "about": { "en": "The women sing of Saul's thousands and David's ten thousands", "zh": "婦女唱：掃羅殺敵千千，大衛殺敵萬萬" } },
+        { "ref": "1Sam.21.10", "about": { "en": "Goliath's sword kept at Nob", "zh": "歌利亞的刀存放在挪伯" } },
+        { "ref": "Heb.11.32-34", "about": { "en": "David among those who became mighty in war by faith", "zh": "大衛列在憑信心爭戰得勝的人中" } }
+      ],
+      "history": {
+        "en": [
+          "The Valley of Elah lies about 25 km southwest of Jerusalem. Khirbet Qeiyafa, a fortress of about 1000 BC, overlooks it.",
+          "Six cubits and a span is about 2.9 m. The Septuagint and a Dead Sea Scroll of Samuel read four cubits and a span, about 2 m.",
+          "Goliath's coat of armor weighed 5,000 shekels, about 57 kg. Sling stones the size of a tennis ball are found at many ancient battle sites."
+        ],
+        "zh": [
+          "以拉谷在耶路撒冷西南約25公里。約主前1000年的凱亞法要塞就俯瞰這山谷。",
+          "六肘零一虎口約2.9米。七十士譯本和一份撒母耳記的死海古卷作「四肘零一虎口」，約2米。",
+          "歌利亞的鎧甲重五千舍客勒，約57公斤。許多古代戰場都出土過網球大小的機弦石子。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "story": "david" },
+      "connections": "1Sam.17"
+    },
+    {
+      "n": 5,
+      "title": { "en": "David hides from Saul", "zh": "大衛躲避掃羅" },
+      "passages": ["1Sam.24", "1Sam.26"],
+      "key": "1Sam.24.5-7",
+      "points": {
+        "en": [
+          "Saul takes three thousand men to hunt David in the wilderness of En-gedi.",
+          "Saul goes into a cave where David and his men are sitting in the back.",
+          "David secretly cuts off the corner of Saul's robe, then his conscience troubles him.",
+          "He will not raise his hand against the LORD's anointed; Saul weeps aloud.",
+          "Later David and Abishai find Saul asleep in his camp in the wilderness of Ziph.",
+          "David will not let Abishai kill Saul; he takes Saul's spear and water jug.",
+          "Saul says, \"I have sinned,\" and blesses David."
+        ],
+        "zh": [
+          "掃羅帶三千人到隱‧基底的曠野搜索大衛。",
+          "掃羅進了一個洞，大衛和他的部下正坐在洞的深處。",
+          "大衛悄悄割下掃羅外袍的衣襟，事後心中自責。",
+          "他不肯伸手害耶和華的受膏者；掃羅放聲大哭。",
+          "後來大衛和亞比篩在西弗曠野發現掃羅在營中熟睡。",
+          "大衛不准亞比篩殺掃羅，只拿走掃羅的槍和水壺。",
+          "掃羅說：「我犯罪了。」又祝福大衛。"
+        ]
+      },
+      "readings": [
+        { "ref": "Ps.57.1", "about": { "en": "A psalm of David \"when he fled from Saul, in the cave\"", "zh": "大衛在洞裏逃避掃羅時的詩" } },
+        { "ref": "Rom.12.19", "about": { "en": "Paul: do not take revenge; leave it to God", "zh": "保羅說：不要自己伸冤，讓神處理" } },
+        { "ref": "1Sam.31", "about": { "en": "Saul and Jonathan die on Mount Gilboa", "zh": "掃羅和約拿單死在基利波山" } }
+      ],
+      "history": {
+        "en": [
+          "En-gedi is an oasis with springs on the western shore of the Dead Sea. Its limestone cliffs are full of caves, and wild ibex still live there.",
+          "The Dead Sea lies about 430 m below sea level, the lowest place on land.",
+          "Ziph is Tell Zif, about 6 km southeast of Hebron, at the edge of the Judean wilderness."
+        ],
+        "zh": [
+          "隱‧基底是死海西岸有泉水的綠洲，石灰岩懸崖上有許多洞穴，至今仍有野山羊在那裏生活。",
+          "死海低於海平面約430米，是陸地上最低的地方。",
+          "西弗就是希伯崙東南約6公里的西弗丘，在猶大曠野的邊緣。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "rock" },
+      "connections": "1Sam.24"
+    },
+    {
+      "n": 6,
+      "title": { "en": "David becomes king", "zh": "大衛作王" },
+      "passages": ["2Sam.2.1-11", "2Sam.5"],
+      "key": "2Sam.5.3-5",
+      "points": {
+        "en": [
+          "After Saul's death, David asks the LORD and is sent to Hebron.",
+          "The men of Judah anoint David king over the house of Judah.",
+          "Abner makes Saul's son Ish-bosheth king over Israel.",
+          "David reigns in Hebron over Judah seven years and six months.",
+          "All the tribes come to Hebron, and the elders anoint David king over Israel.",
+          "David captures the stronghold of Zion from the Jebusites: the City of David.",
+          "Hiram king of Tyre sends cedar and craftsmen to build David a house."
+        ],
+        "zh": [
+          "掃羅死後，大衛求問耶和華，耶和華叫他上希伯崙去。",
+          "猶大人膏大衛作猶大家的王。",
+          "押尼珥立掃羅的兒子伊施波設作以色列的王。",
+          "大衛在希伯崙作猶大的王七年零六個月。",
+          "以色列各支派都來到希伯崙，長老們膏大衛作以色列的王。",
+          "大衛從耶布斯人手中攻取錫安的要塞，就是大衛城。",
+          "推羅王希蘭送來香柏木和工匠，為大衛建造宮殿。"
+        ]
+      },
+      "readings": [
+        { "ref": "2Sam.1.17-27", "about": { "en": "David's lament for Saul and Jonathan", "zh": "大衛為掃羅和約拿單作的哀歌" } },
+        { "ref": "1Chr.11.1-9", "about": { "en": "The same events told in Chronicles", "zh": "歷代志記載的同一件事" } },
+        { "ref": "2Sam.6.12-15", "about": { "en": "David brings the ark up to the City of David", "zh": "大衛把約櫃運到大衛城" } }
+      ],
+      "history": {
+        "en": [
+          "Hebron lies about 30 km south of Jerusalem. The Cave of Machpelah, Abraham's family tomb, is traditionally placed there.",
+          "The City of David is a narrow ridge south of today's Temple Mount, above the Gihon spring, Jerusalem's main water source.",
+          "Tyre was a Phoenician port on the coast of today's Lebanon. The cedars of Lebanon were prized building timber across the ancient world."
+        ],
+        "zh": [
+          "希伯崙在耶路撒冷以南約30公里。按傳統，亞伯拉罕家族的墓地麥比拉洞就在那裏。",
+          "大衛城是今天聖殿山以南的一道狹長山脊，下面就是耶路撒冷的主要水源基訓泉。",
+          "推羅是腓尼基的港口，在今黎巴嫩沿海。黎巴嫩的香柏木是古代各地珍貴的建材。"
+        ]
+      },
+      "maps": ["palestine-history", "jerusalem"],
+      "felt": { "find": "crown" },
+      "connections": "2Sam.5"
+    },
+    {
+      "n": 7,
+      "title": { "en": "God's promise to David", "zh": "神應許大衛" },
+      "passages": ["2Sam.7"],
+      "key": "2Sam.7.12-13",
+      "points": {
+        "en": [
+          "David, living in a house of cedar, wants to build a house for the ark of God.",
+          "That night the LORD tells Nathan that David is not the one to build him a house.",
+          "The LORD took David from the pasture, from following the sheep, to rule Israel.",
+          "The LORD will make a house for David: a family line of kings.",
+          "David's offspring will build a house for God's name; his throne will stand forever.",
+          "\"I will be his father, and he will be my son.\"",
+          "David sits before the LORD and prays, \"Who am I, Lord GOD?\""
+        ],
+        "zh": [
+          "大衛住在香柏木的宮殿裏，想為神的約櫃建造殿宇。",
+          "當夜耶和華告訴拿單，建殿的不是大衛。",
+          "耶和華把大衛從羊圈、從跟在羊群後面的工作中選召出來，治理以色列。",
+          "耶和華要為大衛建立家室，就是世代作王的家族。",
+          "大衛的後裔要為神的名建殿；他的國位必堅立，直到永遠。",
+          "「我要作他的父親，他要作我的兒子。」",
+          "大衛坐在耶和華面前禱告：「主耶和華啊，我是誰？」"
+        ]
+      },
+      "readings": [
+        { "ref": "Ps.89.4-5", "about": { "en": "A psalm recalls God's oath to David", "zh": "詩篇記念神向大衛起的誓" } },
+        { "ref": "Luke.1.32-33", "about": { "en": "Gabriel: Jesus will have the throne of his ancestor David", "zh": "天使說：耶穌要得他祖先大衛的王位" } },
+        { "ref": "Acts.13.22-23", "about": { "en": "Paul: from David's descendants God brought Jesus", "zh": "保羅說：神從大衛的後裔帶來耶穌" } },
+        { "ref": "Heb.1.5", "about": { "en": "\"I will be his father\" applied to the Son", "zh": "「我要作他的父親」用在子身上" } }
+      ],
+      "history": {
+        "en": [
+          "The Hebrew bayit, \"house\", can mean a palace, a temple or a family line; the chapter uses all three.",
+          "An Aramaic inscription of the 800s BC, found at Tel Dan in 1993, speaks of the \"house of David\".",
+          "David's descendants ruled Judah for about 400 years, until Babylon took Jerusalem in 586 BC."
+        ],
+        "zh": [
+          "希伯來文bayit（「家」或「殿」）可以指宮殿、聖殿或家族；本章三個意思都用到了。",
+          "1993年在但丘出土的一塊主前九世紀亞蘭文碑文，提到「大衛家」。",
+          "大衛的後裔統治猶大約四百年，直到主前586年巴比倫攻取耶路撒冷。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "throne" },
+      "connections": "2Sam.7"
+    },
+    {
+      "n": 8,
+      "title": { "en": "David's sin and repentance", "zh": "大衛的罪和悔改" },
+      "passages": ["2Sam.11-12", "Ps.51"],
+      "key": "Ps.51.12-14",
+      "points": {
+        "en": [
+          "While Israel's army besieges Rabbah, David stays in Jerusalem.",
+          "David takes Bathsheba, wife of Uriah the Hittite, and she becomes pregnant.",
+          "David has Joab put Uriah where the fighting is fiercest, and Uriah is killed.",
+          "Nathan tells of a rich man who took a poor man's only lamb.",
+          "David burns with anger at the rich man; Nathan says, \"You are the man!\"",
+          "David says, \"I have sinned against the LORD\"; the child dies on the seventh day.",
+          "In Psalm 51 David asks God to wash him and create a clean heart in him."
+        ],
+        "zh": [
+          "以色列軍隊圍攻拉巴的時候，大衛留在耶路撒冷。",
+          "大衛佔有了赫人烏利亞的妻子拔示巴，她就懷了孕。",
+          "大衛叫約押派烏利亞到戰鬥最激烈的地方，烏利亞就陣亡了。",
+          "拿單講了一個故事：富人奪去了窮人唯一的小羊羔。",
+          "大衛向那富人大發怒氣；拿單說：「你就是那人！」",
+          "大衛說：「我得罪耶和華了。」那孩子在第七天死了。",
+          "在詩篇第51篇，大衛求神洗淨他，為他造一顆清潔的心。"
+        ]
+      },
+      "readings": [
+        { "ref": "Ps.32.1-5", "about": { "en": "Happy is the one whose sin is forgiven", "zh": "得赦免其過的人是有福的" } },
+        { "ref": "Rom.4.6-8", "about": { "en": "Paul quotes David on forgiveness", "zh": "保羅引用大衛論赦罪的話" } },
+        { "ref": "1Kgs.15.5", "about": { "en": "David did right, except in the matter of Uriah", "zh": "大衛行正事，只是在烏利亞的事上例外" } },
+        { "ref": "Matt.1.6", "about": { "en": "\"David fathered Solomon by the wife of Uriah\"", "zh": "「大衛從烏利亞的妻子生所羅門」" } }
+      ],
+      "history": {
+        "en": [
+          "Rabbah of the Ammonites is Amman, the capital of Jordan; ancient remains stand on its Citadel hill.",
+          "The Hittites ruled an empire in Anatolia (Turkey) until about 1180 BC. People called Hittites also lived in Canaan.",
+          "In this Bible's numbering, Psalm 51's title is verses 1–2, so verse 1 in English Bibles is verse 3 here."
+        ],
+        "zh": [
+          "亞捫人的拉巴就是今天約旦的首都安曼；城堡山上仍有古代遺跡。",
+          "赫人在安納托利亞（今土耳其）建立的帝國，延續到約主前1180年。迦南也住着稱為赫人的居民。",
+          "按本站的經文編號，詩篇第51篇的標題是第1至2節，所以英文聖經的第1節在這裏是第3節。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "lamb" },
+      "connections": "2Sam.12"
+    },
+    {
+      "n": 9,
+      "title": { "en": "Psalms: a sampling", "zh": "詩篇選讀" },
+      "passages": ["Ps.1", "Ps.23", "Ps.100", "Ps.139"],
+      "key": "Ps.23.1-4",
+      "points": {
+        "en": [
+          "Psalm 1: happy is the one who delights in the LORD's law, like a tree by streams of water.",
+          "The wicked are like chaff blown away; the LORD knows the way of the righteous.",
+          "Psalm 23: the LORD is my shepherd; he leads me beside quiet waters.",
+          "Even in the darkest valley, \"I will fear no harm, for you are with me.\"",
+          "Psalm 100: all the earth is called to shout to the LORD and serve him with gladness.",
+          "We are his people, the sheep of his pasture; his faithful love endures forever.",
+          "Psalm 139: the LORD knows me, is present everywhere, and wove me in my mother's womb."
+        ],
+        "zh": [
+          "詩篇第1篇：喜愛耶和華律法的人多麼有福，他好像栽在溪水旁的樹。",
+          "惡人像被風吹散的糠秕；耶和華知道義人的道路。",
+          "詩篇第23篇：耶和華是我的牧者，他領我到安靜的水邊。",
+          "即使走過最黑暗的山谷，「我也不怕遭害，因為你與我同在」。",
+          "詩篇第100篇：全地都要向耶和華歡呼，歡歡喜喜地事奉他。",
+          "我們是他的子民，是他草場上的羊；他的慈愛永遠長存。",
+          "詩篇第139篇：耶和華認識我，無處不在，在母腹中編織了我。"
+        ]
+      },
+      "readings": [
+        { "ref": "Jer.17.7-8", "about": { "en": "The one who trusts the LORD is like a tree by water", "zh": "倚靠耶和華的人像栽在水旁的樹" } },
+        { "ref": "John.10.11", "about": { "en": "Jesus: \"I am the good shepherd\"", "zh": "耶穌說：「我是好牧人」" } },
+        { "ref": "Rev.7.17", "about": { "en": "The Lamb will be their shepherd", "zh": "羔羊要作他們的牧者" } },
+        { "ref": "Col.3.16", "about": { "en": "Teach one another with psalms, hymns and songs", "zh": "用詩篇、頌詞和靈歌彼此教導" } }
+      ],
+      "history": {
+        "en": [
+          "The Book of Psalms has 150 psalms in five books (1–41, 42–72, 73–89, 90–106, 107–150). Its Hebrew name, Tehillim, means \"praises\".",
+          "The Hebrew titles name David in 73 psalms. In this Bible's numbering a title often counts as verse 1.",
+          "A shepherd carried a rod, a short club for driving off animals, and a staff for guiding the flock."
+        ],
+        "zh": [
+          "詩篇共150篇，分為五卷（1–41、42–72、73–89、90–106、107–150篇）。希伯來文書名Tehillim意思是「讚美」。",
+          "希伯來文標題中有73篇提到大衛。按本站的經文編號，標題常算作第1節。",
+          "牧人帶着杖和竿：杖是趕走野獸的短棍，竿用來引導羊群。"
+        ]
+      },
+      "maps": [],
+      "felt": { "find": "shepherd" },
+      "connections": "Ps.23"
+    },
+    {
+      "n": 10,
+      "title": { "en": "King Solomon", "zh": "所羅門王" },
+      "passages": ["1Kgs.3"],
+      "key": "1Kgs.3.9-12",
+      "points": {
+        "en": [
+          "Solomon loves the LORD but sacrifices at the high places.",
+          "At Gibeon the LORD appears to him in a dream: \"Ask for whatever you want.\"",
+          "Solomon says he is only a young boy and asks for a listening heart to govern.",
+          "God gives him a wise heart, and also riches and honor he did not ask for.",
+          "Two women come to the king, each claiming the same living baby.",
+          "The king orders the child cut in two; the real mother begs him to give the child away.",
+          "All Israel sees that the wisdom of God is in him to do justice."
+        ],
+        "zh": [
+          "所羅門愛耶和華，但仍在丘壇上獻祭。",
+          "耶和華在基遍的夢中向他顯現：「你要我賜你甚麼，可以求。」",
+          "所羅門說自己只是個年輕孩子，求一顆善於聆聽的心來治理百姓。",
+          "神賜他智慧的心，又賜他沒有求的富足和尊榮。",
+          "兩個婦人來到王面前，都說那活着的嬰孩是自己的。",
+          "王吩咐把孩子劈成兩半；孩子真正的母親求王把孩子給對方。",
+          "以色列眾人看見他心裏有神的智慧，能秉公斷案。"
+        ]
+      },
+      "readings": [
+        { "ref": "2Chr.1.7-12", "about": { "en": "Solomon's request told in Chronicles", "zh": "歷代志記載所羅門的祈求" } },
+        { "ref": "Matt.12.42", "about": { "en": "Jesus: something greater than Solomon is here", "zh": "耶穌說：這裏有一位比所羅門更大的" } },
+        { "ref": "Jas.1.5", "about": { "en": "Whoever lacks wisdom should ask God", "zh": "缺少智慧的，應當求神" } }
+      ],
+      "history": {
+        "en": [
+          "Solomon reigned about 970–930 BC.",
+          "Gibeon is el-Jib, about 9 km northwest of Jerusalem. Excavations there found a great rock-cut pool and jar handles inscribed with the name Gibeon.",
+          "High places were open-air shrines, often on hilltops, with an altar for sacrifice."
+        ],
+        "zh": [
+          "所羅門作王約在主前970至930年。",
+          "基遍就是耶路撒冷西北約9公里的吉布村。考古在那裏發現了一個在岩石中鑿成的大水池，以及刻有「基遍」字樣的瓶把。",
+          "丘壇是露天的敬拜場所，常在山頂上，設有獻祭的壇。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "baby" },
+      "connections": "1Kgs.3"
+    },
+    {
+      "n": 11,
+      "title": { "en": "Building the temple", "zh": "建造聖殿" },
+      "passages": ["1Kgs.6", "1Kgs.8"],
+      "key": "1Kgs.8.10-13",
+      "points": {
+        "en": [
+          "In the 480th year after the exodus, Solomon's fourth year, he begins the house of the LORD.",
+          "It is 60 cubits long, 20 wide and 30 high, built of stone finished at the quarry.",
+          "Cedar lines the walls; the inner sanctuary, with two olive-wood cherubim, is overlaid with gold.",
+          "The house is finished in Solomon's eleventh year, after seven years of work.",
+          "The priests bring the ark, holding the two stone tablets, into the most holy place.",
+          "A cloud fills the house, for the glory of the LORD fills it.",
+          "Solomon prays: heaven cannot contain God; may he hear when his people pray toward this house."
+        ],
+        "zh": [
+          "以色列人出埃及後第四百八十年，所羅門在位第四年，他開始建造耶和華的殿。",
+          "殿長六十肘，寬二十肘，高三十肘，用在石場預先鑿好的石頭建造。",
+          "牆用香柏木貼裏；內殿有兩個橄欖木的基路伯，都用金子包裹。",
+          "殿在所羅門第十一年完工，共建了七年。",
+          "祭司把放着兩塊石版的約櫃抬進至聖所。",
+          "有雲充滿了殿，因為耶和華的榮耀充滿了耶和華的殿。",
+          "所羅門禱告：天尚且不能容納神；求神垂聽他的子民向這殿所獻的禱告。"
+        ]
+      },
+      "readings": [
+        { "ref": "2Chr.7.1-3", "about": { "en": "Fire comes down and the glory fills the house", "zh": "火從天降下，榮耀充滿聖殿" } },
+        { "ref": "Acts.7.47-49", "about": { "en": "Stephen: the Most High does not live in houses made by hands", "zh": "司提反說：至高者不住人手所造的殿" } },
+        { "ref": "John.2.19-21", "about": { "en": "Jesus speaks of the temple of his body", "zh": "耶穌以自己的身體為殿" } },
+        { "ref": "Rev.21.22", "about": { "en": "In the new Jerusalem the Lord and the Lamb are its temple", "zh": "新耶路撒冷以主和羔羊為殿" } }
+      ],
+      "history": {
+        "en": [
+          "A cubit was about 45 cm, so the house was about 27 m long, 9 m wide and 13.5 m high.",
+          "Solomon's fourth year was about 966 BC. Counting back 480 years gives the exodus date of about 1446 BC; others take 480 as a round number.",
+          "The temple stood on today's Temple Mount, where the Dome of the Rock now stands. No remains of Solomon's temple have been identified."
+        ],
+        "zh": [
+          "一肘約45厘米，所以殿長約27米、寬約9米、高約13.5米。",
+          "所羅門第四年約在主前966年。往前推480年，得出出埃及約在主前1446年；也有人認為480是約數。",
+          "聖殿建在今天的聖殿山上，現在那裏有圓頂清真寺。所羅門聖殿的遺跡至今沒有找到。"
+        ]
+      },
+      "maps": ["jerusalem"],
+      "felt": { "find": "altar" },
+      "connections": "1Kgs.8"
+    },
+    {
+      "n": 12,
+      "title": { "en": "Proverbs and Ecclesiastes: wisdom for life", "zh": "箴言和傳道書：生活的智慧" },
+      "passages": ["Prov.1-3", "Eccl.3", "Eccl.12"],
+      "key": "Prov.3.5-6",
+      "points": {
+        "en": [
+          "The proverbs of Solomon are given for learning wisdom and discipline.",
+          "\"The fear of the LORD is the beginning of knowledge.\"",
+          "A father warns his son not to join sinners who lie in wait to shed blood.",
+          "Trust in the LORD with all your heart, and he will make your paths straight.",
+          "Wisdom is worth more than silver and gold; she is a tree of life.",
+          "Ecclesiastes: for everything there is a season, a time for every matter under heaven.",
+          "The Teacher ends: \"Fear God and keep his commands.\""
+        ],
+        "zh": [
+          "所羅門的箴言是為了使人學習智慧和管教。",
+          "「敬畏耶和華是知識的開端。」",
+          "父親警告兒子，不要隨從埋伏殺人的罪人。",
+          "要全心信靠耶和華，他必使你的路平直。",
+          "智慧比金銀更寶貴，她是生命樹。",
+          "傳道書：凡事都有定期，天下每一件事都有時候。",
+          "傳道者總結說：「要敬畏神，謹守他的誡命。」"
+        ]
+      },
+      "readings": [
+        { "ref": "1Kgs.5.9-14", "about": { "en": "Solomon's wisdom and his 3,000 proverbs", "zh": "所羅門的智慧和他的三千句箴言" } },
+        { "ref": "Heb.12.5-6", "about": { "en": "Hebrews quotes Proverbs 3:11-12 on discipline", "zh": "希伯來書引用箴言論管教" } },
+        { "ref": "Jas.4.6", "about": { "en": "James quotes Proverbs 3:34: grace to the humble", "zh": "雅各引用箴言：賜恩給謙卑的人" } },
+        { "ref": "1Cor.1.30", "about": { "en": "Christ became for us wisdom from God", "zh": "基督成了我們從神而來的智慧" } }
+      ],
+      "history": {
+        "en": [
+          "Proverbs also includes sayings of others: \"the wise\" (22:17), Agur (30:1) and King Lemuel (31:1); Hezekiah's men copied some (25:1).",
+          "Ecclesiastes is traditionally ascribed to Solomon; many scholars date it later. Its Hebrew name, Qohelet, means one who gathers an assembly: \"the Teacher\".",
+          "Wisdom writing was common in the ancient Near East. The Egyptian Instruction of Amenemope has close parallels to Proverbs 22:17–24:22."
+        ],
+        "zh": [
+          "箴言也收錄了別人的話：「智慧人的話」（22章17節）、亞古珥（30章1節）和利慕伊勒王（31章1節）；有些是希西家的人抄錄的（25章1節）。",
+          "傳道書按傳統認為是所羅門所寫，許多學者認為成書較晚。希伯來文書名Qohelet指召集會眾的人，即「傳道者」。",
+          "智慧文學在古代近東很普遍。埃及的《阿蒙尼姆普的教訓》與箴言22章17節至24章22節非常相似。"
+        ]
+      },
+      "maps": [],
+      "felt": { "find": "scroll" },
+      "connections": "Prov.3"
+    }
+  ]
+}
