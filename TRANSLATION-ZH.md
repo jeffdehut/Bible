@@ -997,7 +997,7 @@ Settled while drafting Ezekiel:
 | וַתְּהִי עָלַי יַד־יְהוָה | 耶和華的手臨到我（他）身上 | 1:3 noted (3:14, 22; 8:1; 37:1; 40:1); 3:14 *chazaqah* 耶和華的手大有能力地臨到我身上. |
 | וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר | 耶和華的話臨到我說： | |
 | The chariot vision (1; 10): חַיּוֹת; אוֹפַן, אוֹפַנִּים; רָקִיעַ; כִּסֵּא; דְּמוּת כְּבוֹד־יְהוָה | 活物；輪；穹蒼；寶座；耶和華榮耀的形象 | For chapter 10 and 43. *chayyot* and the cherubim (10:15, 20), *ofan*, *raqia* (as Genesis 1) noted. דְּמוּת 形象, מַרְאֶה 樣貌, עֵין 光彩 kept apart throughout 1:4–28. |
-| חַשְׁמַל (1:4, 27; 8:2) | 琥珀金 | The Septuagint's *elektron* (amber, electrum) and 和合本「光耀的精金」 noted. *tarshish* 水蒼玉, *sappir* 青金石, *nesher* 鷹, *qerach* 水晶, as earlier books. |
+| חַשְׁמַל (1:4, 27; 8:2) | 琥珀金 | Settled (REVIEW.md): one rendering in all three verses, the note at 1:4, 8:2 refers back. The Septuagint's *elektron* (amber, electrum) and 和合本「光耀的精金」 noted. *tarshish* 水蒼玉, *sappir* 青金石, *nesher* 鷹, *qerach* 水晶, as earlier books. |
 | רוּחַ (1:12, 20; 2:2; 3:12, 14, 24) | 靈 | *ruach* (靈、風、氣息) noted. |
 | בֵּית מְרִי; מֶרִי | 悖逆的家；悖逆的 | |
 | תּוֹעֵבוֹת; גִּלּוּלִים; שִׁקּוּצִים | 可憎的事；可憎的偶像；可厭之物 | As the Exodus table; each noted at its first occurrence in each chapter. |
@@ -1007,6 +1007,20 @@ Settled while drafting Ezekiel:
 | נָשִׂיא (of the king) | 領袖 | As the Exodus table; noted at 7:27 (12:10; 34:24; 37:25; 44–48). |
 | עַם הָאָרֶץ | 普通百姓 | As Leviticus; 7:27 這地普通百姓. |
 | נִדָּה (7:19–20) | 不潔之物 | As Lamentations 1:17. |
+| Chapter 10 (= chapter 1) | 活物／基路伯、輪、穹蒼、寶座、形象、樣貌、光彩、水蒼玉、青金石 | Chapter 1's wording wherever the Hebrew agrees (10:9–11, 17 as 1:16–17, 21). גַּלְגַּל 旋輪 (10:2, 6, 13), kept apart from 輪 (*ofan*), noted. |
+| סֵמֶל הַקִּנְאָה (8:3, 5) | 忌恨的偶像 | *semel*, *qin'ah* noted with 忌邪的神 (Exodus 20:5). |
+| וַתִּפֹּל עָלַי יַד (8:1); רוּחַ יְהוָה (11:5) | 耶和華的手臨到我身上；耶和華的靈降在我身上 | 「落在」 noted. |
+| הוֹי; אוֹי אוֹי לָךְ | 禍哉；你有禍了！你有禍了！ | As Isaiah; *hoy* noted (13:3); 16:23 in （）. |
+| מַעַל | 不忠 | *ma'al* noted at its first occurrence in each chapter (14:13; 15:8; 17:20; 18:24). |
+| נֹחַ, דנאל, אִיּוֹב (14:14, 20) | 挪亞、但以理、約伯 | Ketiv *Dan'el*, qere *Daniyyel*, and Ugarit's Dan'el noted (for 28:3). |
+| מָשָׁל; חִידָה | 俗語 (12:22; 16:44; 18:2)、比喻 (17:2)；謎語 | 18:2 as Jeremiah 31:29. |
+| זָנָה; תַּזְנוּת; זוֹנָה; אֶתְנַן (16; for 23) | 行淫；淫行；妓女；酬金 | *zanah* noted at 16:15. The allegory plain, neither coarsened nor softened (16:25 張開雙腿; 16:26 下體粗大, *basar* noted). |
+| The ketiv *-ti* for "you" (16) | The qere | One combined note (16:13), as in English. |
+| גַּב; רָמָה (16:24–39) | 土臺；高臺 | Noted. |
+| טָפֵל (13:10–15); כְּסָתוֹת; מִסְפָּחוֹת | 白灰；符帶；蒙頭的帕子 | 和合本「未泡透的灰」「靠枕」 noted. |
+| אֲדֹנָי alone (18:25, 29) | 主 | Noted: not YHWH. |
+| קִינָה (19:1, 14) | 哀歌 | *qinah* noted. Chapters 17 and 19 (parables, lament) one verse per line, cola joined by ，；. |
+| Numbering | Ezekiel 8–19 = 和合本 | No shift in 8–19 (the next is 21:1–5 = 和合本 20:45–49). |
 
 ## Style
 
