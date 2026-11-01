@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-08-timeline-rocket-svg-title bd-08-timeline-rocket-svg-desc">
+<title id="bd-08-timeline-rocket-svg-title">rocket</title>
+<desc id="bd-08-timeline-rocket-svg-desc">Timeline “rocket”: items named apollo, space</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="M12 2.5c4.5 3.5 5 8.2 3.8 13.5H8.2C7 10.7 7.5 6 12 2.5Z" fill="currentColor" fill-opacity=".09"/><circle cx="12" cy="9" r="1.8"/><path d="M8 12 4.5 16v4l3.7-2M16 12l3.5 4v4l-3.7-2"/><path d="M10.5 19.5 12 22l1.5-2.5" stroke-width="1.15"/>
+</svg>

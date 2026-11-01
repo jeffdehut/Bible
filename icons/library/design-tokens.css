@@ -1,0 +1,13 @@
+:root {
+  --bd-icon-ink: #161b26;
+  --bd-icon-lapis: #2646a1;
+  --bd-icon-gold: #e3bf70;
+  --bd-icon-stroke: 1.5;
+  --bd-icon-control-stroke: 1.75;
+  --bd-icon-engraving-stroke: 1.15;
+  --bd-icon-tone-opacity: .09;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bd-icon-ink: #e9ecf3; --bd-icon-lapis: #9db3ff; --bd-icon-gold: #e2bd5c; }
+}
+/* Inline SVG example: .bd-icon { color: var(--bd-icon-ink); } */

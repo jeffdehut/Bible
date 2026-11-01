@@ -106,8 +106,42 @@
     const back = encodeURIComponent(location.origin + location.pathname);
     await call("/auth/v1/otp?redirect_to=" + back, { method: "POST", auth: false, body: { email, create_user: true } });
   }
+  // Email and password: the usual way in. A new account is confirmed by one email; a forgotten
+  // password is reset by an emailed link that signs in and asks for a new one.
+  async function passwordSignIn(email, password) {
+    const s = await call("/auth/v1/token?grant_type=password", { method: "POST", auth: false, body: { email, password } });
+    keep(s);
+    signedIn();
+  }
+  // Returns "in" (signed in at once), "confirm" (an email to confirm), or "exists".
+  async function signUp(email, password) {
+    const back = encodeURIComponent(location.origin + location.pathname);
+    const s = await call("/auth/v1/signup?redirect_to=" + back, { method: "POST", auth: false, body: { email, password } });
+    if (s && s.access_token) { keep(s); signedIn(); return "in"; }
+    const u = (s && (s.user || s)) || {};
+    if (Array.isArray(u.identities) && !u.identities.length) return "exists";
+    return "confirm";
+  }
+  async function recover(email) {
+    const back = encodeURIComponent(location.origin + location.pathname);
+    await call("/auth/v1/recover?redirect_to=" + back, { method: "POST", auth: false, body: { email } });
+  }
+  async function setPassword(password) {
+    await call("/auth/v1/user", { method: "PUT", body: { password } });
+  }
+  // What the account service's answers mean, in plain words.
+  const said = (e, what) => {
+    if (navigator.onLine === false) return "You're offline. Try again when you're connected.";
+    const m = (e && e.message) || "";
+    if (/invalid login credentials/i.test(m)) return "That email and password don't match. Try again, or choose “Forgot your password?”. (If you've only signed in with emailed links, use it to set a password.)";
+    if (/email not confirmed/i.test(m)) return "Confirm your email first: open the link we sent you, then sign in.";
+    if (/password.*(at least|short|characters)/i.test(m)) return "Choose a longer password: at least 8 characters.";
+    if (/rate limit|too many|security purposes/i.test(m)) return "Too many tries for now. Wait a minute and try again.";
+    return what + ": " + m;
+  };
   // A magic link brings the reader back with the session in the address; index.html sets it
-  // aside before the reader reads the address.
+  // aside before the reader reads the address. A password reset link does the same, and then
+  // asks for the new password.
   async function fromLink() {
     let raw = null;
     try { raw = sessionStorage.getItem("pe.authHash"); sessionStorage.removeItem("pe.authHash"); } catch (e) { /* storage unavailable */ }
@@ -115,6 +149,7 @@
     const p = new URLSearchParams(raw);
     if (p.get("error")) { problem = (p.get("error_description") || "That sign-in link didn't work").replace(/\+/g, " ") + ". Ask for a new link."; return true; }
     if (!p.get("access_token")) return false;
+    if (p.get("type") === "recovery") step.reset = true;
     state.session = { access_token: p.get("access_token"), refresh_token: p.get("refresh_token"), expires_at: +p.get("expires_at") || Math.floor(Date.now() / 1000) + (+p.get("expires_in") || 3600), user: { id: "", email: "" } };
     try {
       const user = await call("/auth/v1/user");
@@ -302,7 +337,42 @@
   };
   const statusText = () => status === "syncing" ? "Syncing…" : status === "offline" ? "Offline: changes will sync when you're back online"
     : status === "error" ? "Couldn't sync just now. It will try again." : state.last ? `Synced ${ago(state.last)}` : "Not synced yet";
-  let step = { email: "", sent: false, busy: false, confirmDelete: false };
+  let step = { email: "", sent: false, busy: false, confirmDelete: false, mode: "in" };
+  // The quieter choices under the sign-in form, as links.
+  if (!document.getElementById("account-style")) {
+    const st = document.createElement("style"); st.id = "account-style";
+    st.textContent = `.account-alt { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 12px 0 4px; }
+.account-alt .linkish { border: 0; background: none; padding: 4px 0; color: var(--lapis); font: 500 14px/1.3 var(--sans); cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 35%, transparent); text-underline-offset: 3px; }
+.account-alt .linkish:hover { text-decoration-color: currentColor; }
+#account-body input[type="password"] { width: 100%; font: 400 16px/1.4 var(--sans); padding: 10px 12px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); color: var(--ink); }
+#account-body input[type="password"]:focus { outline: 2px solid var(--lapis); outline-offset: 1px; border-color: transparent; }`;
+    document.head.append(st);
+  }
+  // Signed in: set a password (after a reset link, or for an account made by emailed links), or change it.
+  function passwordSection() {
+    const open = step.reset || step.pwOpen;
+    const box = el("div", { class: "section" }, el("h3", { text: step.reset ? "Choose a new password" : "Password" }));
+    if (!open) {
+      box.append(el("p", { class: "hint", text: "Sign in on any device with your email and a password." }),
+        el("div", { class: "actions" }, el("button", { class: "btn line", type: "button", onclick: () => { step.pwOpen = true; render(); } }, "Set or change your password")));
+      if (step.pwDone) box.append(el("p", { class: "account-sent", role: "status", text: "Your password is saved." }));
+      return box;
+    }
+    const pw = el("input", { type: "password", id: "account-newpass", autocomplete: "new-password", required: true, minlength: "8" });
+    box.append(el("form", { class: "account-form", onsubmit: async ev => {
+      ev.preventDefault();
+      if (pw.value.length < 8) { problem = "Choose a longer password: at least 8 characters."; render(); return; }
+      step.busy = true; problem = ""; render();
+      try { await setPassword(pw.value); step.reset = false; step.pwOpen = false; step.pwDone = true; }
+      catch (e) { problem = said(e, "Couldn't save the password"); }
+      step.busy = false; render();
+    } },
+      el("label", { for: "account-newpass", text: "New password (at least 8 characters)" }), pw,
+      el("div", { class: "actions" },
+        el("button", { class: "btn solid", type: "submit", disabled: step.busy }, step.busy ? "Saving…" : "Save password"),
+        step.reset ? null : el("button", { class: "btn line", type: "button", onclick: () => { step.pwOpen = false; render(); } }, "Cancel"))));
+    return box;
+  }
   const privacy = () => el("p", { class: "hint" }, "Your account holds your email address, your highlights, notes and markings, and your reading plan, nothing else. ",
     el("a", { href: "privacy.html", text: "Privacy" }));
   function render() {
@@ -329,6 +399,7 @@
           el("button", { class: "btn solid", type: "button", onclick: () => sync(), disabled: status === "syncing" }, "Sync now"),
           el("button", { class: "btn line", type: "button", onclick: () => signOut() }, "Sign out")),
         el("p", { class: "hint", text: "Signing out leaves your highlights and notes on this device, and in your account." }),
+        passwordSection(),
         el("div", { class: "section" },
           el("h3", { text: "Delete your account" }),
           el("p", { class: "hint", text: "This deletes your account and every highlight and note in it, for good. What is saved on this device stays here." }),
@@ -341,9 +412,50 @@
         privacy());
     } else if (!step.sent) {
       const email = el("input", { type: "email", id: "account-email", autocomplete: "email", inputmode: "email", placeholder: "you@example.com", required: true, value: step.email });
+      if (step.mode !== "link") {
+        // Email and password: sign in, or make an account.
+        const pw = el("input", { type: "password", id: "account-password", autocomplete: step.mode === "new" ? "new-password" : "current-password", required: true, minlength: step.mode === "new" ? "8" : "1" });
+        const fresh = step.mode === "new";
+        kids.push(
+          el("p", {}, fresh ? "Make an account to keep your highlights, notes and reading plan on every device you use." : "Sign in to keep your highlights, notes and reading plan on every device you use."),
+          el("p", { class: "hint", text: "Reading never needs an account, and what you've saved on this device stays here either way." }),
+          el("form", { class: "account-form", onsubmit: async ev => {
+            ev.preventDefault();
+            step.email = email.value.trim();
+            if (fresh && pw.value.length < 8) { problem = "Choose a longer password: at least 8 characters."; render(); return; }
+            step.busy = true; problem = ""; render();
+            try {
+              if (fresh) {
+                const r = await signUp(step.email, pw.value);
+                if (r === "confirm") { step.confirm = true; }
+                else if (r === "exists") { step.mode = "in"; problem = "This email already has an account. Sign in with its password, or choose “Forgot your password?”."; }
+              } else await passwordSignIn(step.email, pw.value);
+            } catch (e) { problem = said(e, fresh ? "Couldn't make the account" : "Couldn't sign in"); }
+            step.busy = false; render();
+          } },
+            el("label", { for: "account-email", text: "Email" }), email,
+            el("label", { for: "account-password", text: fresh ? "Choose a password (at least 8 characters)" : "Password" }), pw,
+            el("div", { class: "actions" },
+              el("button", { class: "btn solid", type: "submit", disabled: step.busy }, step.busy ? (fresh ? "Making it…" : "Signing in…") : fresh ? "Make my account" : "Sign in"))),
+          step.confirm ? el("p", { class: "account-sent", role: "status" }, el("strong", { text: "Check your email." }), " Open the link we sent to confirm your account, and you'll be signed in.") : null,
+          el("p", { class: "account-alt" },
+            el("button", { class: "linkish", type: "button", onclick: () => { step.mode = fresh ? "in" : "new"; step.confirm = false; problem = ""; render(); } }, fresh ? "I have an account: sign in" : "New here? Make an account"),
+            fresh ? null : el("button", { class: "linkish", type: "button", onclick: async () => {
+              step.email = email.value.trim();
+              if (!step.email) { problem = "Type your email first, then choose “Forgot your password?”."; render(); return; }
+              step.busy = true; problem = ""; render();
+              try { await recover(step.email); step.mode = "link"; step.sent = true; step.resetSent = true; }
+              catch (e) { problem = said(e, "Couldn't send the link"); }
+              step.busy = false; render();
+            } }, "Forgot your password?"),
+            el("button", { class: "linkish", type: "button", onclick: () => { step.email = email.value.trim(); step.mode = "link"; problem = ""; render(); } }, "Email me a sign-in link instead")),
+          privacy());
+        body.replaceChildren(...kids.filter(Boolean));
+        return;
+      }
       kids.push(
-        el("p", {}, "Sign in with your email to keep your highlights, notes and reading plan on every device you use. We'll email you a link to sign in with: there's no password."),
-        el("p", { class: "hint", text: "Reading never needs an account, and what you've saved on this device stays here either way." }),
+        el("p", {}, "We'll email you a link to sign in with, no password needed."),
+        el("p", { class: "account-alt" }, el("button", { class: "linkish", type: "button", onclick: () => { step.mode = "in"; problem = ""; render(); } }, "Sign in with a password instead")),
         el("form", { class: "account-form", onsubmit: async ev => {
           ev.preventDefault();
           step.email = email.value.trim();
@@ -359,7 +471,7 @@
       // The link signs in whichever tab it opens in; this one follows (see the storage listener).
       kids.push(
         el("p", { class: "account-sent" }, el("strong", { text: "Check your email." })),
-        el("p", {}, "We sent a sign-in link to ", el("strong", { text: step.email }), ". Open it on this device, in this browser, and you'll be signed in."),
+        el("p", {}, step.resetSent ? "We sent a link to reset your password to " : "We sent a sign-in link to ", el("strong", { text: step.email }), step.resetSent ? ". Open it on this device, in this browser: you'll be signed in and asked for a new password." : ". Open it on this device, in this browser, and you'll be signed in."),
         el("p", { class: "hint", text: step.resent ? "We sent another link: use the newest one, as each link works once." : "It can take a minute to arrive; if it doesn't, look in your spam folder. The link works once." }),
         el("div", { class: "actions" },
           el("button", { class: "btn solid", type: "button", disabled: step.busy, onclick: async () => {
@@ -368,7 +480,7 @@
             catch (e) { problem = navigator.onLine === false ? "You're offline. Try again when you're connected." : "Couldn't send the link: " + e.message; }
             step.busy = false; render();
           } }, step.busy ? "Sending…" : "Send another link"),
-          el("button", { class: "btn line", type: "button", onclick: () => { step.sent = false; step.resent = false; problem = ""; render(); } }, "Use a different email")),
+          el("button", { class: "btn line", type: "button", onclick: () => { step.sent = false; step.resent = false; step.resetSent = false; step.mode = "in"; problem = ""; render(); } }, "Back to sign in")),
         privacy());
     }
     body.replaceChildren(...kids);

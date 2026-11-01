@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-08-timeline-scroll-timeline-svg-title bd-08-timeline-scroll-timeline-svg-desc">
+<title id="bd-08-timeline-scroll-timeline-svg-title">scroll</title>
+<desc id="bd-08-timeline-scroll-timeline-svg-desc">Timeline “scroll”: items named talmud, mishnah, papyrus, codex, hexapla, diatessaron, festal letter, textus, masoret, scrolls, tannaim, amoraim, geonim; stream “Bible transmission”</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="M6 3.5h12a2.5 2.5 0 0 1 2.5 2.5v1.5H16V18a2.5 2.5 0 0 1-2.5 2.5H6A2.5 2.5 0 0 1 3.5 18v-1.5H6V6a2.5 2.5 0 0 1 5 0v1.5" fill="currentColor" fill-opacity=".09"/><path d="M6 16.5h7.5V18a2.5 2.5 0 0 0 2.5 2.5"/><path d="M9 10.5h4M9 13.5h4" stroke-width="1.15"/>
+</svg>

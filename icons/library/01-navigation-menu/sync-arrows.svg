@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-01-navigation-menu-sync-arrows-svg-title bd-01-navigation-menu-sync-arrows-svg-desc">
+<title id="bd-01-navigation-menu-sync-arrows-svg-title">Sign in &amp; sync</title>
+<desc id="bd-01-navigation-menu-sync-arrows-svg-desc">Menu “Sign in &amp; sync”: keep highlights and notes on every device (shown only when accounts are available).</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="M20 10a8.2 8.2 0 0 0-14.5-3L3.5 9M3.5 4.5V9H8M4 14a8.2 8.2 0 0 0 14.5 3l2-2M16 15h4.5v4.5"/>
+</svg>

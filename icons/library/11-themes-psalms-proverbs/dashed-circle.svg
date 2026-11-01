@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-11-themes-psalms-proverbs-dashed-circle-svg-title bd-11-themes-psalms-proverbs-dashed-circle-svg-desc">
+<title id="bd-11-themes-psalms-proverbs-dashed-circle-svg-title">No name</title>
+<desc id="bd-11-themes-psalms-proverbs-dashed-circle-svg-desc">Psalms with no author named</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<circle cx="12" cy="12" r="8.5" stroke-dasharray="2 3.34" stroke-width="1.5"/>
+</svg>

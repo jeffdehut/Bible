@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-08-timeline-shield-with-cross-svg-title bd-08-timeline-shield-with-cross-svg-desc">
+<title id="bd-08-timeline-shield-with-cross-svg-title">shield</title>
+<desc id="bd-08-timeline-shield-with-cross-svg-desc">Timeline “shield”: (no rule names it directly)</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="m12 3 8 3.2v5.2c0 4.7-3.1 8-8 9.6-4.9-1.6-8-4.9-8-9.6V6.2Z" fill="currentColor" fill-opacity=".09"/><path d="M12 7v10M8.5 10.5h7"/>
+</svg>

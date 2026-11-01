@@ -1,0 +1,28 @@
+{
+  "asset_paths_preserved": 255,
+  "redesigned_svg": 253,
+  "regenerated_png": 2,
+  "all_asset_bytes_changed": true,
+  "original_documentation_verbatim": true,
+  "original_viewBoxes_preserved": true,
+  "unique_svg_ids": true,
+  "manifest_entries": 255,
+  "browser_checks": [
+    "all SVGs have nonempty drawing bounds",
+    "drawing geometry lies within viewBoxes",
+    "all images loaded",
+    "no JavaScript or console errors",
+    "search and empty state",
+    "family filtering",
+    "light and dark views",
+    "mobile has no horizontal overflow",
+    "PNG dimensions 192 and 512 verified"
+  ],
+  "visual_review": [
+    "entire set contact sheet",
+    "light catalog",
+    "dark catalog",
+    "16 px preview",
+    "512 px app icon"
+  ]
+}

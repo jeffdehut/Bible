@@ -1,0 +1,9 @@
+{
+  "grid": {"standard": 24, "note": 20, "legend": [22,12], "brand": 512},
+  "stroke": {"pictorial": 1.5, "control": 1.75, "engraving": 1.15, "linecap": "round", "linejoin": "round"},
+  "toneOpacity": 0.09,
+  "color": {"paper": "#f6f4ed", "ink": "#161b26", "inkDark": "#e9ecf3", "lapis": "#2646a1", "lapisDeep": "#152855", "gold": "#e3bf70", "goldLight": "#f8e5b3", "goldDeep": "#b88b42"},
+  "sectionColors": {
+    "law": ["#a8790a", "#f2c45a"], "history": ["#bf5a1f", "#f59a62"], "wisdom": ["#2f8a3c", "#8fdc8a"], "prophets": ["#c43434", "#ff7272"], "gospels": ["#2459c4", "#6fb0ff"], "acts": ["#0f8c83", "#4fd6cb"], "letters": ["#6d43c9", "#b996ff"], "revelation": ["#c23a7c", "#ff86c0"], "people": ["#6b7385", "#97a3c4"], "places": ["#3c8a6c", "#7fd6b4"], "events": ["#a87400", "#ffd27a"]
+  }
+}

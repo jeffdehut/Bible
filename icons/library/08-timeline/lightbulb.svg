@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-08-timeline-lightbulb-svg-title bd-08-timeline-lightbulb-svg-desc">
+<title id="bd-08-timeline-lightbulb-svg-title">bulb</title>
+<desc id="bd-08-timeline-lightbulb-svg-desc">Timeline “bulb”: items named enlightenment</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="M8.5 16c0-2.5-2.8-3.4-2.8-6.6a6.3 6.3 0 0 1 12.6 0c0 3.2-2.8 4.1-2.8 6.6Z" fill="currentColor" fill-opacity=".09"/><path d="M9 19h6M10.5 21.5h3"/><path d="m10 10 2 2 2-2M12 12v4" stroke-width="1.15"/>
+</svg>

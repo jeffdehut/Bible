@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#c23a7c" data-dark="#ff86c0" style="--icon-dark:#ff86c0" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-06-bible-sections-colored-star-five-point-c23a7c-svg-title bd-06-bible-sections-colored-star-five-point-c23a7c-svg-desc">
+<title id="bd-06-bible-sections-colored-star-five-point-c23a7c-svg-title">Revelation (color)</title>
+<desc id="bd-06-bible-sections-colored-star-five-point-c23a7c-svg-desc">Colored copy for convenience; in the app the color comes from CSS (`--c1`/`--c2` in the picker, `WEB_GROUPS` in the web).</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#ff86c0}}</style>
+<path d="m12 3 2.75 5.6 6.2.9-4.5 4.4 1.1 6.2L12 17.2l-5.55 2.9 1.1-6.2-4.5-4.4 6.2-.9Z" fill="currentColor" fill-opacity=".09"/><path d="m12 7 .9 2" stroke-width="1.15"/>
+</svg>
