@@ -58,3 +58,7 @@ Found while drafting; not yet settled across books.
   Hosea 5:13 and 10:6 read *malki rav* 大王 against 和合本「耶雷布王」. Hosea 4:4, 4:18, 5:2, 6:9, 7:4–7, 8:10, 8:13, 10:5, 11:7, 12:1, 13:2, 13:9 and Joel 1:17, 2:6, 4:21 rest on difficult Hebrew.
   Moph (Hosea 9:6) is 摩弗 as 和合本 Hosea, though the same city is 挪弗 elsewhere. *Yevanim* (Joel 4:6) 希臘人 as 和合本 Joel, against Isaiah 66:19's 雅完.
 - 毗 / 毘: settled as 毗 everywhere (text, notes and names table), the standard modern form; 毘 is its variant.
+- Amos, Obadiah, Jonah, Micah: Sikkuth and Kiyyun (Amos 5:26) are coined as 西固特、基雲 (和合本 translates 「摩洛的帳幕」「偶像的星」 after the Septuagint); Karnaim (6:13) 加寧 after Genesis 14:5's 亞特律‧加寧.
+  *anakh* (Amos 7:7–8) is 鉛垂線, against 和合本「準繩」 (kept for *qav*). Micah 2:12 *botsrah* is 羊圈 in the text, against 和合本's name 波斯拉. Micah 4:8 *Migdal-eder* is translated 羊群的守望樓 (Genesis 35:21 以得臺).
+  Obadiah keeps Jeremiah 49's wording except where the Hebrew differs (Obadiah 5 stays a question; 6 uses 搜遍). Amos 2:7, 3:12, 6:10, 7:4, Obadiah 7, 20, Micah 1:10–15, 2:4–11, 6:9–10, 6:14, 7:3 rest on difficult Hebrew.
+  Moresheth is 摩利沙 (1:1, as Jeremiah 26:18) but Moresheth-gath 摩利設‧迦特 (1:14), as 和合本. The names-table keys Obadiah (俄巴底) and Micah (米迦) are shared with other bearers and were left alone; the text has 俄巴底亞, 彌迦.

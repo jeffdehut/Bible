@@ -2,6 +2,11 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Wadi of the Arabah":"亞拉巴河",
+"Moresheth-gath":"摩利設‧迦特",
+"Kiyyun":"基雲",
+"Sikkuth":"西固特",
+"Karnaim":"加寧",
 "Valley of Decision":"斷定谷",
 "Valley of Jehoshaphat":"約沙法谷",
 "Moph":"摩弗",
