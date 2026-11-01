@@ -293,7 +293,7 @@ def appbar(current, root=""):
     return (f'{APPBAR_CSS}\n<header class="appbar">\n'
             f'  <a class="brand" href="{root}index.html"><img src="{root}icons/icon.svg" alt="BibleData.org">'
             f'<span aria-hidden="true">BibleData.org</span></a>\n</header>\n'
-            f'<script src="{root}nav.js?v=42"></script>')
+            f'<script src="{root}nav.js?v=43"></script>')
 
 
 def page(name, data):

@@ -43,10 +43,6 @@
   // of the reader (opened there by its button, #open-NAME). extra.sub gives the reader an
   // element for a live line under the label; extra.hidden starts it hidden.
   const MENU = [
-    ["Settings", "menu-you", [
-      ["account", "Account", "account", "reader:account", "Sign in to keep your highlights and notes on every device", { sub: "account-sub", hidden: true }],
-      ["settings", "Text & display", "display", "reader:settings", "Text size, theme and what the page shows", { readerOnly: true }],
-    ]],
     ["Read and study", "", [
       ["read", "Read", "read", "index.html", "Back to the Bible, where you left off", { away: true }],
       ["mine", "Highlights & notes", "mine", "reader:mine", "Your highlights and notes, saved on this device"],
@@ -67,6 +63,10 @@
       ["visual", "Visual Bible", "visual", "library.html", "Each book on the shelf, and seen whole from its own words"],
       ["kings", "Kings", "kings", "kings.html", "The kings of Israel and Judah, with the prophets of their days"],
       ["arcs", "Cross-refs", "arcs", "arcs.html", "Every cross-reference in the Bible as an arc"],
+    ]],
+    ["Settings", "menu-you", [
+      ["account", "Account", "account", "reader:account", "Sign in to keep your highlights and notes on every device", { sub: "account-sub", hidden: true }],
+      ["settings", "Text & display", "display", "reader:settings", "Text size, theme and what the page shows", { readerOnly: true }],
     ]],
     ["About", "menu-about", [
       ["project", "This project", "project", "reader:project", "Who made it"],
