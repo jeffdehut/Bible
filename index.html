@@ -2021,6 +2021,7 @@ const penOf = c => (HL.includes(c) ? "bg" : String(c).split(":")[0]);
 // What a new mark replaces where it lands: another of its kind (one highlight, one line, …).
 const layerOf = c => { const p = penOf(c); return LINES.includes(p) ? "line" : p; };
 function openSheet(id) {
+  try { if (inking) stopInk(); } catch (e) { /* before the ink layer is set up */ }
   for (const s of document.querySelectorAll(".sheet.dialog")) if (s.id !== id) s.hidden = true;
   $(id).hidden = false;
   $("scrim").hidden = false;
@@ -4839,6 +4840,15 @@ function stopInk() {
   inkLive.setAttribute("d", "");
 }
 $("open-draw").onclick = startInk;
+// Drawing ends when anything else is used: a tap outside the page's ink and the drawing bar (the
+// top bar, a menu, a panel), a panel opening, or Escape.
+document.addEventListener("pointerdown", ev => {
+  if (!inking) return;
+  const t = ev.target;
+  if (t === inkSvg || inkSvg.contains(t) || inkBar?.contains(t) || t.closest?.(".ink-tab")) return;
+  stopInk();
+}, true);
+addEventListener("keydown", ev => { if (inking && ev.key === "Escape") stopInk(); });
 // While drawing: a pencil's touches are always held for drawing; without a pencil, one finger
 // draws (so the page must not scroll under it) and two fingers scroll, by the reader's own hand.
 Sketch.holdStylus(inkSvg, () => inking, () => (Sketch.sawPen ? null : "all"));
@@ -5416,7 +5426,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=96").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=97").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
