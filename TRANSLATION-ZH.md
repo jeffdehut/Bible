@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 Thessalonians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1529,6 +1529,20 @@ Settled while drafting 1 Thessalonians:
 | πνεῦμα, ψυχή, σῶμα (5:23) | 靈、魂和身體 | ψυχή 魂 as Colossians 3:23's note; the debate over three parts noted. |
 | ἄτακτοι (5:14) | 游手好閒的人 | 或譯「不守規矩的人」 noted; 2 Thessalonians 3:6–11 linked. |
 | Names | 西拉 (*Silvanus*, as 2 Corinthians)、提摩太、帖撒羅尼迦、馬其頓、亞該亞、腓立比、雅典 | |
+
+Settled while drafting 2 Thessalonians:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| ἀποστασία (2:3) | 背道的事 | Plainer than 和合本「離道反教」 (noted); *apostasia* 「叛亂、背叛」, political or against God, noted. |
+| ὁ ἄνθρωπος τῆς ἀνομίας; ὁ υἱὸς τῆς ἀπωλείας; ὁ ἄνομος (2:3, 8) | 那不法的人；那滅亡之子 (as John 17:12)；那不法的人 | 「那罪惡的人」 manuscripts noted. |
+| τὸ κατέχον; ὁ κατέχων (2:6–7) | 那攔阻他的；那攔阻的 | Neuter and masculine, the unknown referent and the other senses of *katecho* noted. |
+| παρουσία (2:1, 8, 9) | 來臨 | As 1 Thessalonians; 2:9 the same word for the lawless one, noted. ἐπιφάνεια (2:8) 顯現. |
+| παράδοσις (2:15; 3:6) | 傳統 | As 1 Corinthians 11:2. |
+| Old Testament echoes | Noted with our Old Testament's wording | 1:8 Isaiah 66:15, Jeremiah 10:25; 1:9 Isaiah 2:10, 19, 21 (Septuagint 權能的榮光, our 威嚴的榮光); 2:4 Daniel 11:36 (一切神明 / 一切稱為神的), Ezekiel 28:2; 2:8 用口中的氣殺死他 as our Isaiah 11:4 (用嘴唇的氣殺死惡人). |
+| 2:2; 3:17 | 好像是我們寄來的書信；我保羅親筆問候你們 | 3:17 as Colossians 4:18; the notes link the signature to 2:2. |
+| 3:10 | 「若有人不肯工作，就不可吃飯。」 | |
+| ἀτάκτως; περιεργάζομαι (3:6–11) | 游手好閒；只管閒事 | As 1 Thessalonians 5:14; 3:11 甚麼事都不做，只管閒事 keeps a wordplay (*ergazomai*/*periergazomai* noted). |
 
 ## Style
 
