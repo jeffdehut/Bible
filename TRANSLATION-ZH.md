@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 Peter drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1640,6 +1640,22 @@ Settled while drafting 1 Peter:
 | οἰκέται (2:18); συμπρεσβύτερος (5:1); ἀρχιποίμην (5:4); ἐπίσκοπος (2:25) | 家僕；同作長老的；牧長；監督 | 5:5 *presbyteroi* 年長的 (the link to 長老 noted). |
 | 4:8 (Proverbs 10:12) | 愛能遮掩許多的罪 | As our Proverbs note; James 5:20 the same. Χριστιανός 基督徒 as Acts 11:26. |
 | Names | 彼得、本都、加拉太、加帕多家、亞細亞、庇推尼、撒拉、亞伯拉罕、挪亞、西拉 (*Silouanos*, as 2 Corinthians 1:19)、巴比倫 (noted as Rome)、馬可 | |
+
+Settled while drafting 2 Peter:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Συμεὼν Πέτρος (1:1) | 西面彼得 | The Hebrew form, as Acts 15:14; 和合本「西門彼得」 noted. 1:1 我們的神和救主耶穌基督 (one article, as Titus 2:13; the two-person reading noted). |
+| ἐπίγνωσις; ἀρετή; θείας κοινωνοὶ φύσεως (1:3–4) | 認識；美德；分享神的本性 | The ladder of 1:5–7: 信心、美德、知識、節制、忍耐、敬虔、愛弟兄姊妹的心、愛. |
+| 1:17 (the transfiguration) | 這是我的兒子，是我所愛的，我喜悅他 | = Matthew 17:5; the Greek order and the unfinished sentence noted. ἡ μεγαλοπρεπὴς δόξα 那至高的榮耀. |
+| 1:20–21 | 經上所有的預言，都不是出於個人的解釋；人被聖靈感動，說出從神而來的話 | The two readings of *idias epilyseos* and the *phero* wordplay noted. |
+| 2:1–18 (parallel to Jude 4–16) | Shared wording kept for Jude: 主宰 (*despotes*)；放蕩；藐視主權 (*kyriotes*)；毀謗那些有尊榮的；沒有理性的畜類；毀謗自己所不知道的事；一同吃喝；巴蘭；無水的泉源；漆黑的幽暗；誇大的話 | Each parallel noted. |
+| ταρταρόω (2:4) | 丟進地獄 | As 和合本; *Tartarus* noted and kept apart from *geenna*. σειραὶ ζόφου 黑暗的鎖鏈. |
+| 2:5–8 | 傳義道的挪亞一家八口；所多瑪和蛾摩拉；義人羅得 | 直譯「第八位挪亞」 noted. |
+| Βαλαὰμ τοῦ Βοσόρ (2:15) | 比珥的兒子巴蘭 | 比珥 as Numbers 22:5 and 和合本, with *Bosor* (SBLGNT) and *Beor* noted; Bosor added to the names table. |
+| 2:22 | 狗轉過來吃自己所吐的；豬洗淨了，又回到泥裏打滾 | Our Proverbs 26:11 and its note. 2:20 = Matthew 12:45 (後來的景況就比先前更糟了). |
+| 3:8; 3:10 | 在主看來，一日如千年，千年如一日；主的日子要像賊一樣來到 | Psalm 90:4 and 1 Thessalonians 5:2 noted. στοιχεῖα 元素; 3:10 εὑρεθήσεται 顯露出來, with the variants. |
+| 3:16 | 別的經書 | Noted as the one New Testament reference to a collection of Paul's letters. |
 
 ## Style
 

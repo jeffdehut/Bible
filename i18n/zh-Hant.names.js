@@ -2,6 +2,7 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Bosor":"比珥",
 "Hermogenes":"黑摩其尼",
 "Colossae":"歌羅西",
 "Syntyche":"循都基",
