@@ -950,6 +950,16 @@ Settled while drafting Jeremiah:
 | מָגוֹר מִסָּבִיב as a name (20:3) | 瑪歌珥‧米撒畢 | Union Version form; the meaning 四面都是驚嚇 noted. |
 | שִׁבְעִים שָׁנָה (25:11–12) | 七十年 | 29:10, 2 Chronicles 36:21, Daniel 9:2 noted. |
 | חַי־אָנִי (22:24); חַי־יְהוָה (16:14–15; 23:7–8) | 我指着我的永生起誓；我指着……永活的耶和華起誓 | As Isaiah 49:18 and 12:16. |
+| Layout of 33–42 | Narrative speech in 「」, a message inside 『』, a third level 「」; oracles introduced by narrative unmarked where the English leaves them so (33; 34) | As 32. |
+| 33:14–26; 33:15–16 | 23:5–6's words (公義的苗；施行公正和公義；猶大必得救……安然居住；「耶和華我們的義」) | Absence from the Septuagint noted at 33:14; *atsmiach* 使……長出來 against 23:5 興起, noted. |
+| חֲצַר הַמַּטָּרָה | 護衞兵的院子 | As 32:2; 和合本「護衞兵的院」. |
+| דְּרוֹר (34:8–17) | 自由；宣告自由 | *deror* and the Jubilee noted; 34:17 「自由」 in quotation marks for the irony. |
+| בֶּן־הַמֶּלֶךְ (36:26; 38:6) | 王子 | 「王族的人」 and 和合本 「哈米勒的兒子」 noted. |
+| סֹפֵר (Baruch; Elishama; Jonathan) | 書記 | As Kings. |
+| רַב־טַבָּחִים; רַב־סָרִיס; רַב־מָג (39–41) | 護衞長；拉撒力；拉墨 | 拉撒力, 拉墨 as 和合本 Jeremiah (Kings 拉伯撒利 noted), joined to the name with ‧. |
+| Jeremiah 39:1–10; 40:7–9; 41:1–3 (2 Kings 25) | 2 Kings 25's wording wherever the Hebrew agrees (眾軍長、部下、剜了……眼睛、用銅鏈鎖着) | Differences noted as 列王紀下25章23節作「……」; names by 和合本 Jeremiah (單戶篾 beside Kings' 單戶蔑). |
+| נָפַל אֶל (to the Babylonians) | 投降 | 37:13–14; 38:19; 39:9. יָצָא אֶל (38:17–21) 出去投降, 「出去」 noted. |
+| גּוּר (42:15–22) | 寄居 | *gur* noted. |
 
 ## Style
 
