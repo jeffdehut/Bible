@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=59"></script>
+<script src="i18n.js?v=60"></script>
 <script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
@@ -98,6 +98,7 @@ a { color: var(--lapis); }
 .btn:hover { background: var(--lapis-soft); }
 .btn.solid { background: var(--lapis); color: var(--surface); }
 a.btn { text-decoration: none; }
+#bar-draw[aria-pressed="true"] { background: var(--lapis); color: var(--surface); }
 .btn.line { border: 1px solid var(--line); }
 .eyebrow { font: 600 12px/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0; }
 
@@ -974,6 +975,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   </button>
   <button class="btn ver-btn" id="ver" type="button" aria-haspopup="dialog" aria-label="Choose a version of the Bible"><span id="ver-label">…</span></button>
   <span class="spacer"></span>
+  <button class="btn" id="bar-draw" type="button" aria-label="Draw on the page" aria-pressed="false" title="Draw on the page"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4L19 9l-4-4L4 16Z"/><path d="m13.5 6.5 4 4"/></svg></button>
   <button class="btn" id="open-search" type="button" aria-label="Search"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
   <button class="btn" id="open-menu" type="button" aria-label="Menu"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
 </header>
@@ -4917,6 +4919,7 @@ function startInk() {
   closeSheets(); closeVerse(); clearSel(); hlBar.hidden = true;
   inking = true;
   document.body.classList.add("inking");
+  $("bar-draw").setAttribute("aria-pressed", "true");
   Sketch.css();
   inkSvg.style.touchAction = Sketch.sawPen ? "pan-y" : "none";
   Sketch.tools.erase = false;
@@ -4945,16 +4948,19 @@ function stopInk() {
   if (inkShift) setInkShift(0);
   inkMargins();
   document.body.classList.remove("inking");
+  $("bar-draw").setAttribute("aria-pressed", "false");
   inkBar?.remove(); inkBar = null;
   inkLive.setAttribute("d", "");
 }
 $("open-draw").onclick = startInk;
+// The pencil in the top bar: drawing on, or off again.
+$("bar-draw").onclick = () => (inking ? stopInk() : startInk());
 // Drawing ends when anything else is used: a tap outside the page's ink and the drawing bar (the
 // top bar, a menu, a panel), a panel opening, or Escape.
 document.addEventListener("pointerdown", ev => {
   if (!inking) return;
   const t = ev.target;
-  if (t === inkSvg || inkSvg.contains(t) || inkBar?.contains(t) || t.closest?.(".ink-tab")) return;
+  if (t === inkSvg || inkSvg.contains(t) || inkBar?.contains(t) || t.closest?.(".ink-tab, #bar-draw")) return;
   stopInk();
 }, true);
 addEventListener("keydown", ev => { if (inking && ev.key === "Escape") stopInk(); });
@@ -5591,7 +5597,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=139").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=140").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -5641,6 +5647,6 @@ var reader = {
 <script src="config.js?v=31"></script>
 <script src="share.js?v=32"></script>
 <script src="account.js?v=37"></script>
-<script src="tour.js?v=3"></script>
+<script src="tour.js?v=4"></script>
 </body>
 </html>
