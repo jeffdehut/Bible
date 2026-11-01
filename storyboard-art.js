@@ -165,9 +165,61 @@
     ["black", "Black felt", S("#22252b", "")],
   ].map(([id, name, svg]) => ({ id, name, svg }));
 
+  // How the pieces are found: a group within their drawer, words to search by, and the stories
+  // they belong to. With hundreds of pieces, these keep any one easy to find.
+  const SUBS = {
+    people: [["ot", "Old Testament"], ["nt", "New Testament"], ["everyday", "Everyday people"], ["heaven", "Angels"]],
+    animals: [["farm", "Farm animals"], ["wild", "Wild animals"], ["birds", "Birds"], ["water", "Fish and sea"]],
+    things: [["home", "Home and town"], ["boats", "Boats"], ["worship", "Worship"], ["royal", "Kings and battles"], ["writing", "Writing"]],
+    nature: [["plants", "Plants"], ["land", "Land and water"], ["sky", "Sky"]],
+  };
+  const META = {
+    jesus: ["nt", "Christ Lord Messiah Son of God teacher"], mary: ["nt", "mother of Jesus"], joseph: ["nt", "carpenter husband of Mary"],
+    man: ["everyday", "person adult crowd"], woman: ["everyday", "person adult crowd"], "old-man": ["everyday", "elder grandfather"],
+    "old-woman": ["everyday", "elder grandmother widow"], boy: ["everyday", "child kid son"], girl: ["everyday", "child kid daughter"],
+    shepherd: ["everyday", "flock sheep keeper"], "shepherd-boy": ["everyday", "child flock"], king: ["everyday", "ruler royal Saul Solomon Herod pharaoh"],
+    queen: ["everyday", "royal Esther Sheba"], soldier: ["everyday", "army guard Roman warrior centurion"], angel: ["heaven", "Gabriel messenger"],
+    priest: ["everyday", "Aaron temple high priest Levite"], "wise-man": ["nt", "magi king gift"], fisherman: ["nt", "disciple Andrew James John"],
+    teacher: ["everyday", "rabbi scribe scroll"], adam: ["ot", "first man"], eve: ["ot", "first woman"], noah: ["ot", "ark flood"],
+    abraham: ["ot", "Abram father patriarch"], sarah: ["ot", "Sarai wife"], moses: ["ot", "lawgiver prophet Exodus"], david: ["ot", "shepherd king boy"],
+    goliath: ["ot", "giant Philistine"], daniel: ["ot", "prophet lions"], peter: ["nt", "Simon disciple apostle fisherman"], paul: ["nt", "Saul apostle missionary"],
+    zacchaeus: ["nt", "tax collector short"], pharisee: ["nt", "religious leader scribe"], baby: ["nt", "infant Jesus newborn"],
+    sheep: ["farm", "flock lamb wool ewe"], lamb: ["farm", "sheep young"], donkey: ["farm", "ass colt"], camel: ["farm", "desert caravan"], lion: ["wild", "den"],
+    ox: ["farm", "cow cattle bull calf"], dove: ["birds", "Holy Spirit peace bird"], fish: ["water", "catch"], "great-fish": ["water", "whale Jonah big fish"],
+    snake: ["wild", "serpent devil"], raven: ["birds", "bird black"], goat: ["farm", "kid scapegoat"],
+    ark: ["boats", "flood boat"], boat: ["boats", "sail fishing"], tent: ["home", "tabernacle camp"], house: ["home", "home town"], wall: ["home", "Jericho gate city"],
+    well: ["home", "water Samaritan"], jar: ["home", "water pot jug"], bread: ["home", "five loaves two fish feeding"], tablets: ["worship", "ten commandments law stone"],
+    staff: ["home", "rod shepherd"], crown: ["royal", "king queen"], lamp: ["home", "light oil parable"], manger: ["home", "stable hay"], cross: ["worship", "crucifixion Calvary"],
+    tomb: ["worship", "grave resurrection stone"], scroll: ["writing", "book Scripture law"], sling: ["royal", "stones David weapon"], throne: ["royal", "seat king"],
+    altar: ["worship", "sacrifice offering fire"], tree: ["plants", "oak"], "fruit-tree": ["plants", "apple fig fruit"], palm: ["plants", "palm branches"],
+    bush: ["plants", "burning bush fire"], rock: ["land", "stone"], hill: ["land", "hill mount"], mountain: ["land", "mount Sinai"], water: ["land", "river sea lake"],
+    sun: ["sky", "day light"], moon: ["sky", "night"], star: ["sky", "Bethlehem night"], cloud: ["sky", "pillar"], rainbow: ["sky", "promise flood"], grass: ["plants", "field"],
+    flowers: ["plants", "lilies field"],
+  };
+  const STORIES = [
+    ["creation", "Creation", "Genesis 1–2", "adam eve tree fruit-tree sun moon star cloud water flowers grass fish dove sheep lion", "garden"],
+    ["fall", "The garden and the serpent", "Genesis 3", "adam eve snake fruit-tree tree angel", "garden"],
+    ["noah", "Noah and the flood", "Genesis 6–9", "noah ark dove raven rainbow cloud water sheep ox camel lion goat donkey", "sea hills"],
+    ["abraham", "Abraham and Sarah", "Genesis 12–22", "abraham sarah tent star camel sheep goat altar", "desert night"],
+    ["moses", "Moses and the Exodus", "Exodus 3–20", "moses bush staff tablets mountain water priest sheep", "desert sea"],
+    ["david", "David and Goliath", "1 Samuel 17", "david goliath sling soldier king shepherd-boy sheep", "hills"],
+    ["daniel", "Daniel and the lions", "Daniel 6", "daniel lion king soldier", "indoors"],
+    ["jonah", "Jonah", "Jonah 1–4", "great-fish boat man cloud water", "sea"],
+    ["nativity", "The first Christmas", "Luke 2; Matthew 2", "baby mary joseph angel shepherd sheep donkey ox manger star wise-man camel", "night town"],
+    ["ministry", "Jesus' ministry", "The Gospels", "jesus peter fisherman boat fish bread zacchaeus tree pharisee man woman boy girl", "sea hills town"],
+    ["easter", "Easter", "The Gospels", "jesus cross tomb soldier mary angel rock", "hills garden"],
+    ["church", "The early church", "Acts", "peter paul scroll house man woman", "town"],
+  ].map(([id, name, ref, pieces, scenes]) => ({ id, name, ref, pieces: pieces.split(" "), scenes: scenes.split(" ") }));
+  for (const p of [...people, ...animals, ...things, ...nature]) {
+    const m = META[p.id] || [];
+    p.sub = m[0] || ""; p.tags = m[1] || "";
+    p.stories = STORIES.filter(st => st.pieces.includes(p.id)).map(st => st.id);
+  }
+
   window.SB_ART = {
+    subs: SUBS, stories: STORIES,
     pieces: [...people, ...animals, ...things, ...nature],
     scenes,
-    cats: [["people", "People"], ["animals", "Animals"], ["things", "Things"], ["nature", "Nature"], ["scenes", "Scenes"]],
+    cats: [["recent", "Recent"], ["stories", "Stories"], ["people", "People"], ["animals", "Animals"], ["things", "Things"], ["nature", "Nature"], ["scenes", "Scenes"]],
   };
 })();

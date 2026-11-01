@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=51"></script>
+<script src="i18n.js?v=52"></script>
 <script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
@@ -800,6 +800,7 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 .hl-bar { align-items: stretch; width: min(340px, calc(100vw - 16px)); transform-origin: 50% 100%; }
 .hl-bar.below { transform-origin: 50% 0; }
 @keyframes hl-pop { from { opacity: 0; transform: translateY(var(--pop-y, 6px)) scale(.96); } }
+.hl-ref { padding: 2px 8px 0; font: 600 12px/1.3 var(--sans); letter-spacing: 0.02em; color: var(--muted); }
 .hl-bar.pop { animation: hl-pop .16s cubic-bezier(.2, .8, .2, 1); }
 .hl-bar.below.pop { --pop-y: -6px; }
 .markmenu { display: flex; flex-direction: column; gap: 6px; }
@@ -984,6 +985,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <ul class="wnotes" id="vwords" hidden></ul>
   <div class="actions">
     <button class="btn line" type="button" id="listen-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect x="3" y="14" width="4.5" height="7" rx="1.5"/><rect x="16.5" y="14" width="4.5" height="7" rx="1.5"/></svg>Listen from here</button>
+    <button class="btn line" type="button" id="select-verses"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h10M4 12h10M4 18h10"/><path d="m16 11 2 2 4-4"/></svg>Select verses</button>
     <button class="btn line" type="button" id="share-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>Share verse</button>
   </div>
   </div>
@@ -2136,6 +2138,8 @@ async function openVerse(span) {
   $("note").hidden = !a.n;
   $("note").oninput = () => { setNote(id, span, $("note").value); };
   $("listen-verse").onclick = () => { closeVerse(); listen.start(span); };
+  // More than one verse: this one chosen, and a tap on another takes in every verse to it.
+  $("select-verses").onclick = () => { closeVerse(); pickVerse(span); toast("Tap another verse to select every verse up to it"); };
   $("share-verse").onclick = () => window.Share?.verse({ ref: `${bookName} ${c}:${n}`, text: plainVerse(row[1]),
     note: VER === "ours" ? "Open Plain English Translation · draft" : verOf(VER)?.share || verOf(VER)?.name || VER, url: Share.here("index.html", refHash(b, c, n)).replace(/index\.html#/, "#") });
   // Words.
@@ -2249,6 +2253,7 @@ function renderVerseMenu(id, span, row) {
     bookmarked: !!a().b,
     bookmark: () => { const on = !!a().b; setBookmark(id, on ? null : id); toast(!on ? L.t("Bookmarked {ref}", { ref: passageLabel(id) }) : "Bookmark removed"); renderVerseMenu(id, span, row); },
     copy: () => copyVerse(row),
+    felt: whole(() => feltSelection()),
   }));
 }
 // The whole verse chosen, quietly (no balloon): what the verse panel's menu acts on.
@@ -5020,6 +5025,7 @@ function barTool(label, icon, onclick, text) {
 // What to do with the chosen words: a row of its own, named, so it is always in view.
 const ICON_STICKY = '<svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2h16v11l-5 5H2z" style="fill:var(--hl-yellow);stroke:var(--ink-yellow)" stroke-width="1.6" stroke-linejoin="round"/><path d="M13 18v-5h5" style="fill:var(--ink-yellow);fill-opacity:.35;stroke:var(--ink-yellow)" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.5 7h9M5.5 10.5h6" style="stroke:var(--ink-yellow)" stroke-width="1.4" stroke-linecap="round"/></svg>';
 const ICON_PENCIL = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4L19 9l-4-4L4 16Z"/><path d="m13.5 6.5 4 4"/></svg>';
+const ICON_FELT = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="2"/><path d="M7.5 18v-2.5a1.5 1.5 0 0 1 3 0V18"/><path d="m14 15 2.5-4 2.5 4Z"/></svg>';
 const toolRow = (...tools) => el("div", { class: "row tools" }, ...tools);
 // The menu for marking words: a style (a highlight, a line, a box, lettering, or an emoji), then
 // its color (or which emoji), then a note, a bookmark, a copy. The same menu is the balloon over
@@ -5045,10 +5051,18 @@ function markMenu(t) {
     second = el("div", { class: "row" }, ...colors, el("button", { class: "swatch none", type: "button", "aria-label": "Clear highlight", title: "Clear highlight", onmousedown: keepSel, onclick: () => t.highlight(null) }));
   }
   return [pens, second, toolRow(barTool("Note on these words", ICON_STICKY, t.note, L.t("Note")), barTool("Sketch for these words", ICON_PENCIL, t.sketch, L.t("Sketch")),
-    barTool("Bookmark", ICON_BM, t.bookmark, L.t(t.bookmarked ? "Bookmarked" : "Bookmark")), barTool("Copy the selected words", ICON_COPY, t.copy, L.t("Copy")))];
+    barTool("Bookmark", ICON_BM, t.bookmark, L.t(t.bookmarked ? "Bookmarked" : "Bookmark")), barTool("Copy the selected words", ICON_COPY, t.copy, L.t("Copy")),
+    ...(t.felt ? [barTool("Put these words on a Felt Stories board", ICON_FELT, t.felt, L.t("Felt Stories"))] : []))];
 }
 // The balloon: for the words chosen, or for an emoji tapped in the text (then that emoji's words).
 let editingEmoji = null;   // { id, k }
+// Several verses chosen: which, above the menu.
+function hlRef() {
+  hlBar.querySelector(".hl-ref")?.remove();
+  let vs = [];
+  try { vs = selectedVerses(); } catch (e) { /* the page is still starting: nothing chosen */ }
+  if (vs.length > 1) hlBar.prepend(el("div", { class: "hl-ref", text: L.t("{ref} · {n} verses", { ref: passageLabel(vs[0][0].dataset.id, vs[vs.length - 1][0].dataset.id), n: vs.length }) }));
+}
 function hlBarMain() {
   hlBar.classList.remove("marking");
   hlBar.classList.add("markmenu");
@@ -5057,7 +5071,9 @@ function hlBarMain() {
     again: () => { hlBarMain(); placeHlBar(); },
     emoji: ed ? ed[3] : null,
     highlight: highlightSelection, setEmoji: emojiSelection, clearEmoji, note: noteSelection, sketch: sketchSelection, bookmark: bookmarkSelection, copy: copySelection,
+    felt: feltSelection,
   }));
+  hlRef();
 }
 // Emoji for marking a passage: simple one-color signs in the theme's accent. Kept by name; the
 // colored emoji of the first version stand for the same signs.
@@ -5135,6 +5151,21 @@ function copySelection() {
   else fallbackCopy(text, done);
 }
 
+// The words chosen, onto a board in Felt Stories: kept for it to pick up, then there. Several
+// verses keep their numbers; the reference and the version go with them.
+function feltSelection() {
+  const vs = selectedVerses();
+  if (!vs.length) return;
+  const sup = n => String(n).replace(/\d/g, d => "⁰¹²³⁴⁵⁶⁷⁸⁹"[d]);
+  const text = vs.map(([span, s, e]) => {
+    const w = countedText(span).map(n => n.data).join("").slice(s, e).trim().replace(/\s+/g, " ");
+    return vs.length > 1 ? sup(span.dataset.v) + "\u2009" + w : w;
+  }).join(" ");
+  const ref = passageLabel(vs[0][0].dataset.id, vs[vs.length - 1][0].dataset.id);
+  try { localStorage.setItem("sb.incoming", JSON.stringify({ text, ref, ver: tiny(VER), t: Date.now() })); } catch (e) { toast("Couldn't keep the verses for Felt Stories"); return; }
+  clearSel(); closeVerse();
+  location.href = "storyboard.html#verse";
+}
 function placeHlBar() {
   const r = selRange();
   if (!r) return;
@@ -5155,7 +5186,7 @@ function showSelBar() {
   const vs = selectedVerses();
   if (!vs.length) { hlBar.hidden = true; return; }
   const opening = hlBar.hidden;
-  if (opening) hlBarMain();
+  if (opening) hlBarMain(); else if (hlBar.classList.contains("markmenu")) hlRef();
   hlBar.hidden = false;
   placeHlBar();
   if (opening) { hlBar.classList.remove("pop"); void hlBar.offsetWidth; hlBar.classList.add("pop"); }
@@ -5291,7 +5322,7 @@ $("text").addEventListener("touchcancel", letGo);
 $("text").addEventListener("contextmenu", ev => { if (coarse.matches) ev.preventDefault(); });
 // A tap anywhere but the bar lets the words go.
 document.addEventListener("pointerdown", ev => {
-  if (pick && !holding && !ev.target.closest(".hl-bar, .pick-handle, .ui-sheet, .vn")) { clearPick(); if (ev.target.closest("#text")) skipUntil = Date.now() + 800; }
+  if (pick && !holding && !ev.target.closest(".hl-bar, .pick-handle, .ui-sheet, .vn, #text .v")) { clearPick(); if (ev.target.closest("#text")) skipUntil = Date.now() + 800; }
 }, true);
 addEventListener("resize", () => { if (pick) clearPick(); });
 // An emoji tapped: its words chosen, and the balloon on them with that emoji, to change or take off.
@@ -5329,6 +5360,9 @@ $("text").addEventListener("click", ev => {
   // every verse to it: from one word to many verses.
   const vn = ev.target.closest(".vn");
   if (vn) { ev.stopPropagation(); pickVerse(vn.closest(".v")); return; }
+  // Verses chosen: a tap on another verse takes in every verse to it; a tap inside lets them go.
+  const tapped = pick && ev.target.closest(".v");
+  if (tapped) { ev.stopPropagation(); if (pick.range.intersectsNode(tapped)) clearPick(); else pickVerse(tapped); return; }
   const fn = ev.target.closest(".fn");
   if (fn) {
     ev.stopPropagation();
@@ -5472,7 +5506,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=124").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=125").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {

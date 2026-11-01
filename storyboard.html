@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=51"></script>
+<script src="i18n.js?v=52"></script>
 <script src="ui.js?v=3"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -78,14 +78,6 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .empty-hint[hidden] { display: none; }
 .empty-hint p { margin: 0; max-width: 360px; padding: 14px 18px; border-radius: 14px; background: color-mix(in srgb, #000 35%, transparent); color: #fff; font: 500 15px/1.45 var(--sans); }
 
-/* The tools for the piece that is picked up. */
-.tools { position: absolute; left: 50%; top: 16px; transform: translateX(-50%); display: flex; gap: 2px; padding: 4px; border-radius: 14px; background: var(--raised); border: 1px solid var(--line); box-shadow: 0 6px 22px rgba(0, 0, 0, 0.18); max-width: calc(100% - 24px); overflow-x: auto; scrollbar-width: none; }
-.tools[hidden] { display: none; }
-.tools button { display: grid; place-items: center; width: 42px; height: 42px; flex: none; border: 0; border-radius: 10px; background: transparent; cursor: pointer; }
-.tools button:hover { background: var(--lapis-soft); }
-.tools button svg { width: 22px; height: 22px; }
-.tools .sep { width: 1px; margin: 6px 3px; background: var(--line); flex: none; }
-.tools .del { color: #c0392b; }
 
 /* The drawers: along the bottom on phones and tablets held upright, down the side on wider screens. */
 .drawer { --c: var(--c1, #6d43c9); position: relative; display: flex; flex-direction: column; background: var(--raised); border-top: 1px solid var(--line); padding-bottom: env(safe-area-inset-bottom, 0px); }
@@ -217,6 +209,61 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
   #print.line svg { border: 1.5pt solid #222; }
 }
 
+/* Finding a piece: a search over all the drawers, and groups within a drawer. */
+.find { display: flex; align-items: center; gap: 8px; margin: 0 12px 8px; padding: 0 12px; border-radius: 12px; background: color-mix(in srgb, var(--ink) 6%, var(--raised)); }
+.find:focus-within { box-shadow: 0 0 0 2px var(--lapis); }
+.find svg { width: 17px; height: 17px; flex: none; color: var(--muted); }
+.find input { flex: 1; min-width: 0; border: 0; background: transparent; padding: 9px 0; font: 400 16px/1.2 var(--sans); color: var(--ink); outline: none; }
+.find small { flex: none; font: 500 12px/1 var(--sans); color: var(--muted); }
+.drawer.closed .find { display: none; }
+.chips { display: flex; gap: 6px; padding: 0 12px 8px; overflow-x: auto; scrollbar-width: none; }
+.chips[hidden], .drawer.closed .chips { display: none; }
+.chips::-webkit-scrollbar { display: none; }
+.chips button { flex: none; height: 30px; padding: 0 12px; border: 1px solid var(--line); border-radius: 99px; background: var(--surface); cursor: pointer; font: 500 13px/1 var(--sans); white-space: nowrap; }
+.chips button[aria-pressed="true"] { background: color-mix(in srgb, var(--tc) 14%, var(--surface)); border-color: var(--tc); color: var(--ink); font-weight: 600; }
+@media (min-width: 640px) and (min-aspect-ratio: 1/1) { .chips { flex-wrap: wrap; } }
+.piece { content-visibility: auto; contain-intrinsic-size: 96px 112px; }
+.piece.story { width: 168px; grid-template-rows: auto 1fr; padding: 0 0 8px; overflow: hidden; }
+.piece.story svg { width: 100%; height: auto; aspect-ratio: 16 / 10; }
+.piece.story span { display: grid; gap: 2px; padding: 0 8px; white-space: normal; }
+.piece.story b { font: 600 13px/1.2 var(--sans); color: var(--ink); }
+.piece.story small { font: 400 11px/1.2 var(--sans); color: var(--muted); }
+@media (min-width: 640px) and (min-aspect-ratio: 1/1) { .piece.story { width: auto; height: auto; grid-column: span 2; } }
+.tray-empty { flex: none; align-self: center; max-width: 300px; padding: 12px; font: 400 14px/1.4 var(--sans); color: var(--muted); grid-column: 1 / -1; }
+
+/* What is picked up: an outline on each piece of a group, and the balloon menu over them, as
+   the reader's balloon over chosen words. */
+.sel-one { fill: none; stroke: #2646a1; stroke-width: 2; stroke-dasharray: 5 6; vector-effect: non-scaling-stroke; pointer-events: none; opacity: 0.8; }
+#cap .cap { cursor: pointer; outline: none; }
+.pop { position: fixed; z-index: 40; display: flex; flex-direction: column; gap: 6px; padding: 6px; border-radius: 20px; background: var(--raised); border: 1px solid var(--line); box-shadow: 0 10px 30px rgba(0, 0, 0, 0.22); max-width: calc(100vw - 16px); transform-origin: 50% 100%; }
+.pop[hidden] { display: none; }
+.pop.below { transform-origin: 50% 0; }
+@keyframes pop-in { from { opacity: 0; transform: translateY(6px) scale(.96); } }
+.pop.in { animation: pop-in .16s cubic-bezier(.2, .8, .2, 1); }
+.pop.below.in { animation-name: pop-in-below; }
+@keyframes pop-in-below { from { opacity: 0; transform: translateY(-6px) scale(.96); } }
+.prow { display: flex; align-items: center; gap: 4px; overflow-x: auto; scrollbar-width: none; }
+.prow::-webkit-scrollbar { display: none; }
+.prow + .prow { padding-top: 6px; border-top: 1px solid var(--line); }
+.pb { flex: none; display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-width: 38px; height: 38px; padding: 0 8px; border: 1px solid transparent; border-radius: 12px; background: transparent; cursor: pointer; color: var(--ink); font: 500 13px/1 var(--sans); }
+.pb:hover, .pb:focus-visible { background: var(--lapis-soft); }
+.pb.wide { padding: 0 11px; background: color-mix(in srgb, var(--ink) 6%, var(--raised)); }
+.pb.wide:hover { background: var(--lapis-soft); }
+.pb svg { width: 20px; height: 20px; flex: none; }
+.pb.del { color: #c0392b; }
+.pb.on { background: var(--lapis); color: var(--surface); }
+.pnote { margin: 4px 8px 0; font: 500 13px/1.35 var(--sans); color: var(--muted); max-width: 260px; }
+
+/* A passage from the reader: which board it goes on. */
+.vi { padding: 18px 20px 16px; }
+.vi h2 { margin: 0 0 8px; font: 500 21px/1.2 var(--read); }
+.vi-ref { margin: 0 0 4px; font: 700 13px/1.3 var(--sans); letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); }
+.vi-text { margin: 0 0 14px; max-height: 6.5em; overflow: auto; font: 400 16px/1.5 var(--read); }
+.vi-opt { display: grid; gap: 2px; width: 100%; margin: 0 0 8px; padding: 12px 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); cursor: pointer; text-align: start; }
+.vi-opt:hover { border-color: var(--lapis); background: var(--lapis-soft); }
+.vi-opt b { font: 600 15px/1.2 var(--sans); }
+.vi-opt small { font: 400 13px/1.3 var(--sans); color: var(--muted); }
+
 .ghost { position: fixed; z-index: 50; pointer-events: none; width: 96px; height: 112px; transform: translate(-50%, -60%) scale(1.15); filter: drop-shadow(0 8px 14px rgba(0, 0, 0, 0.3)); }
 .ghost svg { width: 100%; height: 100%; }
 </style>
@@ -245,7 +292,9 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
   <div class="sb-body">
     <aside class="drawer" id="drawer" aria-label="Drawers">
       <button class="pull" type="button" id="pull" aria-expanded="true" aria-controls="tray"><span>Drawers</span></button>
+      <label class="find"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input type="search" id="find" placeholder="Search people, animals, things, stories" aria-label="Search the drawers" autocomplete="off" enterkeyhint="search"><small id="found" aria-live="polite"></small></label>
       <div class="tabs" role="tablist" aria-label="Drawers" id="tabs"></div>
+      <div class="chips" id="chips" role="group" aria-label="Groups" hidden></div>
       <ul class="tray" id="tray" role="tabpanel"></ul>
     </aside>
     <div class="stage-wrap" id="wrap">
@@ -272,12 +321,12 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
         <g clip-path="url(#board-clip)">
           <g id="bg" filter="url(#feltbg)"></g>
           <g id="items"></g>
+          <g id="cap"></g>
           <g id="sel"></g>
         </g>
       </svg>
       <div class="empty-hint" id="empty" hidden><p>Open a drawer and tap a piece, or drag it onto the board. Then move it with your finger or the mouse.</p></div>
       <p class="turn-tip">Turn your phone sideways for a bigger board.</p>
-      <div class="tools" id="tools" role="toolbar" aria-label="The piece you picked up" hidden></div>
     </div>
   </div>
   <p class="sr" id="live" aria-live="polite"></p>
@@ -318,10 +367,23 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
   </form>
 </dialog>
 
+<div class="pop" id="pop" role="toolbar" aria-label="What you picked up" hidden></div>
+
+<dialog class="ask" id="verse-in" aria-labelledby="vi-title">
+  <div class="vi">
+    <h2 id="vi-title">Add the verse to a board</h2>
+    <p class="vi-ref" id="vi-ref"></p>
+    <p class="vi-text" id="vi-text"></p>
+    <button type="button" class="vi-opt" id="vi-this"><b>This board</b><small></small></button>
+    <button type="button" class="vi-opt" id="vi-new"><b>A new board</b><small>Named after the passage</small></button>
+    <div class="ask-btns"><button type="button" class="tbtn" id="vi-cancel">Cancel</button></div>
+  </div>
+</dialog>
+
 <div id="print" aria-hidden="true"></div>
 
 <script src="config.js?v=31"></script>
-<script src="storyboard-art.js?v=2"></script>
-<script src="storyboard.js?v=3"></script>
+<script src="storyboard-art.js?v=3"></script>
+<script src="storyboard.js?v=4"></script>
 </body>
 </html>
