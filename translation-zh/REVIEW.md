@@ -57,3 +57,4 @@ Found while drafting; not yet settled across books.
 - Hosea and Joel: Lo-ruhamah and Lo-ammi are 羅‧路哈瑪, 羅‧阿米 with the 1989 text's ‧ (the classic text may print them unbroken). Baal-peor 巴力‧毗珥 (9:10) and Pethuel 毗土珥 (Joel 1:1) keep 毗, as earlier books and the names table (see 毗 / 毘 above).
   Hosea 5:13 and 10:6 read *malki rav* 大王 against 和合本「耶雷布王」. Hosea 4:4, 4:18, 5:2, 6:9, 7:4–7, 8:10, 8:13, 10:5, 11:7, 12:1, 13:2, 13:9 and Joel 1:17, 2:6, 4:21 rest on difficult Hebrew.
   Moph (Hosea 9:6) is 摩弗 as 和合本 Hosea, though the same city is 挪弗 elsewhere. *Yevanim* (Joel 4:6) 希臘人 as 和合本 Joel, against Isaiah 66:19's 雅完.
+- 毗 / 毘: settled as 毗 everywhere (text, notes and names table), the standard modern form; 毘 is its variant.
