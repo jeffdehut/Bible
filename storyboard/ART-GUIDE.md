@@ -55,3 +55,8 @@ or larger than their drawing (a child, a giant) can say so with `data-scale="0.7
 
 The artwork should be ours to publish (made for us, or licensed so we can redistribute it on
 the site and in printed colouring pages). Keep a note of who made each set.
+
+## Words
+
+Name pieces, scenes and stories in the Bible's own terms, not after later holidays: "The birth
+of Jesus", not "Christmas"; "Jesus' death and resurrection", not "Easter".

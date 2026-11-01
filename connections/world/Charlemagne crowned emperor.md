@@ -13,6 +13,6 @@ tags: ["world", "event"]
 
 **Europe** · [[connections/timeline/8th century AD|AD 800]] *(modern dates)*
 
-Christmas Day, in Rome, by Pope Leo III
+25 December, in Rome, by Pope Leo III
 
 **Centuries:** [[connections/timeline/8th century AD|8th century AD]]
