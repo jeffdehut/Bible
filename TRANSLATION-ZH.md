@@ -1079,6 +1079,39 @@ Settled while drafting Daniel:
 | מֶלֶךְ הַנֶּגֶב; מֶלֶךְ הַצָּפוֹן; אֶרֶץ הַצְּבִי | 南方王；北方王；榮美之地 | The Ptolemies and Seleucids named only in notes. |
 | Names | 伯提沙撒、沙得拉、米煞、亞伯尼歌、伯沙撒、亞施毘拿、亞略、米底亞人大流士、古列、加百列、米迦勒、希底結、烏萊河、書珊城、杜拉、烏法、路比人 | Darius 大流士 as Ezra (the classic text 大利烏); Cyrus 古列 and Tigris 希底結 (the 1989 text 塞魯士, 底格里斯); 毘 for 亞施毘拿 and 毘勒斯 (5:28). 彌尼，彌尼，提客勒，烏法珥新 (5:25). |
 
+Settled while drafting Hosea:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Layout | Narrative with the LORD's words in 「」 (1; 3); oracles unmarked (2; 4–14), words quoted inside them 「」 | As Isaiah and Jeremiah. |
+| Numbering | 2:1–2 = 和合本 1:10–11；2:3–25 = 和合本 2:1–23；12:1 = 和合本 11:12；12:2–15 = 和合本 12:1–14；14:1 = 和合本 13:16；14:2–10 = 和合本 14:1–9 | Noted at 1:9, 2:1; 11:11, 12:1; 13:15, 14:1; other references give both. |
+| יִזְרְעֶאל; לֹא רֻחָמָה; לֹא עַמִּי; עַמִּי; רֻחָמָה | 耶斯列；羅‧路哈瑪；羅‧阿米；阿米；路哈瑪 | Union Version forms; meanings in notes (「神撒種」「不蒙憐憫」「不是我的子民」), 2:25 links them. |
+| זָנָה; זְנוּנִים; נָאַף; אֶתְנָה, אֶתְנַן; קְדֵשׁוֹת | 行淫；淫亂；通姦（姦淫）；酬金；廟妓 | *zenunim* noted at 1:2 as the image of Israel's unfaithfulness. |
+| חֶסֶד | 慈愛 | Glossary note at 2:21; 4:1; 6:4; 10:12; 12:7. 6:6 notes Matthew 9:13; 12:7 (*eleos* 「憐憫」, LXX). |
+| רִיב | 爭訟；控告 (2:4) | *riv* noted at 4:1; 12:3 refers back. |
+| אֶפְרַיִם | 以法蓮 | Noted at 4:17 as the northern kingdom. |
+| בֵּית אָוֶן; אָוֶן | 伯‧亞文；亞文 | 「罪惡之家」, Bethel mocked, noted at 4:15; 10:8. |
+| הַבְּעָלִים; הַבֹּשֶׁת | 眾巴力；那可恥的 | As Judges and Jeremiah (2:15; 9:10). |
+| עֲגָלוֹת; עֵגֶל שֹׁמְרוֹן | 牛犢；撒馬利亞的牛犢 | 8:5–6; 10:5 (feminine plural noted). |
+| מֶלֶךְ יָרֵב (5:13; 10:6) | 大王 | *malki rav* read; 和合本「耶雷布王」 noted. |
+| שָׁב שְׁבוּת (6:11) | 扭轉……的命運 | As Job and Psalms. |
+| מִצְרַיִם … קָרָאתִי לִבְנִי (11:1) | 我從埃及召出我的兒子 | Matthew 2:15 follows the Hebrew, the Septuagint 「他的兒女」, noted. |
+| אֱהִי … שְׁאוֹל (13:14) | 死亡啊，你的災害在哪裏？陰間啊，你的毀滅在哪裏？ | *ehi* 「我要作」, the Septuagint and 1 Corinthians 15:55 (「勝利」「毒鉤」) noted. |
+| מֹף (9:6) | 摩弗 | As 和合本 Hosea; 挪弗 elsewhere, noted. |
+
+Settled while drafting Joel:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Numbering | 3:1–5 = 和合本 2:28–32；4:1–21 = 和合本 3:1–21 | Noted at 2:27, 3:1, 4:1. |
+| יוֹם יְהוָה | 耶和華的日子 | Identical every time (1:15; 2:1, 11; 3:4; 4:14); 1:15 as Isaiah 13:6; 3:4 「在耶和華的日子，那大而可畏的日子來到以前」 keeps the phrase whole. |
+| גָּזָם; אַרְבֶּה; יֶלֶק; חָסִיל | 剪蟲；蝗蟲；蝻子；螞蚱 | As Psalms and 1 Kings 8:37; noted at 1:4. |
+| קַדְּשׁוּ־צוֹם; עֲצָרָה | 分別出禁食的日子；嚴肅的聚會 | 1:14; 2:15. |
+| חַנּוּן וְרַחוּם אֶרֶךְ אַפַּיִם וְרַב־חֶסֶד (2:13) | 有恩典、有憐憫，不輕易發怒，大有慈愛 | As Psalm 145:8. |
+| אֶשְׁפּוֹךְ אֶת־רוּחִי עַל־כָּל־בָּשָׂר (3:1–5) | 我要把我的靈傾倒在所有的人身上 | Acts 2:17–21's differences (LXX) noted at 3:1; 3:5 Romans 10:13 「主的名」. |
+| עֵמֶק יְהוֹשָׁפָט; עֵמֶק הֶחָרוּץ; נַחַל הַשִּׁטִּים | 約沙法谷；斷定谷；什亭谷 | Union Version names; meanings noted. |
+| בְּנֵי הַיְּוָנִים (4:6) | 希臘人 | As 和合本 Joel; *Yevanim* and Isaiah 66:19's 雅完 noted. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

@@ -2,6 +2,14 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Valley of Decision":"斷定谷",
+"Valley of Jehoshaphat":"約沙法谷",
+"Moph":"摩弗",
+"Ruhamah":"路哈瑪",
+"Ammi":"阿米",
+"Shalman":"沙勒幔",
+"Diblaim":"滴拉音",
+"Lo-ammi":"羅‧阿米",
 "Abednego":"亞伯尼歌",
 "Belteshazzar":"伯提沙撒",
 "Meribath-kadesh":"米利巴‧加低斯",
