@@ -76,3 +76,12 @@ Found while drafting; not yet settled across books.
   22:39 follows Matthew 19:19 and Leviticus 19:18 (要愛你的鄰舍，如同愛自己), but Mark 12:31, 33 have 要愛鄰舍，像愛自己一樣; align Mark. 21:9 and 23:39 keep Mark 11:9's 是應當稱頌的 (the 蒙福/應當稱頌 point above is still open).
   *Nomikos* (22:35) is 律法專家, new; Luke uses the word often. 26:17 keeps Mark's 除酵節 against the Old Testament's 無酵節; settle one. 21:30 κύριε to a father is 父親; 26:50 (*eph' ho parei*) is uncertain.
 - Settled after Matthew: "love your neighbour" as 要愛你的鄰舍，如同愛自己 (Mark 12:31, 33 aligned with Matthew); the feast 無酵節 everywhere (Mark 14, Matthew 26 aligned with the Old Testament).
+- Luke 1–12: *epistates* is 師傅 (5:5; 8:24, 45; 9:33, 49), new; a reviewer should judge the register (HK 師傅 also means a tradesman). The genealogy's critical-text names
+  約設 (*Iosech*), 沙拉 (*Sala*, same form as Shelah in 3:35), 亞民, 亞尼 are coined or chosen against 和合本 (約瑟, 撒門, 亞蘭); 3:29 *Iesous* is 約書亞 (和合本 約細).
+  1:46 頌揚主的偉大 departs from the traditional 尊主為大 (noted). *Doulos* is 奴僕 in 7:2–10 (as Matthew 8) but 僕人 in 12:37–47 (as Matthew 24). 10:42 follows WH's
+  「需要的事不多，其實只有一件」. Names table: Josech (約亞拿) and Elmadam (約細) were wrong and are fixed; Luke 3's other names added.
+- Settled after Luke 12: *doulos* is 僕人 throughout Luke's parables and in 7:2–10 (chapter 7 changed from 奴僕), with 或譯「奴僕」 noted; 22:50 keeps Mark 14:47's 大祭司的奴僕.
+- Luke 13–24: the drachma (15:8–9) is 銀錢 and the mina (19:13–25) 彌那 (as Ezekiel 45:12), both new, to keep 銀幣 for the denarius and 一塊錢 for the stater (和合本「一塊錢」「一錠銀子」).
+  16:6–7 *batos*, *koros* are 簍, 石 in the text (罷特, 柯珥 in notes). SBLGNT's single brackets (22:19b–20; 24:40, 51–52) are printed 〔 〕; check this matches whatever John and Acts later use.
+  19:4 *sykomorea* is 桑樹 as 和合本, with the fig-mulberry noted. 17:21 *entos hymon* 在你們中間 (或譯「在你們心裏」). 18:5 *hypopiazo*, 18:7, 22:36 and 23:31 are uncertain or proverbial.
+  13:35 and 19:38 keep 是應當稱頌的 (the Psalm 118:26 point above is still open). 20:42–43 follows Luke's Greek 作你的腳凳 (as our Psalm 110:1), so it differs from Mark 12:36 and Matthew 22:44 (放在你的腳下), as the Greek does.
