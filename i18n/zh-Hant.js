@@ -2441,5 +2441,6 @@ I18N.add({
  "You can take it again from About this project, in the menu. Enjoy reading!": "你可以從選單中的「關於這個計劃」再看一次。祝你閱讀愉快！",
  "Yours": "你的",
  "Open yours": "打開你的",
- "Start fresh": "重新開始"
+ "Start fresh": "重新開始",
+ "Tap the pencil to write and draw right on the page, with a finger or a pen; tap it again when you're done. Two fingers scroll. There's room in the margins beside the text too: on a phone, slide the page sideways to write there.": "點一下鉛筆，就可以用手指或觸控筆直接在經文上書寫和畫畫；畫完再點一下。用兩隻手指捲動。經文兩旁的頁邊也可以寫：在手機上，把頁面往旁邊滑，就能在那裏書寫。"
 });
