@@ -61,11 +61,12 @@
     const out = [`M${r2(L[0])} ${r2(L[1])}`];
     side(L, out);
     const re = w[n - 1], rs = w[0];
-    out.push(`A${r2(re)} ${r2(re)} 0 0 1 ${r2(R[n * 2 - 2])} ${r2(R[n * 2 - 1])}`);
+    // Round caps, bulging out past the ends (sweep 0: from one side, round the tip, to the other).
+    out.push(`A${r2(re)} ${r2(re)} 0 0 0 ${r2(R[n * 2 - 2])} ${r2(R[n * 2 - 1])}`);
     const back = [];
     for (let i = n - 1; i >= 0; i--) back.push(R[i * 2], R[i * 2 + 1]);
     side(back, out);
-    out.push(`A${r2(rs)} ${r2(rs)} 0 0 1 ${r2(L[0])} ${r2(L[1])}Z`);
+    out.push(`A${r2(rs)} ${r2(rs)} 0 0 0 ${r2(L[0])} ${r2(L[1])}Z`);
     return out.join("");
   }
 
