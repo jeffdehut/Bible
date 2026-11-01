@@ -2,6 +2,7 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Hermogenes":"黑摩其尼",
 "Colossae":"歌羅西",
 "Syntyche":"循都基",
 "Euodia":"友阿爹",
@@ -1862,7 +1863,7 @@ I18N.add({
 "Ether":"以帖",
 "Ethiopia":"古實",
 "Eubulus":"友布羅",
-"Eunice":"友妮基",
+"Eunice":"友尼基",
 "Eutychus":"猶推古",
 "Eve":"夏娃",
 "Evi":"以未",

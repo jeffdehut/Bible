@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 Timothy drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1562,6 +1562,17 @@ Settled while drafting 1 Timothy:
 | χῆραι (5:3–16) | 真正無依無靠的寡婦 | 直譯「真是寡婦的」 noted. |
 | ὁμολογία (6:12–13); ἐπιφάνεια (6:14) | 宣認；顯現 | 顯現 as 2 Thessalonians 2:8. |
 | ἄνθρωπε θεοῦ (6:11); 6:10 | 屬神的人；貪愛錢財是萬惡之根 | The Old Testament's 神人 noted. |
+
+Settled while drafting 2 Timothy:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| παραθήκη (1:12, 14) | 託付 (我所交託他的；那美好的託付) | As 1 Timothy 6:20; 「他所交託我的」 noted. |
+| 2:11–13 | 這話是可信的：我們若與他同死，也必與他同活…… | Prose; the formula as 1 Timothy 1:15; 2:13 ἀπιστέω/πιστός 不信實／信實. |
+| 2:19 (Numbers 16:5) | 主認識屬他的人 | The Septuagint (神認識) and our Numbers (耶和華必指明誰是屬他的) noted. |
+| θεόπνευστος (3:16); ἱερὰ γράμματα (3:15) | 全部聖經都是神所默示的；聖經 | *theopneustos* 「神所呼出的」 and the two readings of the verbless sentence noted. |
+| 4:6–8 | 像奠祭一樣被澆出來；那美好的仗我已經打過了，當跑的路我已經跑盡了，信仰我已經守住了；義的冠冕……公義的審判者 | 奠祭 as Philippians 2:17; δικαιοσύνη 義, δίκαιος of God's judgment 公義, as Romans. |
+| Names | 羅以、友尼基、腓吉路、黑摩其尼、阿尼色弗、許米乃、腓理徒、雅尼、佯庇、底馬、革勒士、撻馬太、加布、亞歷山大、友布羅、布田、利奴、革老底亞 | 友尼基 the classic Union form (1989 友妮基); the names table changed, and Hermogenes added. |
 
 ## Style
 
