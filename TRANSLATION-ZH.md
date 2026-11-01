@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels and Acts drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1360,6 +1360,17 @@ Settled while drafting Acts:
 | Stephen's speech (7) | Our Old Testament's names (哈蘭、迦勒底人的地、示劍、哈抹、米甸、紅海、約書亞) | The differences noted as the English: the call before Haran (7:2), Terah's death (7:4), 400 years (7:6), 75 souls (7:14), the tomb at Shechem (7:16), Moses' forty years (7:23), Sinai/Horeb (7:30), Babylon for Damascus (7:43). |
 | Verses absent from the critical text | Skipped with a note, as Mark 7:16 | 8:37 (TR) noted at 8:36; the TR addition at 9:5–6 noted. |
 | Names (classic Union Version forms) | 居比路、埃提阿伯、干大基、革老丟、丟斯、希耳米、推羅、大馬色、巴耶穌、士求保羅 | Today's forms (塞浦路斯、克勞狄、宙斯) in notes where useful; 米底亞人, 克里特人, 阿拉伯人 as the Union Version's Acts 2. |
+| ἀνθύπατος (13:7; 18:12; 19:38) | 總督 | Noted each time; 19:38's plural noted as general. ἡγεμών (Felix, Festus, 23:24–26:30) is also 總督. |
+| χιλίαρχος; παρεμβολή; στρατηγοί (16:20–38); ῥαβδοῦχοι; πολιτάρχαι (17:6, 8) | 千夫長；營樓；官長；衙役；地方官 | Each noted at its first use. |
+| βῆμα; πραιτώριον (23:35) | 審判台 (as 12:21)；官邸 | *bema* noted (18:12; 25:6). |
+| Καῖσαρ; Σεβαστός (25:21, 25); κύριος of the emperor (25:26) | 該撒；皇上；皇上 | Καίσαρα ἐπικαλοῦμαι 上訴於該撒 (25:11–12, 21; 26:32; 28:19). κράτιστε 大人 (23:26; 24:3; 26:25). |
+| The "we" passages | 我們 | Noted at 16:10, 20:5, 27:1 and their end at 28:16. |
+| Old Testament quotations (15–28) | The Greek in the text; our Old Testament wording in the note | 15:16–17 as our Amos 9:12 note (重建大衛那倒塌的棚子；使餘剩的人和所有稱為我名下的外邦人都尋求主); 23:5 Exodus 22:27 LXX (不可惡言毀謗); 28:26–27 identical with Matthew 13:14–15, with 你去告訴這百姓說 and 「『「」』」 nesting. |
+| 17:23, 28 (the Areopagus) | 『未識之神』；『我們也是他所生的』 | Aratus' *Phaenomena* and Epimenides noted; 亞略巴古 without a dot. |
+| Verses absent from the critical text (15–28) | Skipped with a note, as 8:37 | 15:34 (at 15:33); 24:7 with the TR words of 24:6b–8a (at 24:6; 24:8 kept); 28:29 (at 28:28). 19:40b noted （和合本作第41節）. |
+| ἐκκλησία (19:32, 39, 40); γραμματεύς (19:35) | 集會；書記 | The citizens' assembly and the city clerk, both noted apart from 教會 and 經學家. |
+| Names (15–28) | Classic Union forms: 居比路、推羅、該撒利亞、大馬色、革老丟呂西亞、百尼基、革哩底、米利大、非尼基、亞底亞海、丟斯雙子 | No middle dot in compound names (提多猶士都、波求非斯都). The 1989 forms (塞浦路斯、泰爾、凱撒利亞、克勞第、百妮基、克里特、馬耳他) are not used. |
+| The voyage (27) | 船長；船主；救生艇；噚；友拉革羅 | Plain terms; uncertain gear (*boetheiai*, *artemon*, *dithalassos*) explained in notes; 一噚約 1.8 米. |
 
 ## Style
 
