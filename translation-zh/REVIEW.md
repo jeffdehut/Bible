@@ -72,3 +72,6 @@ Found while drafting; not yet settled across books.
 - Matthew 11–20: the commandments in 19:18 follow our Exodus 20 and Matthew 5:21, 27 (不可謀殺，不可通姦，不可偷竊), but Mark 10:19 has 不可殺人，不可姦淫，不可偷盜; align Mark. Simon Bar-jona (16:17) is 西門巴約拿 (classic, unbroken; 1989 西門‧巴‧約拿). (Settled: Mark 10:19 now reads as Exodus 20.)
   Caesarea Philippi is 該撒利亞腓立比 as Mark 8:27 (names table changed from 該撒利亞‧腓立比; Caesarea from the 1989 凱撒利亞 to 該撒利亞). The stater (17:27) is 一塊錢 as 和合本, to keep 銀幣 for the denarius; stadia (14:24) 斯他丟.
   11:12 (*biazetai*) is uncertain; 12:18–21 and 13:35 differ from both the Hebrew and our Old Testament (noted). 13:30 leaves the master's order to the reapers without inner quotation marks.
+- Matthew 21–28: our Zechariah 9:9 note quotes Matthew 21:5 as 「又騎着驢，就是騎着驢駒」; Matthew's Greek (καὶ ἐπὶ πῶλον) has two animals, and 21:5 now reads 「騎着驢，又騎着驢駒，就是負軛之驢的崽子」: align the Zechariah note.
+  22:39 follows Matthew 19:19 and Leviticus 19:18 (要愛你的鄰舍，如同愛自己), but Mark 12:31, 33 have 要愛鄰舍，像愛自己一樣; align Mark. 21:9 and 23:39 keep Mark 11:9's 是應當稱頌的 (the 蒙福/應當稱頌 point above is still open).
+  *Nomikos* (22:35) is 律法專家, new; Luke uses the word often. 26:17 keeps Mark's 除酵節 against the Old Testament's 無酵節; settle one. 21:30 κύριε to a father is 父親; 26:50 (*eph' ho parei*) is uncertain.
