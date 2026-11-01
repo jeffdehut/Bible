@@ -506,7 +506,7 @@ Settled while drafting 2 Kings:
 | Units: סְאָה; קַב; כִּכָּר | 細亞；卡布；他連得 | Values in notes (約 7 公升；約 1.2 公升, 和合本「升」；約 34 公斤). |
 | חֲרֵי יוֹנִים / דִּבְיוֹנִים (6:25) | 鴿子糞 | Ketiv and the politer qere noted; perhaps a name for a cheap food. |
 | כֹּה יַעֲשֶׂה־לִּי אֱלֹהִים וְכֹה יוֹסִף (singular verb) | 願神重重懲罰我 | As Ruth 1:17 (6:31). |
-| נְאֻם־יְהוָה (in an oracle) | 這是耶和華的宣告 | *ne'um* noted (9:26). |
+| נְאֻם־יְהוָה (in an oracle) | 這是耶和華說的 | *ne'um* noted (9:26); aligned with the prophets (Isaiah table). |
 | חֲגֹר מָתְנֶיךָ | 你束上腰 | Noted: tucking the robe into the belt (4:29; 9:1). |
 | הֲשָׁלוֹם (Jehu, 9:17–31) | 平安嗎？ | |
 | Israel's synchronisms (10–17) | 猶大王X第N年，Y在撒馬利亞登基作以色列王，作王N年 | Judah's: 以色列王X第N年，Y登基作猶大王; where the length is placed after Samaria, 他在撒馬利亞作王N年 (15:13, 17). Months: 作王六個月, 一個月. |
@@ -853,6 +853,72 @@ Settled while drafting Song of Songs:
 | שׁוּלַמִּית | 書拉密女 | 7:1 noted. |
 | שַׁלְהֶבֶתְיָה (8:6) | 耶和華的烈焰 | *-yah* and the superlative reading in a long note. |
 | Numbering of 7:1–14 | 7:1 = 和合本 6:13；7:2–14 = 和合本 7:1–13 | Noted at 7:1. |
+
+Settled while drafting Isaiah (for all the prophets):
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Layout | One verse per line; poetry and prose as the English lays them out | The LORD's words in the poems unmarked (noted 1:2, as Deuteronomy 32); narrative with speeches (6–8) in 「」, a message inside 『』. |
+| חָזוֹן | 異象 | *chazon* noted (1:1). |
+| כֹּה אָמַר יְהוָה; כֹּה אָמַר אֲדֹנָי יְהוִה | 耶和華這樣說；主耶和華這樣說 | As 2 Kings 19:6, 20 (Isaiah 37:6, 21). |
+| נְאֻם יְהוָה | 耶和華說 (opening a saying, 1:24)；這是耶和華說的 (closing it, 3:15) | *ne'um*, 「……的宣告」, noted at the first occurrence in each chapter; Kings' 這是耶和華的宣告 mentioned (see REVIEW.md). |
+| מַשָּׂא | 默示 | 「X的默示」, as Proverbs 30:1; *massa* noted (from 13:1). |
+| קְדוֹשׁ יִשְׂרָאֵל | 以色列的聖者 | As 2 Kings 19:22; noted at 1:4. |
+| יְהוָה צְבָאוֹת; הָאָדוֹן יְהוָה צְבָאוֹת; אֲדֹנָי יְהוִה צְבָאוֹת | 萬軍之耶和華；主萬軍之耶和華 | *tseva'ot* noted at the first occurrence in each chapter; *ha-adon* and *Adonai* noted. |
+| בַּיּוֹם הַהוּא | 到那日 | |
+| הוֹי; אוֹי | 禍哉；……有禍了 | *hoy* noted at 1:4 (a cry of mourning), later chapters refer back; 1:24 (resolve) 啊. *oy* 他們有禍了, 我有禍了 (3:9, 11; 6:5). |
+| בַּת־צִיּוֹן; בְּנוֹת צִיּוֹן | 錫安的女兒；錫安的女子 | Noted (1:8). |
+| אֱלִילִים | 虛無的偶像 | *elilim* noted (2:8). |
+| בְּכָל־זֹאת לֹא־שָׁב אַפּוֹ וְעוֹד יָדוֹ נְטוּיָה | 雖然這樣，他的怒氣還沒有轉消，他的手仍然伸出 | Identical at 5:25; 9:11, 16, 20; 10:4. |
+| עַלְמָה (7:14) | 少女 | 「童女」 (和合本) and the Septuagint's *parthenos* quoted in Matthew 1:23 in the note; *betulah* mentioned. |
+| שְׁאָר יָשׁוּב; מַהֵר שָׁלָל חָשׁ בַּז; עִמָּנוּ אֵל | 施亞雅述；瑪黑珥‧沙拉勒‧哈施‧罷斯；以馬內利 | Meanings noted; 8:10 神與我們同在 (*immanu el*). |
+| פֶּלֶא יוֹעֵץ אֵל גִּבּוֹר אֲבִיעַד שַׂר־שָׁלוֹם (9:5) | 奇妙的策士、大能的神、永恆的父、和平的君 | *el gibbor* 大能的神 also 10:21 (全能 is kept for *Shaddai*); 和合本, Targum, Septuagint noted. |
+| Numbering of 8:23–9:20 | 8:23 = 和合本 9:1；9:1–20 = 和合本 9:2–21 | Noted at 8:23 and 9:1; other references give both. |
+| NT quotations | The Hebrew in the text | A note where the Greek differs: 1:9; 6:9–10; 7:14; 8:12–14, 17–18; 8:23–9:1; 10:22–23; 11:10. |
+| שְׂרָפִים; צֶמַח (4:2); חֹטֶר, נֵצֶר (11:1) | 撒拉弗；苗；嫩枝、枝子 | *tsemach* and *netser* noted. |
+| מַשָּׂא X (13:1; 15:1; 17:1; 19:1; 21:1, 11, 13; 22:1; 23:1) | X的默示： | Heading as the first words of the verse; *massa* noted at 13:1 (「重擔」), later chapters refer back; 14:28 有這默示; 22:25 the same word 重擔 noted. |
+| Nations and places (13–23) | 推羅、西頓、大馬色、米底亞、迦勒底、古實、瑣安、挪弗、西曷、基提、他施、度瑪、底但、提瑪、基達 | Union Version forms (classic 推羅, 大馬色); modern identifications (塞浦路斯, 孟斐斯, 努比亞) in notes. |
+| הֵילֵל בֶּן־שָׁחַר (14:12) | 晨星，黎明之子 | Long note: *helel*, the Septuagint, the Vulgate's *lucifer*, 和合本「明亮之星，早晨之子」, the later reading of Satan. |
+| יַרְכְּתֵי צָפוֹן (14:13) | 北方的極處 | Psalm 48:3 (北方的高處) cross-referred. |
+| נְאֻם יְהוָה mid-verse (14:22; 22:25) | 這是……說的 after a clause; 萬軍之耶和華說： opening a verse | 22:14 *amar* (not *ne'um*) closing: ……，主萬軍之耶和華說. |
+| לִוְיָתָן; תַּנִּין (27:1) | 利維坦；海怪 | As Job and Psalms; 和合本「鱷魚」 and Ugarit's Litan noted. |
+| NT quotations (22:13; 25:8) | The Hebrew in the text | 22:13 1 Corinthians 15:32 agrees (LXX); 25:8 1 Corinthians 15:54 passive 「死亡被吞滅，得了勝利」 (*lanetsach* as victory) and the Septuagint's different line noted. |
+| צַו לָצָו … קַו לָקָו (28:10, 13) | 「擦夫拉擦夫……卡夫拉卡夫，這裏一點，那裏一點」 | Transliterated as babble; 「命令上加命令……準繩上加準繩」 and 和合本 noted. |
+| פִּנַּת יִקְרַת מוּסָד מוּסָּד (28:16) | 寶貴的房角石，是穩固的根基 | 房角石 as Job 38:6 and 1 Peter 2:6; Psalm 118:22 *rosh pinnah* stays 房角的基石. Romans 9:33; 10:11 and 1 Peter 2:6 (Septuagint 「不至於羞愧」, 「信靠他」) noted. |
+| NT quotations (28:11–12; 28:16; 29:13–14; 35:3) | The Hebrew in the text | 29:13 shares Mark 7:6's 「用嘴唇尊敬我，心卻遠離我」; Paul's first person (1 Corinthians 14:21), Mark 7:7 (LXX), 1 Corinthians 1:19, Hebrews 12:12 in notes. |
+| אֲרִיאֵל (29:1–7) | 亞利伊勒 | The name; 祭壇的爐臺 at 29:2 (Ezekiel 43:15) noted. |
+| אוֹב (29:4) | 亡魂 | The spirit called up; 招魂的 stays for the medium. |
+| אַשְׁרֵי (30:18; 32:20) | ……是有福的 | *ashrei* noted, as Psalms. |
+| רַהַב (30:7) | 拉哈伯 | As Job 9:13, noted as not 喇合. |
+| Animals of the ruins (34:11–15) | 13:21–22 and 14:23's names (曠野的走獸、鬣狗、野山羊、豺狼、鴕鳥、刺蝟); 鵜鶘、大鴞 as Leviticus 11; 黑鳶 (*dayyah*) | *lilit* 夜間的怪物, *qippoz* 貓頭鷹 (和合本「箭蛇」) noted. |
+| Isaiah 36–39 (2 Kings 18:13–20:19) | 2 Kings' wording wherever the Hebrew agrees | Differences noted as 列王紀下18章20節作「……」; Isaiah's names (米羅達‧巴拉但, 39:1). 39:6 *amar YHWH* follows Kings' 這是耶和華說的, noted as not *ne'um*. |
+| Hezekiah's psalm (38:9–20) | Poetry without quotation marks; 我曾說：「……」 for his quoted thoughts | *mikhtav* 所寫的 (*miktam* noted); *Yah* 耶和華; *bor* 下坑. |
+| Isaiah 40:3–5 | 有聲音呼喊：「要在曠野為耶和華預備道路，在沙漠中為我們的神修直大路！」 | Mark 1:3's 有聲音……呼喊 kept; the Hebrew accents join 在曠野 to 預備, the Septuagint and the Gospels to the voice (noted, with 他的路徑). |
+| עֶבֶד; עַבְדִּי; עֶבֶד יְהוָה | 僕人；我的僕人；耶和華的僕人 | Israel as 我的僕人 noted at 41:8; the four 「僕人之歌」 (42:1–9; 49:1–13; 50:4–11; 52:13–53:12), the readings of the servant, the Targum and Matthew 12:18–21 noted at 42:1; 49:1, 50:4, 52:13 refer back. |
+| אִיִּים | 眾海島 | *iyyim* noted at the first occurrence in each chapter (40:15); 42:15 乾地, noted. |
+| גֹּאֵל; גָּאַל; גְּאוּלִים; פָּדָה | 救贖者；救贖；被救贖的人；救贖 | As Job 19:25 and Psalm 19:15; *go'el* noted at 41:14, later chapters refer back. |
+| אֲנִי הוּא; אָנֹכִי אָנֹכִי הוּא | 我就是那一位；我，惟有我是那一位 | *ani hu*, the Septuagint's *ego eimi* and John 8:24, 28 noted at 41:4; later chapters refer back. |
+| רִאשׁוֹן … אַחֲרוֹן (41:4; 44:6; 48:12) | 我是首先的，我是末後的 | Revelation 1:17; 2:8; 22:13 noted (44:6). |
+| הָרִאשֹׁנוֹת; חֲדָשׁוֹת | 先前的事；新的事 | |
+| מְבַשֵּׂר, מְבַשֶּׂרֶת | 報好消息的 | *basar* and the New Testament's 福音 noted (40:9; 52:7). |
+| מִשְׁפָּט (42:1–4; 49:4) | 公正；公理 (49:4, one's right) | 和合本「公理」 noted at 42:1. |
+| כּוֹרֶשׁ; מְשִׁיחוֹ (45:1) | 古列；他的受膏者 | The classic Union form (the 1989 text has 塞魯士); *mashiach* noted. |
+| בֵּל; נְבוֹ (46:1) | 彼勒；尼波 | Marduk and Nabu noted. |
+| בְּתוּלַת בַּת־בָּבֶל; בַּת־כַּשְׂדִּים; גְּבֶרֶת | 處女巴比倫的女兒；迦勒底人的女兒；女主人 | Feminine *you* noted (47:1); Zion likewise (45:14; 49:15; 51:12). |
+| יֹאמַר; אָמַר (closing) | 你們的神說 (40:1)；萬軍之耶和華說 (45:13)；耶和華說： (48:22) | Kept apart from *ne'um* 這是耶和華說的. חַי־אָנִי (49:18) 我指着我的永生起誓, as Numbers 14:21. |
+| NT quotations (40:3–8, 13; 42:1–4; 45:23; 49:6, 8; 52:5, 7, 11, 15) | The Hebrew in the text | The Greek in notes: Luke 3:6 「神的救恩」; 1 Peter 1:25 「主的話」; Romans 11:34 「主的心」; Matthew 12:20–21 「使公正得勝」「寄望於他的名」; Romans 14:11 「向神承認」; Acts 13:47; 2 Corinthians 6:2; Romans 2:24 「因你們」; Romans 10:15 (plural, no 山嶺). |
+| סִינִים (49:12) | 希尼地 | 和合本「秦國」 (its margin 希尼國) and 1QIsa-a's Syene noted; see REVIEW.md. |
+| The fourth servant song (52:13–53:12) | Plain lines for reading aloud: 他被藐視，被人離棄……因他受的鞭傷，我們得了醫治 | Difficult lines (53:8, 10, 11) in the Masoretic text, the other readings noted; 53:11 1QIsa-a 「看見光」 noted. |
+| אָשָׁם (53:10); וְאֶת־פֹּשְׁעִים נִמְנָה (53:12) | 贖愆祭；被列在罪犯之中 | 賠償祭 noted; 53:12 as Mark 15:28's note. |
+| עַבְדֵי יְהוָה (54:17 to the end) | 耶和華眾僕人 | Plural servants, the faithful in Israel, noted at 54:17. |
+| NT quotations (53; 54:1; 55:3; 56:7; 59:7–8, 20–21; 61:1–2; 64:3; 65:1–2; 66:1–2, 24) | The Hebrew in the text | The Greek in notes: John 12:38, Romans 10:16 「主啊」; Matthew 8:17 「軟弱」; Acts 8:32–33; 1 Peter 2:22 「罪」; Luke 22:37 「不法的人」; Luke 4:18–19 「貧窮的人」「瞎眼的得看見」, 58:6 added, 「包紮心靈破碎的人」 only in some manuscripts; 1 Corinthians 2:9 「愛他的人」; Romans 10:20–21 (clauses swapped); Romans 11:26–27 「從錫安出來」; Acts 7:49–50 (question). 56:7 keeps Mark 11:17's 我的殿要稱為萬民禱告的殿; 66:24 keeps Mark 9:48's 蟲不會死，火也不會熄滅. |
+| עֲנָוִים (61:1) | 謙卑人 | As 11:4; 29:19. |
+| רוּחַ קָדְשׁוֹ (63:10–11) | 他聖潔的靈 | As Psalm 51:13; 傳統「他的聖靈」 and 和合本「主的聖靈」 noted. |
+| Numbering of 63:19b–64:11 | 63:19下 = 和合本 64:1；64:1–11 = 和合本 64:2–12 | Noted at 63:19 and 64:1. |
+| נָזֹלּוּ (63:19; 64:2) | 崩流 | As Judges 5:5. |
+| חֶפְצִי־בָהּ; בְּעוּלָה (62:4) | 「我喜悅她」；「有夫之婦」 | Translated, as the other names in the verse; 協西巴, 比烏拉 noted. |
+| גַּד; מְנִי (65:11) | 時運之神；命運之神 | *Gad*, *Meni* noted; the pun with *u-maniti* 我要命定 (65:12). |
+| שָׁמַיִם חֲדָשִׁים וָאָרֶץ חֲדָשָׁה (65:17; 66:22) | 新天新地 | 2 Peter 3:13 and Revelation 21:1 noted. |
 
 ## Style
 

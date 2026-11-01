@@ -102,6 +102,41 @@
     return open(c, { title: ref, text: `${ref}: “${text}”`, url, filename: ref.replace(/[^\w]+/g, "-") });
   }
 
+  /* ---------- A sketch, on its paper ---------- */
+  // paths: [{d, color}] in the sketch's own units (unit across); ref and quote: the words it was
+  // drawn for.
+  async function sketch({ paths, unit = 288, paper = "#fbf8ef", ref, quote, url }) {
+    await ready();
+    const [c, g] = canvas();
+    // The sketch alone, a square of paper on a warm background, slightly turned.
+    const desk = g.createLinearGradient(0, 0, SIZE, SIZE);
+    desk.addColorStop(0, "#e6dcc6"); desk.addColorStop(1, "#d3c4a4");
+    g.fillStyle = desk; g.fillRect(0, 0, SIZE, SIZE);
+    const sq = 640, sx = SIZE / 2, sy = 90 + sq / 2;
+    g.save();
+    g.translate(sx, sy); g.rotate(-0.012);
+    g.shadowColor = "rgba(60,45,10,0.30)"; g.shadowBlur = 30; g.shadowOffsetY = 10;
+    g.fillStyle = paper; g.fillRect(-sq / 2, -sq / 2, sq, sq);
+    g.shadowColor = "transparent";
+    g.scale(sq / unit, sq / unit); g.translate(-unit / 2, -unit / 2);
+    for (const p of paths) { g.fillStyle = p.color; g.fill(new Path2D(p.d)); }
+    g.restore();
+    const px = sx - sq / 2 - 20, pw = sq + 40;
+    // What it was drawn for.
+    let y = sy + sq / 2 + 70;
+    g.textBaseline = "alphabetic";
+    g.fillStyle = LAPIS; g.font = `600 34px ${SANS}`;
+    g.fillText(ref, px + 20, y);
+    if (quote) {
+      const box = fit(g, `“${quote}”`, s => `italic 400 ${s}px ${READ}`, 28, 22, pw - 40, 76, 1.3);
+      g.fillStyle = MUTED; g.font = `italic 400 ${box.size}px ${READ}`;
+      y += 14;
+      for (const line of box.lines) { y += box.size * box.lead; g.fillText(line, px + 20, y); }
+    }
+    await footer(g, url, false);
+    return open(c, { title: ref, text: ref, url, filename: "sketch-" + ref.replace(/[^\w]+/g, "-") });
+  }
+
   /* ---------- A connection: the chosen point and its threads ---------- */
   // center: {label, sub, color}; nodes: [{label, color, ring}] (the strongest first, up to 14).
   /* ---------- The icons of the web's points ---------- */
@@ -362,5 +397,5 @@
     dialog(c, blob, info);
   }
 
-  window.Share = { verse, web, history, moment, snapshot, here, icons: ICONS, drawIcon };
+  window.Share = { verse, web, history, moment, snapshot, sketch, here, icons: ICONS, drawIcon };
 })();
