@@ -218,7 +218,7 @@
     root = el("div", "st"); root.setAttribute("role", "dialog"); root.setAttribute("aria-modal", "true"); root.setAttribute("aria-label", "Artist's studio");
     document.body.append(root);
     document.body.style.overflow = "hidden";
-    if (!window.Sketch) { const sc = document.createElement("script"); sc.src = "sketch.js?v=9"; sc.onload = home; document.head.append(sc); root.textContent = ""; } else home();
+    if (!window.Sketch) { const sc = document.createElement("script"); sc.src = "sketch.js?v=10"; sc.onload = home; document.head.append(sc); root.textContent = ""; } else home();
   }
   function close() { if (!root) return; root.remove(); root = null; document.body.style.overflow = ""; removeEventListener("keydown", onKey, true); }
   let onKey = null;
