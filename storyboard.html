@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script src="i18n.js?v=49"></script>
+<script src="ui.js?v=3"></script>
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d111b" media="(prefers-color-scheme: dark)">
+<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) { /* storage unavailable */ }</script>
+<title>Story Board · BibleData.org</title>
+<meta name="description" content="A felt board for telling Bible stories: pull people, animals and things out of the drawers, place them in a scene and move them as you tell the story.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --raised: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8a91a0; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --table: #e9e4d8; --c: #6d43c9;
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --bar: 56px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d111b; --surface: #131a28; --raised: #18202f; --ink: #e9ecf3; --muted: #a3acbd; --faint: #7d8799; --line: #263047;
+    --lapis: #9db3ff; --lapis-soft: #1c2650; --table: #0a0e16; --c: #b996ff; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0d111b; --surface: #131a28; --raised: #18202f; --ink: #e9ecf3; --muted: #a3acbd; --faint: #7d8799; --line: #263047;
+  --lapis: #9db3ff; --lapis-soft: #1c2650; --table: #0a0e16; --c: #b996ff; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans); overflow: hidden; }
+:focus-visible { outline: 2px solid var(--lapis); outline-offset: 2px; }
+button { font: inherit; color: inherit; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* The site's bar, as on the other pages. */
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; height: var(--bar);
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 4px; background: var(--bg); border-bottom: 1px solid var(--line);
+}
+.appbar .brand { display: inline-flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px; border-radius: 10px; color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 var(--read); }
+.appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
+.appbar .sitenav-btn { margin-inline-start: auto; }
+
+/* The work area: the board and its drawers. Below the bar, the whole screen. */
+.sb { user-select: none; -webkit-user-select: none; -webkit-touch-callout: none; position: fixed; inset: calc(var(--bar) + env(safe-area-inset-top, 0px)) 0 0; display: flex; flex-direction: column; background: var(--table); }
+.sb:fullscreen { inset: 0; }
+.sb-head { display: flex; align-items: center; gap: 6px; padding: 8px max(12px, env(safe-area-inset-right, 0px)) 8px max(12px, env(safe-area-inset-left, 0px)); background: var(--bg); border-bottom: 1px solid var(--line); }
+.sb-head h1 { margin: 0 auto 0 4px; font: 500 20px/1.1 var(--read); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.tbtn { display: inline-flex; align-items: center; gap: 6px; height: 38px; padding: 0 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); cursor: pointer; font: 500 14px/1 var(--sans); white-space: nowrap; }
+.tbtn:hover { background: var(--lapis-soft); }
+.tbtn:disabled { opacity: 0.45; cursor: default; background: var(--surface); }
+.tbtn svg { width: 18px; height: 18px; flex: none; }
+@media (max-width: 560px) { .tbtn .lbl { display: none; } .tbtn { padding: 0 10px; } }
+.sb-body { flex: 1; min-height: 0; display: flex; flex-direction: column-reverse; }
+@media (min-width: 640px) and (min-aspect-ratio: 1/1) { .sb-body { flex-direction: row; } }
+
+/* The board. */
+.stage-wrap { position: relative; flex: 1; min-height: 0; min-width: 0; padding: 10px; }
+#stage { display: block; width: 100%; height: 100%; touch-action: none; user-select: none; -webkit-user-select: none; }
+#stage .item { cursor: grab; outline: none; }
+#stage .item:focus-visible .focus-ring { display: block; }
+#stage.dragging .item { cursor: grabbing; }
+.sel-box { fill: none; stroke: #fff; stroke-width: 3; stroke-dasharray: 10 8; vector-effect: non-scaling-stroke; pointer-events: none; }
+.sel-box2 { fill: none; stroke: #2646a1; stroke-width: 3; stroke-dasharray: 10 8; stroke-dashoffset: 9; vector-effect: non-scaling-stroke; pointer-events: none; }
+.handle { fill: #fff; stroke: #2646a1; stroke-width: 3; vector-effect: non-scaling-stroke; cursor: nwse-resize; }
+.handle.rot { cursor: grab; }
+.empty-hint { position: absolute; inset: 0; display: grid; place-items: center; pointer-events: none; padding: 24px; text-align: center; }
+.empty-hint[hidden] { display: none; }
+.empty-hint p { margin: 0; max-width: 360px; padding: 14px 18px; border-radius: 14px; background: color-mix(in srgb, #000 35%, transparent); color: #fff; font: 500 15px/1.45 var(--sans); }
+
+/* The tools for the piece that is picked up. */
+.tools { position: absolute; left: 50%; top: 16px; transform: translateX(-50%); display: flex; gap: 2px; padding: 4px; border-radius: 14px; background: var(--raised); border: 1px solid var(--line); box-shadow: 0 6px 22px rgba(0, 0, 0, 0.18); max-width: calc(100% - 24px); overflow-x: auto; scrollbar-width: none; }
+.tools[hidden] { display: none; }
+.tools button { display: grid; place-items: center; width: 42px; height: 42px; flex: none; border: 0; border-radius: 10px; background: transparent; cursor: pointer; }
+.tools button:hover { background: var(--lapis-soft); }
+.tools button svg { width: 22px; height: 22px; }
+.tools .sep { width: 1px; margin: 6px 3px; background: var(--line); flex: none; }
+.tools .del { color: #c0392b; }
+
+/* The drawers: along the bottom on phones and tablets held upright, down the side on wider screens. */
+.drawer { --c: var(--c1, #6d43c9); position: relative; display: flex; flex-direction: column; background: var(--raised); border-top: 1px solid var(--line); padding-bottom: env(safe-area-inset-bottom, 0px); }
+.pull { display: flex; align-items: center; justify-content: center; gap: 8px; width: 100%; height: 26px; border: 0; background: transparent; cursor: pointer; color: var(--muted); font: 600 12px/1 var(--sans); letter-spacing: 0.04em; text-transform: uppercase; touch-action: none; }
+.pull::before { content: ""; width: 40px; height: 5px; border-radius: 3px; background: var(--line); }
+.pull span { display: none; }
+.tabs { display: flex; gap: 6px; padding: 0 12px 8px; overflow-x: auto; scrollbar-width: none; }
+.tabs::-webkit-scrollbar, .tray::-webkit-scrollbar, .tools::-webkit-scrollbar { display: none; }
+.tabs button { flex: none; display: inline-flex; align-items: center; gap: 7px; height: 36px; padding: 0 14px; border: 0; border-radius: 99px; background: color-mix(in srgb, var(--ink) 6%, var(--raised)); cursor: pointer; font: 600 14px/1 var(--sans); }
+.tabs button i { display: inline-grid; place-items: center; width: 20px; height: 20px; border-radius: 6px; background: var(--tc); color: #fff; }
+.tabs button i svg { width: 13px; height: 13px; }
+.tabs button[aria-selected="true"] { background: var(--tc); color: #fff; }
+.tabs button[aria-selected="true"] i { background: rgba(255, 255, 255, 0.25); }
+.tray { display: flex; gap: 10px; padding: 2px 12px 12px; overflow-x: auto; overscroll-behavior: contain; list-style: none; margin: 0; }
+.drawer.closed .tray { display: none; }
+.piece { flex: none; display: grid; grid-template-rows: 1fr auto; justify-items: center; gap: 4px; width: 96px; height: 112px; padding: 8px 6px 6px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); cursor: grab; touch-action: pan-x; -webkit-tap-highlight-color: transparent; }
+.piece:hover { border-color: var(--tc); }
+.piece:active { transform: scale(0.97); }
+.piece svg { width: 100%; height: 100%; min-height: 0; overflow: visible; pointer-events: none; }
+.piece span { font: 500 12px/1.2 var(--sans); color: var(--muted); text-align: center; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.piece.scene { width: 132px; }
+.piece.scene svg { border-radius: 8px; }
+.piece[aria-pressed="true"] { border-color: var(--tc); box-shadow: inset 0 0 0 2px var(--tc); }
+@media (min-width: 700px) { .piece { width: 112px; height: 128px; } .piece.scene { width: 150px; } }
+@media (min-width: 640px) and (min-aspect-ratio: 1/1) {
+  .drawer { width: 320px; border-top: 0; border-inline-end: 1px solid var(--line); padding-bottom: 0; }
+  .drawer.closed { width: 72px; }
+  .pull { height: 40px; justify-content: flex-start; padding: 0 16px; }
+  .pull::before { display: none; }
+  .pull span { display: inline; }
+  .drawer.closed .pull span { display: none; }
+  .tabs { flex-wrap: wrap; padding: 0 12px 10px; }
+  .drawer.closed .tabs { flex-direction: column; padding: 0 12px; }
+  .drawer.closed .tabs button { width: 46px; padding: 0; justify-content: center; }
+  .drawer.closed .tabs button b { display: none; }
+  .tray { flex: 1; display: grid; grid-template-columns: repeat(auto-fill, minmax(88px, 1fr)); align-content: start; overflow: auto; padding: 4px 12px 16px; }
+  .piece { width: 100%; height: 116px; touch-action: pan-y; }
+  .piece.scene { width: auto; grid-column: span 2; }
+}
+@media (min-width: 640px) and (min-aspect-ratio: 1/1) and (max-width: 1099px) {
+  .drawer { width: 236px; }
+  .tray { grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); gap: 8px; }
+  .tabs button { height: 32px; padding: 0 10px; font-size: 13px; }
+}
+@media (min-aspect-ratio: 1/1) and (max-height: 520px) { .sb-head { padding-block: 4px; } .sb-head h1 { font-size: 17px; } .tbtn { height: 32px; } .piece { height: 100px; } }
+.turn-tip { display: none; position: absolute; left: 0; right: 0; bottom: 12px; margin: 0; text-align: center; font: 500 13px/1.3 var(--sans); color: var(--muted); pointer-events: none; }
+@media (orientation: portrait) and (max-width: 600px) { .turn-tip { display: block; } }
+.ghost { position: fixed; z-index: 50; pointer-events: none; width: 96px; height: 112px; transform: translate(-50%, -60%) scale(1.15); filter: drop-shadow(0 8px 14px rgba(0, 0, 0, 0.3)); }
+.ghost svg { width: 100%; height: 100%; }
+</style>
+</head>
+<body>
+<header class="appbar">
+  <a class="brand" href="index.html"><img src="icons/icon.svg" alt="BibleData.org"><span aria-hidden="true">BibleData.org</span></a>
+</header>
+<script src="nav.js?v=44"></script>
+
+<main class="sb" id="sb">
+  <div class="sb-head">
+    <h1>Story Board</h1>
+    <button class="tbtn" type="button" id="undo" disabled aria-label="Undo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 14 4 9l5-5"/><path d="M4 9h10a6 6 0 0 1 0 12h-3"/></svg><span class="lbl">Undo</span></button>
+    <button class="tbtn" type="button" id="clear" aria-label="Clear the board"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3"/></svg><span class="lbl">Clear</span></button>
+    <button class="tbtn" type="button" id="picture" aria-label="Save a picture"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="2"/><path d="m21 16-5-5-9 8"/></svg><span class="lbl">Picture</span></button>
+    <button class="tbtn" type="button" id="present" aria-label="Full screen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg><span class="lbl">Full screen</span></button>
+  </div>
+  <div class="sb-body">
+    <aside class="drawer" id="drawer" aria-label="Drawers">
+      <button class="pull" type="button" id="pull" aria-expanded="true" aria-controls="tray"><span>Drawers</span></button>
+      <div class="tabs" role="tablist" aria-label="Drawers" id="tabs"></div>
+      <ul class="tray" id="tray" role="tabpanel"></ul>
+    </aside>
+    <div class="stage-wrap" id="wrap">
+      <svg id="stage" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid meet" role="application" aria-label="The board. Pieces on it can be moved with a finger, a mouse, or the arrow keys.">
+        <defs id="defs">
+          <filter id="felt" x="-8%" y="-8%" width="116%" height="120%" color-interpolation-filters="sRGB">
+            <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="4" result="n"/>
+            <feDisplacementMap in="SourceGraphic" in2="n" scale="3.2" xChannelSelector="R" yChannelSelector="G" result="d"/>
+            <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.55 0 0 0 -0.18" result="g"/>
+            <feComposite in="g" in2="d" operator="in" result="grain"/>
+            <feGaussianBlur in="d" stdDeviation="3" result="b"/>
+            <feOffset in="b" dx="3" dy="6" result="o"/>
+            <feColorMatrix in="o" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.32 0" result="sh"/>
+            <feMerge><feMergeNode in="sh"/><feMergeNode in="d"/><feMergeNode in="grain"/></feMerge>
+          </filter>
+          <filter id="feltbg" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+            <feTurbulence type="fractalNoise" baseFrequency="0.7" numOctaves="3" seed="9" result="n"/>
+            <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.5 0 0 0 -0.2" result="g"/>
+            <feComposite in="g" in2="SourceGraphic" operator="in" result="grain"/>
+            <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="grain"/></feMerge>
+          </filter>
+          <clipPath id="board-clip"><rect width="1600" height="1000" rx="18"/></clipPath>
+        </defs>
+        <g clip-path="url(#board-clip)">
+          <g id="bg" filter="url(#feltbg)"></g>
+          <g id="items"></g>
+          <g id="sel"></g>
+        </g>
+      </svg>
+      <div class="empty-hint" id="empty" hidden><p>Open a drawer and tap a piece, or drag it onto the board. Then move it with your finger or the mouse.</p></div>
+      <p class="turn-tip">Turn your phone sideways for a bigger board.</p>
+      <div class="tools" id="tools" role="toolbar" aria-label="The piece you picked up" hidden></div>
+    </div>
+  </div>
+  <p class="sr" id="live" aria-live="polite"></p>
+</main>
+
+<script src="storyboard-art.js?v=1"></script>
+<script src="storyboard.js?v=1"></script>
+</body>
+</html>

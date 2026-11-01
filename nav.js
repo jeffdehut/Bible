@@ -37,6 +37,8 @@
     sketchbook: '<rect x="5" y="4" width="15" height="17" rx="1.5"/><path d="M3 7h3M3 11h3M3 15h3M9 9.5c2-1.5 3.5 1.5 5.5 0s2 1 2.5 2"/>',
     account: '<circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-7 8-7s8 2.6 8 7"/>',
     display: '<path d="M4 19 9 5l5 14M5.8 14h6.4"/><path d="M15 19l3-8 3 8M15.9 16.6h4.2"/>',
+    course: '<path d="M3 8 12 4l9 4-9 4Z"/><path d="M7 10v5c0 1.5 2.5 3 5 3s5-1.5 5-3v-5"/><path d="M21 8v6"/>',
+    board: '<rect x="3" y="4" width="18" height="14" rx="2"/><circle cx="9" cy="11" r="2"/><path d="M7.5 18v-2.5a1.5 1.5 0 0 1 3 0V18"/><path d="m14 15 2.5-4 2.5 4Z"/><path d="M8 21h8"/>',
     mail: '<rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m3.5 7 8.5 6 8.5-6"/>',
   };
   // Each: [id, label, icon, where, title, extra]. "where" is a page, or "reader:NAME" for a tool
@@ -63,6 +65,10 @@
       ["visual", "Visual Bible", "visual", "library.html", "Each book on the shelf, and seen whole from its own words"],
       ["kings", "Kings", "kings", "kings.html", "The kings of Israel and Judah, with the prophets of their days"],
       ["arcs", "Cross-refs", "arcs", "arcs.html", "Every cross-reference in the Bible as an arc"],
+    ]],
+    ["Resource Room", "menu-resources", [
+      ["course", "Three-year course", "course", "course.html", "The whole Bible taught in twelve quarters"],
+      ["storyboard", "Story Board", "board", "storyboard.html", "A felt board: people, animals and scenes to move as you tell the story"],
     ]],
     ["Settings", "menu-you", [
       ["account", "Account", "account", "reader:account", "Sign in to keep your highlights and notes on every device", { sub: "account-sub", hidden: true }],
