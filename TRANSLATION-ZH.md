@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 Timothy drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1543,6 +1543,25 @@ Settled while drafting 2 Thessalonians:
 | 2:2; 3:17 | 好像是我們寄來的書信；我保羅親筆問候你們 | 3:17 as Colossians 4:18; the notes link the signature to 2:2. |
 | 3:10 | 「若有人不肯工作，就不可吃飯。」 | |
 | ἀτάκτως; περιεργάζομαι (3:6–11) | 游手好閒；只管閒事 | As 1 Thessalonians 5:14; 3:11 甚麼事都不做，只管閒事 keeps a wordplay (*ergazomai*/*periergazomai* noted). |
+
+Settled while drafting 1 Timothy:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| πιστὸς ὁ λόγος (1:15; 3:1; 4:9) | 這話是可信的 (1:15 and 4:9 add 值得完全接受) | The formula for all five (also 2 Timothy 2:11; Titus 3:8), noted at 1:15. |
+| εὐσέβεια; εὐσεβέω (5:4); θεοσέβεια (2:10) | 敬虔；盡孝；敬畏神 | *eusebeia* noted at 2:2 (Acts 3:12 虔誠). |
+| σωφροσύνη, σώφρων; νηφάλιος | 自律；頭腦清醒 | 2:9, 15; 3:2, 11. |
+| ὑγιαίνουσα διδασκαλία; ὑγιαίνοντες λόγοι; ἑτεροδιδασκαλέω; μῦθοι | 健全的教導；健全的話；傳別的教義；無稽的傳說 | *hygiaino* noted at 6:3. |
+| σωτήρ | 救主 (我們的救主神) | |
+| μεσίτης (2:5); ἀντίλυτρον (2:6) | 中保；贖價 | Galatians 3:19–20's 中間人 and Mark 10:45 noted. |
+| 2:8–15 | 男人；女人；管轄 (*authenteo*)；在安靜中……順服 | Man/husband, *authenteo* and the readings of 2:15 in notes, as the English. |
+| ἐπίσκοπος, ἐπισκοπή; διάκονοι; γυναῖκες (3:11) | 監督、監督的職分；執事；女人 | As Philippians 1:1; 3:11 wives or women deacons noted. μιᾶς γυναικὸς ἀνήρ 只作一個妻子的丈夫 (直譯 noted). |
+| πρεσβύτερος; πρεσβυτέριον | 長老 (5:17, 19)；年老的人 (5:1)；長老團 (4:14) | As Acts. |
+| 3:16 | 他在肉體裏顯現，在靈裏被證實為義，被天使看見，在外邦人中被傳揚，在世上被人信服，被接到榮耀裏 | Prose; Ὃς as the SBLGNT, the 神 reading (ΟΣ/ΘΣ) noted. |
+| 5:18 | Deuteronomy 25:4 as 1 Corinthians 9:9; 做工的人得工錢是應當的 as Luke 10:7 | |
+| χῆραι (5:3–16) | 真正無依無靠的寡婦 | 直譯「真是寡婦的」 noted. |
+| ὁμολογία (6:12–13); ἐπιφάνεια (6:14) | 宣認；顯現 | 顯現 as 2 Thessalonians 2:8. |
+| ἄνθρωπε θεοῦ (6:11); 6:10 | 屬神的人；貪愛錢財是萬惡之根 | The Old Testament's 神人 noted. |
 
 ## Style
 
