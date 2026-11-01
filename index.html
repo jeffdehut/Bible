@@ -833,9 +833,9 @@ mark.emr { color: inherit; background: color-mix(in srgb, var(--lapis) 11%, tran
 #notecard.is-emoji #nc-text, #notecard.is-emoji #nc-colors, #notecard.is-emoji #nc-done { display: none; }
 .wnotes .emo-big { font-size: 22px; margin-inline-end: 8px; vertical-align: middle; }
 /* What to do with the words: every choice in view at once, an icon over a short name. */
-.markmenu .row.tools { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); gap: 4px; padding-top: 6px; border-top: 1px solid var(--line); overflow: visible; }
+.markmenu .row.tools { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); align-items: stretch; gap: 4px; padding-top: 6px; border-top: 1px solid var(--line); overflow: visible; }
 .markmenu .tool.wide { width: auto; min-width: 0; height: auto; min-height: 50px; padding: 6px 2px 5px; border-radius: 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px;
-  font: 600 11px/1.15 var(--sans); color: var(--ink); text-align: center; white-space: normal; overflow-wrap: normal; }
+  font: 600 11px/1.15 var(--sans); color: var(--ink); text-align: center; white-space: normal; overflow-wrap: normal; justify-content: flex-start; align-self: stretch; }
 @media (max-width: 360px) { .markmenu .tool.wide { padding-inline: 0; font-size: 10px; letter-spacing: -0.01em; } }
 .markmenu .tool.wide svg { width: 18px; height: 18px; flex: none; color: var(--lapis); }
 .markmenu .hl-note { white-space: normal; }
@@ -5504,7 +5504,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=127").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=128").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
