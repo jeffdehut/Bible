@@ -2169,5 +2169,6 @@ I18N.add({
  "The version you read.": "你閱讀的版本。",
  "Underneath": "下方",
  "A second version under each verse, to compare them verse by verse.": "每節經文下方的第二個版本，逐節對照。",
- "Original languages": "原文"
+ "Original languages": "原文",
+ "One version only.": "只顯示一個版本。"
 });
