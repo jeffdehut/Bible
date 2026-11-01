@@ -941,6 +941,15 @@ Settled while drafting Jeremiah:
 | הַבֹּשֶׁת | 那可恥的 | Baal, noted (3:24; 11:13). |
 | Numbering of 8:23–9:25 | 8:23 = 和合本 9:1；9:1–25 = 和合本 9:2–26 | Noted at 8:23 and 9:1; 9:22–23 (= 和合本 9:23–24) and 1 Corinthians 1:31 noted. |
 | The Aramaic of 10:11 | Noted where it starts and ends | |
+| Layout of narratives (13:1–11; 14:11–16; 18:1–12; 20:1–6; 21:1–7; 24) | Dialogue in 「」, a message inside 『』 | Sermons and oracles to the people (15–17; 19; 22–23; 25) unmarked, as 7 and 11. |
+| יוֹצֵר; חֹמֶר (18:1–11) | 陶匠；泥 | As Isaiah 45:9; 64:7 (Isaiah 29:16 has 窯匠). 18:11 *yotser* 塑造 (noted, as Isaiah 45:9). |
+| צֶמַח צַדִּיק; יְהוָה צִדְקֵנוּ (23:5–6) | 公義的苗；「耶和華我們的義」 | *tsemach* as Isaiah 4:2; *YHWH tsidqenu* and the play on 西底家 noted. For 33:15–16. |
+| נְבוּכַדְרֶאצַּר; כַּשְׂדִּים | 尼布甲尼撒；迦勒底人 | *Nevukhadre'tsar* noted at 21:2, later chapters refer back; *Kasdim* noted in each chapter. |
+| כָּנְיָהוּ; יְכָנְיָהוּ | 哥尼雅 (22:24, 28)；耶哥尼雅 (24:1) | Both noted as 約雅斤. |
+| מַשָּׂא יְהוָה (23:33–40) | 耶和華的默示 | The pun with 重擔 noted (23:33, 36). |
+| מָגוֹר מִסָּבִיב as a name (20:3) | 瑪歌珥‧米撒畢 | Union Version form; the meaning 四面都是驚嚇 noted. |
+| שִׁבְעִים שָׁנָה (25:11–12) | 七十年 | 29:10, 2 Chronicles 36:21, Daniel 9:2 noted. |
+| חַי־אָנִי (22:24); חַי־יְהוָה (16:14–15; 23:7–8) | 我指着我的永生起誓；我指着……永活的耶和華起誓 | As Isaiah 49:18 and 12:16. |
 
 ## Style
 
