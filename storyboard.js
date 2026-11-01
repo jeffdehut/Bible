@@ -29,7 +29,7 @@
   const rid = () => (crypto.randomUUID ? crypto.randomUUID().replace(/-/g, "").slice(0, 20) : Math.random().toString(36).slice(2, 12) + Date.now().toString(36));
   const blank = () => ({ bg: "hills", items: [] });
   const newDoc = (name, folder = "", data = null) => ({ id: rid(), name, folder, data: data || blank(), t: Date.now() });
-  const cleanData = d => ({ bg: sceneById[d && d.bg] ? d.bg : "hills", items: ((d && d.items) || []).filter(i => byId[i.a]), ...(d && d.cap && d.cap.text ? { cap: d.cap } : {}) });
+  const cleanData = d => ({ bg: sceneById[d && d.bg] ? d.bg : "hills", items: ((d && d.items) || []).filter(i => byId[i.a]), ...(d && d.cap && d.cap.text ? { cap: d.cap } : {}), ...(d && d.lesson ? { lesson: d.lesson } : {}) });
   const untitled = () => t("Untitled board");
   let lib = (() => {
     try { const l = JSON.parse(localStorage.getItem(DOCS)); if (l && l.docs) return { folders: [], dirty: {}, ...l }; } catch (e) { /* none yet */ }
@@ -1118,14 +1118,50 @@
     pickItems([]);
   }, true);
 
-  // A link from a lesson: #story=noah opens that story's drawer; #find=word searches the drawers.
+  // A link from a lesson: #story=noah (that story) or #find=word (a search), with &l=q3-7 (the
+  // lesson) and &t=its title. The scene being worked on is kept (in Drafts, if it has no folder),
+  // and the lesson's own board opens: made the first time, with the story's scene and people,
+  // and opened again after that.
   function fromHash() {
     const h = new URLSearchParams(location.hash.slice(1));
-    if (h.get("story") && storyById[h.get("story")]) { tab = "stories"; story = h.get("story"); query = ""; $("find").value = ""; }
-    else if (h.get("find")) { query = h.get("find"); $("find").value = query; }
-    else return;
-    openDrawer(true); renderTabs(); renderTray();
+    const st = h.get("story") && storyById[h.get("story")] ? h.get("story") : null, find = h.get("find");
+    if (!st && !find) return;
     history.replaceState(null, "", location.pathname);
+    if (st) { tab = "stories"; story = st; query = ""; $("find").value = ""; }
+    else { query = find; $("find").value = query; }
+    const key = h.get("l");
+    if (key) toLesson(key, h.get("t") || (st ? t(storyById[st].name) : find), st, find);
+    openDrawer(true); renderTabs(); renderTray();
+  }
+  function toLesson(key, title, st, find) {
+    let d = live().find(x => x.data && x.data.lesson === key);
+    if (d && d === doc) return;
+    const busy = board.items.length || board.cap;
+    if (busy && !doc.folder) {
+      doc.folder = t("Drafts"); touch(doc);
+      if (!lib.folders.includes(doc.folder)) setFolders([...lib.folders, doc.folder]);
+      notice(t("Your scene “{name}” is kept in Drafts").replace("{name}", doc.name || untitled()));
+    } else if (!busy && !(doc.data && doc.data.lesson)) { doc.del = true; doc.data = null; touch(doc); }
+    if (!d) {
+      // The lesson's starting scene: the story's backdrop, and up to four of its pieces on the ground.
+      const s = st && storyById[st];
+      const ids = s ? s.pieces.filter(id => byId[id]) : search(find || "").pieces.map(p => p.id);
+      const items = ids.slice(0, 4).map((id, i, all) => {
+        const p = byId[id], gap = W / (all.length + 1);
+        return { k: i + 1, a: id, x: Math.round(gap * (i + 1)), y: Math.round(H * 0.68 - (p.h * p.s * 0.85) / 2 + 60), s: Math.round(p.s * 0.85 * 100) / 100, r: 0, f: 1 };
+      });
+      d = newDoc(title, t("Lessons"), { bg: (s && sceneById[s.scenes[0]]) ? s.scenes[0] : "hills", items, lesson: key });
+      lib.docs[d.id] = d; touch(d);
+      if (!lib.folders.includes(t("Lessons"))) setFolders([...lib.folders, t("Lessons")]);
+    }
+    openDoc(d.id, true);
+    say(t("Opened: ") + d.name);
+  }
+  // A short note on the screen, for a moment.
+  let noticeTimer = 0;
+  function notice(msg) {
+    const n = $("notice"); n.textContent = msg; n.hidden = false;
+    clearTimeout(noticeTimer); noticeTimer = setTimeout(() => { n.hidden = true; }, 4200);
   }
   addEventListener("hashchange", fromHash);
 

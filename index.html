@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=57"></script>
+<script src="i18n.js?v=58"></script>
 <script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
@@ -675,6 +675,24 @@ textarea { min-height: 88px; resize: vertical; }
 .pk-filtering ~ .pk-index { display: none; }
 .group-label { margin: 16px 0 0; }
 /* Giving: a button for each way, with the handle beneath its name. */
+/* The tour: a light on one part of the page at a time, and a card about it (tour.js). */
+.tour { position: fixed; inset: 0; z-index: 200; }
+.tour-spot { position: fixed; border-radius: 14px; box-shadow: 0 0 0 9999px rgb(10 14 22 / 58%), 0 0 0 3px var(--gold, #e2b23c); pointer-events: none; transition: left .25s, top .25s, width .25s, height .25s; }
+.tour-card { position: fixed; padding: 14px 16px 12px; border-radius: 18px; background: var(--raised); color: var(--ink); border: 1px solid var(--line); box-shadow: 0 16px 44px rgb(0 0 0 / 30%); transition: top .25s, left .25s; }
+.tour-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; }
+.tour-n { font: 600 12px/1 var(--sans); letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); }
+.tour-x { border: 0; background: none; padding: 4px 6px; border-radius: 8px; color: var(--muted); font: 500 13px/1 var(--sans); cursor: pointer; }
+.tour-x:hover { background: var(--lapis-soft); color: var(--ink); }
+.tour-card h2 { margin: 0 0 4px; font: 500 21px/1.25 var(--read); }
+.tour-card p { margin: 0 0 12px; font: 400 15px/1.5 var(--sans); color: var(--ink); }
+.tour-bar { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.tour-dots { display: flex; gap: 5px; }
+.tour-dots i { width: 7px; height: 7px; border-radius: 50%; background: var(--line); }
+.tour-dots i.on { background: var(--lapis); }
+.tour-back, .tour-next { min-width: 76px; height: 38px; padding: 0 14px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 600 14px/1 var(--sans); cursor: pointer; }
+.tour-back[hidden] { visibility: hidden; display: inline-block; }
+.tour-next { background: var(--lapis); border-color: var(--lapis); color: var(--surface); }
+@media (prefers-reduced-motion: reduce) { .tour-spot, .tour-card { transition: none; } }
 .welcome-list { margin: 10px 0; padding-left: 20px; }
 .welcome-list li { margin: 6px 0; }
 .welcome-actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 4px; }
@@ -1340,7 +1358,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     </ul>
     <p class="hint">The Bible versions, each with its license:</p>
     <ul class="credits" id="credits-versions"></ul>
-    <p class="hint"><a href="#" id="project-welcome">Show the welcome again</a></p>
+    <p class="hint"><a href="#" id="project-tour">Take the tour again</a> · <a href="#" id="project-welcome">Show the welcome again</a></p>
   </div>
 </section>
 
@@ -2143,7 +2161,7 @@ async function openVerse(span) {
   $("note").oninput = () => { setNote(id, span, $("note").value); };
   $("listen-verse").onclick = () => { closeVerse(); listen.start(span); };
   // More than one verse: this one chosen, and a tap on another takes in every verse to it.
-  $("select-verses").onclick = () => { closeVerse(); pickVerse(span); toast("Tap another verse to select every verse up to it"); };
+  $("select-verses").onclick = () => { closeVerse(); pickVerse(span); };
   $("share-verse").onclick = () => window.Share?.verse({ ref: `${bookName} ${c}:${n}`, text: plainVerse(row[1]),
     note: VER === "ours" ? "Open Plain English Translation · draft" : verOf(VER)?.share || verOf(VER)?.name || VER, url: Share.here("index.html", refHash(b, c, n)).replace(/index\.html#/, "#") });
   // Words.
@@ -5425,10 +5443,11 @@ $("open-mine").onclick = () => { renderMine(); $("backup-box").hidden = true; op
 $("open-about").onclick = () => openSheet("about");
 $("open-project").onclick = () => openProject();
 const welcomed = () => store.set("welcomed", true);
-$("welcome-start").onclick = () => { welcomed(); closeSheets(); };
+$("welcome-start").onclick = () => { welcomed(); closeSheets(); if (window.Tour && !Tour.seen()) setTimeout(() => Tour.start(), 350); };
 $("welcome-contact").addEventListener("click", welcomed);
 $("welcome-donate").onclick = () => { welcomed(); openProject("support-wrap"); };
 $("project-welcome").onclick = ev => { ev.preventDefault(); openSheet("welcome"); };
+$("project-tour").onclick = ev => { ev.preventDefault(); closeSheets(); setTimeout(() => window.Tour?.start(), 250); };
 $("welcome-credits").onclick = ev => { ev.preventDefault(); welcomed(); openProject("credits-title"); };
 function openProject(at) {
   const ul = $("credits-versions");
@@ -5542,7 +5561,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=135").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=136").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -5592,5 +5611,6 @@ var reader = {
 <script src="config.js?v=31"></script>
 <script src="share.js?v=32"></script>
 <script src="account.js?v=37"></script>
+<script src="tour.js?v=2"></script>
 </body>
 </html>

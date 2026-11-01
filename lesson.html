@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=57"></script>
+<script src="i18n.js?v=58"></script>
 <script src="ui.js?v=3"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -253,7 +253,7 @@ ol.points li::before { content: counter(p); display: grid; place-items: center; 
     res.push(R(readerLink(L.passages[0]), "book", "#2646a1", ZH ? "閱讀經文" : "Read the passage", label(L.passages[0])));
     if (L.connections) { const p = parse(L.connections); res.push(R(`graph.html#${slugHash(p.b)}-${p.c1}`, "web", "#0f8c83", ZH ? "關聯" : "Connections", ZH ? "人物、地點和串珠" : "People, places, cross references")); }
     for (const mId of L.maps || []) res.push(R(`maps/${mId}.html`, "map", "#bf5a1f", ZH ? "地圖" : "Map", MAPS[mId] ? MAPS[mId][ZH ? 1 : 0] : mId));
-    if (L.felt) res.push(R(`storyboard.html#${L.felt.story ? "story=" + encodeURIComponent(L.felt.story) : "find=" + encodeURIComponent(L.felt.find)}`, "felt", sec.c === "#000000" ? "#333" : sec.ink, ZH ? "絨布故事" : "Felt Stories", ZH ? "布置這個故事的場景" : "Set the scene for this story"));
+    if (L.felt) res.push(R(`storyboard.html#${L.felt.story ? "story=" + encodeURIComponent(L.felt.story) : "find=" + encodeURIComponent(L.felt.find)}&l=q${q}-${n}&t=${encodeURIComponent(pick(L.title))}`, "felt", sec.c === "#000000" ? "#333" : sec.ink, ZH ? "絨布故事" : "Felt Stories", ZH ? "布置這個故事的場景" : "Set the scene for this story"));
     res.push(R("history.html", "time", "#a8790a", ZH ? "時間線" : "Timeline", ZH ? "聖經與世界歷史" : "The Bible and world history"));
     const resCard = card("res", "compass", ZH ? "資源" : "Resources", el("div", { class: "res" }, ...res));
 

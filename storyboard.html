@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=57"></script>
+<script src="i18n.js?v=58"></script>
 <script src="ui.js?v=3"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -264,6 +264,8 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
 .vi-opt b { font: 600 15px/1.2 var(--sans); }
 .vi-opt small { font: 400 13px/1.3 var(--sans); color: var(--muted); }
 
+.notice { position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); z-index: 60; max-width: calc(100vw - 32px); margin: 0; padding: 11px 16px; border-radius: 14px; background: var(--ink); color: var(--bg); font: 500 14px/1.4 var(--sans); box-shadow: 0 8px 26px rgba(0, 0, 0, 0.25); text-align: center; }
+.notice[hidden] { display: none; }
 .ghost { position: fixed; z-index: 50; pointer-events: none; width: 96px; height: 112px; transform: translate(-50%, -60%) scale(1.15); filter: drop-shadow(0 8px 14px rgba(0, 0, 0, 0.3)); }
 .ghost svg { width: 100%; height: 100%; }
 </style>
@@ -367,6 +369,7 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
   </form>
 </dialog>
 
+<p class="notice" id="notice" role="status" hidden></p>
 <div class="pop" id="pop" role="toolbar" aria-label="What you picked up" hidden></div>
 
 <dialog class="ask" id="verse-in" aria-labelledby="vi-title">
@@ -384,6 +387,6 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
 
 <script src="config.js?v=31"></script>
 <script src="storyboard-art.js?v=4"></script>
-<script src="storyboard.js?v=5"></script>
+<script src="storyboard.js?v=6"></script>
 </body>
 </html>
