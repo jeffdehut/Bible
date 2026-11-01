@@ -2,6 +2,11 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Merodach":"米羅達",
+"Leb-kamai":"立加米",
+"Mahseiah":"瑪西雅",
+"Put":"弗",
+"Hophra":"合弗拉",
 "Rab-mag":"拉墨",
 "Geruth-chimham":"金罕寓",
 "Nebushazban":"尼布沙斯班",

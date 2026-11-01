@@ -960,6 +960,14 @@ Settled while drafting Jeremiah:
 | Jeremiah 39:1–10; 40:7–9; 41:1–3 (2 Kings 25) | 2 Kings 25's wording wherever the Hebrew agrees (眾軍長、部下、剜了……眼睛、用銅鏈鎖着) | Differences noted as 列王紀下25章23節作「……」; names by 和合本 Jeremiah (單戶篾 beside Kings' 單戶蔑). |
 | נָפַל אֶל (to the Babylonians) | 投降 | 37:13–14; 38:19; 39:9. יָצָא אֶל (38:17–21) 出去投降, 「出去」 noted. |
 | גּוּר (42:15–22) | 寄居 | *gur* noted. |
+| מְלֶכֶת הַשָּׁמַיִם; כַּוָּנִים (44:17–25) | 天后；餅 | As 7:18, noted there; *kavvanim* noted (44:19). |
+| Oracles against the nations (46–51) | Poetry, one verse per line, unmarked; the heading as the first words (論埃及。論摩押。) | 46:1 notes the Septuagint's place and order. Names by 和合本 Jeremiah: 伯拉河 (classic, not 幼發拉底河), 推羅, 大馬色, 挪弗, 密奪, 答比匿, 迦斐託, 雅雜 (48:21), 愛 (49:3), 瑪勒堪 (49:1, 3, *malkam*/Milcom noted), 挪的亞們 (46:25, the 1989 text 亞捫 noted), 立加米, 示沙克. |
+| Jeremiah 48 (Isaiah 15–16; 24:17–18) | Isaiah's wording wherever the Hebrew agrees (魯希坡的山坡；我的心……哀鳴；肥美的田園；恐懼、陷坑和網羅) | Differences noted as 以賽亞書16章6節作「……」. 48:45–46 as Numbers 21:28–29 (有火從希實本發出……你有禍了！基抹的人民). |
+| Jeremiah 49:7–22 (Obadiah 1–9) | Sets the wording for Obadiah | Obadiah to follow it where the Hebrew agrees and note differences. 49:18 = 50:40; 49:19–21 = 50:44–46; 49:22 = 48:40–41; 49:26 = 50:30; 50:41–43 = 6:22–24: identical wording, differences noted. |
+| חֶרֶב … ; חֹרֶב (50:35–38) | 刀劍臨到……；乾旱臨到…… | The *cherev*/*chorev* play noted. |
+| זָדוֹן (50:31–32) | 狂傲者 | As a name for Babylon, noted. |
+| פַּחוֹת וּסְגָנִים (51:23, 28, 57) | 省長和地方官 | As Ezra. |
+| Jeremiah 52 (2 Kings 24:18–25:30) | 2 Kings' wording wherever the Hebrew agrees | Differences noted as 列王紀下25章8節作「……」; the parallel noted at 52:1; dates 主前 as Jeremiah. |
 
 ## Style
 
