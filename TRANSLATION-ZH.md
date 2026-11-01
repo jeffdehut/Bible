@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** Mark and Matthew drafted, Luke in progress; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** Mark, Matthew and Luke drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1284,7 +1284,15 @@ Settled while drafting Luke:
 | Isaiah 61:1–2 (4:18–19) | 傳好消息給貧窮的人……向被擄的宣告自由……使受欺壓的得自由，宣告主悅納人的年 | Our Isaiah wording kept where the Greek agrees; the differences in the note. |
 | The Lord's Prayer (11:2–4) | 父啊，願人都尊你的名為聖；願你的國降臨；我們每天所需的食物，求你天天賜給我們；赦免我們的罪…… | Matthew 6:9–13's wording where the Greek agrees; 赦免 for sins, 饒恕 for debtors. |
 | 10:27 (Deuteronomy 6:5; Leviticus 19:18) | 全心、全性、全力、全意；要愛你的鄰舍，如同愛自己 | Luke's order of the four. |
-| δοῦλος | 奴僕 (7:2–10, as Matthew 8:9)；僕人 (12:37–47, as Matthew 24:45–51) | 或譯 noted. |
+| δοῦλος | 僕人 throughout Luke (7:2–10; 12:37–47; 14:17–23; 15:22; 17:7–10; 19:13–22; 20:10–11) | As Matthew's servant parables; 或譯「奴僕」 and *doulos* noted at the first in each passage. 22:50 the high priest's 奴僕 as Mark 14:47. |
+| Old Testament quotations (13–24) | Mark's and Matthew's wording where the Greek agrees | 13:35, 19:38 是應當稱頌的 (our Psalm 118:26 是蒙福的 noted; 19:38 adds 王); 19:46 我的殿必作禱告的殿 (no 萬民); 20:17 as Psalm 118:22; 20:42–43 作你的腳凳 as our Psalm 110:1 (Mark 12:36 放在你的腳下); 22:37 他被列在不法的人之中, as our Isaiah 53:12 note; 23:30 Hosea 10:8 in reverse order; 23:46 父啊，我把我的靈交在你手裏 (Psalm 31:6). |
+| δραχμή; μνᾶ | 銀錢；彌那 | Kept apart from 銀幣 (denarius) and 一塊錢 (stater); 彌那 as Ezekiel 45:12; values in notes. |
+| βάτος; κόρος (16:6–7) | 簍；石 | 罷特, 柯珥 and their volumes in notes. |
+| ᾅδης (16:23); κόλπος Ἀβραάμ | 陰間；亞伯拉罕的懷裏 | As Matthew; *Hades* noted. |
+| SBLGNT single brackets (22:19b–20; 24:40, 51, 52) | 〔 〕 in the text | Noted: printed in brackets as uncertain. 22:43–44 and 23:34a in the text without brackets, noted as missing in some manuscripts. |
+| στρατηγοὶ τοῦ ἱεροῦ | 聖殿的守衞長 | 22:4, 52. |
+| Κρανίον (23:33) | 髑髏地 | As Mark 15:22; 各各他 and 加略山 noted. |
+| παράδεισος (23:43) | 樂園 | Noted. |
 | λεπτόν (12:59) | 小銅錢 | As Mark 12:42; ¹⁄₁₂₈ of a denarius noted. |
 
 ## Style

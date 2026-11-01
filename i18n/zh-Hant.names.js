@@ -2,6 +2,7 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Cleopas":"革流巴",
 "Sala":"沙拉",
 "Arni":"亞尼",
 "Admin":"亞民",
