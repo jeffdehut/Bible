@@ -197,6 +197,10 @@ mark.hls[data-s="strike"] { text-decoration: line-through var(--c); text-decorat
 .sticky:hover, .sticky:focus-visible { transform: scale(1.18); outline: none; }
 .sticky.sk-mark { color: var(--lapis); }
 .sticky.sk-mark svg { fill: none; stroke: currentColor; }
+.sticky.sk-mark { -webkit-touch-callout: none; -webkit-user-select: none; user-select: none; }
+.sk-peek { position: fixed; z-index: 66; padding: 6px; border-radius: 10px; background: var(--raised, #fff); box-shadow: 0 10px 30px rgb(0 0 0 / 25%); pointer-events: none; animation: sk-peek .14s ease-out; }
+.sk-peek .sk-pic { box-shadow: 0 0 0 1px rgb(0 0 0 / 6%); }
+@keyframes sk-peek { from { opacity: 0; transform: translateY(4px) scale(.96); } }
 /* The sketchbook: each sketch on its paper, its passage under it. */
 .sk-grid { list-style: none; margin: 12px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 14px; }
 .sk-grid li { position: relative; }
@@ -4331,6 +4335,47 @@ function renderSketchbook() {
     return li;
   }));
 }
+// A sketch's preview: a small picture of it over its pencil, on hover, or while a finger rests on
+// the pencil (then the tap that ends the press does not open it).
+const skPeek = el("div", { class: "sk-peek", hidden: true, "aria-hidden": "true" });
+document.body.append(skPeek);
+let skPeekFor = null, skHold = 0, skHeld = false;
+function showPeek(mark) {
+  const v = mark.closest(".v"), q = v && notes[v.dataset.id]?.r?.[+mark.dataset.k];
+  if (!q || q[2] !== "d") return;
+  skPeekFor = mark;
+  skPeek.replaceChildren(Sketch.picture(q[3], { size: 150 }));
+  skPeek.hidden = false;
+  const r = mark.getBoundingClientRect(), w = 162, h = 162;
+  const x = Math.min(Math.max(8, r.left + r.width / 2 - w / 2), innerWidth - w - 8);
+  const y = r.top - h - 10 > 60 ? r.top - h - 10 : r.bottom + 10;
+  skPeek.style.left = x + "px"; skPeek.style.top = y + "px";
+}
+function hidePeek() { skPeek.hidden = true; skPeekFor = null; }
+$("text").addEventListener("pointerover", ev => {
+  if (ev.pointerType !== "mouse") return;
+  const m = ev.target.closest(".sk-mark");
+  if (m && m !== skPeekFor) showPeek(m);
+});
+$("text").addEventListener("pointerout", ev => {
+  if (ev.pointerType !== "mouse" || !skPeekFor) return;
+  if (!ev.relatedTarget || !skPeekFor.contains(ev.relatedTarget)) hidePeek();
+});
+$("text").addEventListener("pointerdown", ev => {
+  if (ev.pointerType === "mouse") return;
+  const m = ev.target.closest(".sk-mark");
+  if (!m) return;
+  skHeld = false;
+  clearTimeout(skHold);
+  skHold = setTimeout(() => { skHeld = true; showPeek(m); }, 380);
+});
+for (const t of ["pointerup", "pointercancel"]) addEventListener(t, ev => {
+  if (ev.pointerType === "mouse") return;
+  clearTimeout(skHold);
+  if (skHeld) setTimeout(hidePeek, 900);
+});
+addEventListener("scroll", () => { if (skPeekFor) hidePeek(); }, { passive: true });
+$("text").addEventListener("contextmenu", ev => { if (ev.target.closest(".sk-mark")) ev.preventDefault(); });
 $("open-sketchbook").onclick = () => { sbPicking = false; sbChosen.clear(); renderSketchbook(); openSheet("sketchbook"); };
 $("sb-select").onclick = () => { sbPicking = true; renderSketchbook(); };
 $("sb-cancel").onclick = () => { sbPicking = false; sbChosen.clear(); renderSketchbook(); };
@@ -4957,7 +5002,7 @@ function pickVerse(span) {
 
 $("text").addEventListener("click", ev => {
   const st = ev.target.closest(".sticky, .emo");
-  if (st && st.classList.contains("sk-mark")) { ev.stopPropagation(); skipUntil = 0; clearSel(); openSketch(st.closest(".v").dataset.id, +st.dataset.k); return; }
+  if (st && st.classList.contains("sk-mark")) { ev.stopPropagation(); skipUntil = 0; clearSel(); hidePeek(); if (skHeld) { skHeld = false; return; } openSketch(st.closest(".v").dataset.id, +st.dataset.k); return; }
   if (st && st.classList.contains("emo")) { ev.stopPropagation(); skipUntil = 0; editEmoji(st.closest(".v").dataset.id, +st.dataset.k, st); return; }
   if (st) { ev.stopPropagation(); skipUntil = 0; clearSel(); openNote(st.closest(".v").dataset.id, +st.dataset.k); return; }
   if (Date.now() < skipUntil) { skipUntil = 0; return; }
@@ -5106,7 +5151,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=83").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=84").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
