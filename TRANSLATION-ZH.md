@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** Mark drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** Mark and Matthew drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1233,6 +1233,40 @@ Settled while drafting Malachi:
 | 3:23 | 在耶和華的日子，那大而可畏的日子來到以前，我必差遣以利亞先知 | As Joel 3:4. |
 | חֵרֶם (3:24; Zechariah 14:11) | 滅絕的咒詛 | The synagogue's repeat of 3:23 noted. |
 | מִנְחָה (1:10–13; 2:12–13; 3:3–4) | 供物 | *minchah* noted. |
+
+Settled while drafting Matthew:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| ἡ βασιλεία τῶν οὐρανῶν | 天國 | Matthew's own phrase, kept apart from Mark's 神的國; 「諸天的國」 noted at 3:2. |
+| The genealogy (1:2–16) | The Union Version's Matthew forms (亞蘭, 撒拉鐵, 所羅巴伯) | The Old Testament form noted where it differs (蘭; 亞比央; 亞撒利雅). The critical text's *Asaph*, *Amos* are 亞薩, 阿摩司, with 亞撒, 亞們 (和合本) noted. 某人生某人; 從她瑪生. |
+| παρθένος (1:23) | 那童女 | Our Isaiah 7:14 has 少女 (*almah*); both noted. |
+| Old Testament quotations | The Greek in the text, our Old Testament's wording kept where the Greek agrees | Our Old Testament line quoted in the note where it differs (2:6, 18; 4:4–10, 15–16; 8:17; 9:13; 10:35–36); 3:3 as Mark 1:3. |
+| μάγοι | 占星家 | Noted: 傳統譯作「博士」, which now means a doctorate. |
+| μακάριοι | ……的人有福了 | As *ashrei* (Psalms); *makarioi* noted at 5:3. |
+| ὑποκριτής; μαμωνᾶς | 假冒為善的人；錢財 | *hypokrites* noted; 和合本「瑪門」 noted. |
+| The Lord's Prayer (6:9–13) | 我們在天上的父，願人都尊你的名為聖…… 不要帶我們進入試探，救我們脫離那惡者 | *epiousios* and the doxology (not in the critical text) in notes. |
+| ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς; ὁ οὐράνιος | 你們在天上的父；天父 | |
+| ἀσσάριον; κοδράντης | 銅錢；小銅錢 | ¹⁄₁₆ and ¹⁄₆₄ of a denarius, noted. |
+| οὐκ ἔστιν μου ἄξιος (10:37–38) | 就不配屬於我 | Not 和合本's added 「作我的門徒」. |
+| ᾅδης | 陰間 | As *she'ol*; *Hades* noted (11:23; 16:18 πύλαι ᾅδου 陰間的權勢, 直譯「陰間的門」). |
+| οὐαί σοι | ……你有禍了 | *ouai* noted as the prophets' *hoy* (11:21; 18:7). |
+| ἐκκλησία (16:18; 18:17) | 教會 | *ekklesia* 「會眾、聚集的人」 noted. |
+| Πέτρος / πέτρα (16:18) | 彼得／磐石 | The wordplay, lost in Chinese, explained in a note. |
+| δέω / λύω (16:19; 18:18) | 捆綁／釋放 | Noted: the teachers' terms for forbidding and permitting. |
+| Old Testament quotations (11–20) | As Matthew 1–10 | 11:10 as Mark 1:2 plus 「在你前面」; 12:7 as 9:13 (*eleos*/*chesed*); 13:14–15 shares Isaiah 6:9's 聽了又聽……看了又看; 15:8–9 = Mark 7:6–7; 19:18–19 the commandments as Exodus 20 and 5:21, 27 (不可謀殺，不可通姦，不可偷竊). |
+| ζιζάνια; σάτον | 稗子；細亞 | Darnel and the seah (約 7 公升) noted. |
+| τάλαντον; στατήρ (17:27) | 他連得；一塊錢 | 他連得 ≈ 6,000 denarii (Matthew; the Hebrew talent by weight is about 34 kg); stater in a note. |
+| Hours (20:3–9) | 上午九時、中午十二時、下午三時、下午五時 | As Mark; the hour in a note. |
+| Old Testament quotations (21–28) | Mark 11–15's wording wherever the Greek agrees | 21:9, 23:39 是應當稱頌的 as Mark 11:9 (our Psalm 118:26 是蒙福的 noted); 21:13 without 萬民; 21:42 and 22:44 as Mark 12:10–11, 36; 22:37 全心、全性、全意 (no 全力); 22:39 as 19:19 (要愛你的鄰舍，如同愛自己); 26:31 adds 羊群的. |
+| 21:5 (Isaiah 62:11; Zechariah 9:9) | 是溫柔的，騎着驢，又騎着驢駒，就是負軛之驢的崽子 | Two animals in Matthew, one in Zechariah's parallel lines; our Zechariah text quoted in the note. |
+| 27:9–10 (Zechariah 11:12–13; Jeremiah) | 三十塊銀子；陶匠的田；血田 | Why Jeremiah is named, and our Zechariah wording, in the note. |
+| Ἠλὶ ἠλὶ λεμὰ σαβαχθάνι (27:46) | 以利，以利，拉馬撒巴各大尼？ | As Mark 15:34's 拉馬撒巴各大尼; the Hebrew *Eli* and 「以羅伊」 manuscripts noted. |
+| 28:19–20 | 使萬民作我的門徒，奉父、子、聖靈的名給他們施洗……我天天與你們同在，直到這世代的終結 | 「歸入……的名」, *panta ta ethne* noted; 這世代的終結 as 13:39 and 24:3. |
+| νομικός (22:35) | 律法專家 | *nomikos* noted; kept apart from 經學家 and 律法教師. |
+| παρουσία (24:3, 27, 37, 39) | 來臨 | *parousia* noted. |
+| ναός; κορβανᾶς; κουστωδία | 聖殿 (*naos* noted)；庫房 (with 各耳板)；衞兵 | 23:16; 27:5–6, 65. |
+| χαῖρε, χαίρετε | 你好 (26:49; 28:9)；萬歲 (to the king, 27:29, as Mark 15:18) | *chairete* noted. |
 
 ## Style
 

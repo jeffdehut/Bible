@@ -2,6 +2,8 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Golgotha":"各各他",
+"Barachiah":"巴拉加",
 "Elkosh":"伊勒歌斯",
 "Nahum":"那鴻",
 "Wadi of the Arabah":"亞拉巴河",
@@ -1334,8 +1336,8 @@ I18N.add({
 "Cabul":"迦步勒",
 "Cabul (1 Kings 9.13)":"迦步勒（列王紀上 9.13）",
 "Cabul (Joshua 19.27)":"迦步勒（約書亞記 19.27）",
-"Caesarea":"凱撒利亞",
-"Caesarea Philippi":"該撒利亞‧腓立比",
+"Caesarea":"該撒利亞",
+"Caesarea Philippi":"該撒利亞腓立比",
 "Caiaphas":"該亞法",
 "Cain":"該隱",
 "Cainan":"該南",

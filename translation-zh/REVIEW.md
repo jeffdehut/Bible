@@ -66,3 +66,13 @@ Found while drafting; not yet settled across books.
   Zephaniah 1:11 keeps 和合本's name 瑪革提施 for *makhtesh*; 3:8 follows the Septuagint *le'ed* 作見證 (as the English) against the Masoretic *la'ad* and 和合本「擄掠」.
   Haggai and Zechariah use 和合本's 約撒答 for Jehozadak, against Ezra's 約薩達 and the names table's 約薩答 (left alone). Zechariah 1:8 *seruqqim* 栗色 (和合本「黃馬」); 11:7 the staffs translated 恩惠、聯合 (和合本「榮美」「聯索」).
   Difficult Hebrew: Nahum 1:10, 12; 2:9; Habakkuk 1:9, 11; 2:5; 3:9; Zephaniah 2:1–2; 3:18; Haggai 2:16, 19; Zechariah 2:12; 6:6; 9:15; 14:6; Malachi 2:15–16.
+- Matthew 1–10: *magoi* is 占星家 (2:1), a departure from 和合本「博士」 (noted); a reviewer should confirm. 4:15 keeps Isaiah 8:23's 外族人的加利利 (and our Isaiah note's quotation of Matthew), against the New Testament's 外邦人 for *ethne* elsewhere.
+  *Artos* is 食物 in 4:3–4 and 6:11 (as Deuteronomy 8:3) but 餅 in 7:9. 5:5 承受這地 as Psalm 37:11. The genealogy's *Asaph* and *Amos* (critical text) are 亞薩, 阿摩司, the psalmist's and prophet's forms; 和合本 follows *Asa*, *Amon*.
+  The Lord's Prayer (6:9–13) should be read aloud by native readers for prayability. 10:28 *psyche* is 靈魂 (body and soul), 10:39 生命.
+- Matthew 11–20: the commandments in 19:18 follow our Exodus 20 and Matthew 5:21, 27 (不可謀殺，不可通姦，不可偷竊), but Mark 10:19 has 不可殺人，不可姦淫，不可偷盜; align Mark. Simon Bar-jona (16:17) is 西門巴約拿 (classic, unbroken; 1989 西門‧巴‧約拿). (Settled: Mark 10:19 now reads as Exodus 20.)
+  Caesarea Philippi is 該撒利亞腓立比 as Mark 8:27 (names table changed from 該撒利亞‧腓立比; Caesarea from the 1989 凱撒利亞 to 該撒利亞). The stater (17:27) is 一塊錢 as 和合本, to keep 銀幣 for the denarius; stadia (14:24) 斯他丟.
+  11:12 (*biazetai*) is uncertain; 12:18–21 and 13:35 differ from both the Hebrew and our Old Testament (noted). 13:30 leaves the master's order to the reapers without inner quotation marks.
+- Matthew 21–28: our Zechariah 9:9 note quotes Matthew 21:5 as 「又騎着驢，就是騎着驢駒」; Matthew's Greek (καὶ ἐπὶ πῶλον) has two animals, and 21:5 now reads 「騎着驢，又騎着驢駒，就是負軛之驢的崽子」: align the Zechariah note.
+  22:39 follows Matthew 19:19 and Leviticus 19:18 (要愛你的鄰舍，如同愛自己), but Mark 12:31, 33 have 要愛鄰舍，像愛自己一樣; align Mark. 21:9 and 23:39 keep Mark 11:9's 是應當稱頌的 (the 蒙福/應當稱頌 point above is still open).
+  *Nomikos* (22:35) is 律法專家, new; Luke uses the word often. 26:17 keeps Mark's 除酵節 against the Old Testament's 無酵節; settle one. 21:30 κύριε to a father is 父親; 26:50 (*eph' ho parei*) is uncertain.
+- Settled after Matthew: "love your neighbour" as 要愛你的鄰舍，如同愛自己 (Mark 12:31, 33 aligned with Matthew); the feast 無酵節 everywhere (Mark 14, Matthew 26 aligned with the Old Testament).
