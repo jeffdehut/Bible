@@ -222,12 +222,13 @@ mark.hls[data-s="strike"] { text-decoration: line-through var(--c); text-decorat
 /* The margins while drawing, or while the page is slid aside to show one: a warm paper tone
    with a faint rule where the page meets it. */
 .ink-margin { position: fixed; top: 0; bottom: 0; z-index: 1; pointer-events: none; background: rgb(214 192 140 / 13%);
-  background: color-mix(in srgb, var(--gold) 9%, transparent); transition: left .28s cubic-bezier(.2,.8,.2,1), width .28s cubic-bezier(.2,.8,.2,1), opacity .2s; }
+  background: color-mix(in srgb, var(--gold) 9%, transparent); transition: opacity .2s; }
+
 .ink-margin.l { border-right: 1px solid rgb(176 120 90 / 30%); border-right-color: color-mix(in srgb, var(--gold) 34%, transparent); }
 .ink-margin.r { border-left: 1px solid rgb(176 120 90 / 30%); border-left-color: color-mix(in srgb, var(--gold) 34%, transparent); }
 .ink-margin[hidden] { display: block; opacity: 0; }
 @media print { .ink-margin, #ink-tabs { display: none !important; } }
-#main.slid, #ink.slid { transition: transform .28s cubic-bezier(.2,.8,.2,1); }
+
 .ink-tab { position: absolute; z-index: 4; width: 18px; height: 34px; display: grid; place-items: center; border: 0; padding: 0; background: var(--raised, #fff); color: var(--lapis); box-shadow: 0 1px 6px rgb(0 0 0 / 22%); cursor: pointer; }
 .ink-tab.l { border-radius: 0 9px 9px 0; }
 .ink-tab.r { border-radius: 9px 0 0 9px; }
@@ -4707,12 +4708,24 @@ function inkSlideMax() {
   const r = $("text").getBoundingClientRect();
   return (innerWidth - r.width) / 2 >= 150 ? 0 : Math.round(Math.min(innerWidth * 0.72, 300));
 }
+// The page, its ink and the margins' tone move together, frame by frame (one motion for all, so
+// none can lag behind the others): eased over a quarter second, or following the finger at once.
+let inkTween = 0;
+function placeShift(x) { for (const n of [$("main"), inkSvg, inkMarginL, inkMarginR]) n.style.transform = x ? `translateX(${x}px)` : ""; }
 function setInkShift(px, animate = true) {
   const max = inkSlideMax();
+  const from = liveShift();
   inkShift = Math.max(-max, Math.min(max, px));
-  for (const n of [$("main"), inkSvg]) {
-    n.classList.toggle("slid", animate);
-    n.style.transform = inkShift ? `translateX(${inkShift}px)` : "";
+  cancelAnimationFrame(inkTween);
+  if (!animate || matchMedia("(prefers-reduced-motion: reduce)").matches || Math.abs(from - inkShift) < 1) placeShift(inkShift);
+  else {
+    const t0 = performance.now(), to = inkShift, ease = t => 1 - Math.pow(1 - t, 3);
+    const step = now => {
+      const t = Math.min(1, (now - t0) / 280);
+      placeShift(from + (to - from) * ease(t));
+      if (t < 1) inkTween = requestAnimationFrame(step); else inkMargins();
+    };
+    inkTween = requestAnimationFrame(step);
   }
   inkMargins();
   inkBar?.querySelectorAll(".slide").forEach(b => b.setAttribute("aria-pressed", String((b.dataset.side === "l" && inkShift > 0) || (b.dataset.side === "r" && inkShift < 0))));
@@ -4722,18 +4735,19 @@ function setInkShift(px, animate = true) {
 const inkMarginL = el("div", { class: "ink-margin l", hidden: true, "aria-hidden": "true" });
 const inkMarginR = el("div", { class: "ink-margin r", hidden: true, "aria-hidden": "true" });
 document.body.append(inkMarginL, inkMarginR);
+// Laid out for the page unslid, and wider by the slide's reach, they slide with the page itself
+// (setInkShift moves them as it moves the page), so they never part from the words.
 function inkMargins() {
   const show = inking || !!inkShift;
-  const r = $("text").getBoundingClientRect();
   const gap = 10;   // a little air between the words and the rule
-  const left = Math.max(0, inkEdge("l") - scrollX + inkShift - gap), right = Math.min(innerWidth, inkEdge("r") - scrollX + inkShift + gap);
-  inkMarginL.style.left = "0px"; inkMarginL.style.width = left + "px";
-  inkMarginR.style.left = right + "px"; inkMarginR.style.width = Math.max(0, innerWidth - right) + "px";
-  inkMarginL.hidden = !show || left < 2; inkMarginR.hidden = !show || innerWidth - right < 2;
-  void r;
+  const reach = inkSlideMax() + 40;
+  const left = inkEdge("l") - scrollX - gap, right = inkEdge("r") - scrollX + gap;
+  inkMarginL.style.left = -reach + "px"; inkMarginL.style.width = Math.max(0, left + reach) + "px";
+  inkMarginR.style.left = right + "px"; inkMarginR.style.width = Math.max(0, innerWidth - right + reach) + "px";
+  inkMarginL.hidden = !show || (left < 2 && inkShift <= 0); inkMarginR.hidden = !show || (innerWidth - right < 2 && inkShift >= 0);
 }
 addEventListener("resize", () => inkMargins());
-$("main").addEventListener("transitionend", ev => { if (ev.target === $("main")) inkMargins(); });
+
 const snapInk = () => { const max = inkSlideMax(); setInkShift(inkShift > max / 3 ? max : inkShift < -max / 3 ? -max : 0); };
 addEventListener("resize", () => { if (inkShift) setInkShift(0, false); });
 // Margin notes off the screen: a small tab at the edge beside them, to slide the page over.
@@ -5384,7 +5398,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=92").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=93").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
