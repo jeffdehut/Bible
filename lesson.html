@@ -46,11 +46,21 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 
 /* The page: one lesson, made to fit one printed sheet. */
 .sheet { max-width: 960px; margin: 22px auto 60px; background: var(--surface); border: 1px solid var(--line); border-radius: 22px; overflow: hidden; }
-.band { display: flex; align-items: center; gap: 16px; padding: 18px 22px; background: color-mix(in srgb, var(--c) 13%, var(--surface)); border-bottom: 3px solid var(--c); }
+.band { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; padding: 18px 22px; background: color-mix(in srgb, var(--c) 13%, var(--surface)); border-bottom: 3px solid var(--c); }
 .band img { width: 64px; height: 64px; flex: none; }
 .band .where { margin: 0; font: 700 12px/1.3 var(--sans); letter-spacing: 0.07em; text-transform: uppercase; color: var(--ink-c); }
 .band .sec { margin: 2px 0 0; font: 500 14px/1.3 var(--sans); color: var(--muted); }
+.band-text { flex: 1 1 220px; min-width: 0; }
+.band-text p { text-wrap: balance; }
 .band-tools { margin-inline-start: auto; display: flex; gap: 6px; }
+.band-tools .tbtn { white-space: nowrap; justify-content: center; }
+/* On a phone: the words take the whole width, and the buttons go on their own row beneath. */
+@media (max-width: 640px) {
+  .band { padding: 16px; }
+  .band img { width: 52px; height: 52px; }
+  .band-tools { flex: 1 1 100%; margin: 0; }
+  .band-tools .tbtn { flex: 1; height: 40px; }
+}
 .tbtn { display: inline-flex; align-items: center; gap: 6px; height: 36px; padding: 0 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); color: var(--ink); cursor: pointer; font: 500 14px/1 var(--sans); text-decoration: none; }
 .tbtn:hover { background: var(--lapis-soft); }
 .tbtn svg { width: 17px; height: 17px; }
@@ -235,7 +245,7 @@ ol.points li::before { content: counter(p); display: grid; place-items: center; 
 
     const band = el("header", { class: "band" },
       el("img", { src: C.icon(secId), alt: "", width: "64", height: "64" }),
-      el("div", {},
+      el("div", { class: "band-text" },
         el("p", { class: "where", translate: "no", text: ZH ? `第${year}年 · 第${qy}季 · 第${n}課` : `Year ${year} · Quarter ${qy} · Lesson ${n}` }),
         el("p", { class: "sec", translate: "no", text: pick(sec) })),
       el("div", { class: "band-tools" },
