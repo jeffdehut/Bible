@@ -59,6 +59,8 @@ h1 { margin: 0 0 6px; font: 300 clamp(38px, 7vw, 58px)/1.02 var(--read); letter-
 .year { margin: 0 0 40px; }
 .year > h2 { display: flex; align-items: baseline; gap: 12px; margin: 0 0 14px; padding-bottom: 8px; border-bottom: 1px solid var(--line); font: 400 30px/1.2 var(--read); }
 .year > h2 small { font: 500 14px/1.2 var(--sans); color: var(--muted); }
+.year > h2 { flex-wrap: wrap; } .year > h2 .yname { white-space: nowrap; }
+@media (max-width: 560px) { .year > h2 { flex-direction: column; align-items: flex-start; gap: 4px; } }
 .quarters { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 460px), 1fr)); gap: 16px; }
 .q { border-radius: 18px; background: var(--surface); border: 1px solid var(--line); overflow: hidden; }
 .q-head { display: flex; gap: 14px; align-items: center; padding: 14px 16px; background: color-mix(in srgb, var(--c) 12%, var(--surface)); border-bottom: 1px solid color-mix(in srgb, var(--c) 30%, var(--line)); }
@@ -107,7 +109,7 @@ h1 { margin: 0 0 6px; font: 300 clamp(38px, 7vw, 58px)/1.02 var(--read); letter-
     qs.forEach((data, i) => {
       const q = i + 1, y = Math.floor(i / 4), secId = C.quarters[i], sec = C.sections[secId];
       if (i % 4 === 0) {
-        const s = el("section", "year"), h = el("h2", null, pick(C.years[y]));
+        const s = el("section", "year"), h = el("h2"); h.append(el("span", "yname", pick(C.years[y])));
         h.setAttribute("translate", "no");
         h.append(el("small", null, pick(C.years[y].span)));
         s.append(h, el("div", "quarters"));
