@@ -1340,6 +1340,27 @@ Settled while drafting John:
 | Old Testament quotations (12–21) | The Greek in the text; our Old Testament line in the note | 12:13 是應當稱頌的 as Mark 11:9 (Psalm 118:26 是蒙福的 noted); 12:15 錫安的女兒，不要懼怕！看哪，你的王騎着驢駒來了 (as our Zechariah 9:9 note quotes it); 12:38 主啊，我們所傳的，有誰相信呢？ (as our Isaiah 53:1 note); 12:40 他使他們瞎了眼，使他們的心剛硬; 13:18 吃我飯的人，舉起腳跟踢我 (Psalm 41:10's 舉起腳跟踢我 kept); 15:25 他們無緣無故地恨我 (Psalm 69:5); 19:24 identical with our Psalm 22:19; 19:36 他的骨頭，一根也不會折斷; 19:37 他們要仰望自己所刺的人 (as our Zechariah 12:10 note). |
 | Chapter 21 | 後記 noted at 21:1 | 約翰的兒子西門 (約拿 noted); 二百肘, 一百五十三條. |
 
+Settled while drafting Acts:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| The prologue (1:1) | 提阿非羅啊，我在前一本書裏…… | Continues Luke 1:1–4 and 24:49–53; Luke 1:3 noted. |
+| ἀπόστολος; ἐκκλησία | 使徒；教會 | *apostolos* noted at 1:2; *ekklesia* noted at 5:11, its first use for the believers. 7:38 ἡ ἐκκλησία ἐν τῇ ἐρήμῳ is 曠野的會眾, noted as the same word. |
+| ἡ ὁδός (9:2; 19:9, 23; 22:4; 24:14, 22) | 這道 (屬於這道的人) | *hodos* 「道路」 noted, kept apart from *logos* (ὁ λόγος τοῦ θεοῦ 神的道). |
+| πνεῦμα ἅγιον; πνεῦμα | 聖靈；靈 | 6:3 πνεύματος without ἅγιον is 靈 (神的靈), with 「聖靈」 manuscripts noted. |
+| Ἑλληνισταί; Ἑβραῖοι (6:1; 9:29) | 說希臘話的猶太人；說希伯來話的猶太人 | 11:20 Ἑλληνισταί (Gentiles there) 說希臘話的人, noted. |
+| προσήλυτοι; οἱ φοβούμενοι / σεβόμενοι τὸν θεόν | 進猶太教的人；敬畏神的人、敬拜神的…… | *proselytoi* noted at 2:11; God-fearing Gentiles noted (10:2; 13:16, 50). |
+| ἄνδρες ἀδελφοί; ἄνδρες Ἰσραηλῖται | 弟兄們；以色列人哪 | 直譯「人們、弟兄們」 noted. |
+| παῖς (of Jesus, 3:13, 26; 4:25–30) | 僕人 (聖僕) | *pais* 「僕人、孩子」 noted; Isaiah 52:13 LXX noted. |
+| ἀρχηγός | 創始者 (3:15)；元首 (5:31) | *archegos* noted both times. |
+| ἑκατοντάρχης; σπεῖρα; ἀνθύπατος | 百夫長；營；總督 | *anthypatos* noted (和合本「方伯」), kept for the Senate's provinces. |
+| κοινός (10:14–28; 11:8–9); ἔκστασις | 俗物；魂遊象外 | |
+| κλάσις τοῦ ἄρτου; Χριστιανοί | 擘餅；基督徒 | 2:42, 46; 11:26. |
+| Old Testament quotations (1–14) | The Greek in the text; our Old Testament wording where the Greek agrees, and the wording our Old Testament notes already give for these verses | 1:20 Psalm 69:26; 109:8; 2:17–21 as the Joel 3:1–5 note (在末後的日子，神說…… 顯赫的); 2:25–28 Psalm 16 LXX (我的舌頭快樂；安居在盼望中；你的聖者見朽壞); 2:34–35 as Luke 20:42–43 (主對我的主說……作你的腳凳); 4:11 輕視 (*exoutheneo*) for Psalm 118:22's 丟棄; 4:25–26 Psalm 2 LXX 一同聚集; 7:42–43 Amos 5:25–27 LXX (摩洛的帳幕和理番神的星；巴比倫以外); 7:49–50 as the Isaiah 66:1 note; 8:32–33 as the Isaiah 53:7 note; 13:33 Psalm 2:7; 13:34 as the Isaiah 55:3 note; 13:41 Habakkuk 1:5 LXX; 13:47 as the Isaiah 49:6 note. |
+| Stephen's speech (7) | Our Old Testament's names (哈蘭、迦勒底人的地、示劍、哈抹、米甸、紅海、約書亞) | The differences noted as the English: the call before Haran (7:2), Terah's death (7:4), 400 years (7:6), 75 souls (7:14), the tomb at Shechem (7:16), Moses' forty years (7:23), Sinai/Horeb (7:30), Babylon for Damascus (7:43). |
+| Verses absent from the critical text | Skipped with a note, as Mark 7:16 | 8:37 (TR) noted at 8:36; the TR addition at 9:5–6 noted. |
+| Names (classic Union Version forms) | 居比路、埃提阿伯、干大基、革老丟、丟斯、希耳米、推羅、大馬色、巴耶穌、士求保羅 | Today's forms (塞浦路斯、克勞狄、宙斯) in notes where useful; 米底亞人, 克里特人, 阿拉伯人 as the Union Version's Acts 2. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
