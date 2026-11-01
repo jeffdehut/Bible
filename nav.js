@@ -45,7 +45,7 @@
   // of the reader (opened there by its button, #open-NAME). extra.sub gives the reader an
   // element for a live line under the label; extra.hidden starts it hidden.
   const MENU = [
-    ["Read and study", "", [
+    ["Read and study", "menu-read", [
       ["read", "Read", "read", "index.html", "Back to the Bible, where you left off", { away: true }],
       ["mine", "Highlights & notes", "mine", "reader:mine", "Your highlights and notes, saved on this device"],
       ["sketchbook", "Sketchbook", "sketchbook", "reader:sketchbook", "Your sketches, to share or print"],
@@ -63,10 +63,10 @@
       ["genealogy", "Genealogy", "gen", "genealogy.html", "From Adam to Jesus, and every family"],
       ["visual", "Visual Bible", "visual", "library.html", "Each book on the shelf, and seen whole from its own words"],
       ["kings", "Kings", "kings", "kings.html", "The kings of Israel and Judah, with the prophets of their days"],
-      ["arcs", "Cross-refs", "arcs", "arcs.html", "Every cross-reference in the Bible as an arc"],
+      ["arcs", "Cross references", "arcs", "arcs.html", "Every cross reference in the Bible as an arc"],
     ]],
     ["Resource Room", "menu-resources", [
-      ["course", "Three-year course", "course", "course.html", "The whole Bible taught in twelve quarters"],
+      ["course", "Three year course", "course", "course.html", "The whole Bible taught in twelve quarters"],
       ["storyboard", "Felt Stories", "board", "storyboard.html", "A felt board: people, animals and scenes to move as you tell the story"],
       ["maps", "Maps", "maps", "maps/index.html", "Bible maps, and the 1915 historical atlas"],
     ]],
@@ -90,7 +90,7 @@
     into.textContent = "";
     for (const [title, cls, items] of MENU) {
       const h = document.createElement("h3");
-      h.className = "menu-group"; h.textContent = title;
+      h.className = "menu-group" + (cls ? " " + cls : ""); h.textContent = title;
       const ul = document.createElement("ul");
       ul.className = "menu" + (cls ? " " + cls : "");
       for (const [id, label, icon, where, tip, extra = {}] of items) {
@@ -183,12 +183,19 @@
   font: 500 13px/1.25 "Libre Franklin", system-ui, sans-serif; color: var(--ink, #161b26); text-decoration: none; }
 .sitenav .menu a:hover { background: var(--lapis-soft, #e7ecf8); }
 .sitenav .menu a[aria-current="page"] { background: var(--lapis-soft, #e7ecf8); box-shadow: inset 0 0 0 1.5px var(--lapis, #2646a1); }
-.sitenav .menu svg { width: 46px; height: 46px; padding: 11px; border-radius: 14px; box-sizing: border-box; flex: none; background: var(--lapis-soft, #e7ecf8); color: var(--lapis, #2646a1); }
-.sitenav .menu.menu-explore svg { background: color-mix(in srgb, #d9a520 22%, transparent); color: #8a640b; }
-.sitenav .menu.menu-about svg { background: color-mix(in srgb, var(--line, #e4e2db) 60%, transparent); color: var(--muted, #5b6475); }
+/* Each part of the menu in its own color: its heading, and the tiles under it. */
+.sitenav .menu-read { --mc: #2646a1; } .sitenav .menu-explore { --mc: #8a640b; } .sitenav .menu-resources { --mc: #2f7d3a; }
+.sitenav .menu-you { --mc: #6d43c9; } .sitenav .menu-about { --mc: #b0365a; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .sitenav .menu-read { --mc: #9db3ff; } :root:not([data-theme="light"]) .sitenav .menu-explore { --mc: #e2bd5c; } :root:not([data-theme="light"]) .sitenav .menu-resources { --mc: #6fd27c; }
+  :root:not([data-theme="light"]) .sitenav .menu-you { --mc: #b996ff; } :root:not([data-theme="light"]) .sitenav .menu-about { --mc: #ff8fb0; } }
+:root[data-theme="dark"] .sitenav .menu-read { --mc: #9db3ff; } :root[data-theme="dark"] .sitenav .menu-explore { --mc: #e2bd5c; } :root[data-theme="dark"] .sitenav .menu-resources { --mc: #6fd27c; }
+:root[data-theme="dark"] .sitenav .menu-you { --mc: #b996ff; } :root[data-theme="dark"] .sitenav .menu-about { --mc: #ff8fb0; }
+.sitenav .menu-group[class*="menu-"] { color: var(--mc); }
+.sitenav .menu svg { width: 46px; height: 46px; padding: 11px; border-radius: 14px; box-sizing: border-box; flex: none; background: color-mix(in srgb, var(--mc, #2646a1) 13%, transparent); color: var(--mc, #2646a1); }
+.sitenav .menu a:hover { background: color-mix(in srgb, var(--mc, #2646a1) 8%, transparent); }
+.sitenav .menu a[aria-current="page"] { background: color-mix(in srgb, var(--mc, #2646a1) 10%, transparent); box-shadow: inset 0 0 0 1.5px var(--mc, #2646a1); }
 .sitenav .menu small:empty { display: none; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .sitenav .menu.menu-explore svg { color: #e2bd5c; } }
-:root[data-theme="dark"] .sitenav .menu.menu-explore svg { color: #e2bd5c; }
 @media print { .sitenav-btn, .sitenav, .sitenav-scrim { display: none !important; } }`;
   document.head.append(css);
   const btn = document.createElement("button");
