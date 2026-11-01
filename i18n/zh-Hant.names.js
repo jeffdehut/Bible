@@ -2,6 +2,8 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Clopas":"革羅罷",
+"Gabbatha":"厄巴大",
 "Cephas":"磯法",
 "Bethesda":"畢士大",
 "Sychar":"敘加",

@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** Mark, Matthew and Luke drafted, John in progress; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1323,9 +1323,22 @@ Settled while drafting John:
 | κύριε to Jesus from strangers | 先生 (4:11–49; 5:7; 6:34; 8:11; 9:36)；主啊 (disciples, Martha, 9:38) | *kyrie* noted. |
 | ὑπηρέται; συνέδριον; ἀποσυνάγωγος | 差役；議會；趕出會堂 | |
 | σκηνοπηγία; ἐγκαίνια | 住棚節；修殿節 (Hanukkah noted) | |
-| λῃστής (10:1, 8) | 強盜 | 或譯「叛亂分子」 noted (Mark's rendering). |
+| λῃστής (10:1, 8; 18:40) | 強盜 | 或譯「叛亂分子」 noted (Mark's rendering). 18:40 Barabbas also 強盜, to keep John's echo of 10:1, 8; the note gives the sense "rebel" from Mark 15:7, where Mark has 叛亂分子. |
 | 7:53–8:11 | In ⟦ ⟧, as the SBLGNT and Mark 16:9–20 | Note at 7:53 on the manuscripts; 經學家 (8:3) as elsewhere. |
 | Old Testament quotations (1–11) | The Greek in the text; our Old Testament line in the note | 1:23 keeps Mark 1:3's 在曠野呼喊 and 修直; 2:17 必把我吞噬 (future; our Psalm 69:10 past); 6:31 他從天上賜下糧食給他們吃; 6:45 他們都要受神的教導 (both as our Psalm 78 and Isaiah 54 notes quote them); 10:34 我曾說：你們是神 (as our Psalm 82:6). |
+| παράκλητος (14:16, 26; 15:26; 16:7) | 保惠師 | As the Union Version; *parakletos* noted at 14:16 (幫助者、辯護者、輔導者、安慰者). The Spirit is 他 (neuter *pneuma* noted, 14:17). |
+| ἐγώ εἰμι + predicate (12–21) | 14:6 我是道路、真理、生命 (和合本「我就是……」 noted)；15:1, 5 我是真葡萄樹／我是葡萄樹 | γεωργός 栽培的人 (或譯「農夫」); *kathairo* 修剪乾淨 / *katharos* 乾淨 noted. |
+| ἐγώ εἰμι absolute (13:19; 18:5–8) | 信我就是那一位 (13:19)；我就是 (18:5, 6, 8) | 18:17, 25 Peter's *ouk eimi* 我不是, noted against it. |
+| ὁ ἄρχων τοῦ κόσμου τούτου | 這世界的統治者 | 12:31; 14:30; 16:11. |
+| μονή (14:2, 23) | 住處 | Linked to *meno* in a note. |
+| ἀγαπάω / φιλέω (21:15–17) | 愛 for both | The two verbs and the other variations noted at 21:15; 20:2 and 16:27 *phileo* noted. |
+| The Passion (18–19) | Mark 14–15's wording where the Greek agrees | 大祭司的奴僕 (18:10, Malchus 馬勒古)；看門的女傭人；差役；總督府 (*praitorion*)；荊棘冠冕、紫袍、猶太人的王萬歲；髑髏地／各各他；酸酒；預備日；千夫長 (*chiliarchos*)；一營士兵 (*speira*, as Mark 15:16's 營). |
+| 19:14 ὥρα ἕκτη | 中午十二時 | 直譯「第六個時辰」 and Mark 15:25's third hour noted. |
+| 19:19–20 the title | 「拿撒勒人耶穌，猶太人的王」；希伯來文、拉丁文、希臘文 | 拉丁文 noted (直譯「羅馬文」); 希伯來話/希伯來文 noted as probably Aramaic. Names 厄巴大 (Gabbatha, classic and 1989 CUV), 革羅罷 (Clopas) added to the names table. |
+| τετέλεσται (19:28, 30) | 已經完成了；完成了 | 和合本「成了」 noted; 19:30 把靈交付了 (*pneuma*). |
+| 20:17 Μή μου ἅπτου; 20:28; 20:31 | 不要拉住我不放 (或譯「不要摸我」)；我的主！我的神！；使你們信 (the present/aorist variant and 19:35 noted) | |
+| Old Testament quotations (12–21) | The Greek in the text; our Old Testament line in the note | 12:13 是應當稱頌的 as Mark 11:9 (Psalm 118:26 是蒙福的 noted); 12:15 錫安的女兒，不要懼怕！看哪，你的王騎着驢駒來了 (as our Zechariah 9:9 note quotes it); 12:38 主啊，我們所傳的，有誰相信呢？ (as our Isaiah 53:1 note); 12:40 他使他們瞎了眼，使他們的心剛硬; 13:18 吃我飯的人，舉起腳跟踢我 (Psalm 41:10's 舉起腳跟踢我 kept); 15:25 他們無緣無故地恨我 (Psalm 69:5); 19:24 identical with our Psalm 22:19; 19:36 他的骨頭，一根也不會折斷; 19:37 他們要仰望自己所刺的人 (as our Zechariah 12:10 note). |
+| Chapter 21 | 後記 noted at 21:1 | 約翰的兒子西門 (約拿 noted); 二百肘, 一百五十三條. |
 
 ## Style
 
