@@ -49,3 +49,8 @@ Found while drafting; not yet settled across books.
   37:1–14 renders *ruach* as 靈／氣息／風 by context, so the wordplay survives only in the note. The temple terms of 40–42 are coined in part (衞房 *ta*, 牆柱 *ayil*, 門廊 for the gate *ulam*,
   隔開的地方 *gizrah*, 樓廊 *attiq*, 臺層 *azarah*, 虎口 *zeret*) and rest on uncertain Hebrew (40:14, 30; 41:6–11, 15–17, 21; 42:2–12; 46:22); an architectural specialist should check them.
   The land *terumah* is 獻地／聖獻地 (和合本「供地」「聖供地」). 48:6, 31 Reuben 呂便 as Genesis; 1 Samuel 10 has 流便. 48:35 『耶和華在那裏』 (和合本「耶和華的所在」).
+- Daniel: Darius is 大流士 as in Ezra (the classic Union Version has 大利烏); Ashpenaz 亞施毘拿 and *peres* 毘勒斯 (5:28) take the classic 毘 (names table keeps 毗, see 毗 / 毘 above).
+  *ashshafim* 巫師, *gazerin* 占卜的 and the officials of 3:2 (謀士、司庫、法官、執法官) are approximate; *sar* for angels is 君 throughout (10:13 和合本「魔君」).
+  7:13 「像人子的」 and 7:18 「至高者的聖民」 keep the traditional renderings, with the other readings only in notes. 9:24–27 follows the Masoretic accents in 9:25 against 和合本;
+  9:24 *qodesh qodashim* is 至聖所 (或譯「至聖者」). *shiqquts* is 可憎之物 here (Mark 13:14) but 可厭之物 in Ezekiel; settle one. 2:1, 8:12, 9:26–27, 11:18 and 11:39 rest on difficult Hebrew/Aramaic.
+- Darius: settled as the classic Union Version's 大利烏 (Ezra, Nehemiah, Daniel), as 古列 and 推羅; the 1989 text has 大流士. The names table follows.
