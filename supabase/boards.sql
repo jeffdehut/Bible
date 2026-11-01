@@ -1,4 +1,4 @@
--- Felt Stories: saved boards, synced with the account. Paste all of this into the Supabase
+-- Felt Stories' saved boards, and the new highlight colors, for the account. Paste all of this into the Supabase
 -- SQL Editor (Plain Bible project → SQL Editor → New query) and click Run. Safe to run again.
 
 -- Story Board scenes (storyboard.html), one row per board: its name, the folder it is kept in,
@@ -51,3 +51,8 @@ as $$
 $$;
 revoke all on function public.push_board(text, text, text, jsonb, bigint, boolean) from public, anon;
 grant execute on function public.push_board(text, text, text, jsonb, bigint, boolean) to authenticated;
+
+-- The whole-verse highlight colors: the rainbow, and the earlier pink, teal and gray.
+alter table public.annotations drop constraint if exists annotations_highlight_check;
+alter table public.annotations add constraint annotations_highlight_check
+  check (highlight in ('red', 'orange', 'yellow', 'green', 'blue', 'purple', 'violet', 'pink', 'teal', 'gray'));
