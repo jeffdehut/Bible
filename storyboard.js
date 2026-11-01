@@ -14,11 +14,66 @@
 
   // Each piece once, as a symbol the board's pieces use.
   const defs = $("defs");
-  for (const p of ART.pieces) {
-    const s = document.createElementNS(NS, "symbol");
-    s.id = "a-" + p.id; s.setAttribute("viewBox", `0 0 ${p.w} ${p.h}`); s.setAttribute("overflow", "visible");
+  function symbol(p) {
+    let s = document.getElementById("a-" + p.id);
+    if (!s) { s = document.createElementNS(NS, "symbol"); s.id = "a-" + p.id; s.setAttribute("overflow", "visible"); defs.append(s); }
+    s.setAttribute("viewBox", `0 0 ${p.w} ${p.h}`);
     s.innerHTML = p.svg;
-    defs.append(s);
+  }
+  ART.pieces.forEach(symbol);
+
+  /* ---------- Artwork from the studio, shipped to everyone ---------- */
+  // Drawn in the artist's studio (art-studio.js) and kept on the server as data: a colour layer
+  // ([fill, path] pairs) under a layer of black lines (paths). The pictures are built here from
+  // that data, checked, so nothing from the server is ever run as markup. On a colouring page the
+  // colour layer turns white and the lines stay. A copy is kept on this device for the next visit.
+  const ACFG = (window.SITE_CONFIG || {}).supabase || {}, ABASE = (ACFG.url || "").replace(/\/+$/, "");
+  const ART_KEY = "sb.art.v1", ARTIST = "jeff@jeffdehut.com";
+  const HEX = /^#[0-9a-f]{6}$/i, PATH = /^[MLCQZAHVSTmlcqzahvst0-9.,\s-]+$/;
+  const isZh = () => /^zh/.test((window.I18N && window.I18N.lang) || "");
+  function artMarkup(r) {
+    const col = (Array.isArray(r.color) ? r.color : []).filter(c => Array.isArray(c) && HEX.test(c[0]) && typeof c[1] === "string" && PATH.test(c[1]));
+    const ln = (Array.isArray(r.line) ? r.line : []).filter(d => typeof d === "string" && PATH.test(d));
+    const lines = ln.map(d => `<path fill="#1d1d1d" d="${d}"/>`).join("");
+    return { svg: col.map(([f, d]) => `<path fill="${f}" d="${d}"/>`).join("") + lines, line: col.map(c => `<path fill="#fff" d="${c[1]}"/>`).join("") + lines };
+  }
+  const num = (v, lo, hi, d) => (Number.isFinite(+v) ? Math.min(hi, Math.max(lo, +v)) : d);
+  function installArt(rows) {
+    for (const r of rows || []) {
+      if (!r || typeof r.id !== "string" || !/^[a-z0-9][a-z0-9-]{1,59}$/.test(r.id) || r.deleted) continue;
+      const m = artMarkup(r), name = String((isZh() && r.name_zh) || r.name || r.id).slice(0, 80);
+      const tags = [...(Array.isArray(r.tags) ? r.tags : []), r.name, r.name_zh].filter(x => typeof x === "string").join(" ");
+      const stories = (Array.isArray(r.stories) ? r.stories : []).filter(x => typeof x === "string");
+      if (r.kind === "scene") {
+        const base = `<rect width="${W}" height="${H}" fill="#fff"/>`;
+        const sc = { id: r.id, name, svg: base + m.svg, line: base + m.line, tags, art: true };
+        const i = ART.scenes.findIndex(x => x.id === r.id);
+        if (i >= 0) ART.scenes[i] = sc; else ART.scenes.push(sc);
+        sceneById[r.id] = sc;
+        for (const st of ART.stories) if (stories.includes(st.id) && !st.scenes.includes(r.id)) st.scenes.push(r.id);
+        continue;
+      }
+      const cat = ["people", "animals", "things", "nature"].includes(r.cat) ? r.cat : "things";
+      const p = { id: r.id, name, cat, sub: typeof r.sub === "string" ? r.sub : "", tags, stories, w: num(r.w, 50, 2000, 500), h: num(r.h, 50, 2000, 500), s: num(r.s, 0.05, 5, 1), svg: m.svg, line: m.line, art: true };
+      if (byId[r.id]) Object.assign(byId[r.id], p); else { ART.pieces.push(p); byId[r.id] = p; }
+      symbol(byId[r.id]);
+      for (const st of ART.stories) if (stories.includes(st.id) && !st.pieces.includes(r.id)) st.pieces.push(r.id);
+    }
+  }
+  const cachedArt = (() => { try { return JSON.parse(localStorage.getItem(ART_KEY)) || []; } catch (e) { return []; } })();
+  installArt(cachedArt);
+  // The newest artwork from the server; anything new or changed goes into the drawers now.
+  async function fetchArt() {
+    if (!ABASE || navigator.onLine === false) return;
+    try {
+      const res = await fetch(ABASE + "/rest/v1/art?select=id,kind,cat,sub,name,name_zh,tags,stories,w,h,s,color,line,updated_at&deleted=is.false&order=updated_at.asc", { headers: { apikey: ACFG.key } });
+      if (!res.ok) return;
+      const rows = await res.json();
+      const txt = JSON.stringify(rows);
+      if (txt === JSON.stringify(cachedArt)) return;
+      try { localStorage.setItem(ART_KEY, txt); } catch (e) { /* storage full */ }
+      artChanged(rows);
+    } catch (e) { /* offline */ }
   }
 
   /* ---------- The boards: each a saved document, in folders ---------- */
@@ -735,7 +790,7 @@
     const style = line ? `<style>:not(.own, .own *){fill:#fff!important;stroke:#1d1d1d!important;stroke-width:2.4px!important;stroke-linejoin:round;stroke-linecap:round;opacity:1!important;fill-opacity:1!important;stroke-opacity:1!important;stroke-dasharray:none!important;vector-effect:non-scaling-stroke}:not(.own *)[fill="none"]{fill:none!important}</style>` : "";
     const filters = line ? "" : $("felt").outerHTML + $("feltbg").outerHTML;
     return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}">${style}<defs>${filters}</defs>` +
-      `<g${line ? "" : ' filter="url(#feltbg)"'}>${sc.svg}</g>${pieces}${capSVG(board.cap).replace(/ role="button" tabindex="0"/, "")}</svg>`;
+      `<g${line ? "" : ' filter="url(#feltbg)"'}>${line && sc.line ? `<g class="own">${sc.line}</g>` : sc.svg}</g>${pieces}${capSVG(board.cap).replace(/ role="button" tabindex="0"/, "")}</svg>`;
   }
   function boardPNG(mode = "color") {
     return new Promise((resolve, reject) => {
@@ -809,10 +864,10 @@
       try { localStorage.setItem("pe.account", JSON.stringify(a)); } catch (e) { /* storage */ }
       return j.access_token;
     }
-    async function call(path, method = "GET", body) {
+    async function call(path, method = "GET", body, extra = {}) {
       const tk = await token();
       if (!tk) throw Object.assign(new Error("signed out"), { out: true });
-      const res = await fetch(BASE + path, { method, headers: { apikey: C.key, Authorization: "Bearer " + tk, ...(body ? { "Content-Type": "application/json" } : {}) }, body: body ? JSON.stringify(body) : undefined });
+      const res = await fetch(BASE + path, { method, headers: { apikey: C.key, Authorization: "Bearer " + tk, ...(body ? { "Content-Type": "application/json" } : {}), ...extra }, body: body ? JSON.stringify(body) : undefined });
       if (!res.ok) throw Object.assign(new Error("HTTP " + res.status), { status: res.status });
       const txt = await res.text();
       return txt ? JSON.parse(txt) : null;
@@ -899,7 +954,7 @@
     }
     // Another tab signing in or out.
     window.addEventListener("storage", e => { if (e.key === "pe.account") run(); });
-    return { soon, run, get state() { return state; }, email: () => (acct().session || {}).user?.email || "", on: f => listeners.push(f), signIn, signUp, recover, signOut, ready: !!BASE };
+    return { call, soon, run, get state() { return state; }, email: () => (acct().session || {}).user?.email || "", on: f => listeners.push(f), signIn, signUp, recover, signOut, ready: !!BASE };
   })();
 
   /* ---------- My boards: the library ---------- */
@@ -1210,7 +1265,27 @@
   }
   addEventListener("hashchange", fromHash);
 
+  // New artwork arriving: into the drawers, the search and the boards that use it.
+  function artChanged(rows) {
+    installArt(rows); hay.clear();
+    renderTabs(); renderTray(); render();
+    if ($("lib").open) Library.refresh();
+  }
+  // The artist's studio: only for the artist's account (the server lets no other account save
+  // artwork), and loaded only then.
+  function studioButton() {
+    const b = $("studio");
+    if (!b) return;
+    b.hidden = Sync.email().toLowerCase() !== ARTIST;
+    b.onclick = () => {
+      if (window.Studio) { window.Studio.open(); return; }
+      const sc = document.createElement("script"); sc.src = "art-studio.js?v=1"; sc.onload = () => window.Studio && window.Studio.open(); document.head.append(sc);
+    };
+  }
+  window.SB = { ART, W, H, t, byId, sceneById, artMarkup, Sync, notice, installed: rows => { artChanged(rows); try { localStorage.setItem(ART_KEY, JSON.stringify(rows)); } catch (e) { /* storage */ } }, ABASE, ACFG };
+  Sync.on(studioButton); studioButton();
+
   renderTabs(); renderTray(); openDrawer(true); render(); showName(); persist();
   incoming(); fromHash();
-  Sync.run();
+  Sync.run(); fetchArt();
 })();

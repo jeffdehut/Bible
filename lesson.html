@@ -101,7 +101,13 @@ ol.points li::before { content: counter(p); display: grid; place-items: center; 
 /* Printed: one sheet of letter paper, in color. */
 @media print {
   @page { size: letter portrait; margin: 0.4in; }
-  html, body { background: #fff !important; color: #111; padding: 0; font-size: 10pt; }
+  /* Always the light colours on white paper, whatever the theme on the screen. */
+  :root:root:root { --bg: #fff; --surface: #fff; --ink: #111; --muted: #444; --faint: #666; --line: #d6d3cb; --lapis: #2646a1; --lapis-soft: #e7ecf8; color-scheme: light; }
+  html, body { background: #fff !important; color: #111 !important; padding: 0 !important; font-size: 10pt; }
+  .readings b { color: #2a7a36 !important; } ol.points li::before { color: #2646a1 !important; }
+  /* Laid out at the width of a letter page inside its margins, and made just small enough to fit
+     one page (--fit is measured by the script below, the same on every device). */
+  .sheet { width: 7.7in; zoom: var(--fit, 1); }
   * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
   body::before, .appbar, .band-tools, .foot, .sitenav-btn { display: none !important; }
   .sheet { margin: 0; border: 0; border-radius: 0; max-width: none; }
@@ -127,6 +133,7 @@ ol.points li::before { content: counter(p); display: grid; place-items: center; 
   .res a i { width: 18pt; height: 18pt; }
   .res a small { display: none; }
   .res a::after { content: attr(data-print); display: block; }
+  .grid, .col, .card { break-inside: avoid; }
 }
 </style>
 </head>
@@ -134,7 +141,7 @@ ol.points li::before { content: counter(p); display: grid; place-items: center; 
 <header class="appbar">
   <a class="brand" href="index.html"><img src="icons/icon.svg" alt="BibleData.org"><span aria-hidden="true">BibleData.org</span></a>
 </header>
-<script src="nav.js?v=49"></script>
+<script src="nav.js?v=50"></script>
 <main id="main"></main>
 <nav class="foot" id="foot" aria-label="Other lessons"></nav>
 
@@ -233,7 +240,7 @@ ol.points li::before { content: counter(p); display: grid; place-items: center; 
         el("p", { class: "sec", translate: "no", text: pick(sec) })),
       el("div", { class: "band-tools" },
         el("a", { class: "tbtn", href: "course.html", html: svg("back") + `<span>${ZH ? "所有課程" : "All lessons"}</span>`, translate: "no" }),
-        (() => { const b = el("button", { class: "tbtn", type: "button", html: svg("print") + `<span>${ZH ? "列印" : "Print"}</span>`, translate: "no" }); b.onclick = () => print(); return b; })()));
+        (() => { const b = el("button", { class: "tbtn", type: "button", html: svg("print") + `<span>${ZH ? "列印或存成 PDF" : "Print or PDF"}</span>`, translate: "no" }); b.onclick = () => print(); return b; })()));
 
     const passages = el("div", { class: "passages" }, ...L.passages.map(r => el("a", { href: readerLink(r), translate: "no", html: svg("book") + `<span></span>` })));
     [...passages.children].forEach((a, i) => { a.querySelector("span").textContent = label(L.passages[i]); });
@@ -279,6 +286,48 @@ ol.points li::before { content: counter(p); display: grid; place-items: center; 
   }
   addEventListener("hashchange", show);
   show();
+})();
+</script>
+<script>
+// Printing on one sheet, on any device: the print styles are tried on the screen, out of sight, at
+// the width of a letter page inside its margins (7.7 x 10.2 in), and the lesson is made just
+// small enough to fit that page. Phones and computers then print the same single page.
+(() => {
+  const PAGE_H = 10.2 * 96, PAGE_W = 7.7 * 96;
+  let copied = false;
+  function copyPrintRules() {
+    if (copied) return; copied = true;
+    const out = [];
+    for (const sh of document.styleSheets) {
+      let rules; try { rules = sh.cssRules; } catch (e) { continue; }
+      for (const r of rules) {
+        if (!(r instanceof CSSMediaRule) || !/print/.test(r.conditionText || r.media.mediaText)) continue;
+        for (const x of r.cssRules) {
+          if (!(x instanceof CSSStyleRule)) continue;
+          const sel = x.selectorText.split(",").map(p => { p = p.trim(); return /^(html|:root)/.test(p) ? p.replace(/^(html|:root(:root)*)/, "html.fitting") : "html.fitting " + p; }).join(", ");
+          out.push(sel + "{" + x.style.cssText.replace(/zoom:[^;]+;?/, "") + "}");
+        }
+      }
+    }
+    const st = document.createElement("style"); st.textContent = out.join("\n") + "\nhtml.fitting .sheet{position:absolute!important;left:-99999px;top:0;width:" + PAGE_W + "px!important}";
+    document.head.append(st);
+  }
+  function fit() {
+    const sheet = document.querySelector(".sheet");
+    if (!sheet) return;
+    copyPrintRules();
+    const de = document.documentElement;
+    de.classList.add("fitting");
+    const h = sheet.getBoundingClientRect().height;
+    de.classList.remove("fitting");
+    const f = h > PAGE_H ? Math.max(0.55, (PAGE_H / h) * 0.97) : 1;
+    de.style.setProperty("--fit", f.toFixed(3));
+  }
+  window.fitPrint = fit;
+  addEventListener("beforeprint", fit);
+  const mq = matchMedia("print"); mq.addEventListener?.("change", e => { if (e.matches) fit(); });
+  addEventListener("load", () => { fit(); document.fonts && document.fonts.ready.then(fit); });
+  new MutationObserver(() => { clearTimeout(window.__fitT); window.__fitT = setTimeout(fit, 200); }).observe(document.body, { childList: true, subtree: true });
 })();
 </script>
 </body>
