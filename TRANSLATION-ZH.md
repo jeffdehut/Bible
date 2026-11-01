@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1595,6 +1595,22 @@ Settled while drafting Philemon:
 | σπλάγχνα (7, 12, 20) | 心；我的心肝 (12) | 直譯「心腸」 noted, as Philippians 1:8. |
 | πρεσβύτης (9) | 老人 | 「使者」 (*presbeutes*) noted. |
 | Names | 腓利門、亞腓亞、亞基布、阿尼西母、以巴弗、馬可、亞里達古、底馬、路加 | 阿尼西母 the classic form, as Colossians 4:9. |
+
+Settled while drafting Hebrews:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| ἀρχιερεύς; ἱερωσύνη; τάξις Μελχισέδεκ | 大祭司；祭司職分；按照麥基洗德的等次 | 等次 (和合本) from the Septuagint's *taxis*; our Psalm 110:4's 方式 noted at 5:6. 7:15 κατὰ τὴν ὁμοιότητα 像麥基洗德那樣. |
+| διαθήκη; καινὴ / νέα διαθήκη; μεσίτης; ἔγγυος | 約；新約；中保；保證人 | 中保 as 1 Timothy 2:5 (8:6; 9:15; 12:24). 9:16–17 遺囑, the covenant/will wordplay noted at 9:16. *nea* (12:24) noted against *kaine*. |
+| ἱλαστήριον (9:5); ἱλάσκομαι (2:17); θρόνος τῆς χάριτος (4:16) | 施恩座；贖罪；施恩的寶座 | 施恩座 as Romans 3:25 and Exodus 25:17; 4:16's throne told apart from it in a note. |
+| σκηνή; ἡ πρώτη σκηνή; τὰ ἅγια; ἅγια ἁγίων; καταπέτασμα | 帳幕；外層的帳幕；聖所；至聖所；幔子 | *ta hagia* (the heavenly sanctuary or the most holy place) noted each time; *thymiaterion* 金香壇 (香爐 noted); 約櫃、約版 (our Exodus 法版 noted). |
+| τελειόω; τέλειος | 使……完全、得以完全；成熟的人 | *teleioo* noted at 2:10. |
+| ἀρχηγός (2:10; 12:2); πρόδρομος (6:20) | 創始者 (救他們的創始者；信心的創始者和完成者)；先鋒 | As Acts 3:15; 和合本「元帥」「創始成終」 noted. |
+| ὁμολογία | 所宣認的 (信仰、盼望) | As 1 Timothy 6:12. |
+| ὑπόστασις | 本質 (1:3)；確信 (3:14)；把握 (11:1) | 11:1 信，就是對所盼望的事有把握，對看不見的事有確信 (和合本「實底」「確據」 noted). Πίστει 因着信 throughout chapter 11. |
+| κατάπαυσις; σαββατισμός (4:9) | 安息；安息日的安息 | Psalm 95's 安息. |
+| Old Testament quotations | Hebrews' Greek (mostly the Septuagint) in the text; the wording our Old Testament notes already give is kept | Our Old Testament's Hebrew-based line in the note where it differs: 1:6 神的使者都要拜他; 1:7 他以他的使者為風; 1:10–12 主啊……捲起來; 2:6–8 比天使微小一點 (世人, 直譯「人子」 noted); 2:13 我要倚靠他; 3:7–11 像在惹我發怒的時候，像在曠野試探的日子; 8:8–12 訂立新約……因為他們不恆守我的約，我也就不理他們……放在他們的思想裏; 10:5 你卻為我預備了身體; 10:30 as Romans 12:19; 10:38 我的義人必因信而活；他若退縮，我心裏就不喜悅他; 11:21 扶着杖頭; 12:5–6 不要灰心……鞭打; 12:12–13 as our Isaiah 35:3 and Proverbs 4:26 notes; 12:26 再一次我不單要震動地，還要震動天; 13:5 我決不撇下你，也決不丟棄你; 13:6 主是幫助我的. |
+| Names (11) | 亞伯、該隱、以諾、挪亞、撒拉、以掃、喇合、基甸、巴拉、參孫、耶弗他、撒母耳；意大利 (13:24, as Acts) | Our Old Testament forms. 4:8 *Iesous* 約書亞, noted. |
 
 ## Style
 
