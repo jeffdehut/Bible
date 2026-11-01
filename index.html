@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=44"></script>
+<script src="i18n.js?v=45"></script>
 <script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
@@ -633,8 +633,16 @@ textarea { min-height: 88px; resize: vertical; }
 .pk-grid button:hover { background: color-mix(in srgb, var(--c) 22%, var(--surface)); }
 .pk-grid button:active { transform: scale(0.94); }
 .pk-grid button[aria-current="true"] { background: var(--c); color: var(--surface); }
-.pk-grid button.mine::after { content: ""; position: absolute; top: 6px; right: 6px; width: 6px; height: 6px; border-radius: 50%; background: var(--gold); }
-.pk-grid button[aria-current="true"].mine::after { background: var(--surface); }
+.pk-grid button { display: grid; place-items: center; padding: 0; }
+.pk-grid button .n { grid-area: 1 / 1; }
+/* What you have in a chapter: small signs in its corner, which never move the number. */
+.pk-marks { grid-area: 1 / 1; place-self: start end; display: flex; gap: 1px; margin: 4px 4px 0 0; pointer-events: none; }
+.pk-marks svg { width: 12px; height: 12px; display: block; }
+.pk-marks .bm { color: var(--gold); }
+.pk-marks .note { color: var(--ink-yellow, #b08900); }
+.pk-marks .hl { color: var(--ink-green, #2c8a4f); }
+.pk-marks .draw { color: var(--lapis); }
+.pk-grid button[aria-current="true"] .pk-marks svg { color: var(--surface); }
 .pk-empty { color: var(--muted); text-align: center; margin: 24px 0; }
 /* The parts down the side, to jump through the Bible as in an index. */
 .pk-index { position: absolute; right: max(6px, env(safe-area-inset-right, 0px)); top: 132px; bottom: max(16px, env(safe-area-inset-bottom, 0px)); display: flex; flex-direction: column; justify-content: center; gap: 6px; z-index: 3; }
@@ -2918,6 +2926,13 @@ function renderBooks() {
     return btn;
   }));
 }
+// The signs of what a chapter holds: [name, icon path].
+const PK_MARK = {
+  bm: ["bookmarked", "M6 3h12v18l-6-4.5L6 21Z"],
+  note: ["notes", "M4 4h16v11l-5 5H4ZM15 20v-5h5"],
+  hl: ["highlights", "m14 4 6 6-8 8H6v-6ZM4 21h9"],
+  draw: ["sketches", "M3 17c3-3 5-3 6.5-1.5S12 19 14 17s3-6 7-8"],
+};
 // Open a book's chapters in place (and close the one open), bringing its row to the top.
 function pkExpand(b, { instant = false } = {}) {
   // The book that was open closes at once, so the list does not shift while the new one opens.
@@ -2931,12 +2946,32 @@ function pkExpand(b, { instant = false } = {}) {
   if (!b) return;
   const { row, ch } = pkRows.get(b);
   if (!ch.firstChild.firstChild) {
-    const mine = new Set();
-    for (const id in notes) { const [o, c] = id.split("."); if (o === b.osis) mine.add(+c); }
+    // What each chapter holds of yours: bookmarks, notes, highlights, sketches and ink.
+    const mine = new Map();
+    for (const id in notes) {
+      const [o, c] = id.split(".");
+      if (o !== b.osis) continue;
+      const a = notes[id], k = mine.get(+c) || new Set(), r = a.r || [];
+      if (a.b) k.add("bm");
+      if (a.n || r.some(q => q[2] === "n")) k.add("note");
+      if (a.h || r.some(q => isHl(q) || q[2] === "e")) k.add("hl");
+      if (r.some(q => q[2] === "d" || q[2] === "i")) k.add("draw");
+      if (k.size) mine.set(+c, k);
+    }
     const grid = el("ol", { class: "pk-grid", "aria-label": `${b.osis === "Ps" ? "Psalms" : b.n}: chapters` });
-    b.s.forEach((st, j) => grid.append(el("li", {}, el("button", { type: "button", class: mine.has(j + 1) ? "mine" : "",
-      "aria-current": String(!!cur && cur.b === b && cur.c === j + 1), "aria-label": `${psName(b)} ${j + 1}${mine.has(j + 1) ? ", with your notes" : ""}`,
-      text: j + 1, onclick: () => { closeSheets(); go(b, j + 1); } }))));
+    b.s.forEach((st, j) => {
+      const k = mine.get(j + 1);
+      const btn = el("button", { type: "button", class: k ? "has-marks" : "",
+        "aria-current": String(!!cur && cur.b === b && cur.c === j + 1),
+        "aria-label": `${psName(b)} ${j + 1}${k ? ", " + [...k].map(x => L.t(PK_MARK[x][0])).join(", ") : ""}`,
+        onclick: () => { closeSheets(); go(b, j + 1); } }, el("span", { class: "n", text: j + 1 }));
+      if (k) {
+        const m = el("span", { class: "pk-marks", "aria-hidden": "true" });
+        m.innerHTML = ["bm", "note", "hl", "draw"].filter(x => k.has(x)).map(x => `<svg class="${x}" viewBox="0 0 24 24" fill="${x === "bm" ? "currentColor" : "none"}" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="${PK_MARK[x][1]}"/></svg>`).join("");
+        btn.append(m);
+      }
+      grid.append(el("li", {}, btn));
+    });
     ch.firstChild.append(grid);
   }
   row.setAttribute("aria-expanded", "true");
@@ -5344,7 +5379,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=90").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=91").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
