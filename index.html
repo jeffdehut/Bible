@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=43"></script>
+<script src="i18n.js?v=44"></script>
 <script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
@@ -78,7 +78,8 @@
 }
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
-html { -webkit-text-size-adjust: 100%; }
+html { -webkit-text-size-adjust: 100%; overflow-x: clip; }
+body { overflow-x: clip; }
 body {
   margin: 0; background: var(--bg); color: var(--ink);
   font: 400 15px/1.5 var(--sans);
@@ -216,7 +217,22 @@ mark.hls[data-s="strike"] { text-decoration: line-through var(--c); text-decorat
 #vwords .sk-pic { width: 64px; height: 64px; cursor: pointer; box-shadow: 0 1px 3px rgb(0 0 0 / 16%); }
 /* Printing sketches: each at its true size, three inches square, with its passage. */
 #print-sketches { display: none; }
-#ink { position: absolute; left: 0; top: 0; z-index: 3; pointer-events: none; overflow: visible; color: var(--ink); }
+#ink-wrap { position: absolute; left: 0; top: 0; width: 100%; z-index: 3; overflow: hidden; pointer-events: none; }
+#ink { position: absolute; left: 0; top: 0; pointer-events: none; overflow: visible; color: var(--ink); }
+/* The margins while drawing, or while the page is slid aside to show one: a warm paper tone
+   with a faint rule where the page meets it. */
+.ink-margin { position: fixed; top: 0; bottom: 0; z-index: 1; pointer-events: none; background: rgb(214 192 140 / 13%);
+  background: color-mix(in srgb, var(--gold) 9%, transparent); transition: left .28s cubic-bezier(.2,.8,.2,1), width .28s cubic-bezier(.2,.8,.2,1), opacity .2s; }
+.ink-margin.l { border-right: 1px solid rgb(176 120 90 / 30%); border-right-color: color-mix(in srgb, var(--gold) 34%, transparent); }
+.ink-margin.r { border-left: 1px solid rgb(176 120 90 / 30%); border-left-color: color-mix(in srgb, var(--gold) 34%, transparent); }
+.ink-margin[hidden] { display: block; opacity: 0; }
+@media print { .ink-margin, #ink-tabs { display: none !important; } }
+#main.slid, #ink.slid { transition: transform .28s cubic-bezier(.2,.8,.2,1); }
+.ink-tab { position: absolute; z-index: 4; width: 18px; height: 34px; display: grid; place-items: center; border: 0; padding: 0; background: var(--raised, #fff); color: var(--lapis); box-shadow: 0 1px 6px rgb(0 0 0 / 22%); cursor: pointer; }
+.ink-tab.l { border-radius: 0 9px 9px 0; }
+.ink-tab.r { border-radius: 9px 0 0 9px; }
+.ink-tab svg { width: 12px; height: 12px; }
+.sk-bar .slide[aria-pressed="true"] { background: var(--lapis-soft); color: var(--lapis); border-color: var(--lapis); }
 body.inking #ink { pointer-events: auto; cursor: crosshair; }
 body.inking .listen, body.inking .auto { display: none; }
 @media print { #ink { display: none; } }
@@ -4476,10 +4492,18 @@ $("sb-print").onclick = () => {
 // which part of the verse (a verse of poetry is several lines). Its points are counted from the
 // word's top left in sixteenths of the text's size, so the ink keeps to its words when the text
 // is larger or smaller, or the lines break elsewhere. Shown on the wording it was drawn on.
-const INK_U = 16;
+// A stroke in a margin (meta m: "l" or "r") is kept with the line beside it for its height and
+// with the edge of the text for its place across, so it stays in its margin on any screen.
+// On a narrow screen the page slides aside to show a margin (inkShift, in pixels).
+const INK_U = 16, INK_PAD = 420;
+let inkShift = 0;
 const inkSvg = Sketch.svgEl("svg", { id: "ink", "aria-hidden": "true" });
 const inkLive = Sketch.svgEl("path");
-document.body.append(inkSvg);
+// The ink's frame: as wide as the page and clipping the ink, so the ink (wider, for the margins)
+// never widens the page. While the page is slid aside, the ink slides inside it.
+const inkWrap = el("div", { id: "ink-wrap" });
+inkWrap.append(inkSvg);
+document.body.append(inkWrap);
 let inkShown = [], inkQueued = false, inking = false;
 const queueInk = () => { if (!inkQueued) { inkQueued = true; requestAnimationFrame(drawInk); } };
 function inkPart(sp) { const sec = sp.closest("section") || $("text"); return [...sec.querySelectorAll(`.v[data-id="${sp.dataset.id}"]`)].indexOf(sp); }
@@ -4496,13 +4520,18 @@ function wordBox(sp, s, e) {
   if (!set) return null;
   const rc = r.getClientRects()[0] || r.getBoundingClientRect();
   if (!rc || (!rc.width && !rc.height)) return null;
-  return { x: rc.left + scrollX, y: rc.top + scrollY };
+  return { x: rc.left + scrollX - inkShift, y: rc.top + scrollY };
 }
+// The text's edge on one side, in page coordinates (as if not slid aside).
+function inkEdge(m) { const r = $("text").getBoundingClientRect(); return (m === "l" ? r.left : r.right) + scrollX - inkShift; }
 function drawInk() {
   inkQueued = false;
   const W = document.documentElement.clientWidth, H = document.documentElement.scrollHeight;
-  inkSvg.setAttribute("width", W); inkSvg.setAttribute("height", H);
-  inkSvg.style.width = W + "px"; inkSvg.style.height = H + "px";
+  // Wider than the page by a margin's width each side, for ink drawn while the page is slid aside.
+  inkSvg.setAttribute("width", W + 2 * INK_PAD); inkSvg.setAttribute("height", H);
+  inkSvg.setAttribute("viewBox", `${-INK_PAD} 0 ${W + 2 * INK_PAD} ${H}`);
+  inkSvg.style.width = W + 2 * INK_PAD + "px"; inkSvg.style.height = H + "px"; inkSvg.style.left = -INK_PAD + "px";
+  inkWrap.style.height = H + "px";
   inkShown = [];
   for (const sp of $("text").querySelectorAll(".v")) {
     const a = notes[sp.dataset.id];
@@ -4512,11 +4541,13 @@ function drawInk() {
     const f = (parseFloat(getComputedStyle(sp).fontSize) || 18) / INK_U;
     a.r.forEach((q, k) => {
       if (q[2] !== "i" || (q[4] || {}).w !== here || ((q[4] || {}).n || 0) !== part) return;
-      const box = wordBox(sp, q[0], q[1]); if (!box) return;
+      const wb = wordBox(sp, q[0], q[1]); if (!wb) return;
+      const m = (q[4] || {}).m;
+      const box = m ? { x: inkEdge(m), y: wb.y } : wb;
       Sketch.decode(q[3]).forEach(st => {
         const p = [];
         for (let i = 0; i < st.p.length; i += 3) p.push(box.x + st.p[i] * f, box.y + st.p[i + 1] * f, st.p[i + 2]);
-        inkShown.push({ id: sp.dataset.id, k, c: st.c, s: st.s, p, f, box, width: Sketch.SIZES[st.s] * f });
+        inkShown.push({ id: sp.dataset.id, k, c: st.c, s: st.s, p, f, box, m, width: Sketch.SIZES[st.s] * f });
       });
     });
   }
@@ -4524,6 +4555,7 @@ function drawInk() {
 }
 function paintInk() {
   inkSvg.replaceChildren(...inkShown.map(x => Sketch.svgEl("path", { d: Sketch.outline(x.p, x.width), fill: Sketch.colorOf(x.c, true) })), inkLive);
+  inkTabs();
 }
 new ResizeObserver(queueInk).observe($("text"));
 addEventListener("resize", queueInk);
@@ -4551,7 +4583,7 @@ function inkAnchor(points) {
         r.setStart(node, m.index); r.setEnd(node, m.index + m[0].length);
         const rc = r.getClientRects()[0];
         if (!rc) continue;
-        const L = rc.left + scrollX, R = rc.right + scrollX, T = rc.top + scrollY, B = rc.bottom + scrollY;
+        const L = rc.left + scrollX - inkShift, R = rc.right + scrollX - inkShift, T = rc.top + scrollY, B = rc.bottom + scrollY;
         if (B < y0 - lh * 2 || T > y1 + lh * 2) continue;
         const ov = Math.max(0, Math.min(R, x1) - Math.max(L, x0));
         const gap = ov > 0 ? 0 : Math.min(Math.abs(L - x1), Math.abs(x0 - R));
@@ -4583,8 +4615,15 @@ function inkRestore(snap) {
 }
 const inkHist = Sketch.history(inkSnapshot, inkRestore);
 function inkAdd(points) {
-  const at = inkAnchor(points);
+  // In a margin: kept with the line beside it, at the text's edge.
+  let x0 = Infinity, x1 = -Infinity;
+  for (let i = 0; i < points.length; i += 3) { x0 = Math.min(x0, points[i]); x1 = Math.max(x1, points[i]); }
+  const cx = (x0 + x1) / 2, eL = inkEdge("l"), eR = inkEdge("r");
+  const m = cx < eL ? "l" : cx > eR ? "r" : null;
+  const near = m ? points.map((v, i) => (i % 3 === 0 ? (m === "l" ? eL + 1 : eR - 1) : v)) : points;
+  const at = inkAnchor(near);
   if (!at) return;
+  if (m) at.box = { x: m === "l" ? eL : eR, y: at.box.y };
   const ctx = ctxOfNode(at.sp);
   const f = (parseFloat(getComputedStyle(at.sp).fontSize) || 18) / INK_U;
   const p = [];
@@ -4593,8 +4632,9 @@ function inkAdd(points) {
   const meta = { w: wordingOf(ctx.chapter, ctx.b) };
   const part = inkPart(at.sp);
   if (part) meta.n = part;
+  if (m) meta.m = m;
   a.r = a.r || [];
-  const q = a.r.find(x => x[2] === "i" && x[0] === at.s && x[1] === at.e && (x[4] || {}).w === meta.w && ((x[4] || {}).n || 0) === part);
+  const q = a.r.find(x => x[2] === "i" && x[0] === at.s && x[1] === at.e && (x[4] || {}).w === meta.w && ((x[4] || {}).n || 0) === part && ((x[4] || {}).m || null) === (m || null));
   const st = { c: Sketch.tools.c, s: Sketch.tools.s, p };
   if (q) q[3] = Sketch.encode([...Sketch.decode(q[3]), st]);
   else a.r.push([at.s, at.e, "i", Sketch.encode([st]), meta]);
@@ -4623,6 +4663,70 @@ function inkCommit(touched) {
     saveAnnotation(id, a);
   }
 }
+// The page slid aside to show a margin, on a screen too narrow to have one: how far it can go.
+function inkSlideMax() {
+  const r = $("text").getBoundingClientRect();
+  return (innerWidth - r.width) / 2 >= 150 ? 0 : Math.round(Math.min(innerWidth * 0.72, 300));
+}
+function setInkShift(px, animate = true) {
+  const max = inkSlideMax();
+  inkShift = Math.max(-max, Math.min(max, px));
+  for (const n of [$("main"), inkSvg]) {
+    n.classList.toggle("slid", animate);
+    n.style.transform = inkShift ? `translateX(${inkShift}px)` : "";
+  }
+  inkMargins();
+  inkBar?.querySelectorAll(".slide").forEach(b => b.setAttribute("aria-pressed", String((b.dataset.side === "l" && inkShift > 0) || (b.dataset.side === "r" && inkShift < 0))));
+  inkTabs();
+}
+// The margins shown as paper: from the screen's edge to the text's, on each side.
+const inkMarginL = el("div", { class: "ink-margin l", hidden: true, "aria-hidden": "true" });
+const inkMarginR = el("div", { class: "ink-margin r", hidden: true, "aria-hidden": "true" });
+document.body.append(inkMarginL, inkMarginR);
+function inkMargins() {
+  const show = inking || !!inkShift;
+  const r = $("text").getBoundingClientRect();
+  const gap = 10;   // a little air between the words and the rule
+  const left = Math.max(0, inkEdge("l") - scrollX + inkShift - gap), right = Math.min(innerWidth, inkEdge("r") - scrollX + inkShift + gap);
+  inkMarginL.style.left = "0px"; inkMarginL.style.width = left + "px";
+  inkMarginR.style.left = right + "px"; inkMarginR.style.width = Math.max(0, innerWidth - right) + "px";
+  inkMarginL.hidden = !show || left < 2; inkMarginR.hidden = !show || innerWidth - right < 2;
+  void r;
+}
+addEventListener("resize", () => inkMargins());
+const snapInk = () => { const max = inkSlideMax(); setInkShift(inkShift > max / 3 ? max : inkShift < -max / 3 ? -max : 0); };
+addEventListener("resize", () => { if (inkShift) setInkShift(0, false); });
+// Margin notes off the screen: a small tab at the edge beside them, to slide the page over.
+const inkTabBox = el("div", { id: "ink-tabs", "aria-hidden": "true" });
+document.body.append(inkTabBox);
+function inkTabs() {
+  const out = [];
+  if (!inking && !inkShift && inkSlideMax()) {
+    const seen = new Set();
+    for (const x of inkShown) {
+      if (!x.m) continue;
+      let lo = Infinity, hi = -Infinity;
+      for (let i = 0; i < x.p.length; i += 3) { lo = Math.min(lo, x.p[i]); hi = Math.max(hi, x.p[i]); }
+      if (hi > scrollX && lo < scrollX + innerWidth) continue;   // on the screen already
+      const y = Math.round(x.box.y / 40) * 40, key = x.m + y;
+      if (seen.has(key)) continue;
+      seen.add(key);
+      const t = el("button", { type: "button", class: "ink-tab " + x.m, title: L.t("Notes in the margin"), "aria-label": L.t("Notes in the margin"),
+        style: `top:${y}px;${x.m === "l" ? `left:${scrollX}px` : `left:${scrollX + innerWidth - 18}px`}`,
+        onclick: ev => { ev.stopPropagation(); setInkShift(x.m === "l" ? inkSlideMax() : -inkSlideMax()); } });
+      t.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="${x.m === "l" ? "M9 6l6 6-6 6" : "M15 6l-6 6 6 6"}"/></svg>`;
+      out.push(t);
+    }
+  }
+  inkTabBox.replaceChildren(...out);
+}
+// Reading with the page slid aside to see a margin: a tap anywhere slides it back.
+document.addEventListener("click", ev => {
+  if (!inkShift || inking || ev.target.closest(".ink-tab")) return;
+  ev.stopPropagation(); ev.preventDefault();
+  setInkShift(0);
+}, true);
+
 // Drawing mode: one finger (or a pen) draws, two fingers scroll; with a pen, a finger scrolls.
 let inkBar = null;
 function startInk() {
@@ -4636,14 +4740,27 @@ function startInk() {
   Sketch.tools.changed = () => Sketch.keepTools();
   const tb = Sketch.toolbar(Sketch.tools, { undo: inkHist.undo, redo: inkHist.redo, page: true });
   const done = el("button", { type: "button", class: "done", text: L.t("Done"), onclick: stopInk });
-  inkBar = el("div", { class: "sk-bar", role: "toolbar", "aria-label": L.t("Drawing on the page") }, tb, done);
+  // On a narrow screen: slide the page aside to draw in a margin.
+  const slide = side => {
+    const b = el("button", { type: "button", class: "sk-b slide", "data-side": side, "aria-pressed": "false",
+      "aria-label": L.t(side === "l" ? "Left margin" : "Right margin"), title: L.t(side === "l" ? "Left margin" : "Right margin"),
+      onclick: () => { const max = inkSlideMax(); const to = side === "l" ? max : -max; setInkShift(inkShift === to ? 0 : to); } });
+    b.innerHTML = side === "l"
+      ? '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4v16"/><path d="M9 12h11M14 7l-5 5 5 5"/></svg>'
+      : '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 4v16"/><path d="M15 12H4M10 7l5 5-5 5"/></svg>';
+    return b;
+  };
+  const margins = inkSlideMax() ? [slide("l"), slide("r")] : [];
+  inkBar = el("div", { class: "sk-bar", role: "toolbar", "aria-label": L.t("Drawing on the page") }, tb, ...margins, done);
   inkBar.refresh = tb.refresh;
   document.body.append(inkBar);
-  queueInk();
-  toast(Sketch.sawPen ? "Draw with your pen. Your finger scrolls." : "Draw with one finger. Two fingers scroll.", 3600);
+  queueInk(); inkTabs(); inkMargins();
+  toast(Sketch.sawPen ? "Draw with your pen. Your finger scrolls; slide sideways for the margins." : inkSlideMax() ? "Draw with one finger. Two fingers scroll, or slide sideways for the margins." : "Draw with one finger. Two fingers scroll.", 4200);
 }
 function stopInk() {
   inking = false;
+  if (inkShift) setInkShift(0);
+  inkMargins();
   document.body.classList.remove("inking");
   inkBar?.remove(); inkBar = null;
   inkLive.setAttribute("d", "");
@@ -4654,17 +4771,21 @@ $("open-draw").onclick = startInk;
 Sketch.holdStylus(inkSvg, () => inking, () => (Sketch.sawPen ? null : "all"));
 {
   let pid = null, stroke = null, eraseAt = null, touched = null;
+  // Fingers that do not draw: two of them (one with a pencil in hand) scroll up and down, or slide
+  // the page sideways to a margin.
   const touches = new Map();
-  let twoY = null;
-  const page = ev => [ev.clientX + scrollX, ev.clientY + scrollY];
+  let gest = null;
+  const need = () => (Sketch.sawPen ? 1 : 2);
+  const avg = () => { let x = 0, y = 0; for (const [a, b2] of touches.values()) { x += a; y += b2; } return [x / touches.size, y / touches.size]; };
+  const page = ev => [ev.clientX + scrollX - inkShift, ev.clientY + scrollY];
   inkSvg.addEventListener("pointerdown", ev => {
     if (!inking) return;
     if (ev.pointerType === "touch") {
-      touches.set(ev.pointerId, ev.clientY);
-      if (Sketch.sawPen) return;   // a pen writes; the hand scrolls
-      if (touches.size >= 2) {     // two fingers: scroll, and forget the stroke just begun
-        stroke = null; eraseAt = null; pid = null; inkLive.setAttribute("d", "");
-        twoY = [...touches.values()].reduce((x, y) => x + y, 0) / touches.size;
+      touches.set(ev.pointerId, [ev.clientX, ev.clientY]);
+      if (Sketch.sawPen || touches.size >= 2) {
+        // A pen writes and the hand scrolls; or two fingers: forget the stroke just begun.
+        if (!Sketch.sawPen) { stroke = null; eraseAt = null; pid = null; inkLive.setAttribute("d", ""); }
+        if (touches.size === need()) { const [x, y] = avg(); gest = { x, y, ly: y, mode: null, shift0: inkShift }; }
         return;
       }
     }
@@ -4680,10 +4801,14 @@ Sketch.holdStylus(inkSvg, () => inking, () => (Sketch.sawPen ? null : "all"));
   inkSvg.addEventListener("pointermove", ev => {
     if (!inking) return;
     if (ev.pointerType === "touch" && touches.has(ev.pointerId)) {
-      touches.set(ev.pointerId, ev.clientY);
-      if (twoY !== null && touches.size >= 2) {
-        const y = [...touches.values()].reduce((x, z) => x + z, 0) / touches.size;
-        scrollBy(0, twoY - y); twoY = y; return;
+      touches.set(ev.pointerId, [ev.clientX, ev.clientY]);
+      if (gest && touches.size >= need()) {
+        const [x, y] = avg(), dx = x - gest.x, dy = y - gest.y;
+        if (!gest.mode && Math.hypot(dx, dy) > 8) gest.mode = Math.abs(dx) > Math.abs(dy) * 1.2 && inkSlideMax() ? "h" : "v";
+        if (gest.mode === "h") setInkShift(gest.shift0 + dx, false);
+        else if (gest.mode === "v" && !Sketch.sawPen) scrollBy(0, gest.ly - y);
+        gest.ly = y;
+        return;
       }
     }
     if (ev.pointerId !== pid) return;
@@ -4706,7 +4831,10 @@ Sketch.holdStylus(inkSvg, () => inking, () => (Sketch.sawPen ? null : "all"));
     inkLive.setAttribute("d", Sketch.outline(stroke.points, Sketch.SIZES[Sketch.tools.s] * f));
   });
   const up = ev => {
-    if (ev.pointerType === "touch") { touches.delete(ev.pointerId); if (touches.size < 2) twoY = null; }
+    if (ev.pointerType === "touch") {
+      touches.delete(ev.pointerId);
+      if (gest && touches.size < need()) { if (gest.mode === "h") snapInk(); gest = null; }
+    }
     if (ev.pointerId !== pid) return;
     pid = null;
     if (eraseAt) { eraseAt = null; if (touched.size) inkCommit(touched); touched = null; queueInk(); inkBar?.refresh(); return; }
@@ -5216,7 +5344,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=89").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=90").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
