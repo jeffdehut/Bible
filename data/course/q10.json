@@ -1,0 +1,562 @@
+{
+  "q": 10,
+  "lessons": [
+    {
+      "n": 1,
+      "title": { "en": "The birth of Jesus", "zh": "耶穌降生" },
+      "passages": ["Luke.2.1-20"],
+      "key": "Luke.2.10-12",
+      "points": {
+        "en": [
+          "Caesar Augustus orders a registration, and everyone goes to his own town to be registered.",
+          "Joseph, of the family line of David, goes from Nazareth to Bethlehem with Mary, who is expecting a child.",
+          "Mary gives birth to her firstborn son, wraps him in strips of cloth and lays him in a manger, because there is no room in the guest room.",
+          "An angel appears to shepherds at night: \"Today in the town of David a Savior has been born for you. He is the Messiah, the Lord.\"",
+          "A great company of angels praises God: \"Glory to God in the highest heaven, and on earth peace.\"",
+          "The shepherds hurry to Bethlehem, find the baby in the manger, and tell what they were told about him.",
+          "Mary treasures all these things in her heart, and the shepherds go back glorifying and praising God."
+        ],
+        "zh": [
+          "該撒奧古斯都下令登記戶口，眾人各回本城登記。",
+          "約瑟是大衛的後裔，就和懷孕的馬利亞從拿撒勒上伯利恆去。",
+          "馬利亞生了頭胎兒子，用布包好，放在馬槽裏，因為客房裏沒有他們的地方。",
+          "夜間天使向牧羊人顯現：「今天在大衛的城裏，為你們生了一位救主，就是主基督。」",
+          "一大隊天軍讚美神：「在至高之處榮耀歸於神，在地上平安。」",
+          "牧羊人急忙到伯利恆，找到臥在馬槽裏的嬰孩，就把天使論到這孩子的話傳開。",
+          "馬利亞把這一切事存在心裏；牧羊人回去，榮耀神，讚美神。"
+        ]
+      },
+      "readings": [
+        { "ref": "Mic.5.1", "about": { "en": "A ruler will come from Bethlehem", "zh": "必有一位統治者出於伯利恆" } },
+        { "ref": "Isa.9.5-6", "about": { "en": "A child born, a son given, on David's throne", "zh": "有一嬰孩為我們而生，坐大衛的王位" } },
+        { "ref": "Matt.1.18-25", "about": { "en": "Matthew's account of Jesus' birth", "zh": "馬太記載耶穌降生" } },
+        { "ref": "Luke.2.21-38", "about": { "en": "The next part: Jesus is named and presented in the temple", "zh": "接下來：耶穌命名，在聖殿被獻給主" } }
+      ],
+      "history": {
+        "en": [
+          "Augustus ruled the Roman Empire from 27 BC to AD 14; Herod the Great died in 4 BC, so Jesus was probably born about 6 to 4 BC.",
+          "Quirinius is known to have held a census in Judea in AD 6; scholars differ on how Luke 2:2 fits with this.",
+          "A manger was a feeding trough for animals, often cut from stone; many houses kept animals on a lower level.",
+          "The Church of the Nativity in Bethlehem, first built in the 300s AD, stands over a cave traditionally held to be the place of the birth."
+        ],
+        "zh": [
+          "奧古斯都在公元前27年至公元14年統治羅馬帝國；大希律在公元前4年去世，所以耶穌大概生於公元前6至4年。",
+          "已知居里扭在公元6年在猶太地進行戶口登記；學者對路加福音2章2節如何與此吻合看法不一。",
+          "馬槽是餵牲畜的槽，常用石頭鑿成；許多房屋把牲畜養在下層。",
+          "伯利恆的主降生堂始建於公元四世紀，建在一個山洞之上，傳統認為那裏就是耶穌出生的地方。"
+        ]
+      },
+      "maps": ["palestine"],
+      "felt": { "story": "nativity" },
+      "connections": "Luke.2"
+    },
+    {
+      "n": 2,
+      "title": { "en": "The wise men", "zh": "占星家" },
+      "passages": ["Matt.2"],
+      "key": "Matt.2.9-11",
+      "points": {
+        "en": [
+          "Magi from the east come to Jerusalem asking, \"Where is the one who has been born king of the Jews? We saw his star.\"",
+          "King Herod is disturbed; the chief priests and scribes tell him the Messiah is to be born in Bethlehem, as the prophet wrote.",
+          "The star goes ahead of the magi to the house; they worship the child and give him gold, frankincense and myrrh.",
+          "Warned in a dream not to go back to Herod, they return home by another route.",
+          "An angel tells Joseph in a dream to flee to Egypt; he takes the child and his mother there by night.",
+          "Herod has all the boys in Bethlehem two years old and under killed.",
+          "After Herod dies, Joseph brings the family back and settles in Nazareth in Galilee."
+        ],
+        "zh": [
+          "有幾個占星家從東方來到耶路撒冷，問：「那生下來作猶太人之王的在哪裏？我們看見了他的星。」",
+          "希律王心裏不安；祭司長和經學家告訴他，照先知所寫，基督要生在伯利恆。",
+          "那星在占星家前頭領路，到了那房子；他們朝拜那孩子，獻上黃金、乳香和沒藥。",
+          "他們在夢中得到指示，不要回去見希律，就從別的路回本國去了。",
+          "天使在夢中吩咐約瑟逃往埃及；他就連夜帶着孩子和他母親到埃及去。",
+          "希律派人殺了伯利恆兩歲以內所有的男孩。",
+          "希律死後，約瑟帶着一家回來，住在加利利的拿撒勒。"
+        ]
+      },
+      "readings": [
+        { "ref": "Mic.5.1", "about": { "en": "The prophecy of a ruler from Bethlehem", "zh": "關於出於伯利恆的統治者的預言" } },
+        { "ref": "Num.24.17", "about": { "en": "Balaam: a star will march out of Jacob", "zh": "巴蘭說：有星要從雅各而出" } },
+        { "ref": "Hos.11.1", "about": { "en": "Out of Egypt I called my son", "zh": "我從埃及召出我的兒子" } },
+        { "ref": "Jer.31.15", "about": { "en": "Rachel weeping for her children", "zh": "拉結為她的兒女哭泣" } }
+      ],
+      "history": {
+        "en": [
+          "The magi were a priestly class of Persian origin, known for studying the stars and interpreting dreams; Matthew does not say how many came.",
+          "The tradition of three wise men comes from the three gifts; frankincense and myrrh are tree resins from southern Arabia and the Horn of Africa.",
+          "Herod died in 4 BC; his son Archelaus ruled Judea until Rome removed him in AD 6.",
+          "Herod's tomb was found in 2007 at the Herodium, his hilltop fortress about 5 km (3 miles) southeast of Bethlehem."
+        ],
+        "zh": [
+          "占星家原是源自波斯的祭司階層，以觀察星象和解夢著稱；馬太沒有說他們有幾個人。",
+          "「三博士」的傳統來自三樣禮物；乳香和沒藥都是樹脂，產於阿拉伯南部和非洲之角。",
+          "希律在公元前4年去世；他的兒子亞基老統治猶太地，到公元6年被羅馬革職。",
+          "2007年在希律堡發現了希律的墳墓；希律堡是他在山頂的堡壘，在伯利恆東南約五公里。"
+        ]
+      },
+      "maps": ["palestine"],
+      "felt": { "story": "nativity" },
+      "connections": "Matt.2"
+    },
+    {
+      "n": 3,
+      "title": { "en": "Jesus in the temple at twelve", "zh": "十二歲的耶穌在聖殿裏" },
+      "passages": ["Luke.2.41-52"],
+      "key": "Luke.2.46-49",
+      "points": {
+        "en": [
+          "Every year Jesus' parents go to Jerusalem for the Passover; when he is twelve, they go up as usual.",
+          "On the way home they travel a day before they find that Jesus is not in their group.",
+          "After three days they find him in the temple, sitting among the teachers, listening and asking questions.",
+          "Everyone who hears him is astonished at his understanding and his answers.",
+          "Jesus says, \"Didn't you know that I had to be in my Father's house?\" but they do not understand.",
+          "He goes back to Nazareth and is obedient to them; he grows in wisdom and stature, and in favor with God and people."
+        ],
+        "zh": [
+          "耶穌的父母每年上耶路撒冷守逾越節；他十二歲那年，他們照常上去。",
+          "回家的路上，他們走了一天，才發覺耶穌不在同行的人中間。",
+          "過了三天，他們在聖殿裏找到他；他坐在教師中間，一面聽，一面問。",
+          "凡聽見他的，都驚奇他的悟性和他的回答。",
+          "耶穌說：「你們不知道我必須在我父的家裏嗎？」他們卻不明白。",
+          "他回到拿撒勒，順服他們；他的智慧和身量一同增長，神和人都更加喜愛他。"
+        ]
+      },
+      "readings": [
+        { "ref": "Deut.16.16", "about": { "en": "Three festivals a year at the place God chooses", "zh": "每年三次在神所選的地方守節" } },
+        { "ref": "Exod.12.24-27", "about": { "en": "Keeping the Passover and telling the children its meaning", "zh": "守逾越節，向兒女說明它的意義" } },
+        { "ref": "1Sam.2.26", "about": { "en": "The boy Samuel grows in stature and in favor", "zh": "孩子撒母耳漸漸長大，蒙神和人喜愛" } }
+      ],
+      "history": {
+        "en": [
+          "Jewish men were to go to Jerusalem for Passover, Weeks and Shelters; families from Galilee travelled together in large groups.",
+          "Nazareth to Jerusalem is about 100 km (65 miles) in a straight line, several days' walk.",
+          "Herod's rebuilding of the temple began about 20 BC; teachers of the Law taught in its courts and colonnades.",
+          "The bar mitzvah at thirteen is a later Jewish custom; it is not described in the Bible."
+        ],
+        "zh": [
+          "猶太男子要在逾越節、七七節和住棚節上耶路撒冷；從加利利來的家庭常結伴同行。",
+          "拿撒勒到耶路撒冷直線距離約一百公里，要走好幾天。",
+          "希律約在公元前20年開始重建聖殿；律法教師在聖殿的院子和柱廊裏教導人。",
+          "十三歲行「受誡禮」是後來的猶太習俗，聖經沒有記載。"
+        ]
+      },
+      "maps": ["jerusalem", "palestine"],
+      "felt": { "find": "teacher" },
+      "connections": "Luke.2"
+    },
+    {
+      "n": 4,
+      "title": { "en": "Jesus is baptized", "zh": "耶穌受洗" },
+      "passages": ["Matt.3"],
+      "key": "Matt.3.16-17",
+      "points": {
+        "en": [
+          "John the Baptist preaches in the wilderness of Judea: \"Repent, for the kingdom of heaven has come near.\"",
+          "John wears camel's hair and a leather belt, and eats locusts and wild honey.",
+          "People from Jerusalem, Judea and the Jordan region confess their sins and are baptized by him in the Jordan.",
+          "John warns the Pharisees and Sadducees and says one more powerful is coming, who will baptize with the Holy Spirit and fire.",
+          "Jesus comes from Galilee to be baptized; John tries to stop him, but Jesus says it is fitting to fulfill all righteousness.",
+          "As Jesus comes up from the water, the heavens open and the Spirit of God comes down like a dove.",
+          "A voice from heaven says, \"This is my Son, whom I love. I am delighted with him.\""
+        ],
+        "zh": [
+          "施洗的約翰在猶太的曠野宣講：「你們要悔改，因為天國近了！」",
+          "約翰穿駱駝毛的衣服，腰束皮帶，吃蝗蟲和野蜂蜜。",
+          "耶路撒冷、猶太全地和約旦河一帶的人都來，承認自己的罪，在約旦河裏受他的洗。",
+          "約翰警告法利賽人和撒都該人，又說有一位比他更有能力的要來，要用聖靈與火給人施洗。",
+          "耶穌從加利利來受洗；約翰想要攔阻，耶穌說這樣盡諸般的義是應當的。",
+          "耶穌從水裏上來，天開了，神的靈好像鴿子降下來。",
+          "有聲音從天上來說：「這是我的兒子，是我所愛的，我喜悅他。」"
+        ]
+      },
+      "readings": [
+        { "ref": "Isa.40.3", "about": { "en": "A voice: prepare the way for the LORD in the wilderness", "zh": "有聲音說：在曠野預備耶和華的路" } },
+        { "ref": "Ps.2.7", "about": { "en": "The LORD says to the king, \"You are my son\"", "zh": "耶和華對王說：「你是我的兒子」" } },
+        { "ref": "Isa.42.1", "about": { "en": "My servant, in whom I delight; I have put my Spirit on him", "zh": "我所喜悅的僕人，我已將我的靈賜給他" } },
+        { "ref": "John.1.29-34", "about": { "en": "John calls Jesus the Lamb of God", "zh": "約翰稱耶穌為神的羔羊" } }
+      ],
+      "history": {
+        "en": [
+          "The Jewish historian Josephus, writing about AD 93, describes John the Baptist and his execution by Herod Antipas.",
+          "Two traditional baptism sites face each other across the lower Jordan near Jericho: Qasr al-Yahud and Al-Maghtas in Jordan.",
+          "Locusts were among the insects the Law allowed as food (Leviticus 11:22), and are still eaten in parts of the Middle East."
+        ],
+        "zh": [
+          "猶太歷史學家約瑟夫約在公元93年寫書，記載了施洗的約翰和他被希律安提帕殺害的事。",
+          "約旦河下游、耶利哥附近有兩個傳統的受洗地點，隔河相對：西岸的卡斯爾雅胡德和約旦的馬格塔斯。",
+          "蝗蟲是律法准許吃的昆蟲（利未記11章22節），今日中東一些地方仍有人吃。"
+        ]
+      },
+      "maps": ["palestine"],
+      "felt": { "story": "ministry" },
+      "connections": "Matt.3"
+    },
+    {
+      "n": 5,
+      "title": { "en": "Satan tempts Jesus in the wilderness", "zh": "耶穌在曠野受撒但試探" },
+      "passages": ["Matt.4.1-11"],
+      "key": "Matt.4.1-4",
+      "points": {
+        "en": [
+          "The Spirit leads Jesus into the wilderness to be tested by the devil; after fasting forty days and nights he is hungry.",
+          "The tempter says, \"If you are the Son of God, tell these stones to become bread.\"",
+          "Jesus answers, \"People do not live on bread alone, but on every word that comes from the mouth of God.\"",
+          "On the highest point of the temple, the devil quotes a psalm and tells him to throw himself down; Jesus answers, \"Do not put the Lord your God to the test.\"",
+          "On a very high mountain the devil offers him all the kingdoms of the world if he will worship him.",
+          "Jesus says, \"Go away, Satan! Worship the Lord your God, and serve him only.\" The devil leaves, and angels care for him."
+        ],
+        "zh": [
+          "聖靈把耶穌帶到曠野，受魔鬼的試探；他禁食四十晝夜，就餓了。",
+          "試探者說：「你若是神的兒子，就吩咐這些石頭變成餅吧！」",
+          "耶穌回答：「人活着不是單靠餅，而是靠神口裏所出的一切話。」",
+          "魔鬼把他帶到聖殿頂上，引用詩篇叫他跳下去；耶穌回答：「不可試探主你的神。」",
+          "魔鬼又帶他上一座極高的山，說他若下拜，就把世上萬國都給他。",
+          "耶穌說：「撒但，走開！要敬拜主你的神，單單事奉他。」魔鬼離開，有天使來服事他。"
+        ]
+      },
+      "readings": [
+        { "ref": "Deut.8.3", "about": { "en": "People do not live on bread alone", "zh": "人活着不是單靠食物" } },
+        { "ref": "Ps.91.11-12", "about": { "en": "The psalm the devil quotes: angels will lift you up", "zh": "魔鬼引用的詩篇：天使要用手托着你" } },
+        { "ref": "Deut.6.16", "about": { "en": "Do not put the LORD your God to the test", "zh": "不可試探耶和華你們的神" } },
+        { "ref": "Deut.6.13", "about": { "en": "Fear the LORD your God and serve him", "zh": "要敬畏耶和華你的神，事奉他" } }
+      ],
+      "history": {
+        "en": [
+          "The wilderness of Judea is the dry, rocky land falling from the hills of Jerusalem down to the Dead Sea.",
+          "A mountain above Jericho is traditionally called the Mount of Temptation; a monastery has stood on its cliff since Byzantine times.",
+          "\"The highest point of the temple\" may mean a corner of Herod's temple platform high above the Kidron Valley; its exact place is uncertain."
+        ],
+        "zh": [
+          "猶太曠野是從耶路撒冷山地向下延伸到死海的乾旱多石之地。",
+          "耶利哥上方的一座山，傳統上稱為「試探山」；山崖上自拜占庭時代就有修道院。",
+          "「聖殿頂上」可能是指希律聖殿平台高高俯瞰汲淪谷的一角；確實位置不能肯定。"
+        ]
+      },
+      "maps": ["palestine"],
+      "felt": { "story": "ministry" },
+      "connections": "Matt.4"
+    },
+    {
+      "n": 6,
+      "title": { "en": "Jesus calls the apostles", "zh": "耶穌呼召使徒" },
+      "passages": ["Mark.1.16-20", "Mark.3.13-19"],
+      "key": "Mark.1.16-18",
+      "points": {
+        "en": [
+          "Beside the Sea of Galilee, Jesus sees the fishermen Simon and his brother Andrew casting a net.",
+          "Jesus says, \"Come, follow me, and I will make you fish for people,\" and at once they leave their nets.",
+          "He calls James and John, sons of Zebedee, who leave their father in the boat and follow him.",
+          "On a mountain Jesus appoints twelve to be with him, to be sent out to preach and to drive out demons.",
+          "He names Simon Peter, and calls James and John \"Sons of Thunder.\"",
+          "The Twelve are Peter, James, John, Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Cananaean and Judas Iscariot."
+        ],
+        "zh": [
+          "耶穌在加利利海邊，看見漁夫西門和他的兄弟安得烈在撒網。",
+          "耶穌說：「來跟從我，我要使你們成為得人的漁夫。」他們立刻撇下網。",
+          "他又呼召西庇太的兒子雅各和約翰；他們撇下父親在船上，跟從了他。",
+          "耶穌在山上設立十二個人，要他們常和他在一起，差他們去傳道，又有權柄趕鬼。",
+          "他給西門起名叫彼得，稱雅各和約翰為「雷霆之子」。",
+          "這十二人是彼得、雅各、約翰、安得烈、腓力、巴多羅買、馬太、多馬、亞勒腓的兒子雅各、達太、奮銳黨的西門和加略人猶大。"
+        ]
+      },
+      "readings": [
+        { "ref": "John.1.35-42", "about": { "en": "Andrew brings his brother Simon to Jesus", "zh": "安得烈領他的兄弟西門去見耶穌" } },
+        { "ref": "Luke.5.1-11", "about": { "en": "The great catch of fish; Peter, James and John follow", "zh": "捕得滿網的魚；彼得、雅各、約翰跟從耶穌" } },
+        { "ref": "Matt.10.2-4", "about": { "en": "Matthew's list of the twelve apostles", "zh": "馬太所列十二使徒的名字" } },
+        { "ref": "Luke.6.12-16", "about": { "en": "Luke: Jesus prays all night, then chooses the Twelve", "zh": "路加：耶穌整夜禱告，然後揀選十二人" } }
+      ],
+      "history": {
+        "en": [
+          "The Sea of Galilee is a freshwater lake about 21 km (13 miles) long and over 200 m (650 feet) below sea level.",
+          "In 1986 a first-century fishing boat, about 8 m (27 feet) long, was found in the mud near Ginosar on its western shore.",
+          "At Capernaum archaeologists found a first-century house under a 5th-century church; it is traditionally held to be Peter's house."
+        ],
+        "zh": [
+          "加利利海是淡水湖，長約二十一公里，湖面低於海平面二百多米。",
+          "1986年，在湖西岸革尼撒勒附近的泥中發現一條公元一世紀的漁船，長約八米。",
+          "考古學家在迦百農一座五世紀教堂下面發現一間一世紀的房屋，傳統認為是彼得的家。"
+        ]
+      },
+      "maps": ["palestine"],
+      "felt": { "find": "fisherman" },
+      "connections": "Mark.3"
+    },
+    {
+      "n": 7,
+      "title": { "en": "Water into wine", "zh": "水變為酒" },
+      "passages": ["John.2.1-12"],
+      "key": "John.2.9-11",
+      "points": {
+        "en": [
+          "There is a wedding at Cana in Galilee; Jesus, his mother and his disciples are there.",
+          "When the wine runs out, his mother tells him, \"They have no wine,\" and tells the servants, \"Do whatever he tells you.\"",
+          "Six stone water jars stand there for Jewish purification; Jesus tells the servants to fill them with water, and they fill them to the brim.",
+          "They take some to the master of the feast, who tastes the water that has become wine.",
+          "He tells the bridegroom, \"You have kept the good wine until now.\"",
+          "This is the first of Jesus' signs; he reveals his glory, and his disciples believe in him."
+        ],
+        "zh": [
+          "在加利利的迦拿有婚宴；耶穌、他的母親和門徒都在那裏。",
+          "酒用完了，他母親對他說：「他們沒有酒了。」又對僕人說：「他吩咐你們做甚麼，你們就做甚麼。」",
+          "那裏有六口按猶太人潔淨規矩預備的石缸；耶穌吩咐僕人把缸倒滿水，他們就倒滿到缸口。",
+          "他們舀出來送給管筵席的；他嘗了那水變成的酒。",
+          "他對新郎說：「你倒把好酒留到現在。」",
+          "這是耶穌所行的第一個神蹟；他顯出他的榮耀，他的門徒就信了他。"
+        ]
+      },
+      "readings": [
+        { "ref": "John.4.46-54", "about": { "en": "A second sign at Cana: an official's son healed", "zh": "在迦拿的第二個神蹟：大臣的兒子得醫治" } },
+        { "ref": "John.20.30-31", "about": { "en": "Why John wrote down Jesus' signs", "zh": "約翰為甚麼記下耶穌的神蹟" } },
+        { "ref": "Mark.2.18-22", "about": { "en": "Jesus speaks of the bridegroom and new wine", "zh": "耶穌論新郎和新酒" } }
+      ],
+      "history": {
+        "en": [
+          "Village weddings could last a week (compare Judges 14:12), and running out of wine would shame the family.",
+          "Stone vessels were used because, in Jewish practice, stone did not become ritually unclean; workshops making them have been found in Galilee.",
+          "Each jar held two or three measures, about 80 to 120 litres (20 to 30 gallons).",
+          "Cana's site is debated: Khirbet Qana, north of Nazareth, or Kafr Kanna, the traditional site near Nazareth."
+        ],
+        "zh": [
+          "鄉村的婚宴可以持續一週（參士師記14章12節），酒用完了會使主家蒙羞。",
+          "使用石器，是因為按猶太人的做法，石頭不會沾染禮儀上的不潔；在加利利已發現製造石器的作坊。",
+          "每口缸可盛兩三桶，約八十至一百二十公升。",
+          "迦拿在哪裏仍有爭論：拿撒勒以北的加納廢墟，或傳統地點、拿撒勒附近的卡夫爾坎納。"
+        ]
+      },
+      "maps": ["palestine"],
+      "felt": { "find": "jar" },
+      "connections": "John.2"
+    },
+    {
+      "n": 8,
+      "title": { "en": "Jesus cleanses the temple", "zh": "耶穌潔淨聖殿" },
+      "passages": ["John.2.13-25"],
+      "key": "John.2.19-21",
+      "points": {
+        "en": [
+          "At Passover Jesus goes to Jerusalem and finds people in the temple selling cattle, sheep and doves, and money changers sitting there.",
+          "He makes a whip of cords, drives out the animals, pours out the coins and overturns the tables.",
+          "He says, \"Stop making my Father's house a marketplace!\" His disciples remember, \"Zeal for your house will consume me.\"",
+          "Asked for a sign, Jesus says, \"Destroy this temple, and in three days I will raise it up.\"",
+          "They answer that the temple has taken forty-six years to build; but he is speaking about the temple of his body.",
+          "After he is raised from the dead, his disciples remember this and believe the scripture and his word."
+        ],
+        "zh": [
+          "逾越節時，耶穌上耶路撒冷，看見聖殿裏有人賣牛、羊和鴿子，還有兌換錢幣的人坐在那裏。",
+          "他用繩子做了一條鞭子，把牛羊都趕出去，倒出錢幣，推翻桌子。",
+          "他說：「不要把我父的家當作市場！」門徒想起經上寫着：「我為你的殿所懷的熱心，必把我吞噬。」",
+          "人求他顯神蹟，耶穌說：「你們拆毀這殿，我三天內要再把它建立起來。」",
+          "他們說這殿建了四十六年；但耶穌是以他的身體為殿。",
+          "他從死人中復活以後，門徒想起這話，就信了經上的話和耶穌所說的話。"
+        ]
+      },
+      "readings": [
+        { "ref": "Ps.69.10", "about": { "en": "Zeal for your house has consumed me", "zh": "我為你的殿所懷的熱心，必把我吞噬" } },
+        { "ref": "Mal.3.1", "about": { "en": "The Lord will suddenly come to his temple", "zh": "主必忽然進入他的殿" } },
+        { "ref": "Mark.11.15-17", "about": { "en": "Jesus clears the temple in the last week", "zh": "耶穌在最後一週潔淨聖殿" } },
+        { "ref": "Isa.56.7", "about": { "en": "My house will be called a house of prayer", "zh": "神的殿是禱告的殿" } }
+      ],
+      "history": {
+        "en": [
+          "Herod began rebuilding the temple about 20 BC; forty-six years later points to about AD 27, though the work went on until about AD 63.",
+          "Money changers exchanged pilgrims' coins for the Tyrian silver used to pay the yearly half-shekel temple tax.",
+          "Animals were sold so pilgrims could offer sacrifices; many think the trade was in the large outer court of the temple."
+        ],
+        "zh": [
+          "希律約在公元前20年開始重建聖殿；四十六年後約是公元27年，不過工程一直延續到約公元63年。",
+          "兌換錢幣的人把朝聖者的錢換成推羅銀幣，用來繳納每年半舍客勒的聖殿稅。",
+          "出售牲畜是為了讓朝聖者獻祭；許多人認為這買賣是在聖殿寬大的外院進行的。"
+        ]
+      },
+      "maps": ["jerusalem"],
+      "felt": { "story": "ministry" },
+      "connections": "John.2"
+    },
+    {
+      "n": 9,
+      "title": { "en": "The Sermon on the Mount", "zh": "登山寶訓" },
+      "passages": ["Matt.5-7"],
+      "key": "Matt.7.24-27",
+      "points": {
+        "en": [
+          "Seeing the crowds, Jesus goes up the mountain, sits down and teaches his disciples.",
+          "He says, \"Blessed are the poor in spirit, for the kingdom of heaven is theirs,\" and blesses the mourning, the humble and the merciful.",
+          "He calls them the salt of the earth and the light of the world, and says he has come to fulfill the Law and the Prophets.",
+          "He says, \"Love your enemies and pray for those who persecute you.\"",
+          "He teaches them to pray, \"Our Father in heaven, may your name be honored as holy.\"",
+          "He says, \"Do to others what you want them to do to you,\" and tells of the wise man who built his house on the rock.",
+          "The crowds are amazed, because he teaches like someone with authority, not like their scribes."
+        ],
+        "zh": [
+          "耶穌看見群眾，就上了山，坐下來教導門徒。",
+          "他說：「心靈貧窮的人有福了，因為天國是他們的。」又說哀慟的、溫柔的、憐憫人的有福了。",
+          "他說他們是地上的鹽、世上的光，又說他來是要成全律法和先知。",
+          "他說：「要愛你們的仇敵，為迫害你們的人禱告。」",
+          "他教他們禱告：「我們在天上的父，願人都尊你的名為聖。」",
+          "他說：「你們希望別人怎樣待你們，你們也要怎樣待別人。」又講聰明人把房子蓋在磐石上。",
+          "群眾都驚奇他的教訓，因為他教導他們像有權柄的人，不像他們的經學家。"
+        ]
+      },
+      "readings": [
+        { "ref": "Luke.6.17-49", "about": { "en": "Luke's parallel: Jesus teaches on a level place", "zh": "路加的平行記載：耶穌在平地上教導" } },
+        { "ref": "Ps.37.11", "about": { "en": "The humble will inherit the land", "zh": "謙卑的人必承受這地" } },
+        { "ref": "Lev.19.18", "about": { "en": "Love your neighbor as yourself", "zh": "要愛鄰舍如同愛自己" } },
+        { "ref": "Exod.20.1-17", "about": { "en": "The Ten Commandments, which Jesus explains", "zh": "十誡，耶穌在講論中加以解釋" } }
+      ],
+      "history": {
+        "en": [
+          "The traditional site is a hill above the northwest shore of the Sea of Galilee, near Capernaum, where the Church of the Beatitudes was built in 1938.",
+          "Jewish teachers usually sat to teach, as Jesus does here and in the synagogue at Nazareth (Luke 4:20).",
+          "Matthew gathers Jesus' teaching into five long sections; this is the first."
+        ],
+        "zh": [
+          "傳統地點是加利利海西北岸、迦百農附近的一座小山；1938年在那裏建了八福堂。",
+          "猶太教師通常坐着教導，正如耶穌在這裏和在拿撒勒會堂裏一樣（路加福音4章20節）。",
+          "馬太把耶穌的教導集成五大段講論；這是第一段。"
+        ]
+      },
+      "maps": ["palestine"],
+      "felt": { "find": "mountain" },
+      "connections": "Matt.5"
+    },
+    {
+      "n": 10,
+      "title": { "en": "Jesus heals the centurion's servant", "zh": "耶穌醫好百夫長的僕人" },
+      "passages": ["Matt.8.5-13"],
+      "key": "Matt.8.8-10",
+      "points": {
+        "en": [
+          "In Capernaum a centurion pleads with Jesus: his servant is lying at home paralyzed and suffering terribly.",
+          "Jesus says, \"I will come and heal him.\"",
+          "The centurion says he is not worthy to have Jesus under his roof: \"Just say the word, and my servant will be healed.\"",
+          "He explains that he too is under authority, and his soldiers do what he tells them.",
+          "Jesus is amazed and says he has not found such great faith in Israel; many will come from east and west to the kingdom.",
+          "Jesus tells the centurion, \"Go. Let it be done for you as you have believed,\" and the servant is healed that very hour."
+        ],
+        "zh": [
+          "在迦百農，有一個百夫長求耶穌：他的僕人癱瘓在家，非常痛苦。",
+          "耶穌說：「我去醫治他。」",
+          "百夫長說他不配讓耶穌到他家裏：「只要你說一句話，我的僕人就必好了。」",
+          "他解釋說，自己也在權柄之下，他吩咐兵丁，兵丁就照做。",
+          "耶穌很驚奇，說在以色列中沒有見過這麼大的信心；將有許多人從東從西來，進入天國。",
+          "耶穌對百夫長說：「回去吧！照你所信的，給你成全。」那時僕人就好了。"
+        ]
+      },
+      "readings": [
+        { "ref": "Luke.7.1-10", "about": { "en": "Luke's account: Jewish elders speak for the centurion", "zh": "路加的記載：猶太長老為百夫長求情" } },
+        { "ref": "Ps.107.3", "about": { "en": "Gathered from the east and from the west", "zh": "從東從西被招聚回來" } },
+        { "ref": "Matt.15.21-28", "about": { "en": "A Canaanite woman's great faith", "zh": "迦南婦人的大信心" } }
+      ],
+      "history": {
+        "en": [
+          "A centurion commanded about 80 to 100 soldiers; in Galilee he may have served Herod Antipas rather than Rome directly.",
+          "Capernaum, on the north shore of the Sea of Galilee, became Jesus' base; Luke 7:5 says this centurion built its synagogue.",
+          "The white limestone synagogue seen at Capernaum today dates from about the 4th or 5th century AD, built on older basalt foundations."
+        ],
+        "zh": [
+          "百夫長統領約八十至一百名士兵；在加利利，他可能是為希律安提帕效力，而不是直接屬於羅馬。",
+          "迦百農在加利利海北岸，是耶穌傳道的根據地；路加福音7章5節說這百夫長為他們建了會堂。",
+          "今日在迦百農看見的白色石灰石會堂約建於公元四、五世紀，建在較早的玄武岩地基上。"
+        ]
+      },
+      "maps": ["palestine"],
+      "felt": { "find": "soldier" },
+      "connections": "Matt.8"
+    },
+    {
+      "n": 11,
+      "title": { "en": "Jesus heals the lame man", "zh": "耶穌醫好癱子" },
+      "passages": ["John.5.1-18"],
+      "key": "John.5.6-9",
+      "points": {
+        "en": [
+          "In Jerusalem, by the Sheep Gate, is a pool called Bethesda with five colonnades, where many sick people lie.",
+          "One man has been ill for thirty-eight years; Jesus asks him, \"Do you want to get well?\"",
+          "The man says he has no one to put him into the pool when the water is stirred up.",
+          "Jesus says, \"Get up, pick up your mat, and walk,\" and at once he is well and walks. It is a Sabbath.",
+          "The Jews tell the man it is not lawful to carry his mat on the Sabbath.",
+          "Later Jesus finds him in the temple, and the man tells the Jews it was Jesus who made him well.",
+          "They persecute Jesus for working on the Sabbath and for calling God his own Father."
+        ],
+        "zh": [
+          "在耶路撒冷靠近羊門的地方，有一個水池叫畢士大，旁邊有五條柱廊，許多病人躺在那裏。",
+          "有一個人病了三十八年；耶穌問他：「你想痊癒嗎？」",
+          "那人說，水動的時候，沒有人把他放進池子裏。",
+          "耶穌說：「起來，拿起你的褥子走吧！」他立刻痊癒，就走了。那天是安息日。",
+          "猶太人對那人說，在安息日拿褥子是不合律法的。",
+          "後來耶穌在聖殿裏找到他；那人就告訴猶太人，使他痊癒的是耶穌。",
+          "他們因耶穌在安息日做這事，又稱神為自己的父，就迫害他。"
+        ]
+      },
+      "readings": [
+        { "ref": "Jer.17.21-22", "about": { "en": "Do not carry a load on the Sabbath", "zh": "不可在安息日擔擔子" } },
+        { "ref": "Isa.35.6", "about": { "en": "Then the lame will leap like a deer", "zh": "那時瘸子必跳躍像鹿" } },
+        { "ref": "Mark.2.1-12", "about": { "en": "Jesus heals a paralyzed man let down through a roof", "zh": "耶穌醫好從屋頂縋下來的癱子" } }
+      ],
+      "history": {
+        "en": [
+          "The Pool of Bethesda has been excavated by St Anne's Church, north of the temple area: two large pools divided by a wall.",
+          "Four sides and the dividing wall may explain the \"five colonnades\"; a healing shrine stood nearby in later Roman times.",
+          "Verse 4, about an angel stirring the water, is missing from the earliest manuscripts, so this Bible numbers the chapter without it."
+        ],
+        "zh": [
+          "畢士大池已在聖殿區以北的聖安妮教堂旁發掘出來：是兩個大池，中間有牆分隔。",
+          "四邊加上中間的牆，可能就是「五條柱廊」；後來羅馬時期附近有一座求醫的神廟。",
+          "第4節說天使攪動池水，最早的抄本沒有這節，所以本站的經文沒有第4節。"
+        ]
+      },
+      "maps": ["jerusalem"],
+      "felt": { "story": "ministry" },
+      "connections": "John.5"
+    },
+    {
+      "n": 12,
+      "title": { "en": "Jesus casts out Legion", "zh": "耶穌趕出名叫軍團的鬼" },
+      "passages": ["Mark.5.1-20"],
+      "key": "Mark.5.18-20",
+      "points": {
+        "en": [
+          "Across the sea, in the region of the Gerasenes, a man with an unclean spirit comes from the tombs to meet Jesus.",
+          "No one can bind him even with chains; night and day he shrieks and cuts himself with stones.",
+          "He kneels before Jesus and shouts, \"What do you want with me, Jesus, Son of the Most High God?\"",
+          "Asked his name, he says, \"My name is Legion, for there are many of us.\"",
+          "The spirits beg to go into a herd of about two thousand pigs, which rush down the bank into the sea and drown.",
+          "The people find the man dressed and in his right mind, and they beg Jesus to leave.",
+          "Jesus sends the man home to tell how much the Lord has done for him, and he proclaims it in the Decapolis."
+        ],
+        "zh": [
+          "耶穌渡到海的對岸，到了格拉森人的地區，有一個被污靈附着的人從墳地出來迎見他。",
+          "連鐵鏈也沒有人能捆住他；他晝夜喊叫，又用石頭砍自己。",
+          "他跪在耶穌面前，大聲喊叫：「至高神的兒子耶穌，你為甚麼來干涉我？」",
+          "耶穌問他的名字，他說：「我名叫軍團，因為我們有很多。」",
+          "污靈求耶穌讓他們進入一群約二千頭的豬；豬群闖下山坡，投進海裏淹死了。",
+          "眾人看見那人穿着衣服，神智清醒，就害怕，求耶穌離開他們的地區。",
+          "耶穌叫那人回家，告訴人主為他做了何等大的事；他就在低加坡里傳揚。"
+        ]
+      },
+      "readings": [
+        { "ref": "Matt.8.28-34", "about": { "en": "Matthew's account: two men in the region of the Gadarenes", "zh": "馬太的記載：加大拉人地區的兩個人" } },
+        { "ref": "Luke.8.26-39", "about": { "en": "Luke's account of the same healing", "zh": "路加記載同一件事" } },
+        { "ref": "Mark.7.31-37", "about": { "en": "Jesus returns to the Decapolis and heals a deaf man", "zh": "耶穌再到低加坡里，醫好耳聾的人" } }
+      ],
+      "history": {
+        "en": [
+          "The east shore of the Sea of Galilee was largely Gentile, which is why pigs were kept there; the Law made pigs unclean (Leviticus 11:7).",
+          "Manuscripts and Gospels name the place differently (Gerasenes, Gadarenes); many place it near Kursi, where a Byzantine monastery was found in 1970.",
+          "A Roman legion had about 5,000 to 6,000 soldiers.",
+          "The Decapolis (\"ten cities\") were Greek-style cities, mostly east of the Jordan, such as Gerasa (Jerash) and Gadara."
+        ],
+        "zh": [
+          "加利利海東岸大多是外邦人居住的地方，所以那裏有人養豬；律法定豬為不潔（利未記11章7節）。",
+          "各抄本和福音書對地名的記載不同（格拉森、加大拉）；許多人認為在庫爾西附近，那裏在1970年發現了拜占庭時代的修道院。",
+          "羅馬的一個軍團約有五千至六千名士兵。",
+          "低加坡里（意思是「十城」）是希臘式的城市，大多在約旦河以東，例如格拉森（今傑拉什）和加大拉。"
+        ]
+      },
+      "maps": ["palestine"],
+      "felt": { "find": "boat" },
+      "connections": "Mark.5"
+    }
+  ]
+}

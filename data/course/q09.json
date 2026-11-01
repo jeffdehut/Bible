@@ -1,0 +1,567 @@
+{
+  "q": 9,
+  "lessons": [
+    {
+      "n": 1,
+      "title": { "en": "Repentance and return", "zh": "悔改與歸回" },
+      "passages": ["Dan.9", "Ezra.1"],
+      "key": "Dan.9.18-19",
+      "points": {
+        "en": [
+          "In the first year of Darius, Daniel understands from Jeremiah's words that Jerusalem's desolation will last seventy years.",
+          "Daniel prays with fasting, sackcloth and ashes, confessing his own sin and the sins of his people.",
+          "He asks God to hear and forgive, not because of their righteousness, but because of his great compassion.",
+          "While Daniel is still praying, Gabriel comes and tells him of seventy weeks decreed for his people and city.",
+          "In the first year of Cyrus king of Persia, the LORD stirs Cyrus to proclaim that the LORD's house in Jerusalem must be rebuilt.",
+          "Leaders of Judah and Benjamin, priests and Levites get ready to go, and their neighbors give them silver, gold and goods.",
+          "Cyrus gives back the temple articles Nebuchadnezzar had taken, 5,400 in all, and Sheshbazzar brings them to Jerusalem."
+        ],
+        "zh": [
+          "大利烏元年，但以理從耶利米的話明白，耶路撒冷荒廢的期限要滿七十年。",
+          "但以理禁食，披麻蒙灰禱告，承認自己的罪和百姓的罪。",
+          "他求神垂聽、赦免，不是因為他們的義，而是因為神的大憐憫。",
+          "但以理還在禱告，加百列就來了，告訴他神為他的百姓和聖城定了七十個七。",
+          "波斯王古列元年，耶和華激動古列的心，下令重建耶路撒冷耶和華的殿。",
+          "猶大和便雅憫的族長、祭司和利未人起來要上去，四周的人送他們金銀和財物。",
+          "古列把尼布甲尼撒從聖殿擄走的器皿交還，共五千四百件，由設巴薩帶回耶路撒冷。"
+        ]
+      },
+      "readings": [
+        { "ref": "Jer.29.10", "about": { "en": "Jeremiah's promise of return after seventy years", "zh": "耶利米應許七十年後歸回" } },
+        { "ref": "Isa.44.28", "about": { "en": "Isaiah names Cyrus, who will say Jerusalem will be rebuilt", "zh": "以賽亞提到古列，說耶路撒冷必重建" } },
+        { "ref": "2Chr.36.22-23", "about": { "en": "Chronicles ends with Cyrus's proclamation", "zh": "歷代志以古列的命令作結" } },
+        { "ref": "Neh.1.5-11", "about": { "en": "Nehemiah's prayer of confession, like Daniel's", "zh": "尼希米認罪的禱告，與但以理相似" } }
+      ],
+      "history": {
+        "en": [
+          "Cyrus the Great of Persia took Babylon in 539 BC; his decree letting the exiles return is usually dated about 538 BC.",
+          "The Cyrus Cylinder, found at Babylon in 1879 and now in the British Museum, records Cyrus returning captive peoples and restoring their shrines.",
+          "\"Darius the Mede\" is known only from Daniel; scholars differ on who he was, and some identify him with Cyrus or one of his officials.",
+          "Jerusalem and its temple were destroyed by Babylon in 586 BC; the first exiles had been taken about 605 BC."
+        ],
+        "zh": [
+          "波斯的古列大帝在公元前539年攻取巴比倫；他准許被擄的人歸回的命令，一般定在公元前538年左右。",
+          "「古列圓柱」1879年在巴比倫出土，現藏大英博物館，記載古列讓被擄的民族回鄉，並修復他們的神廟。",
+          "「米底亞人大利烏」只見於但以理書；學者對他是誰看法不一，有人認為是古列，或是古列手下的官員。",
+          "耶路撒冷和聖殿在公元前586年被巴比倫毀滅；第一批人約在公元前605年被擄。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "story": "daniel" },
+      "connections": "Ezra.1"
+    },
+    {
+      "n": 2,
+      "title": { "en": "The temple rebuilt", "zh": "重建聖殿" },
+      "passages": ["Ezra.3-6", "Hag.1"],
+      "key": "Ezra.3.11-13",
+      "points": {
+        "en": [
+          "In the seventh month the returned exiles rebuild the altar, offer burnt offerings and keep the Festival of Shelters.",
+          "When the builders lay the temple's foundation, the priests blow trumpets and the people sing, \"He is good; his faithful love lasts forever.\"",
+          "Old men who had seen the first house weep aloud, while many others shout for joy.",
+          "Enemies frighten the builders and hire advisers against them, and the work stops until the second year of Darius.",
+          "Haggai asks, \"Is it a time for you to live in paneled houses, while this house lies in ruins?\"",
+          "Zerubbabel, Joshua the high priest and the people obey, and begin working on the house of the LORD again.",
+          "Darius finds Cyrus's decree, the temple is completed in his sixth year, and the people dedicate it with joy and keep the Passover."
+        ],
+        "zh": [
+          "七月，歸回的人重建祭壇，獻上燔祭，又守住棚節。",
+          "工匠立下聖殿的根基時，祭司吹號，眾人歌唱：「他本為善，他向以色列的慈愛永遠長存。」",
+          "見過第一座殿的老年人放聲大哭，也有許多人大聲歡呼。",
+          "敵人使建造的人害怕，又收買謀士阻撓他們，工程停頓，直到大利烏王第二年。",
+          "哈該問：「你們自己住在有木板裝修的房子裏，這殿卻荒涼，這是合宜的時候嗎？」",
+          "所羅巴伯、大祭司約書亞和百姓都聽從，重新動工建造耶和華的殿。",
+          "大利烏找到古列的諭令，聖殿在他第六年完工；百姓歡歡喜喜地為殿行奉獻禮，又守逾越節。"
+        ]
+      },
+      "readings": [
+        { "ref": "Hag.2.3-9", "about": { "en": "The glory of this house will be greater than the former", "zh": "這殿後來的榮耀必大過先前的" } },
+        { "ref": "Zech.4.6-10", "about": { "en": "Zerubbabel will finish the house: not by might, but by my Spirit", "zh": "所羅巴伯必完成這殿：不是倚靠勢力，乃是靠神的靈" } },
+        { "ref": "Ps.126", "about": { "en": "A song of the LORD restoring Zion's fortunes", "zh": "耶和華使錫安被擄的人歸回之歌" } },
+        { "ref": "John.2.19-21", "about": { "en": "Jesus in the temple, rebuilt by Herod over forty-six years", "zh": "耶穌在希律修建了四十六年的聖殿" } }
+      ],
+      "history": {
+        "en": [
+          "The foundation was laid about 536 BC; work resumed in 520 BC, the second year of Darius I, and the temple was finished in 515 BC.",
+          "Haggai's messages are dated to the months of 520 BC; Ezra 4:8 to 6:18 is written in Aramaic, the official language of the Persian Empire.",
+          "Ecbatana, where Cyrus's decree was found, was a Persian royal city; it is modern Hamadan in western Iran.",
+          "This second temple stood, later enlarged by Herod the Great, until the Romans destroyed it in AD 70."
+        ],
+        "zh": [
+          "聖殿根基約在公元前536年立下；公元前520年，就是大利烏一世第二年，重新動工，公元前515年完工。",
+          "哈該的信息都記有日期，都在公元前520年；以斯拉記4章8節至6章18節用亞蘭文寫成，亞蘭文是波斯帝國的官方語言。",
+          "找到古列諭令的亞馬他是波斯的王城，就是今日伊朗西部的哈馬丹。",
+          "這第二座聖殿後來由大希律擴建，一直存留，直到公元70年被羅馬人毀滅。"
+        ]
+      },
+      "maps": ["empires", "jerusalem"],
+      "felt": { "find": "altar" },
+      "connections": "Ezra.3"
+    },
+    {
+      "n": 3,
+      "title": { "en": "Esther becomes queen", "zh": "以斯帖作王后" },
+      "passages": ["Esth.1-4"],
+      "key": "Esth.4.14-16",
+      "points": {
+        "en": [
+          "King Ahasuerus, who rules 127 provinces from Susa, gives a great banquet; Queen Vashti refuses to come at his command and is removed.",
+          "Young women are gathered to the palace, among them Esther, an orphan brought up by her cousin Mordecai, a Jew.",
+          "The king loves Esther more than all the others and makes her queen, but she does not tell anyone her people.",
+          "Mordecai learns of a plot to kill the king; Esther tells the king, and it is written in the royal chronicles.",
+          "Haman is promoted; Mordecai will not bow to him, so Haman plans to destroy all the Jews.",
+          "Lots (pur) are cast, and a law goes out in the king's name to kill the Jews on the thirteenth day of Adar.",
+          "Mordecai urges Esther to plead with the king; she asks the Jews to fast three days and says, \"If I perish, I perish.\""
+        ],
+        "zh": [
+          "亞哈隨魯王在書珊統治一百二十七個省，大擺筵席；瓦實提王后不肯奉召前來，被廢。",
+          "許多少女被招進王宮，其中有以斯帖。她是孤女，由堂兄猶太人末底改撫養。",
+          "王愛以斯帖過於眾女子，立她為王后，但她沒有說出自己的種族。",
+          "末底改得知有人謀害王，以斯帖告訴王，這事記在王的史冊上。",
+          "哈曼得到提拔；末底改不向他跪拜，哈曼就要滅絕所有猶太人。",
+          "有人抽普珥，就是抽籤；一道以王的名義發出的法令，定在亞達月十三日殺滅猶太人。",
+          "末底改催以斯帖去求王；她請猶太人禁食三天，說：「我若死，就死吧！」"
+        ]
+      },
+      "readings": [
+        { "ref": "1Sam.15.8", "about": { "en": "Saul captures Agag, king of the Amalekites", "zh": "掃羅生擒亞瑪力王亞甲" } },
+        { "ref": "Ezra.4.6", "about": { "en": "An accusation against Judah in Ahasuerus's reign", "zh": "亞哈隨魯在位時有人控告猶大" } },
+        { "ref": "Neh.1.1", "about": { "en": "Nehemiah also serves the king in the citadel of Susa", "zh": "尼希米也在書珊城堡服事王" } }
+      ],
+      "history": {
+        "en": [
+          "Ahasuerus is generally identified with Xerxes I, king of Persia about 486 to 465 BC.",
+          "Susa lies at modern Shush in southwestern Iran; French excavations uncovered the great palace and audience hall built by Darius I.",
+          "The Persian Empire then reached from the Indus valley to Cush, the land south of Egypt in modern Sudan.",
+          "Many Jews stayed in Babylonia and Persia after the return; Esther tells of Jews living in every province of the empire."
+        ],
+        "zh": [
+          "亞哈隨魯一般認為就是薛西一世，約在公元前486至465年作波斯王。",
+          "書珊在今日伊朗西南部的蘇薩；法國考古隊在那裏發掘出大利烏一世建造的宮殿和大殿。",
+          "那時波斯帝國從印度河流域伸展到古實，就是埃及以南、今日蘇丹一帶。",
+          "歸回以後，仍有許多猶太人留在巴比倫和波斯；以斯帖記記載猶太人住在帝國各省。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "find": "queen" },
+      "connections": "Esth.4"
+    },
+    {
+      "n": 4,
+      "title": { "en": "God saves his people through Esther", "zh": "神藉以斯帖拯救他的子民" },
+      "passages": ["Esth.5-9"],
+      "key": "Esth.7.3-6",
+      "points": {
+        "en": [
+          "On the third day Esther stands in the inner court; the king holds out his gold scepter and she invites him and Haman to a banquet.",
+          "Haman has a pole fifty cubits high made, to hang Mordecai on it.",
+          "That night the king cannot sleep, reads in the chronicles how Mordecai saved him, and has Haman lead Mordecai through the city in honor.",
+          "At the second banquet Esther tells the king that she and her people have been sold to be destroyed, and names Haman.",
+          "Haman is hanged on the pole he made for Mordecai.",
+          "Mordecai writes a new order in the king's name, allowing the Jews to gather and defend their lives.",
+          "On the thirteenth of Adar the Jews overcome their enemies; Mordecai and Esther establish the days of Purim, to be kept every year."
+        ],
+        "zh": [
+          "第三天，以斯帖站在內院；王向她伸出金杖，她就請王和哈曼赴她預備的筵席。",
+          "哈曼叫人做了一根五十肘高的木柱，要把末底改掛在上面。",
+          "那夜王睡不着，讀史冊時看見末底改曾救了他，就叫哈曼領末底改在城中遊行，給他尊榮。",
+          "第二次筵席上，以斯帖告訴王，她和她的同胞被賣，要被滅絕，並指出哈曼。",
+          "哈曼被掛在他為末底改預備的木柱上。",
+          "末底改以王的名義另寫諭令，准許猶太人聚集，保護自己的性命。",
+          "亞達月十三日，猶太人勝過仇敵；末底改和以斯帖定下普珥日，每年遵守。"
+        ]
+      },
+      "readings": [
+        { "ref": "Ps.7.16-17", "about": { "en": "He digs a pit and falls into the hole he made", "zh": "挖坑的人自己掉進坑裏" } },
+        { "ref": "Prov.26.27", "about": { "en": "Whoever digs a pit will fall into it", "zh": "挖坑的必掉在其中" } },
+        { "ref": "John.10.22-23", "about": { "en": "Jesus at another later festival, the Festival of Dedication", "zh": "耶穌在另一個後起的節期修殿節" } }
+      ],
+      "history": {
+        "en": [
+          "Jews keep Purim on the fourteenth of Adar (in February or March), and on the fifteenth in Jerusalem, as walled Susa did.",
+          "At Purim the whole book of Esther is read aloud from a scroll, and people send gifts of food to one another, as in Esther 9:22.",
+          "The Hebrew book of Esther never names God; later Greek versions added prayers that do.",
+          "A Persian king's signet ring sealed his laws; seals and impressions of Persian kings have been found at Persepolis and elsewhere."
+        ],
+        "zh": [
+          "猶太人在亞達月十四日（二月或三月）守普珥日；耶路撒冷則在十五日守，如同有城牆的書珊。",
+          "普珥日要從書卷中把整卷以斯帖記朗讀出來，人們又彼此送食物，如以斯帖記9章22節所記。",
+          "希伯來文的以斯帖記沒有提到神的名；後來的希臘文版本加上了提到神的禱文。",
+          "波斯王用印戒蓋印頒佈法令；在波斯波利斯等地都出土了波斯王的印章和印痕。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "find": "throne" },
+      "connections": "Esth.7"
+    },
+    {
+      "n": 5,
+      "title": { "en": "Ezra teaches the law", "zh": "以斯拉教導律法" },
+      "passages": ["Ezra.7-8"],
+      "key": "Ezra.7.9-10",
+      "points": {
+        "en": [
+          "In the reign of Artaxerxes, Ezra, a priest descended from Aaron and a scribe skilled in the Law of Moses, comes up from Babylon.",
+          "Ezra has set his heart to study the Law of the LORD, to do it, and to teach it in Israel.",
+          "Artaxerxes gives Ezra a letter: he may take silver and gold for the temple, appoint judges and teach the laws of his God.",
+          "Ezra blesses the LORD for putting this into the king's heart, and gathers leaders to go with him.",
+          "By the river Ahava, Ezra proclaims a fast, ashamed to ask the king for soldiers, and God answers their prayer.",
+          "The hand of God protects them on the journey; after four months they reach Jerusalem."
+        ],
+        "zh": [
+          "亞達薛西在位時，以斯拉從巴比倫上來。他是亞倫後裔的祭司，是精通摩西律法的經學家。",
+          "以斯拉立定心志，研究耶和華的律法，遵行律法，又在以色列中教導。",
+          "亞達薛西給以斯拉一封信：准他帶金銀獻給聖殿，設立審判官，並教導他神的律法。",
+          "以斯拉稱頌耶和華，因為他使王起了這心意；他就召集首領與他同去。",
+          "在亞哈瓦河邊，以斯拉宣告禁食；他不好意思求王派兵保護，神就應允他們的禱告。",
+          "神的手保護他們一路平安；走了四個月，他們到了耶路撒冷。"
+        ]
+      },
+      "readings": [
+        { "ref": "Neh.8.1-3", "about": { "en": "Ezra reads the Law to all the people", "zh": "以斯拉向眾民宣讀律法" } },
+        { "ref": "Deut.31.10-12", "about": { "en": "Moses commands the Law to be read to all Israel", "zh": "摩西吩咐向以色列眾人宣讀律法" } },
+        { "ref": "Ezra.9.1-4", "about": { "en": "The next part: Ezra mourns over the people's unfaithfulness", "zh": "接下來：以斯拉為百姓的不忠悲傷" } }
+      ],
+      "history": {
+        "en": [
+          "If the king is Artaxerxes I, Ezra came in 458 BC, as most hold; some think of Artaxerxes II and date it to 398 BC.",
+          "The route from Babylon to Jerusalem followed the Euphrates north and then south through Syria, about 1,400 km (900 miles).",
+          "Ezra 7:12-26, the king's letter, is in Aramaic; a talent of silver weighed about 34 kg (75 pounds)."
+        ],
+        "zh": [
+          "如果那王是亞達薛西一世，以斯拉便是在公元前458年來的，多數學者這樣看；也有人認為是亞達薛西二世，定在公元前398年。",
+          "從巴比倫到耶路撒冷的路線沿伯拉河北上，再經敘利亞南下，約一千四百公里。",
+          "以斯拉記7章12至26節，就是王的信，用亞蘭文寫成；一他連得銀子約重三十四公斤。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "find": "priest" },
+      "connections": "Ezra.7"
+    },
+    {
+      "n": 6,
+      "title": { "en": "Nehemiah rebuilds the walls", "zh": "尼希米重建城牆" },
+      "passages": ["Neh.1-6"],
+      "key": "Neh.2.17-18",
+      "points": {
+        "en": [
+          "In Susa, Nehemiah hears that Jerusalem's wall is broken down and its gates burned; he weeps, fasts and prays.",
+          "Nehemiah is cupbearer to King Artaxerxes; when the king asks why he is sad, he prays and asks to be sent to rebuild the city.",
+          "The king sends him with letters to the governors and for timber from the king's forest.",
+          "Nehemiah tells the people, \"Let us rebuild the wall of Jerusalem\"; they answer, \"Let us get up and build!\"",
+          "Sanballat, Tobiah and Geshem mock them, then plot to attack; the people pray and set a guard day and night.",
+          "Half of Nehemiah's men work while half hold weapons; builders work with one hand and hold a weapon with the other.",
+          "The wall is finished on the twenty-fifth of Elul, in fifty-two days, and the nations around know God has done this."
+        ],
+        "zh": [
+          "尼希米在書珊聽說耶路撒冷的城牆崩塌，城門被火焚燒；他就哭泣、禁食、禱告。",
+          "尼希米是亞達薛西王的酒政；王問他為何愁眉不展，他向神禱告，然後求王差他去重建那城。",
+          "王差他去，給他信件交給各省長，又准他從王的林園取木材。",
+          "尼希米對百姓說：「我們來重建耶路撒冷的城牆吧！」他們說：「我們起來建造吧！」",
+          "參巴拉、多比雅和基善嘲笑他們，又謀劃來攻擊；百姓禱告，晝夜派人看守。",
+          "尼希米的僕人一半做工，一半拿兵器；建造的人一隻手做工，一隻手拿着兵器。",
+          "以祿月二十五日，城牆完工，共用了五十二天；四圍的列國都知道這工是神成就的。"
+        ]
+      },
+      "readings": [
+        { "ref": "Ezra.4.7-23", "about": { "en": "Earlier, Artaxerxes had stopped work on the city", "zh": "早先亞達薛西曾下令停止建城" } },
+        { "ref": "Ps.127.1", "about": { "en": "Unless the LORD builds the house and guards the city", "zh": "若不是耶和華建造房屋、看守城池" } },
+        { "ref": "Neh.12.27-30", "about": { "en": "The next part: the dedication of the wall", "zh": "接下來：城牆的奉獻禮" } }
+      ],
+      "history": {
+        "en": [
+          "The twentieth year of Artaxerxes I was about 445 BC; Elul, when the wall was finished, falls in August or September.",
+          "A cupbearer tasted and served the king's wine; he was a trusted official with daily access to the king.",
+          "Letters from Elephantine in Egypt, about 407 BC, mention \"Sanballat governor of Samaria\" and his sons."
+        ],
+        "zh": [
+          "亞達薛西一世第二十年約是公元前445年；城牆完工的以祿月，約在八月或九月。",
+          "酒政負責試酒，並把酒遞給王；他是王所信任的官員，天天可以見王。",
+          "在埃及象島出土、約公元前407年的書信，提到「撒瑪利亞省長參巴拉」和他的兒子。"
+        ]
+      },
+      "maps": ["jerusalem", "empires"],
+      "felt": { "find": "wall" },
+      "connections": "Neh.2"
+    },
+    {
+      "n": 7,
+      "title": { "en": "The people hear the law", "zh": "百姓聆聽律法" },
+      "passages": ["Neh.8"],
+      "key": "Neh.8.8-10",
+      "points": {
+        "en": [
+          "On the first day of the seventh month, all the people gather in the square before the Water Gate and ask Ezra to bring the Law.",
+          "Standing on a wooden platform, Ezra reads from daybreak until midday, and all the people listen closely.",
+          "When Ezra opens the book the people stand; he blesses the LORD, and they answer \"Amen! Amen!\" and bow down.",
+          "The Levites read clearly and give the sense, so that the people understand what is read.",
+          "The people weep; Nehemiah and Ezra say the day is holy, and \"the joy of the LORD is your strength.\"",
+          "They find in the Law the Festival of Shelters, make shelters of branches and live in them for seven days.",
+          "Every day of the festival Ezra reads from the book of the Law, and there is very great joy."
+        ],
+        "zh": [
+          "七月初一，眾民聚集在水門前的廣場，請以斯拉把律法書帶來。",
+          "以斯拉站在木臺上，從清早讀到中午，眾民都留心聽。",
+          "以斯拉一打開書卷，眾民就站起來；他稱頌耶和華，眾民回應：「阿們！阿們！」又俯伏敬拜。",
+          "利未人清楚地宣讀，講解意思，使百姓明白所讀的。",
+          "眾民都哭了；尼希米和以斯拉說今天是聖日，「因靠耶和華而得的喜樂是你們的力量」。",
+          "他們在律法上看到住棚節，就用樹枝搭棚，住在棚裏七天。",
+          "節期中以斯拉天天宣讀律法書，眾人都非常喜樂。"
+        ]
+      },
+      "readings": [
+        { "ref": "Deut.31.10-12", "about": { "en": "The Law to be read at the Festival of Shelters", "zh": "在住棚節宣讀律法" } },
+        { "ref": "Lev.23.39-43", "about": { "en": "The command to live in shelters for seven days", "zh": "吩咐住在棚裏七天" } },
+        { "ref": "Luke.4.16-21", "about": { "en": "Jesus reads the scroll of Isaiah in the synagogue", "zh": "耶穌在會堂裏讀以賽亞書" } },
+        { "ref": "Neh.9.1-3", "about": { "en": "The next part: the people confess their sins", "zh": "接下來：百姓認罪" } }
+      ],
+      "history": {
+        "en": [
+          "The Water Gate was on the east side of the city, toward the Gihon Spring in the Kidron Valley.",
+          "The Festival of Shelters (Sukkot) falls in September or October; Jews still build shelters of branches for it today.",
+          "Jewish tradition links the Levites' \"giving the sense\" to the later practice of reading Scripture with an Aramaic translation (Targum)."
+        ],
+        "zh": [
+          "水門在城的東面，朝向汲淪谷的基訓泉。",
+          "住棚節在九月或十月；今日猶太人仍在這節期用樹枝搭棚。",
+          "猶太傳統把利未人「講解意思」與後來讀經時附上亞蘭文譯本（他爾根）的做法聯繫起來。"
+        ]
+      },
+      "maps": ["jerusalem"],
+      "felt": { "find": "scroll" },
+      "connections": "Neh.8"
+    },
+    {
+      "n": 8,
+      "title": { "en": "Zechariah: the coming king", "zh": "撒迦利亞：要來的王" },
+      "passages": ["Zech.9"],
+      "key": "Zech.9.9-10",
+      "points": {
+        "en": [
+          "The word of the LORD comes against Damascus, Tyre and Sidon, and the cities of the Philistines.",
+          "The LORD says he will camp around his house as a guard, and no oppressor will overrun them again.",
+          "Daughter Zion is told to rejoice: her king is coming, righteous and victorious, humble and riding on a donkey's colt.",
+          "He will cut off the chariot and the war horse, proclaim peace to the nations, and rule from sea to sea.",
+          "Because of the blood of the covenant, the LORD will set prisoners free from the waterless pit.",
+          "On that day the LORD will save his people like a flock; they will sparkle like jewels in a crown."
+        ],
+        "zh": [
+          "耶和華的話攻擊大馬色、推羅、西頓和非利士人的城。",
+          "耶和華說他要在他的殿四圍安營保護，欺壓的人必不再經過。",
+          "錫安的女兒要大大喜樂：她的王來了，他公義、得勝、謙卑，騎着驢駒。",
+          "他要除滅戰車和戰馬，向列國宣講和平，他的統治從這海直到那海。",
+          "因立約的血，耶和華要從無水的坑中釋放被囚的人。",
+          "到那日，耶和華要拯救他的子民如同羊群；他們要像冠冕上的寶石閃耀。"
+        ]
+      },
+      "readings": [
+        { "ref": "Matt.21.1-9", "about": { "en": "Jesus rides into Jerusalem on a donkey", "zh": "耶穌騎驢進耶路撒冷" } },
+        { "ref": "John.12.12-16", "about": { "en": "The crowd with palm branches; Zechariah 9:9 quoted", "zh": "群眾拿棕樹枝迎接，引用撒迦利亞書9章9節" } },
+        { "ref": "1Kgs.1.38-39", "about": { "en": "Solomon rides King David's mule to be anointed king", "zh": "所羅門騎大衛王的騾子去受膏作王" } }
+      ],
+      "history": {
+        "en": [
+          "Zechariah began to prophesy in 520 BC, with Haggai; chapters 9 to 14 carry no dates, and many scholars date them later.",
+          "Kings of Israel rode mules and donkeys in peace; chariots and war horses were the strength of armies.",
+          "Tyre's island fortress, named in 9:3-4, fell to Alexander the Great in 332 BC after a siege of about seven months."
+        ],
+        "zh": [
+          "撒迦利亞在公元前520年與哈該一同開始說預言；9至14章沒有記日期，許多學者認為較晚寫成。",
+          "以色列的王在太平時騎騾子和驢；戰車和戰馬是軍隊的力量。",
+          "9章3至4節提到的推羅島上堡壘，在公元前332年被亞歷山大大帝圍攻約七個月後攻陷。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "find": "donkey" },
+      "connections": "Zech.9"
+    },
+    {
+      "n": 9,
+      "title": { "en": "Malachi: the messenger", "zh": "瑪拉基：使者" },
+      "passages": ["Mal.3.1-5", "Mal.3.19-24"],
+      "key": "Mal.3.1",
+      "points": {
+        "en": [
+          "The LORD says he is sending his messenger to prepare the way before him.",
+          "Then the Lord whom they seek will suddenly come to his temple, the messenger of the covenant.",
+          "No one can endure the day of his coming: he is like a refiner's fire and launderers' soap, and will purify the sons of Levi.",
+          "The day is coming, burning like an oven, when the arrogant and evildoers will be like stubble.",
+          "For those who fear the LORD's name, the sun of righteousness will rise with healing in its wings.",
+          "They are told to remember the Law of Moses given at Horeb.",
+          "The LORD will send Elijah the prophet before his great day, to turn the hearts of fathers and children to each other."
+        ],
+        "zh": [
+          "耶和華說，他要差遣他的使者，在他前面預備道路。",
+          "他們所尋求的主，就是立約的使者，必忽然進入他的殿。",
+          "他來的日子誰能當得起呢？他像煉金之人的火，像漂布之人的鹼，要潔淨利未的子孫。",
+          "那日子要來，燒起來如同火爐，狂傲的和作惡的都要像碎秸。",
+          "敬畏耶和華名的人，必有公義的太陽升起，它的翅膀有醫治的能力。",
+          "他們要記得在何烈山賜下的摩西律法。",
+          "在耶和華的大日子來到以前，他要差遣以利亞先知，使父親和兒女的心彼此回轉。"
+        ]
+      },
+      "readings": [
+        { "ref": "Mark.1.2-4", "about": { "en": "Mark begins with Malachi's messenger and John the Baptist", "zh": "馬可福音以瑪拉基的使者和施洗的約翰開始" } },
+        { "ref": "Luke.1.17", "about": { "en": "John will go in the spirit and power of Elijah", "zh": "約翰必有以利亞的心志和能力" } },
+        { "ref": "Matt.11.10-14", "about": { "en": "Jesus says John is the messenger and the Elijah to come", "zh": "耶穌說約翰就是那使者，是那要來的以利亞" } },
+        { "ref": "Matt.17.10-13", "about": { "en": "Jesus says Elijah has already come", "zh": "耶穌說以利亞已經來了" } }
+      ],
+      "history": {
+        "en": [
+          "The name Malachi means \"my messenger\"; the book is usually dated to the 400s BC, near the time of Ezra and Nehemiah.",
+          "Malachi 3:19-24 in this Bible is chapter 4 in most English Bibles.",
+          "Malachi is the last book of the Old Testament in Christian Bibles; the Hebrew Bible ends with Chronicles."
+        ],
+        "zh": [
+          "瑪拉基這名字的意思是「我的使者」；這卷書一般定在公元前五世紀，接近以斯拉和尼希米的時代。",
+          "本站的瑪拉基書3章19至24節，在多數英文聖經和和合本是第4章。",
+          "在基督教的聖經裏，瑪拉基書是舊約最後一卷；希伯來聖經則以歷代志作結。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "find": "angel" },
+      "connections": "Mal.3"
+    },
+    {
+      "n": 10,
+      "title": { "en": "Micah: the ruler from Bethlehem", "zh": "彌迦：出於伯利恆的統治者" },
+      "passages": ["Mic.5.1-5"],
+      "key": "Mic.5.1-3",
+      "points": {
+        "en": [
+          "Bethlehem Ephrathah is too small to be among the clans of Judah.",
+          "Yet from Bethlehem one will come out to be ruler in Israel, whose origins are from of old, from ancient days.",
+          "God will give his people up until she who is in labor has given birth; then the rest of his brothers will return.",
+          "He will stand and shepherd his flock in the strength and majesty of the name of the LORD his God.",
+          "His people will live secure, for he will be great to the ends of the earth.",
+          "He will be their peace, and he will rescue them from Assyria."
+        ],
+        "zh": [
+          "伯利恆‧以法他在猶大的宗族中弱小。",
+          "卻必有一位從伯利恆出來，作以色列的統治者；他的根源從太古、從亙古就有。",
+          "神必把他的子民交出，直到那臨產的婦人生下孩子；然後他其餘的弟兄必歸回。",
+          "他必站立，靠耶和華的能力和他神之名的威嚴，牧養他的羊群。",
+          "他的子民必安然居住，因為他必為大，直到地極。",
+          "他必作他們的平安，救他們脫離亞述。"
+        ]
+      },
+      "readings": [
+        { "ref": "Matt.2.1-6", "about": { "en": "The chief priests quote Micah: the Messiah is born in Bethlehem", "zh": "祭司長引用彌迦書：基督生在伯利恆" } },
+        { "ref": "John.7.42", "about": { "en": "The crowd: the Messiah comes from David's village, Bethlehem", "zh": "眾人說：基督出於大衛的村莊伯利恆" } },
+        { "ref": "1Sam.17.12", "about": { "en": "David, son of Jesse the Ephrathite from Bethlehem", "zh": "大衛是伯利恆以法他人耶西的兒子" } },
+        { "ref": "Isa.9.5-6", "about": { "en": "A child born, a son given, on David's throne", "zh": "有一嬰孩為我們而生，坐大衛的王位" } }
+      ],
+      "history": {
+        "en": [
+          "Micah of Moresheth prophesied in the days of Jotham, Ahaz and Hezekiah, in the late 700s BC, at the same time as Isaiah.",
+          "Bethlehem lies about 9 km (6 miles) south of Jerusalem; Ephrathah was an old name for it or its clan (Genesis 35:19).",
+          "Micah 5:1 in this Bible is 5:2 in most English Bibles."
+        ],
+        "zh": [
+          "摩利沙人彌迦在約坦、亞哈斯、希西家年間說預言，約在公元前八世紀末，與以賽亞同時。",
+          "伯利恆在耶路撒冷以南約九公里；以法他是它或當地宗族的古名（創世記35章19節）。",
+          "本站的彌迦書5章1節，在多數英文聖經和和合本是5章2節。"
+        ]
+      },
+      "maps": ["kingdoms"],
+      "felt": { "find": "shepherd" },
+      "connections": "Mic.5"
+    },
+    {
+      "n": 11,
+      "title": { "en": "Between the Testaments", "zh": "兩約之間" },
+      "passages": ["Dan.8", "Gal.4.4-5"],
+      "key": "Gal.4.4-5",
+      "points": {
+        "en": [
+          "In a vision Daniel sees a ram with two horns charging west, north and south, and no beast can stand before it.",
+          "A male goat with one great horn comes from the west, strikes the ram and breaks its two horns.",
+          "The great horn is broken, and four horns come up in its place; from one grows a small horn.",
+          "The small horn takes away the regular offering and throws down the place of the sanctuary.",
+          "Gabriel explains: the ram is the kings of Media and Persia, and the goat is the king of Greece.",
+          "Paul writes that when the fullness of time had come, God sent his Son, born of a woman, born under the Law."
+        ],
+        "zh": [
+          "但以理在異象中看見一隻有兩角的公綿羊，向西、向北、向南抵觸，沒有獸能在牠面前站立。",
+          "一隻有一個大角的公山羊從西方來，撞倒公綿羊，折斷牠的兩角。",
+          "那大角折斷了，在原處長出四個角；其中一角又長出一個小角。",
+          "那小角除掉了常獻的祭，推倒了聖所。",
+          "加百列解釋：公綿羊是米底亞和波斯的諸王，公山羊是希臘王。",
+          "保羅寫道：到了時候滿足，神就差遣他的兒子，為女子所生，生在律法以下。"
+        ]
+      },
+      "readings": [
+        { "ref": "Dan.11.31", "about": { "en": "Forces will profane the sanctuary and stop the offering", "zh": "有軍隊要褻瀆聖所，除掉常獻的祭" } },
+        { "ref": "John.10.22-23", "about": { "en": "Jesus in the temple at the Festival of Dedication", "zh": "耶穌在修殿節時在聖殿裏" } },
+        { "ref": "Mark.1.14-15", "about": { "en": "Jesus: the time has come, the kingdom of God has come near", "zh": "耶穌說：日期滿了，神的國近了" } }
+      ],
+      "history": {
+        "en": [
+          "About 400 years separate Malachi from the birth of Jesus; Alexander the Great conquered the Persian Empire in 334 to 331 BC.",
+          "After Alexander died in 323 BC, his generals divided his empire; the Ptolemies of Egypt and then the Seleucids of Syria ruled Judea.",
+          "The Seleucid king Antiochus IV defiled the temple in 167 BC; the Maccabees rededicated it in 164 BC, remembered at Hanukkah, the Festival of Dedication.",
+          "The Roman general Pompey took Jerusalem in 63 BC; Rome made Herod the Great king of Judea, and he ruled from 37 to 4 BC."
+        ],
+        "zh": [
+          "從瑪拉基到耶穌降生約有四百年；亞歷山大大帝在公元前334至331年征服波斯帝國。",
+          "亞歷山大在公元前323年去世後，他的將領瓜分帝國；埃及的多利買王朝和後來敘利亞的西流基王朝先後統治猶太地。",
+          "西流基王安提阿古四世在公元前167年污穢聖殿；馬加比家族在公元前164年重新奉獻聖殿，猶太人在修殿節（光明節）記念這事。",
+          "羅馬將軍龐培在公元前63年攻取耶路撒冷；羅馬立大希律作猶太王，他在公元前37至4年在位。"
+        ]
+      },
+      "maps": ["empires", "palestine"],
+      "felt": { "find": "scroll" },
+      "connections": "Dan.8"
+    },
+    {
+      "n": 12,
+      "title": { "en": "The angel's announcements: John and Jesus", "zh": "天使報信：約翰和耶穌" },
+      "passages": ["Luke.1.5-25", "Luke.1.26-38", "Luke.1.57-80"],
+      "key": "Luke.1.30-33",
+      "points": {
+        "en": [
+          "Zechariah, a priest, and his wife Elizabeth are righteous but childless, and both are old.",
+          "While Zechariah burns incense in the sanctuary, an angel says Elizabeth will bear a son, John, who will go ahead in the spirit and power of Elijah.",
+          "Zechariah asks how he can be sure; the angel, Gabriel, says he will be unable to speak until it happens.",
+          "In the sixth month Gabriel is sent to Mary in Nazareth, a virgin engaged to Joseph, of the house of David.",
+          "Gabriel says she will bear a son named Jesus, the Son of the Most High, whose kingdom will never end.",
+          "Mary says, \"Here I am, the Lord's servant. Let it happen to me as you have said.\"",
+          "Elizabeth gives birth; Zechariah writes, \"His name is John,\" and at once he can speak and praises God."
+        ],
+        "zh": [
+          "祭司撒迦利亞和他的妻子伊利莎白都是義人，卻沒有孩子，兩人年紀都老了。",
+          "撒迦利亞在聖所燒香時，天使說伊利莎白要生一個兒子，名叫約翰，他要有以利亞的心志和能力，走在主前面。",
+          "撒迦利亞問他怎能確定；天使加百列說，他要啞巴不能說話，直到這事成就。",
+          "第六個月，加百列被差到拿撒勒，到一個童女馬利亞那裏；她已許配給大衛家族的約瑟。",
+          "加百列說她要生一個兒子，起名叫耶穌，他要稱為至高者的兒子，他的國沒有窮盡。",
+          "馬利亞說：「我是主的使女，願照你的話成就在我身上。」",
+          "伊利莎白生了兒子；撒迦利亞寫上「他的名字是約翰」，口立刻開了，讚美神。"
+        ]
+      },
+      "readings": [
+        { "ref": "Mal.3.23-24", "about": { "en": "God will send Elijah to turn fathers' hearts to their children", "zh": "神要差遣以利亞使父親的心轉向兒女" } },
+        { "ref": "Isa.7.14", "about": { "en": "The sign of a son called Immanuel", "zh": "名叫以馬內利的兒子的兆頭" } },
+        { "ref": "1Sam.2.1-10", "about": { "en": "Hannah's song, which Mary's song in Luke 1 echoes", "zh": "哈拿的禱告，路加福音1章馬利亞之歌與它相似" } },
+        { "ref": "Matt.1.18-25", "about": { "en": "An angel speaks to Joseph in a dream", "zh": "天使在夢中向約瑟說話" } }
+      ],
+      "history": {
+        "en": [
+          "The priests were divided into 24 divisions; Abijah's was the eighth (1 Chronicles 24:10), and each served in the temple in turn for a week.",
+          "Incense was burned every morning and evening on the gold altar in the Holy Place; the priest was chosen by lot, and later Jewish writings say none did it twice.",
+          "Nazareth was a small village in the hills of Galilee, about 100 km (65 miles) north of Jerusalem.",
+          "Herod the Great ruled Judea from 37 to 4 BC."
+        ],
+        "zh": [
+          "祭司分為二十四班；亞比雅班是第八班（歷代志上24章10節），各班輪流在聖殿供職一週。",
+          "每天早晚在聖所的金香壇上燒香；這差事由抽籤決定；後來的猶太文獻說，沒有祭司能做第二次。",
+          "拿撒勒是加利利山區的小村莊，在耶路撒冷以北約一百公里。",
+          "大希律在公元前37至4年統治猶太地。"
+        ]
+      },
+      "maps": ["palestine"],
+      "felt": { "story": "nativity" },
+      "connections": "Luke.1"
+    }
+  ]
+}
