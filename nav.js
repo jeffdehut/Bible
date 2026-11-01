@@ -66,7 +66,7 @@
       ["arcs", "Cross references", "arcs", "arcs.html", "Every cross reference in the Bible as an arc"],
     ]],
     ["Resource Room", "menu-resources", [
-      ["course", "Three year course", "course", "course.html", "The whole Bible taught in twelve quarters"],
+      ["course", "Teaching Resources", "course", "course.html", "The Complete Bible Story: the whole Bible in twelve quarters"],
       ["storyboard", "Felt Stories", "board", "storyboard.html", "A felt board: people, animals and scenes to move as you tell the story"],
       ["maps", "Maps", "maps", "maps/index.html", "Bible maps, and the 1915 historical atlas"],
     ]],
