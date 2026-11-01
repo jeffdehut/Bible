@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, 1 and 2 John, Jude drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, 1, 2 and 3 John, Jude drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1698,6 +1698,8 @@ Settled while drafting 2 and 3 John:
 | ἐν ἀληθείᾳ; περιπατέω ἐν ἀληθείᾳ | 在真理中 (或譯「真誠地」)；在真理中行 | 1 John's vocabulary throughout (住在, 敵基督, 迷惑人的, 在肉身中來的). |
 | χαίρειν λέγω (2 John 10–11) | 問安 | 直譯「說『願你喜樂！』」 noted, as James 1:1. |
 | στόμα πρὸς στόμα | 當面 | 直譯「口對口」 noted. |
+| 3 John: ἀγαπητέ; ἐθνικοί (7); ὑπὲρ τοῦ ὀνόματος (7) | 親愛的；外邦人；為了那名 | 直譯「蒙愛的」 noted; *ethnikoi* and the Name (Christ's or God's) noted. |
+| Names (3 John) | 該猶、丟特腓、低米丟 | Union Version forms; 低米丟 is 和合本's 3 John form, told apart in a note from Acts 19's silversmith 底米丟 (the names table keeps 底米丟). |
 
 ## Style
 

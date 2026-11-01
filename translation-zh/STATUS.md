@@ -1,6 +1,6 @@
 # Translation status
 
-1166 of 1,189 chapters translated: 1166 draft, 0 checked, 0 reviewed, 0 approved.
+1167 of 1,189 chapters translated: 1167 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -67,4 +67,5 @@
 | 2 Peter | 3 | 3 |  |  |  | 1, 2, 3 |
 | 1 John | 5 | 5 |  |  |  | 1, 2, 3, 4, 5 |
 | 2 John | 1 | 1 |  |  |  | 1 |
+| 3 John | 1 | 1 |  |  |  | 1 |
 | Jude | 1 | 1 |  |  |  | 1 |
