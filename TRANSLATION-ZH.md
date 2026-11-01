@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1513,6 +1513,36 @@ Settled while drafting Colossians:
 | The household code (3:18–4:1) | 作妻子的……順服；作丈夫的；作兒女的……聽從；作父親的；作奴僕的……肉身的主人；不要只在人眼前工作，像是要討人喜歡；作主人的 | Ephesians 5:22–6:9's wording and notes where the Greek is parallel; 3:21 *erethizo* 激怒 (Ephesians 6:4 *parorgizo* 惹……發怒). |
 | 4:16 | 從老底嘉來的那封信 | Noted: lost, or perhaps Ephesians. |
 | Names | 歌羅西、老底嘉、希拉坡里、以巴弗、推基古、阿尼西母、亞里達古、馬可、巴拿巴、耶數（稱為猶士都的）、路加、底馬、寧法、亞基布、西古提人 | 阿尼西母 the classic Union form (1989 阿尼西謀); the names table changed, and Colossae added. 耶數 noted as the Greek *Iesous*. |
+
+Settled while drafting 1 Thessalonians:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| παρουσία (2:19; 3:13; 4:15; 5:23) | 來臨 (主耶穌來臨的時候) | As Matthew 24:3 and 1 Corinthians 15:23; *parousia* noted each time, fully at 2:19. |
+| 1:3; 5:8 | 因信而做的工作、因愛而受的勞苦，以及因盼望……而有的忍耐；用信和愛作鎧甲……用得救的盼望作頭盔 | 1 Corinthians 13:13's 信、望、愛 linked in the notes. |
+| κοιμάομαι (4:13–15) | 睡了的人 | As 1 Corinthians 15:6, 18, 20; noted: died. |
+| ἀρχάγγελος; σάλπιγξ θεοῦ (4:16) | 天使長；神的號角 | 號角 as 1 Corinthians 15:52. |
+| ἁρπάζω (4:17); ἀπάντησις | 被提；迎見 | 被提 as 2 Corinthians 12:2, 4; the later term ("rapture", *rapiemur*) noted as going beyond the text; *apantesis* (meeting an arriving dignitary) noted. |
+| ἡμέρα κυρίου (5:2) | 主的日子 | As 1 Corinthians 5:5; the thief 就像賊在夜裏來一樣, as Matthew 24:43; the Old Testament's 耶和華的日子 noted. |
+| 5:16–18 | 要常常喜樂，不住地禱告，凡事感恩 | Three short lines. |
+| 5:19 | 不要熄滅聖靈 | The fire picture and 和合本「不要消滅聖靈的感動」 noted. |
+| πνεῦμα, ψυχή, σῶμα (5:23) | 靈、魂和身體 | ψυχή 魂 as Colossians 3:23's note; the debate over three parts noted. |
+| ἄτακτοι (5:14) | 游手好閒的人 | 或譯「不守規矩的人」 noted; 2 Thessalonians 3:6–11 linked. |
+| Names | 西拉 (*Silvanus*, as 2 Corinthians)、提摩太、帖撒羅尼迦、馬其頓、亞該亞、腓立比、雅典 | |
+
+Settled while drafting 2 Thessalonians:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| ἀποστασία (2:3) | 背道的事 | Plainer than 和合本「離道反教」 (noted); *apostasia* 「叛亂、背叛」, political or against God, noted. |
+| ὁ ἄνθρωπος τῆς ἀνομίας; ὁ υἱὸς τῆς ἀπωλείας; ὁ ἄνομος (2:3, 8) | 那不法的人；那滅亡之子 (as John 17:12)；那不法的人 | 「那罪惡的人」 manuscripts noted. |
+| τὸ κατέχον; ὁ κατέχων (2:6–7) | 那攔阻他的；那攔阻的 | Neuter and masculine, the unknown referent and the other senses of *katecho* noted. |
+| παρουσία (2:1, 8, 9) | 來臨 | As 1 Thessalonians; 2:9 the same word for the lawless one, noted. ἐπιφάνεια (2:8) 顯現. |
+| παράδοσις (2:15; 3:6) | 傳統 | As 1 Corinthians 11:2. |
+| Old Testament echoes | Noted with our Old Testament's wording | 1:8 Isaiah 66:15, Jeremiah 10:25; 1:9 Isaiah 2:10, 19, 21 (Septuagint 權能的榮光, our 威嚴的榮光); 2:4 Daniel 11:36 (一切神明 / 一切稱為神的), Ezekiel 28:2; 2:8 用口中的氣殺死他 as our Isaiah 11:4 (用嘴唇的氣殺死惡人). |
+| 2:2; 3:17 | 好像是我們寄來的書信；我保羅親筆問候你們 | 3:17 as Colossians 4:18; the notes link the signature to 2:2. |
+| 3:10 | 「若有人不肯工作，就不可吃飯。」 | |
+| ἀτάκτως; περιεργάζομαι (3:6–11) | 游手好閒；只管閒事 | As 1 Thessalonians 5:14; 3:11 甚麼事都不做，只管閒事 keeps a wordplay (*ergazomai*/*periergazomai* noted). |
 
 ## Style
 

@@ -1,6 +1,6 @@
 # Translation status
 
-1111 of 1,189 chapters translated: 1111 draft, 0 checked, 0 reviewed, 0 approved.
+1119 of 1,189 chapters translated: 1119 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -55,3 +55,5 @@
 | Ephesians | 6 | 6 |  |  |  | 1, 2, 3, 4, 5, 6 |
 | Philippians | 4 | 4 |  |  |  | 1, 2, 3, 4 |
 | Colossians | 4 | 4 |  |  |  | 1, 2, 3, 4 |
+| 1 Thessalonians | 5 | 5 |  |  |  | 1, 2, 3, 4, 5 |
+| 2 Thessalonians | 3 | 3 |  |  |  | 1, 2, 3 |
