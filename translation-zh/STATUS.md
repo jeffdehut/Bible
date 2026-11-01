@@ -1,6 +1,6 @@
 # Translation status
 
-955 of 1,189 chapters translated: 955 draft, 0 checked, 0 reviewed, 0 approved.
+965 of 1,189 chapters translated: 965 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -43,5 +43,5 @@
 | Haggai | 2 | 2 |  |  |  | 1, 2 |
 | Zechariah | 14 | 14 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 |
 | Malachi | 3 | 3 |  |  |  | 1, 2, 3 |
-| Matthew | 28 | 10 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 |
+| Matthew | 28 | 20 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 |
 | Mark | 16 | 16 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 |

@@ -1249,6 +1249,15 @@ Settled while drafting Matthew:
 | ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς; ὁ οὐράνιος | 你們在天上的父；天父 | |
 | ἀσσάριον; κοδράντης | 銅錢；小銅錢 | ¹⁄₁₆ and ¹⁄₆₄ of a denarius, noted. |
 | οὐκ ἔστιν μου ἄξιος (10:37–38) | 就不配屬於我 | Not 和合本's added 「作我的門徒」. |
+| ᾅδης | 陰間 | As *she'ol*; *Hades* noted (11:23; 16:18 πύλαι ᾅδου 陰間的權勢, 直譯「陰間的門」). |
+| οὐαί σοι | ……你有禍了 | *ouai* noted as the prophets' *hoy* (11:21; 18:7). |
+| ἐκκλησία (16:18; 18:17) | 教會 | *ekklesia* 「會眾、聚集的人」 noted. |
+| Πέτρος / πέτρα (16:18) | 彼得／磐石 | The wordplay, lost in Chinese, explained in a note. |
+| δέω / λύω (16:19; 18:18) | 捆綁／釋放 | Noted: the teachers' terms for forbidding and permitting. |
+| Old Testament quotations (11–20) | As Matthew 1–10 | 11:10 as Mark 1:2 plus 「在你前面」; 12:7 as 9:13 (*eleos*/*chesed*); 13:14–15 shares Isaiah 6:9's 聽了又聽……看了又看; 15:8–9 = Mark 7:6–7; 19:18–19 the commandments as Exodus 20 and 5:21, 27 (不可謀殺，不可通姦，不可偷竊). |
+| ζιζάνια; σάτον | 稗子；細亞 | Darnel and the seah (約 7 公升) noted. |
+| τάλαντον; στατήρ (17:27) | 他連得；一塊錢 | 他連得 ≈ 6,000 denarii (Matthew; the Hebrew talent by weight is about 34 kg); stater in a note. |
+| Hours (20:3–9) | 上午九時、中午十二時、下午三時、下午五時 | As Mark; the hour in a note. |
 
 ## Style
 
