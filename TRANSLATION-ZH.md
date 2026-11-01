@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1611,6 +1611,20 @@ Settled while drafting Hebrews:
 | κατάπαυσις; σαββατισμός (4:9) | 安息；安息日的安息 | Psalm 95's 安息. |
 | Old Testament quotations | Hebrews' Greek (mostly the Septuagint) in the text; the wording our Old Testament notes already give is kept | Our Old Testament's Hebrew-based line in the note where it differs: 1:6 神的使者都要拜他; 1:7 他以他的使者為風; 1:10–12 主啊……捲起來; 2:6–8 比天使微小一點 (世人, 直譯「人子」 noted); 2:13 我要倚靠他; 3:7–11 像在惹我發怒的時候，像在曠野試探的日子; 8:8–12 訂立新約……因為他們不恆守我的約，我也就不理他們……放在他們的思想裏; 10:5 你卻為我預備了身體; 10:30 as Romans 12:19; 10:38 我的義人必因信而活；他若退縮，我心裏就不喜悅他; 11:21 扶着杖頭; 12:5–6 不要灰心……鞭打; 12:12–13 as our Isaiah 35:3 and Proverbs 4:26 notes; 12:26 再一次我不單要震動地，還要震動天; 13:5 我決不撇下你，也決不丟棄你; 13:6 主是幫助我的. |
 | Names (11) | 亞伯、該隱、以諾、挪亞、撒拉、以掃、喇合、基甸、巴拉、參孫、耶弗他、撒母耳；意大利 (13:24, as Acts) | Our Old Testament forms. 4:8 *Iesous* 約書亞, noted. |
+
+Settled while drafting James:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| χαίρειν (1:1) | 問候……：願你們安好！ | As Acts 15:23; *chairein* and its link to 1:2's 喜樂 noted. |
+| πειρασμός; πειράζω (1:2–15) | 試煉；引誘 | 1:12 試煉, 1:13–14 引誘, the one word family noted at 1:2. δίψυχος 三心兩意 (1:8; 4:8). |
+| πίστις; ἔργα; δικαιόω (2:14–26) | 信心；行為；稱義 (因行為稱義) | Romans' words kept so the reader sees the same terms (Romans 4:2 因行為稱義; 3:28 人稱義是因着信). 2:24 人稱義是因着行為，不是單因着信. The relation to Paul noted briefly at 2:21. 2:20 *arge* 無用的 (*a-ergos* noted). |
+| Old Testament quotations | Paul's and the Old Testament notes' wording | 2:8 = Romans 13:9 (要愛你的鄰舍，如同愛自己); 2:11 不可通姦……不可謀殺 (Exodus 20; 傳統「殺人」 noted); 2:23 = Romans 4:3 (亞伯拉罕信了神，這就算為他的義); 4:6 神抵擋驕傲的人，賜恩給謙卑的人 (our Proverbs 3:34 note; 1 Peter 5:5 the same); 5:20 遮掩許多的罪 as 1 Peter 4:8. 4:5 (no known source) noted with its readings. |
+| νόμος βασιλικός (2:8); νόμος ἐλευθερίας (1:25; 2:12) | 至尊的律法；使人自由的律法 | 直譯「君王的律法」 noted. |
+| δαιμόνια (2:19); δαιμονιώδης (3:15); ψυχικός (3:15) | 鬼魔；屬鬼魔的；屬血氣的 | As 1 Corinthians 10:20 and 2:14. γέεννα (3:6) 地獄 as Mark. |
+| Κύριος Σαβαώθ (5:4); παρουσία (5:7–8) | 萬軍之主；主來臨 | *YHWH tseva'ot* noted; *parousia* as 1 Thessalonians. |
+| πρεσβύτεροι τῆς ἐκκλησίας (5:14) | 教會的長老 | As Acts and Titus; anointing 用油抹他. 5:15 *sozo* 救 (或譯「醫好」 noted). |
+| Names | 雅各、亞伯拉罕、以撒、喇合、約伯、以利亞 | *Iakobos* = Jacob noted at 1:1. |
 
 ## Style
 
