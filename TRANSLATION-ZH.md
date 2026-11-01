@@ -908,6 +908,17 @@ Settled while drafting Isaiah (for all the prophets):
 | יֹאמַר; אָמַר (closing) | 你們的神說 (40:1)；萬軍之耶和華說 (45:13)；耶和華說： (48:22) | Kept apart from *ne'um* 這是耶和華說的. חַי־אָנִי (49:18) 我指着我的永生起誓, as Numbers 14:21. |
 | NT quotations (40:3–8, 13; 42:1–4; 45:23; 49:6, 8; 52:5, 7, 11, 15) | The Hebrew in the text | The Greek in notes: Luke 3:6 「神的救恩」; 1 Peter 1:25 「主的話」; Romans 11:34 「主的心」; Matthew 12:20–21 「使公正得勝」「寄望於他的名」; Romans 14:11 「向神承認」; Acts 13:47; 2 Corinthians 6:2; Romans 2:24 「因你們」; Romans 10:15 (plural, no 山嶺). |
 | סִינִים (49:12) | 希尼地 | 和合本「秦國」 (its margin 希尼國) and 1QIsa-a's Syene noted; see REVIEW.md. |
+| The fourth servant song (52:13–53:12) | Plain lines for reading aloud: 他被藐視，被人離棄……因他受的鞭傷，我們得了醫治 | Difficult lines (53:8, 10, 11) in the Masoretic text, the other readings noted; 53:11 1QIsa-a 「看見光」 noted. |
+| אָשָׁם (53:10); וְאֶת־פֹּשְׁעִים נִמְנָה (53:12) | 贖愆祭；被列在罪犯之中 | 賠償祭 noted; 53:12 as Mark 15:28's note. |
+| עַבְדֵי יְהוָה (54:17 to the end) | 耶和華眾僕人 | Plural servants, the faithful in Israel, noted at 54:17. |
+| NT quotations (53; 54:1; 55:3; 56:7; 59:7–8, 20–21; 61:1–2; 64:3; 65:1–2; 66:1–2, 24) | The Hebrew in the text | The Greek in notes: John 12:38, Romans 10:16 「主啊」; Matthew 8:17 「軟弱」; Acts 8:32–33; 1 Peter 2:22 「罪」; Luke 22:37 「不法的人」; Luke 4:18–19 「貧窮的人」「瞎眼的得看見」, 58:6 added, 「包紮心靈破碎的人」 only in some manuscripts; 1 Corinthians 2:9 「愛他的人」; Romans 10:20–21 (clauses swapped); Romans 11:26–27 「從錫安出來」; Acts 7:49–50 (question). 56:7 keeps Mark 11:17's 我的殿要稱為萬民禱告的殿; 66:24 keeps Mark 9:48's 蟲不會死，火也不會熄滅. |
+| עֲנָוִים (61:1) | 謙卑人 | As 11:4; 29:19. |
+| רוּחַ קָדְשׁוֹ (63:10–11) | 他聖潔的靈 | As Psalm 51:13; 傳統「他的聖靈」 and 和合本「主的聖靈」 noted. |
+| Numbering of 63:19b–64:11 | 63:19下 = 和合本 64:1；64:1–11 = 和合本 64:2–12 | Noted at 63:19 and 64:1. |
+| נָזֹלּוּ (63:19; 64:2) | 崩流 | As Judges 5:5. |
+| חֶפְצִי־בָהּ; בְּעוּלָה (62:4) | 「我喜悅她」；「有夫之婦」 | Translated, as the other names in the verse; 協西巴, 比烏拉 noted. |
+| גַּד; מְנִי (65:11) | 時運之神；命運之神 | *Gad*, *Meni* noted; the pun with *u-maniti* 我要命定 (65:12). |
+| שָׁמַיִם חֲדָשִׁים וָאָרֶץ חֲדָשָׁה (65:17; 66:22) | 新天新地 | 2 Peter 3:13 and Revelation 21:1 noted. |
 
 ## Style
 
