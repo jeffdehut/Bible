@@ -1,0 +1,965 @@
+{
+  "q": 12,
+  "lessons": [
+    {
+      "n": 1,
+      "title": {
+        "en": "Jesus ascends",
+        "zh": "耶穌升天"
+      },
+      "passages": [
+        "Acts.1"
+      ],
+      "key": "Acts.1.8-11",
+      "points": {
+        "en": [
+          "For forty days after his suffering, Jesus appears to the apostles and speaks about the kingdom of God.",
+          "He tells them to wait in Jerusalem, for they will be baptized with the Holy Spirit.",
+          "He says they will receive power and be his witnesses in Jerusalem, Judea, Samaria and to the ends of the earth.",
+          "He is lifted up as they watch, and a cloud takes him out of their sight.",
+          "Two men in white say this Jesus will come back in the same way.",
+          "The apostles, with the women, Mary the mother of Jesus and his brothers, devote themselves to prayer.",
+          "They cast lots, and Matthias takes the place of Judas among the apostles."
+        ],
+        "zh": [
+          "耶穌受害以後四十天之久，向使徒顯現，講論神國的事。",
+          "他吩咐他們留在耶路撒冷等候，因為他們要受聖靈的洗。",
+          "他說他們要得着能力，在耶路撒冷、猶太、撒馬利亞，直到地極作他的見證人。",
+          "他們正看的時候，他被接上升，有一朵雲彩把他接去。",
+          "兩個穿白衣的人說，這位耶穌怎樣升天，還要怎樣回來。",
+          "使徒和婦女們、耶穌的母親馬利亞以及他的弟弟們，一同同心禱告。",
+          "他們抽籤，馬提亞就補上猶大的位置，與使徒同列。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Luke.24.50-53",
+          "about": {
+            "en": "Luke's first account of the ascension",
+            "zh": "路加在福音書中記載的升天"
+          }
+        },
+        {
+          "ref": "Ps.110.1",
+          "about": {
+            "en": "Sit at my right hand",
+            "zh": "你坐在我的右邊"
+          }
+        },
+        {
+          "ref": "Dan.7.13-14",
+          "about": {
+            "en": "One like a son of man comes with the clouds",
+            "zh": "有一位像人子的，駕着天雲而來"
+          }
+        },
+        {
+          "ref": "1Thess.4.16-17",
+          "about": {
+            "en": "The Lord will come down from heaven",
+            "zh": "主要從天降臨"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Acts is the second book Luke wrote to Theophilus; the first is the Gospel of Luke (Luke 1:1-4).",
+          "A Sabbath day's walk, the distance from the Mount of Olives to the city, was about 2,000 cubits, roughly 1 km.",
+          "The Chapel of the Ascension on the Mount of Olives marks the traditional place; a church stood there by the late 4th century."
+        ],
+        "zh": [
+          "使徒行傳是路加寫給提阿非羅的第二本書；第一本是路加福音（路加福音1章1至4節）。",
+          "「安息日可以走的路程」約二千肘，大約1公里，就是橄欖山到城裏的距離。",
+          "橄欖山上的升天堂是傳統的升天地點；第四世紀末那裏已建有教堂。"
+        ]
+      },
+      "maps": [
+        "jerusalem"
+      ],
+      "felt": {
+        "story": "church"
+      },
+      "connections": "Acts.1"
+    },
+    {
+      "n": 2,
+      "title": {
+        "en": "The day of Pentecost",
+        "zh": "五旬節"
+      },
+      "passages": [
+        "Acts.2"
+      ],
+      "key": "Acts.2.1-4",
+      "points": {
+        "en": [
+          "On the day of Pentecost a sound like a violent wind fills the house where the believers are together.",
+          "Tongues like fire rest on each of them; they are filled with the Holy Spirit and speak in other languages.",
+          "Jews from every nation hear them speak about God's mighty works in their own languages.",
+          "Peter says this is what the prophet Joel foretold: God pours out his Spirit on all people.",
+          "He proclaims that God raised the crucified Jesus and made him Lord and Messiah.",
+          "Peter tells them to repent and be baptized; about three thousand are added that day.",
+          "The believers devote themselves to teaching, fellowship, breaking bread and prayer, and share their goods."
+        ],
+        "zh": [
+          "五旬節那天，有響聲像一陣狂風，充滿了信徒聚集的屋子。",
+          "有舌頭如火焰落在他們各人頭上；他們都被聖靈充滿，說起別國的話來。",
+          "從各國來的猶太人，各自聽見他們用自己的鄉談講說神的大作為。",
+          "彼得說這正是先知約珥所說的：神要把他的靈澆灌凡有血氣的。",
+          "他宣講神已經使被釘十字架的耶穌復活，立他為主，為基督。",
+          "彼得叫他們悔改受洗；那一天約有三千人加入。",
+          "信徒都恆心遵守使徒的教導，彼此交接，擘餅，禱告，凡物公用。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Joel.3.1-5",
+          "about": {
+            "en": "I will pour out my Spirit on all people",
+            "zh": "我要將我的靈澆灌凡有血氣的"
+          }
+        },
+        {
+          "ref": "Lev.23.15-21",
+          "about": {
+            "en": "The Festival of Weeks, fifty days after the sheaf offering",
+            "zh": "初熟禾捆之後五十天的七七節"
+          }
+        },
+        {
+          "ref": "Gen.11.1-9",
+          "about": {
+            "en": "The languages are confused at Babel",
+            "zh": "在巴別變亂人的語言"
+          }
+        },
+        {
+          "ref": "Acts.1.5",
+          "about": {
+            "en": "Jesus' promise of baptism with the Holy Spirit",
+            "zh": "耶穌應許要用聖靈施洗"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Pentecost, Greek for fiftieth, is the Jewish Festival of Weeks (Shavuot), fifty days after Passover, at the wheat harvest.",
+          "It was a pilgrim festival, so Jews from across the Roman and Parthian lands came to Jerusalem.",
+          "Peter speaks at nine in the morning, the third hour of the day by Jewish reckoning."
+        ],
+        "zh": [
+          "「五旬節」希臘文意思是「第五十」，就是猶太人的七七節，在逾越節後五十天，正值收割小麥的時候。",
+          "這是朝聖的節期，所以羅馬和帕提亞各地的猶太人都上耶路撒冷來。",
+          "彼得講道的時候是早上九時，按猶太人的算法是白天的第三個時辰。"
+        ]
+      },
+      "maps": [
+        "jerusalem",
+        "roman-empire"
+      ],
+      "felt": {
+        "story": "church"
+      },
+      "connections": "Acts.2"
+    },
+    {
+      "n": 3,
+      "title": {
+        "en": "The death of Stephen",
+        "zh": "司提反殉道"
+      },
+      "passages": [
+        "Acts.6-7",
+        "Acts.8.1-4"
+      ],
+      "key": "Acts.7.57-60",
+      "points": {
+        "en": [
+          "Seven men full of the Spirit are chosen to oversee the daily food for widows; Stephen is one of them.",
+          "Stephen does great wonders and signs, and his opponents cannot stand against his wisdom.",
+          "False witnesses accuse him before the council of speaking against the temple and the Law.",
+          "Stephen retells Israel's history from Abraham to Solomon's temple and says they resist the Holy Spirit.",
+          "He sees the heavens opened and Jesus standing at the right hand of God.",
+          "They stone him; the witnesses lay their coats at the feet of a young man named Saul.",
+          "Stephen prays, Lord, do not hold this sin against them; persecution scatters the church."
+        ],
+        "zh": [
+          "教會選出七個被聖靈充滿的人，管理每天分給寡婦的食物；司提反是其中之一。",
+          "司提反行了大奇事和神蹟，反對他的人敵不住他的智慧。",
+          "假見證人在議會前控告他說話攻擊聖殿和律法。",
+          "司提反從亞伯拉罕講到所羅門建殿的歷史，指責他們常常抗拒聖靈。",
+          "他看見天開了，耶穌站在神的右邊。",
+          "他們用石頭打他；作證的人把衣服放在一個名叫掃羅的青年腳前。",
+          "司提反禱告說：「主啊，不要把這罪歸到他們身上！」教會因受逼迫就分散了。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Luke.23.34",
+          "about": {
+            "en": "Jesus prays, Father, forgive them",
+            "zh": "耶穌禱告：父啊，赦免他們"
+          }
+        },
+        {
+          "ref": "Luke.23.46",
+          "about": {
+            "en": "Into your hands I commit my spirit",
+            "zh": "我將我的靈魂交在你手裏"
+          }
+        },
+        {
+          "ref": "Isa.66.1-2",
+          "about": {
+            "en": "Heaven is my throne, the earth my footstool",
+            "zh": "天是我的座位，地是我的腳凳"
+          }
+        },
+        {
+          "ref": "Acts.22.19-20",
+          "about": {
+            "en": "Paul remembers guarding the coats at Stephen's death",
+            "zh": "保羅回想司提反殉道時他看守衣服"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "The Greek-speaking disciples were Jews who had grown up outside the land; many had come back to live in Jerusalem.",
+          "A Greek inscription found in Jerusalem in 1913 records a synagogue built by a priest named Theodotus for visitors from abroad.",
+          "The Law prescribed stoning for blasphemy, with the witnesses casting the first stones (Leviticus 24:16; Deuteronomy 17:7).",
+          "Stephen is traditionally called the first Christian martyr."
+        ],
+        "zh": [
+          "說希臘話的門徒是在以色列以外長大的猶太人，其中許多人回到耶路撒冷居住。",
+          "1913年在耶路撒冷發現一塊希臘文碑文，記載一個名叫提奧多都的祭司為外地來客建造的會堂。",
+          "律法規定褻瀆神的要用石頭打死，由證人先動手（利未記24章16節；申命記17章7節）。",
+          "傳統上稱司提反為第一位基督徒殉道者。"
+        ]
+      },
+      "maps": [
+        "jerusalem"
+      ],
+      "felt": {
+        "story": "church"
+      },
+      "connections": "Acts.7"
+    },
+    {
+      "n": 4,
+      "title": {
+        "en": "Saul meets Jesus on the road",
+        "zh": "掃羅在路上遇見耶穌"
+      },
+      "passages": [
+        "Acts.9.1-31"
+      ],
+      "key": "Acts.9.3-6",
+      "points": {
+        "en": [
+          "Saul gets letters from the high priest to arrest followers of the Way in Damascus.",
+          "Near Damascus a light from heaven flashes around him, and he falls to the ground.",
+          "A voice says, Saul, Saul, why are you persecuting me? I am Jesus.",
+          "Saul is blind for three days and neither eats nor drinks.",
+          "The Lord sends Ananias, who lays hands on him; something like scales falls from his eyes and he is baptized.",
+          "Saul proclaims in the synagogues that Jesus is the Son of God and escapes a plot in a basket.",
+          "In Jerusalem Barnabas brings him to the apostles, and the church has peace and grows."
+        ],
+        "zh": [
+          "掃羅向大祭司要了公文，要到大馬色捉拿信奉這道的人。",
+          "快到大馬色的時候，忽然有光從天上照着他，他就仆倒在地。",
+          "有聲音說：「掃羅，掃羅，你為甚麼迫害我？我就是耶穌。」",
+          "掃羅三天看不見，不吃也不喝。",
+          "主差遣亞拿尼亞去按手在他身上；有鱗片一樣的東西從他眼中掉下來，他就受了洗。",
+          "掃羅在會堂裏宣講耶穌是神的兒子，後來有人用筐子把他從城牆縋下，逃過了謀殺。",
+          "在耶路撒冷，巴拿巴帶他去見使徒；教會得平安，人數增多。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Acts.22.6-16",
+          "about": {
+            "en": "Paul tells of his conversion in Jerusalem",
+            "zh": "保羅在耶路撒冷述說他的歸主"
+          }
+        },
+        {
+          "ref": "Acts.26.12-18",
+          "about": {
+            "en": "Paul tells it again before King Agrippa",
+            "zh": "保羅在亞基帕王面前再述說"
+          }
+        },
+        {
+          "ref": "Gal.1.13-17",
+          "about": {
+            "en": "Paul writes of how God called him",
+            "zh": "保羅寫到神怎樣呼召他"
+          }
+        },
+        {
+          "ref": "1Cor.15.8-10",
+          "about": {
+            "en": "Last of all he appeared to me also",
+            "zh": "末了也顯給我看"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Damascus, capital of Syria today, is one of the oldest continuously inhabited cities in the world.",
+          "The street called Straight was the Roman main street running east to west across Damascus; its line is still a street in the old city.",
+          "Saul came from Tarsus in Cilicia, in south-east Turkey today. His conversion is usually dated about AD 33 to 36."
+        ],
+        "zh": [
+          "大馬色就是今天敘利亞的首都大馬士革，是世界上有人居住最久的城市之一。",
+          "「直街」是羅馬時代橫貫大馬色東西的大街；舊城裏至今仍有一條街沿着這條路線。",
+          "掃羅是基利家的大數人，大數在今天土耳其的東南部。他歸主的時間一般定在主後33年至36年左右。"
+        ]
+      },
+      "maps": [
+        "palestine",
+        "roman-empire"
+      ],
+      "felt": {
+        "find": "paul"
+      },
+      "connections": "Acts.9"
+    },
+    {
+      "n": 5,
+      "title": {
+        "en": "Peter's vision: the sheet of animals",
+        "zh": "彼得的異象：大布裏的動物"
+      },
+      "passages": [
+        "Acts.10"
+      ],
+      "key": "Acts.10.13-15",
+      "points": {
+        "en": [
+          "An angel tells Cornelius, a God-fearing centurion at Caesarea, to send for Peter in Joppa.",
+          "Praying on a roof at noon, Peter sees a sheet let down from heaven full of animals.",
+          "A voice says, Kill and eat; Peter says he has never eaten anything unclean.",
+          "The voice says, What God has made clean, you must not call common. This happens three times.",
+          "Cornelius's men arrive, and the Spirit tells Peter to go with them.",
+          "At Cornelius's house Peter says God shows no partiality and preaches Jesus.",
+          "The Holy Spirit falls on the Gentiles who hear, and Peter has them baptized."
+        ],
+        "zh": [
+          "一位天使吩咐該撒利亞一個敬畏神的百夫長哥尼流，派人到約帕去請彼得。",
+          "彼得中午在房頂上禱告，看見天上降下一塊大布，裏面有各樣的動物。",
+          "有聲音說：「宰了吃！」彼得說他從來沒有吃過不潔淨的東西。",
+          "那聲音說：「神所潔淨的，你不可當作俗物。」這樣一連三次。",
+          "哥尼流派來的人到了，聖靈吩咐彼得跟他們去。",
+          "彼得在哥尼流家裏說神不偏待人，並傳講耶穌。",
+          "聖靈降在聽道的外邦人身上，彼得就吩咐他們受洗。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Lev.11.1-8",
+          "about": {
+            "en": "Clean and unclean animals in the Law",
+            "zh": "律法中潔淨和不潔淨的動物"
+          }
+        },
+        {
+          "ref": "Acts.11.1-18",
+          "about": {
+            "en": "Peter explains his vision to the church in Jerusalem",
+            "zh": "彼得向耶路撒冷的教會解釋異象"
+          }
+        },
+        {
+          "ref": "Mark.7.18-19",
+          "about": {
+            "en": "Jesus declares all foods clean",
+            "zh": "耶穌說各樣的食物都是潔淨的"
+          }
+        },
+        {
+          "ref": "Acts.16.9-10",
+          "about": {
+            "en": "Paul's vision of the man of Macedonia",
+            "zh": "保羅看見馬其頓人的異象"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Joppa is Jaffa, now part of Tel Aviv-Yafo; Caesarea lay about 50 km north along the coast.",
+          "Herod the Great built Caesarea with a large harbor about 22 to 10 BC; it became the seat of the Roman governors of Judea.",
+          "A centurion commanded about eighty to a hundred soldiers. Houses had flat roofs, used for work, rest and prayer."
+        ],
+        "zh": [
+          "約帕就是雅法，今天屬於特拉維夫－雅法市；該撒利亞在沿海往北約50公里。",
+          "大希律約在主前22年至10年建造該撒利亞和它的大港口；後來成了羅馬猶太總督的駐地。",
+          "百夫長統領約八十到一百名士兵。當時的房屋是平頂，人可以在上面工作、休息和禱告。"
+        ]
+      },
+      "maps": [
+        "palestine"
+      ],
+      "felt": {
+        "find": "peter"
+      },
+      "connections": "Acts.10"
+    },
+    {
+      "n": 6,
+      "title": {
+        "en": "Paul's journeys",
+        "zh": "保羅的旅程"
+      },
+      "passages": [
+        "Acts.13-14",
+        "Acts.16"
+      ],
+      "key": "Acts.13.2-3",
+      "points": {
+        "en": [
+          "The Holy Spirit tells the church at Antioch to set apart Barnabas and Saul, and they are sent off.",
+          "They preach in Cyprus and in the synagogue at Antioch in Pisidia; many Gentiles believe.",
+          "At Lystra Paul heals a man lame from birth, and the crowd calls them Zeus and Hermes.",
+          "Paul is stoned and left for dead, but he gets up and goes on to Derbe.",
+          "They appoint elders in each church and report to Antioch how God opened a door of faith to the Gentiles.",
+          "On a later journey Paul sees in a vision a man of Macedonia calling, Come and help us!",
+          "At Philippi Lydia believes; Paul and Silas are jailed, an earthquake opens the doors, and the jailer believes."
+        ],
+        "zh": [
+          "聖靈吩咐安提阿的教會把巴拿巴和掃羅分別出來，教會就差他們出去。",
+          "他們在居比路和彼西底的安提阿的會堂傳道；許多外邦人信了。",
+          "在路司得，保羅治好一個生來瘸腿的人，眾人稱他們為丟斯和希耳米。",
+          "保羅被石頭打，人以為他死了；他卻起來，往特庇去了。",
+          "他們在各教會選立長老，回到安提阿報告神怎樣為外邦人開了信道的門。",
+          "後來的旅程中，保羅在異象中看見一個馬其頓人求他說：「請過來幫助我們！」",
+          "在腓立比，呂底亞信了主；保羅和西拉被下在監裏，地震使監門大開，獄卒也信了。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Isa.49.6",
+          "about": {
+            "en": "A light for the nations, to the end of the earth",
+            "zh": "作外邦人的光，直到地極"
+          }
+        },
+        {
+          "ref": "Acts.11.25-26",
+          "about": {
+            "en": "Disciples are first called Christians at Antioch",
+            "zh": "門徒在安提阿首先被稱為基督徒"
+          }
+        },
+        {
+          "ref": "Acts.15.1-11",
+          "about": {
+            "en": "The Jerusalem council on the Gentiles",
+            "zh": "耶路撒冷會議討論外邦信徒的事"
+          }
+        },
+        {
+          "ref": "Phil.1.3-5",
+          "about": {
+            "en": "Paul thanks God for the church at Philippi",
+            "zh": "保羅為腓立比教會感謝神"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Antioch in Syria, the third city of the Roman Empire, is Antakya in southern Turkey today.",
+          "The first journey is usually dated about AD 46 to 48. Cyprus was Barnabas's home (Acts 4:36).",
+          "Philippi, in northern Greece, became a Roman colony after the battle fought there in 42 BC; its ruins are a World Heritage Site."
+        ],
+        "zh": [
+          "敘利亞的安提阿是羅馬帝國第三大城，就是今天土耳其南部的安塔基亞。",
+          "第一次旅程一般定在主後46年至48年左右。居比路是巴拿巴的家鄉（使徒行傳4章36節）。",
+          "腓立比在希臘北部，主前42年那裏的戰役之後成為羅馬殖民城；遺址已列為世界遺產。"
+        ]
+      },
+      "maps": [
+        "roman-empire"
+      ],
+      "felt": {
+        "story": "church"
+      },
+      "connections": "Acts.13"
+    },
+    {
+      "n": 7,
+      "title": {
+        "en": "The fruit of the Spirit",
+        "zh": "聖靈的果子"
+      },
+      "passages": [
+        "Gal.5.16-26"
+      ],
+      "key": "Gal.5.22-25",
+      "points": {
+        "en": [
+          "Paul says, Live by the Spirit, and you will not carry out the desire of the flesh.",
+          "The flesh and the Spirit are opposed to each other.",
+          "He lists the works of the flesh, such as idolatry, hostility, jealousy, rage and drunkenness.",
+          "Those who practice such things will not inherit the kingdom of God.",
+          "The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control.",
+          "Those who belong to Christ have crucified the flesh; they are to keep in step with the Spirit."
+        ],
+        "zh": [
+          "保羅說：要順着聖靈而行，就不會去滿足肉體的私慾。",
+          "肉體和聖靈彼此相爭。",
+          "他列出肉體的作為，例如拜偶像、仇恨、嫉妒、怒氣和醉酒。",
+          "做這些事的人必不能承受神的國。",
+          "聖靈所結的果子就是仁愛、喜樂、平安、忍耐、恩慈、良善、信實、溫柔、節制。",
+          "屬基督的人已經把肉體釘在十字架上了，就要靠聖靈行事。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Gal.5.13-14",
+          "about": {
+            "en": "The whole Law is fulfilled in loving your neighbor",
+            "zh": "全律法都包在愛人如己這一句話之內"
+          }
+        },
+        {
+          "ref": "Rom.8.5-9",
+          "about": {
+            "en": "The mind set on the flesh and on the Spirit",
+            "zh": "體貼肉體和體貼聖靈"
+          }
+        },
+        {
+          "ref": "John.15.4-5",
+          "about": {
+            "en": "I am the vine; you are the branches",
+            "zh": "我是葡萄樹，你們是枝子"
+          }
+        },
+        {
+          "ref": "Ps.1.1-3",
+          "about": {
+            "en": "Like a tree planted by streams of water",
+            "zh": "像一棵樹栽在溪水旁"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Galatia was a Roman province in central Anatolia, around Ankara in Turkey today.",
+          "Galatians is one of Paul's earliest letters; scholars date it between about AD 48 and 55.",
+          "Paul wrote it about whether Gentile believers had to be circumcised and keep the Law of Moses."
+        ],
+        "zh": [
+          "加拉太是羅馬的一個行省，在小亞細亞中部，就是今天土耳其的安卡拉一帶。",
+          "加拉太書是保羅最早的書信之一；學者把它定在約主後48年至55年之間。",
+          "保羅寫這封信，是討論外邦信徒是否必須受割禮、遵守摩西的律法。"
+        ]
+      },
+      "maps": [
+        "roman-empire"
+      ],
+      "felt": {
+        "find": "fruit-tree"
+      },
+      "connections": "Gal.5"
+    },
+    {
+      "n": 8,
+      "title": {
+        "en": "The armor of God",
+        "zh": "神所賜的全副軍裝"
+      },
+      "passages": [
+        "Eph.6.10-20"
+      ],
+      "key": "Eph.6.14-17",
+      "points": {
+        "en": [
+          "Paul says, Be strong in the Lord and put on the full armor of God.",
+          "The struggle is not against flesh and blood but against spiritual forces of evil.",
+          "Truth is the belt, and righteousness the breastplate.",
+          "The readiness of the good news of peace is like shoes on the feet.",
+          "Faith is the shield that puts out the flaming arrows of the evil one.",
+          "Salvation is the helmet, and the word of God the sword of the Spirit.",
+          "Paul asks them to pray at all times, also for him, an ambassador in chains."
+        ],
+        "zh": [
+          "保羅說：要靠着主剛強，穿上神所賜的全副軍裝。",
+          "我們不是與血肉之軀搏鬥，而是與邪惡的靈界勢力搏鬥。",
+          "用真理作帶子束腰，用義作鎧甲。",
+          "把傳平安福音的準備當作鞋子穿在腳上。",
+          "拿起信心作盾牌，撲滅那惡者一切燒着的箭。",
+          "戴上救恩作頭盔，拿起聖靈的寶劍，就是神的話。",
+          "保羅請他們隨時禱告，也為他這戴着鎖鏈的使者禱告。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Isa.59.17",
+          "about": {
+            "en": "God puts on righteousness as a breastplate",
+            "zh": "神以公義為鎧甲"
+          }
+        },
+        {
+          "ref": "Isa.11.5",
+          "about": {
+            "en": "Righteousness the belt around his waist",
+            "zh": "公義必當作他腰間的帶子"
+          }
+        },
+        {
+          "ref": "1Thess.5.8",
+          "about": {
+            "en": "The breastplate of faith and love, the helmet of hope",
+            "zh": "以信和愛當作護心鏡，以得救的盼望當作頭盔"
+          }
+        },
+        {
+          "ref": "Rom.13.12",
+          "about": {
+            "en": "Put on the armor of light",
+            "zh": "穿上光明的兵器"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "A Roman legionary wore a belt, a metal breastplate, hobnailed sandals and a helmet, and carried a short sword.",
+          "The large Roman shield, the scutum, was made of wood covered with leather, which could be soaked to stop burning arrows.",
+          "Paul wrote as a prisoner (Ephesians 6:20), traditionally in Rome about AD 60 to 62. Ephesus lies near Selçuk in Turkey."
+        ],
+        "zh": [
+          "羅馬軍團的士兵束腰帶，穿金屬胸甲和釘鞋，戴頭盔，佩帶短劍。",
+          "羅馬人的大盾牌是木製的，外面包着皮革；皮革浸濕以後可以擋住火箭。",
+          "保羅寫這封信時是囚犯（以弗所書6章20節），傳統認為是約主後60年至62年在羅馬。以弗所在今天土耳其的塞爾丘克附近。"
+        ]
+      },
+      "maps": [
+        "roman-empire"
+      ],
+      "felt": {
+        "find": "soldier"
+      },
+      "connections": "Eph.6"
+    },
+    {
+      "n": 9,
+      "title": {
+        "en": "Running the race",
+        "zh": "奔跑天路"
+      },
+      "passages": [
+        "Heb.12.1-3",
+        "1Cor.9.24-27"
+      ],
+      "key": "Heb.12.1-2",
+      "points": {
+        "en": [
+          "Hebrews says a great cloud of witnesses surrounds us, the people of faith of chapter 11.",
+          "Lay aside every weight and sin, and run with endurance the race set before us.",
+          "Fix your eyes on Jesus, who endured the cross and sat down at the right hand of God's throne.",
+          "Paul says all runners run, but only one receives the prize; run so as to win.",
+          "Athletes train with self-control for a wreath that withers; we for one that does not.",
+          "Paul does not run aimlessly or box the air, so that he will not be disqualified."
+        ],
+        "zh": [
+          "希伯來書說，我們有許多見證人如同雲彩圍繞着，就是第11章所講那些有信心的人。",
+          "要放下各樣的重擔和罪，以堅忍的心奔跑擺在前頭的賽程。",
+          "要定睛仰望耶穌；他忍受了十字架，現在坐在神寶座的右邊。",
+          "保羅說，賽跑的人都在跑，但只有一個人得獎；你們也要這樣跑，好得着獎賞。",
+          "運動員凡事節制，是為了會朽壞的冠冕；我們卻是為了不朽壞的冠冕。",
+          "保羅跑步不是漫無目標，打拳不是打空氣，免得自己被取消資格。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Heb.11.1-2",
+          "about": {
+            "en": "Faith, by which the people of old received God's approval",
+            "zh": "信心，古人因此蒙了神的悅納"
+          }
+        },
+        {
+          "ref": "2Tim.4.7-8",
+          "about": {
+            "en": "I have finished the race; the crown of righteousness",
+            "zh": "我已經跑完了賽程；公義的冠冕"
+          }
+        },
+        {
+          "ref": "Phil.3.13-14",
+          "about": {
+            "en": "I press on toward the goal for the prize",
+            "zh": "向着標竿直跑，要得獎賞"
+          }
+        },
+        {
+          "ref": "Isa.40.31",
+          "about": {
+            "en": "They will run and not grow weary",
+            "zh": "他們奔跑卻不困倦"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "The Isthmian Games were held near Corinth every two years; winners received a wreath of pine or of wild celery.",
+          "Athletes trained for months before the games under strict rules, and competitors swore to keep them.",
+          "The author of Hebrews is not named in the letter; it was written in the first century, probably before about AD 95."
+        ],
+        "zh": [
+          "地峽運動會每兩年在哥林多附近舉行一次；優勝者得到松枝或野芹編成的冠冕。",
+          "運動員在比賽前要按嚴格的規定接受好幾個月的訓練，參賽者要起誓遵守。",
+          "希伯來書的作者沒有在書中署名；這書寫於第一世紀，大概在主後95年以前。"
+        ]
+      },
+      "maps": [
+        "roman-empire"
+      ],
+      "felt": {
+        "find": "crown"
+      },
+      "connections": "Heb.12"
+    },
+    {
+      "n": 10,
+      "title": {
+        "en": "Faith and works",
+        "zh": "信心和行為"
+      },
+      "passages": [
+        "Jas.2.14-26"
+      ],
+      "key": "Jas.2.14-17",
+      "points": {
+        "en": [
+          "James asks what good it is to say one has faith but have no works.",
+          "Telling a hungry, poorly clothed brother to keep warm and eat, without giving him anything, does no good.",
+          "So faith by itself, without works, is dead.",
+          "Even the demons believe that God is one, and they shudder.",
+          "Abraham offered Isaac, and his faith was made complete by his works.",
+          "Rahab welcomed the messengers and sent them out another way.",
+          "As the body without the spirit is dead, so faith without works is dead."
+        ],
+        "zh": [
+          "雅各問：人若說自己有信心，卻沒有行為，有甚麼益處呢？",
+          "對缺衣少食的弟兄說「要穿得暖、吃得飽」，卻不給他所需用的，有甚麼用處呢？",
+          "信心若沒有行為，本身就是死的。",
+          "連鬼魔也信神只有一位，卻是戰兢。",
+          "亞伯拉罕把以撒獻在祭壇上，他的信心因行為才得以完全。",
+          "喇合接待了使者，又從另一條路把他們送走。",
+          "身體沒有靈魂是死的，信心沒有行為也是死的。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Gen.15.6",
+          "about": {
+            "en": "Abram believed the LORD, and it was credited as righteousness",
+            "zh": "亞伯蘭信耶和華，耶和華就算他為義"
+          }
+        },
+        {
+          "ref": "Gen.22.1-14",
+          "about": {
+            "en": "Abraham offers Isaac",
+            "zh": "亞伯拉罕獻以撒"
+          }
+        },
+        {
+          "ref": "Josh.2.1-21",
+          "about": {
+            "en": "Rahab hides the spies in Jericho",
+            "zh": "喇合在耶利哥收藏探子"
+          }
+        },
+        {
+          "ref": "Eph.2.8-10",
+          "about": {
+            "en": "Saved by grace through faith, created for good works",
+            "zh": "因信靠恩得救，為要行善"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "James is traditionally the brother of Jesus who led the church in Jerusalem (Acts 15:13; Galatians 1:19).",
+          "The Jewish historian Josephus records that this James was stoned in Jerusalem about AD 62.",
+          "The letter is addressed to the twelve tribes in the Dispersion, that is, Jewish believers living outside the land."
+        ],
+        "zh": [
+          "傳統認為雅各書的作者是耶穌的弟弟雅各，耶路撒冷教會的領袖（使徒行傳15章13節；加拉太書1章19節）。",
+          "猶太歷史學家約瑟夫記載，這位雅各約在主後62年在耶路撒冷被石頭打死。",
+          "這封信是寫給「散居各地的十二個支派」，就是住在以色列以外的猶太信徒。"
+        ]
+      },
+      "maps": [],
+      "felt": {
+        "find": "abraham"
+      },
+      "connections": "Jas.2"
+    },
+    {
+      "n": 11,
+      "title": {
+        "en": "Revelation: the throne and the Lamb",
+        "zh": "啟示錄：寶座和羔羊"
+      },
+      "passages": [
+        "Rev.4-5"
+      ],
+      "key": "Rev.5.9-12",
+      "points": {
+        "en": [
+          "John sees a door open in heaven and a throne with someone seated on it.",
+          "Around the throne are twenty-four elders and four living creatures who never stop saying, Holy, holy, holy.",
+          "The elders lay their crowns before the throne and praise God as creator of all things.",
+          "The One on the throne holds a scroll sealed with seven seals, and no one is worthy to open it.",
+          "The Lion of the tribe of Judah has conquered; John sees a Lamb standing, as though slaughtered.",
+          "The Lamb takes the scroll, and they sing a new song: by his blood he bought people from every nation.",
+          "Countless angels and every creature praise the One on the throne and the Lamb."
+        ],
+        "zh": [
+          "約翰看見天上有門開了，有一個寶座，有一位坐在上面。",
+          "寶座周圍有二十四位長老和四個活物；活物晝夜不停地說：「聖哉！聖哉！聖哉！」",
+          "長老們把冠冕放在寶座前，讚美神創造了萬物。",
+          "坐寶座的那一位手中有一卷用七個印封着的書卷，沒有一個配展開它。",
+          "猶大支派中的獅子已經得勝了；約翰看見有羔羊站着，像是被宰殺過的。",
+          "羔羊拿了書卷，他們唱新歌說：他用自己的血從各邦國中買了人來歸神。",
+          "千萬的天使和一切被造之物都讚美坐寶座的和羔羊。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Isa.6.1-3",
+          "about": {
+            "en": "Isaiah sees the Lord on a throne: Holy, holy, holy",
+            "zh": "以賽亞看見主坐在寶座上：聖哉！聖哉！聖哉！"
+          }
+        },
+        {
+          "ref": "Ezek.1.4-10",
+          "about": {
+            "en": "Ezekiel sees four living creatures",
+            "zh": "以西結看見四個活物"
+          }
+        },
+        {
+          "ref": "John.1.29",
+          "about": {
+            "en": "Look, the Lamb of God",
+            "zh": "看哪，神的羔羊"
+          }
+        },
+        {
+          "ref": "Isa.53.7",
+          "about": {
+            "en": "Like a lamb led to the slaughter",
+            "zh": "像羊羔被牽去宰殺"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "John received the Revelation on Patmos (1:9), a small Greek island in the Aegean Sea off the west coast of Turkey.",
+          "Most date the book to about AD 95, under the emperor Domitian; some date it to the late 60s.",
+          "A scroll could be sealed with lumps of clay or wax pressed with a seal; it could not be read until the seals were broken."
+        ],
+        "zh": [
+          "約翰在拔摩海島領受啟示（1章9節）；拔摩是愛琴海上的一個希臘小島，在土耳其西岸外。",
+          "多數學者把這書定在約主後95年，羅馬皇帝多米田在位的時候；也有人定在60年代後期。",
+          "書卷可以用泥或蠟封住，再蓋上印章；印不揭開，就不能讀。"
+        ]
+      },
+      "maps": [
+        "roman-empire"
+      ],
+      "felt": {
+        "find": "lamb"
+      },
+      "connections": "Rev.5"
+    },
+    {
+      "n": 12,
+      "title": {
+        "en": "God unifies all things in Christ: a new heaven and a new earth",
+        "zh": "神使萬有在基督裏同歸於一：新天新地"
+      },
+      "passages": [
+        "Rev.21-22",
+        "Eph.1.9-10"
+      ],
+      "key": "Rev.21.3-5",
+      "points": {
+        "en": [
+          "Paul writes that God's plan is to bring all things in heaven and on earth together under Christ.",
+          "John sees a new heaven and a new earth, and the new Jerusalem coming down from God.",
+          "A voice says God will dwell with his people and wipe away every tear; death will be no more.",
+          "The One on the throne says, Look, I am making all things new.",
+          "The city has no temple, for its temple is the Lord God and the Lamb, and the Lamb is its lamp.",
+          "The river of the water of life flows from the throne, with the tree of life on either side.",
+          "Jesus says, I am coming soon; John answers, Amen. Come, Lord Jesus!"
+        ],
+        "zh": [
+          "保羅寫道，神的計劃是使天上和地上的萬有，都在基督裏同歸於一。",
+          "約翰看見一個新天新地，又看見新耶路撒冷從神那裏降下來。",
+          "有聲音說神要與人同住，擦去他們一切的眼淚；不再有死亡。",
+          "坐寶座的說：「看哪，我把一切都更新了！」",
+          "城裏沒有聖殿，因為主神和羔羊就是城的聖殿；羔羊就是城的燈。",
+          "生命水的河從寶座流出來，河的兩岸有生命樹。",
+          "耶穌說：「我快要來了！」約翰回應：「阿們！主耶穌啊，願你來！」"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Gen.2.8-10",
+          "about": {
+            "en": "The garden of Eden, the tree of life and a river",
+            "zh": "伊甸園、生命樹和河"
+          }
+        },
+        {
+          "ref": "Isa.65.17-19",
+          "about": {
+            "en": "I am creating new heavens and a new earth",
+            "zh": "我要創造新天新地"
+          }
+        },
+        {
+          "ref": "Ezek.47.1-12",
+          "about": {
+            "en": "A river flows from the temple, with trees for healing",
+            "zh": "河從聖殿流出，兩岸的樹可以醫病"
+          }
+        },
+        {
+          "ref": "Col.1.19-20",
+          "about": {
+            "en": "God reconciles all things to himself through Christ",
+            "zh": "神藉着基督使萬有與自己和好"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "The Bible begins in a garden with the tree of life (Genesis 2) and ends in a city with the tree of life (Revelation 22).",
+          "The city measures 12,000 stadia on each side (21:16), about 2,200 km.",
+          "The jewels of the foundations (21:19-20) recall the twelve stones on the high priest's breastpiece (Exodus 28:17-21)."
+        ],
+        "zh": [
+          "聖經以有生命樹的園子開始（創世記2章），以有生命樹的城結束（啟示錄22章）。",
+          "這城每邊長一萬二千斯塔迪（21章16節），約2200公里。",
+          "城牆根基的寶石（21章19至20節）令人想起大祭司胸牌上的十二顆寶石（出埃及記28章17至21節）。"
+        ]
+      },
+      "maps": [],
+      "felt": {
+        "find": "throne"
+      },
+      "connections": "Rev.21"
+    }
+  ]
+}

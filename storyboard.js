@@ -575,7 +575,7 @@
   function haystack(p) {
     if (!hay.has(p.id)) {
       const subName = ((ART.subs[p.cat] || []).find(s => s[0] === p.sub) || [])[1] || "";
-      hay.set(p.id, [p.name, t(p.name), p.tags, subName, t(subName), p.cat, ...(p.stories || []).map(id => storyById[id].name + " " + t(storyById[id].name))].join(" ").toLowerCase());
+      hay.set(p.id, [p.id, p.id.replace(/-/g, " "), p.name, t(p.name), p.tags, subName, t(subName), p.cat, ...(p.stories || []).map(id => storyById[id].name + " " + t(storyById[id].name))].join(" ").toLowerCase());
     }
     return hay.get(p.id);
   }
@@ -1118,7 +1118,18 @@
     pickItems([]);
   }, true);
 
+  // A link from a lesson: #story=noah opens that story's drawer; #find=word searches the drawers.
+  function fromHash() {
+    const h = new URLSearchParams(location.hash.slice(1));
+    if (h.get("story") && storyById[h.get("story")]) { tab = "stories"; story = h.get("story"); query = ""; $("find").value = ""; }
+    else if (h.get("find")) { query = h.get("find"); $("find").value = query; }
+    else return;
+    openDrawer(true); renderTabs(); renderTray();
+    history.replaceState(null, "", location.pathname);
+  }
+  addEventListener("hashchange", fromHash);
+
   renderTabs(); renderTray(); openDrawer(true); render(); showName(); persist();
-  incoming();
+  incoming(); fromHash();
   Sync.run();
 })();

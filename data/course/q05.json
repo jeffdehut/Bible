@@ -1,0 +1,558 @@
+{
+  "q": 5,
+  "lessons": [
+    {
+      "n": 1,
+      "title": { "en": "The judges: an overview", "zh": "士師時代概覽" },
+      "passages": ["Judg.2.6-23"],
+      "key": "Judg.2.16-18",
+      "points": {
+        "en": [
+          "The people serve the LORD all the days of Joshua and of the elders who outlive him.",
+          "Joshua dies at 110, and a generation grows up who do not know the LORD.",
+          "The Israelites abandon the LORD and serve the Baals and the Ashtoreths.",
+          "The LORD's anger burns, and he hands them over to raiders and enemies.",
+          "The LORD raises up judges who save them, for he pities their groaning.",
+          "When each judge dies, the people turn back and act more corruptly than before.",
+          "The LORD leaves the nations in the land to test Israel."
+        ],
+        "zh": [
+          "約書亞在世和比他長壽的長老在世的日子，百姓都事奉耶和華。",
+          "約書亞一百一十歲死了，後來興起的一代人不認識耶和華。",
+          "以色列人離棄耶和華，去事奉巴力和亞斯她錄。",
+          "耶和華的怒氣發作，把他們交在搶掠者和仇敵手中。",
+          "耶和華興起士師拯救他們，因為他憐憫他們的哀聲。",
+          "每當士師一死，百姓就轉回去，行得比從前更敗壞。",
+          "耶和華留下那些民族在地上，用來試驗以色列。"
+        ]
+      },
+      "readings": [
+        { "ref": "Judg.3.7-11", "about": { "en": "Othniel, the first judge, and the pattern at work", "zh": "第一位士師俄陀聶，同樣的循環" } },
+        { "ref": "Judg.21.25", "about": { "en": "No king in Israel; everyone did what was right in his own eyes", "zh": "那時以色列中沒有王，各人隨意行事" } },
+        { "ref": "Acts.13.19-20", "about": { "en": "Paul: God gave them judges until Samuel", "zh": "保羅說神賜他們士師，直到撒母耳" } },
+        { "ref": "Heb.11.32-34", "about": { "en": "Gideon, Barak, Samson and Jephthah among the faithful", "zh": "基甸、巴拉、參孫、耶弗他的信心" } }
+      ],
+      "history": {
+        "en": [
+          "The time of the judges ended with Saul, about 1050 BC. It began about 1375 BC or about 1200 BC, depending on the date of the exodus.",
+          "The Hebrew shofet, \"judge\", means a leader who rescued and governed the people, not only one who decided cases in court.",
+          "Baal was the Canaanite storm god, thought to send rain; Ashtoreth (Astarte) was a goddess. Texts found at Ugarit in Syria, from about 1300 BC, tell of Baal."
+        ],
+        "zh": [
+          "士師時代到掃羅為止，約在主前1050年；開始於約主前1375年或約主前1200年，視出埃及的年代而定。",
+          "希伯來文「士師」（shofet）指拯救並治理百姓的領袖，不只是在法庭判案的人。",
+          "巴力是迦南人的風暴之神，被認為能降雨；亞斯她錄是女神。在敘利亞烏加列出土、約主前1300年的文獻記載了巴力的故事。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "altar" },
+      "connections": "Judg.2"
+    },
+    {
+      "n": 2,
+      "title": { "en": "Deborah", "zh": "底波拉" },
+      "passages": ["Judg.4-5"],
+      "key": "Judg.4.14-15",
+      "points": {
+        "en": [
+          "Jabin king of Canaan, with 900 iron chariots, oppresses Israel for twenty years.",
+          "Deborah, a prophet, judges Israel under the Palm of Deborah.",
+          "She tells Barak the LORD commands him to gather ten thousand men at Mount Tabor.",
+          "Barak will go only if Deborah goes; she goes, but says a woman will defeat Sisera.",
+          "The LORD throws Sisera's army into panic, and Sisera flees on foot.",
+          "Jael, wife of Heber the Kenite, kills Sisera with a tent peg in her tent.",
+          "Deborah and Barak sing a song of the LORD's victory, and the land has peace forty years."
+        ],
+        "zh": [
+          "迦南王耶賓有九百輛鐵車，壓迫以色列人二十年。",
+          "女先知底波拉在底波拉棕樹下作以色列的士師。",
+          "她告訴巴拉，耶和華吩咐他在他泊山集結一萬人。",
+          "巴拉說底波拉同去他才去；她就同去，卻說西西拉要被交在一個女人手中。",
+          "耶和華使西西拉的全軍潰亂，西西拉徒步逃跑。",
+          "基尼人希百的妻子雅億在帳棚裏用橛子殺了西西拉。",
+          "底波拉和巴拉歌頌耶和華的勝利，國中太平四十年。"
+        ]
+      },
+      "readings": [
+        { "ref": "Josh.11.10-11", "about": { "en": "Joshua had earlier burned Hazor", "zh": "約書亞早先焚燒夏瑣" } },
+        { "ref": "Ps.83.10-11", "about": { "en": "A psalm remembers Sisera and Jabin at the Kishon", "zh": "詩篇記念基順河邊的西西拉和耶賓" } },
+        { "ref": "Heb.11.32-34", "about": { "en": "Barak among those who acted by faith", "zh": "巴拉列在憑信心行事的人中" } }
+      ],
+      "history": {
+        "en": [
+          "Mount Tabor, in Galilee, rises alone to about 575 m at the edge of the Jezreel Valley. The Kishon River flows through the valley to the sea near Haifa.",
+          "Hazor, in upper Galilee, was the largest Canaanite city in the land. Excavations show it was destroyed by fire in the 1200s BC.",
+          "Chariots were the strongest weapon of the age. The Kishon floods in the winter rains, and its plain becomes heavy mud."
+        ],
+        "zh": [
+          "他泊山在加利利，孤峰聳立在耶斯列平原邊緣，海拔約575米。基順河流經這平原，在今海法附近入海。",
+          "夏瑣位於上加利利，是當地最大的迦南城。考古發現它在主前十三世紀被火焚毀。",
+          "戰車是當時最強的武器。基順河在冬季雨水中氾濫，河邊平原變成泥沼。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "palm" },
+      "connections": "Judg.4"
+    },
+    {
+      "n": 3,
+      "title": { "en": "God calls Gideon", "zh": "神呼召基甸" },
+      "passages": ["Judg.6"],
+      "key": "Judg.6.14-16",
+      "points": {
+        "en": [
+          "Midian and the people of the east raid Israel for seven years, like swarms of locusts.",
+          "The angel of the LORD finds Gideon threshing wheat in a winepress to hide it.",
+          "\"The LORD is with you, mighty warrior.\" Gideon asks why all this has happened.",
+          "Gideon says his clan is the weakest; the LORD says, \"I will be with you.\"",
+          "Fire from the rock consumes Gideon's offering, and he builds an altar: The LORD Is Peace.",
+          "At night Gideon tears down his father's altar of Baal and is named Jerubbaal.",
+          "Gideon asks for signs with a fleece, wet and then dry, and God gives them."
+        ],
+        "zh": [
+          "米甸人和東方人侵擾以色列七年，多如蝗蟲。",
+          "耶和華的使者看見基甸在酒醡裏打麥子，要躲避米甸人。",
+          "「大能的勇士啊，耶和華與你同在！」基甸問為甚麼遭遇這一切事。",
+          "基甸說他的宗族最弱；耶和華說：「我必與你同在。」",
+          "火從磐石出來燒盡基甸的供物，他築了一座壇，名叫「耶和華是平安」。",
+          "基甸在夜間拆毀他父親的巴力壇，因此被稱為耶路‧巴力。",
+          "基甸用羊毛求兆頭，先濕後乾，神都照他所求的成就。"
+        ]
+      },
+      "readings": [
+        { "ref": "Exod.3.11-12", "about": { "en": "Moses also objects, and God says, \"I will be with you\"", "zh": "摩西也推辭，神說「我必與你同在」" } },
+        { "ref": "Judg.8.22-23", "about": { "en": "Gideon refuses to be king: the LORD will rule over you", "zh": "基甸不肯作王：耶和華要管理你們" } },
+        { "ref": "Heb.11.32-34", "about": { "en": "Gideon among those who acted by faith", "zh": "基甸列在憑信心行事的人中" } }
+      ],
+      "history": {
+        "en": [
+          "The Midianites were desert peoples from east of the Gulf of Aqaba, in northwest Arabia.",
+          "Grain was usually threshed on an open, windy hilltop floor. A winepress was a pit cut in rock for treading grapes, a place out of sight.",
+          "The site of Gideon's town, Ophrah, is not known for certain."
+        ],
+        "zh": [
+          "米甸人是住在亞喀巴灣以東、阿拉伯西北部的沙漠民族。",
+          "打麥子通常在山頂通風的禾場上。酒醡是在岩石上鑿出來踩葡萄的坑，不容易被人看見。",
+          "基甸的家鄉俄弗拉在哪裏，至今不能確定。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "angel" },
+      "connections": "Judg.6"
+    },
+    {
+      "n": 4,
+      "title": { "en": "Gideon's three hundred", "zh": "基甸的三百人" },
+      "passages": ["Judg.7"],
+      "key": "Judg.7.2-3",
+      "points": {
+        "en": [
+          "The LORD says Gideon has too many men, or Israel might boast it saved itself.",
+          "Twenty-two thousand who are afraid go home; ten thousand remain.",
+          "At the water, three hundred men lap; with them the LORD will save Israel.",
+          "In the Midianite camp Gideon hears a dream of a barley loaf flattening a tent.",
+          "The three hundred carry rams' horns and torches hidden in empty jars.",
+          "At night they blow the horns, smash the jars and shout, \"A sword for the LORD and for Gideon!\"",
+          "The LORD sets the Midianites against each other, and they flee."
+        ],
+        "zh": [
+          "耶和華說跟隨基甸的人太多，免得以色列誇口是自己救了自己。",
+          "懼怕的二萬二千人回去了，剩下一萬人。",
+          "在水邊有三百人舔水；耶和華要用他們拯救以色列。",
+          "基甸在米甸營中聽見一人的夢：一個大麥餅把帳棚撞倒了。",
+          "三百人拿着羊角號，和藏着火把的空瓶。",
+          "他們夜間吹號、打碎瓶子，大聲喊：「耶和華和基甸的刀！」",
+          "耶和華使米甸人自相殘殺，他們就逃跑了。"
+        ]
+      },
+      "readings": [
+        { "ref": "Judg.8.28", "about": { "en": "Midian is brought low; the land has peace forty years", "zh": "米甸被制伏，國中太平四十年" } },
+        { "ref": "Isa.9.3", "about": { "en": "Isaiah: the oppressor broken \"as on the day of Midian\"", "zh": "以賽亞：重軛被折斷，如米甸的日子" } },
+        { "ref": "Ps.83.12", "about": { "en": "A psalm remembers Oreb and Zeeb", "zh": "詩篇記念俄立和西伊伯" } }
+      ],
+      "history": {
+        "en": [
+          "The spring of Harod (Ein Harod) lies at the foot of Mount Gilboa. The hill of Moreh stands across the Jezreel Valley to the north.",
+          "Israelites divided the night into three watches. Gideon attacked at the start of the middle watch, just after the guards changed.",
+          "The ram's horn (shofar) was blown as a signal in war and worship; it is still blown in synagogues today."
+        ],
+        "zh": [
+          "哈律泉在基利波山腳下；摩利岡在耶斯列平原北面，與它相對。",
+          "以色列人把夜間分為三更。基甸在二更初、剛換崗之後進攻。",
+          "羊角號（shofar）在打仗和敬拜時吹響作信號；今天猶太會堂仍然吹它。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "jar" },
+      "connections": "Judg.7"
+    },
+    {
+      "n": 5,
+      "title": { "en": "Samson's strength", "zh": "參孫的力氣" },
+      "passages": ["Judg.13-15"],
+      "key": "Judg.13.5",
+      "points": {
+        "en": [
+          "The Philistines rule Israel forty years. An angel tells Manoah's childless wife she will bear a son.",
+          "The boy is to be a Nazirite from the womb; no razor may touch his head.",
+          "Samson is born, and the Spirit of the LORD begins to stir him.",
+          "The Spirit rushes on him, and with bare hands he tears apart a young lion.",
+          "His riddle about honey from the lion is learned through his Philistine wife.",
+          "He burns the Philistines' grain with foxes and torches.",
+          "Tied by men of Judah, he breaks the ropes and strikes down a thousand with a donkey's jawbone."
+        ],
+        "zh": [
+          "非利士人轄制以色列四十年。天使告訴瑪挪亞不能生育的妻子，她將要生一個兒子。",
+          "這孩子一出母胎就是拿細耳人，不可用剃刀剃他的頭。",
+          "參孫出生了，耶和華的靈開始感動他。",
+          "耶和華的靈猛然臨到他，他赤手空拳撕裂一隻少壯的獅子。",
+          "他以獅子和蜂蜜出的謎語，被人透過他的非利士妻子探出了謎底。",
+          "他用狐狸和火把燒毀非利士人的莊稼。",
+          "猶大人把他捆綁，他掙斷繩子，用一塊驢腮骨擊殺了一千人。"
+        ]
+      },
+      "readings": [
+        { "ref": "Num.6.1-8", "about": { "en": "The law of the Nazirite vow", "zh": "拿細耳人許願的條例" } },
+        { "ref": "Luke.1.13-17", "about": { "en": "John's birth announced: he must never drink wine", "zh": "預言約翰出生：淡酒濃酒都不喝" } },
+        { "ref": "Heb.11.32-34", "about": { "en": "Samson among those who acted by faith", "zh": "參孫列在憑信心行事的人中" } }
+      ],
+      "history": {
+        "en": [
+          "The Philistines came by sea and settled on the southern coast of Canaan in the 1100s BC. Their five cities were Gaza, Ashkelon, Ashdod, Ekron and Gath.",
+          "Zorah and Eshtaol lie in the Sorek Valley, west of Jerusalem. Philistine Timnah is often identified with Tel Batash, lower down the same valley.",
+          "Excavations at Philistine cities find many pig bones, unlike the Israelite villages in the hills, where pork was rarely eaten."
+        ],
+        "zh": [
+          "非利士人從海上而來，在主前十二世紀定居在迦南南部沿海。他們的五座城是迦薩、亞實基倫、亞實突、以革倫和迦特。",
+          "瑣拉和以實陶在耶路撒冷以西的梭烈谷。非利士人的亭拿通常被認為是同一山谷下游的巴塔什丘。",
+          "非利士城市出土大量豬骨；山地的以色列村落則很少吃豬肉。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "lion" },
+      "connections": "Judg.14"
+    },
+    {
+      "n": 6,
+      "title": { "en": "Samson's fall and last prayer", "zh": "參孫的失敗和最後的禱告" },
+      "passages": ["Judg.16"],
+      "key": "Judg.16.28-30",
+      "points": {
+        "en": [
+          "At Gaza Samson carries off the doors and gateposts of the city gate.",
+          "The Philistine rulers offer Delilah silver to learn the secret of his strength.",
+          "Three times he deceives her, and three times he breaks free.",
+          "Worn out by her pressing, he tells her he is a Nazirite and has never been shaved.",
+          "His hair is shaved, the LORD leaves him, and the Philistines blind him and make him grind grain.",
+          "At Dagon's feast, his hair growing again, Samson prays, \"Please remember me.\"",
+          "He pushes the temple's pillars; it falls, and he dies with the Philistines."
+        ],
+        "zh": [
+          "參孫在迦薩把城門的門扇和門柱扛走了。",
+          "非利士人的首領答應給大利拉銀子，要她探出他力氣的祕密。",
+          "他三次欺騙她，三次都掙脫了。",
+          "她天天催逼他，他就告訴她自己是拿細耳人，從未剃過頭。",
+          "他的頭髮被剃，耶和華離開了他；非利士人挖出他的眼睛，叫他推磨。",
+          "在大袞的慶典上，參孫的頭髮又長起來，他禱告說：「求你記念我。」",
+          "他推倒廟的柱子，廟就倒塌，他與非利士人同死。"
+        ]
+      },
+      "readings": [
+        { "ref": "Num.6.5", "about": { "en": "No razor on a Nazirite's head", "zh": "拿細耳人不可用剃刀剃頭" } },
+        { "ref": "1Sam.5.2-5", "about": { "en": "Dagon falls before the ark of the LORD", "zh": "大袞仆倒在耶和華的約櫃前" } },
+        { "ref": "Heb.11.32-34", "about": { "en": "Strength out of weakness", "zh": "從軟弱中變為剛強" } }
+      ],
+      "history": {
+        "en": [
+          "Gaza, the southernmost Philistine city, lay on the coast road to Egypt; a city of that name stands there today.",
+          "A Philistine temple found at Tell Qasile, in today's Tel Aviv, had two central wooden pillars on stone bases holding up the roof.",
+          "Turning a millstone to grind grain was work given to slaves and prisoners."
+        ],
+        "zh": [
+          "迦薩是最南面的非利士城，位於通往埃及的沿海大道上；今天那裏仍有同名的城市。",
+          "在今特拉維夫的卡西勒丘出土了一座非利士人的廟，屋頂由中間兩根立在石座上的木柱支撐。",
+          "推磨磨麥是奴隸和囚犯所做的工作。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "soldier" },
+      "connections": "Judg.16"
+    },
+    {
+      "n": 7,
+      "title": { "en": "Ruth and Naomi", "zh": "路得和拿俄米" },
+      "passages": ["Ruth.1-2"],
+      "key": "Ruth.1.16-17",
+      "points": {
+        "en": [
+          "In a famine Elimelech takes Naomi and their two sons from Bethlehem to Moab.",
+          "Elimelech dies; the sons marry Orpah and Ruth, Moabite women, and then both sons die.",
+          "Naomi sets out for home and urges her daughters-in-law to go back.",
+          "Orpah returns, but Ruth says, \"Your people will be my people, and your God my God.\"",
+          "In Bethlehem Naomi says, \"Call me Mara, for the Almighty has made my life very bitter.\"",
+          "Ruth gleans in the field of Boaz, a relative of Elimelech.",
+          "Boaz protects her and gives her extra grain; Naomi blesses the LORD for his faithful love."
+        ],
+        "zh": [
+          "遇到饑荒，以利米勒帶着拿俄米和兩個兒子從伯利恆往摩押去。",
+          "以利米勒死了；兩個兒子娶了摩押女子俄珥巴和路得，後來兩個兒子也死了。",
+          "拿俄米動身回鄉，勸兩個兒媳回去。",
+          "俄珥巴回去了，路得卻說：「你的同胞就是我的同胞，你的神就是我的神。」",
+          "拿俄米在伯利恆說：「要叫我瑪拉，因為全能者使我非常愁苦。」",
+          "路得在以利米勒的親戚波阿斯的田裏拾麥穗。",
+          "波阿斯保護她，又多給她麥穗；拿俄米稱頌耶和華的慈愛。"
+        ]
+      },
+      "readings": [
+        { "ref": "Lev.19.9-10", "about": { "en": "Leave the edges of the harvest for the poor and the foreigner", "zh": "收割時要留下田角給窮人和寄居者" } },
+        { "ref": "Gen.19.36-37", "about": { "en": "The origin of the Moabites", "zh": "摩押人的起源" } },
+        { "ref": "Matt.1.5", "about": { "en": "Ruth in the family line of Jesus", "zh": "路得列在耶穌的家譜中" } }
+      ],
+      "history": {
+        "en": [
+          "Moab lay east of the Dead Sea, in today's Jordan. The Moabite Stone, about 840 BC, is an inscription of Mesha, a later king of Moab.",
+          "Bethlehem lies about 9 km south of Jerusalem. Its name means \"house of bread\".",
+          "Barley was harvested about April, wheat a few weeks later, about May to June."
+        ],
+        "zh": [
+          "摩押在死海以東，今約旦境內。約主前840年的「摩押石碑」是後來摩押王米沙的碑文。",
+          "伯利恆在耶路撒冷以南約9公里，名字的意思是「餅之家」。",
+          "大麥約在四月收割，小麥晚幾個星期，約在五月至六月。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "old-woman" },
+      "connections": "Ruth.1"
+    },
+    {
+      "n": 8,
+      "title": { "en": "Boaz the redeemer", "zh": "贖產業的波阿斯" },
+      "passages": ["Ruth.3-4"],
+      "key": "Ruth.4.13-15",
+      "points": {
+        "en": [
+          "Naomi sends Ruth to the threshing floor where Boaz is winnowing barley.",
+          "Ruth asks Boaz to spread his garment over her, for he is a guardian-redeemer.",
+          "Boaz promises to act, but a closer relative has the first right.",
+          "At the town gate, before ten elders, the closer relative gives up his right.",
+          "He takes off his sandal, and Boaz buys Elimelech's land and takes Ruth as his wife.",
+          "Ruth bears a son, Obed, and the women praise the LORD with Naomi.",
+          "Obed is the father of Jesse, the father of David."
+        ],
+        "zh": [
+          "拿俄米打發路得到波阿斯簸大麥的禾場去。",
+          "路得求波阿斯用衣襟遮蓋她，因為他是至近的親屬。",
+          "波阿斯答應辦理，但有一位更近的親屬有優先權利。",
+          "在城門口十位長老面前，那位更近的親屬放棄了他的權利。",
+          "他脫下鞋來；波阿斯買下以利米勒的產業，娶路得為妻。",
+          "路得生了兒子俄備得，婦女們和拿俄米一同稱頌耶和華。",
+          "俄備得是耶西的父親，耶西是大衛的父親。"
+        ]
+      },
+      "readings": [
+        { "ref": "Lev.25.25", "about": { "en": "The nearest redeemer buys back a relative's land", "zh": "至近的親屬要贖回親人的產業" } },
+        { "ref": "Deut.25.5-10", "about": { "en": "A widow, her husband's brother and the sandal", "zh": "寡婦、亡夫的兄弟和脫鞋的條例" } },
+        { "ref": "Matt.1.5-6", "about": { "en": "Boaz, Ruth, Obed, Jesse and David in Jesus' line", "zh": "耶穌家譜中的波阿斯、路得、大衛" } }
+      ],
+      "history": {
+        "en": [
+          "Grain was winnowed on a threshing floor in the evening breeze: tossed into the air so the wind carried off the chaff.",
+          "The town gate was where elders met, cases were heard and business was witnessed.",
+          "An ephah was a dry measure, often reckoned at about 22 litres, though estimates vary."
+        ],
+        "zh": [
+          "人們在傍晚的風中在禾場上簸穀：把穀物揚起，讓風吹走糠秕。",
+          "城門口是長老聚集、審理案件和作見證交易的地方。",
+          "伊法是乾量單位，常估算為約22升，但各家估計不一。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "man" },
+      "connections": "Ruth.4"
+    },
+    {
+      "n": 9,
+      "title": { "en": "Hannah's prayer", "zh": "哈拿的禱告" },
+      "passages": ["1Sam.1.1-2.11", "1Sam.2.18-21"],
+      "key": "1Sam.1.27-28",
+      "points": {
+        "en": [
+          "Elkanah has two wives; Peninnah has children, but Hannah has none, and Peninnah provokes her.",
+          "At Shiloh Hannah prays in tears and vows to give a son to the LORD.",
+          "Eli thinks she is drunk, then blesses her: may God grant what she asked.",
+          "Hannah bears a son and names him Samuel, \"because I asked the LORD for him.\"",
+          "After he is weaned she brings him to Eli at Shiloh and gives him to the LORD.",
+          "Hannah prays: no one is holy like the LORD; he brings low and lifts up.",
+          "Samuel serves before the LORD, and the LORD gives Hannah five more children."
+        ],
+        "zh": [
+          "以利加拿有兩個妻子；毗尼拿有兒女，哈拿卻沒有，毗尼拿常激怒她。",
+          "哈拿在示羅流淚禱告，許願要把兒子獻給耶和華。",
+          "以利以為她喝醉了，後來卻祝福她，願神賜她所求的。",
+          "哈拿生了一個兒子，給他起名叫撒母耳，因為「他是我從耶和華那裏求來的」。",
+          "孩子斷奶以後，她把他帶到示羅以利那裏，獻給耶和華。",
+          "哈拿禱告說：沒有誰像耶和華那樣聖潔；他使人卑微，也使人升高。",
+          "撒母耳在耶和華面前事奉；耶和華又賜哈拿五個兒女。"
+        ]
+      },
+      "readings": [
+        { "ref": "Luke.1.46-55", "about": { "en": "Mary's song, which echoes Hannah's", "zh": "馬利亞的頌歌，與哈拿的禱告相呼應" } },
+        { "ref": "Luke.2.52", "about": { "en": "Jesus grew in favor with God and people (compare 1 Sam 2:26)", "zh": "耶穌在神和人面前蒙喜愛" } },
+        { "ref": "Num.6.5", "about": { "en": "No razor: the Nazirite vow", "zh": "不用剃刀剃頭：拿細耳人的願" } }
+      ],
+      "history": {
+        "en": [
+          "Shiloh, where the tabernacle stood, is Khirbet Seilun, about 30 km north of Jerusalem.",
+          "In the ancient Near East children were often nursed until about two or three years old.",
+          "The family went up to Shiloh each year for a sacrifice, and the worshippers ate part of it in a meal before the LORD."
+        ],
+        "zh": [
+          "會幕所在的示羅就是今天的塞倫廢墟，在耶路撒冷以北約30公里。",
+          "古代近東的孩子常吃奶到兩三歲左右。",
+          "這家人每年上示羅獻祭，敬拜的人在耶和華面前吃祭物的一部分。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "woman" },
+      "connections": "1Sam.1"
+    },
+    {
+      "n": 10,
+      "title": { "en": "God calls Samuel", "zh": "神呼召撒母耳" },
+      "passages": ["1Sam.3"],
+      "key": "1Sam.3.8-10",
+      "points": {
+        "en": [
+          "In those days the word of the LORD is rare. The boy Samuel sleeps in the temple where the ark is.",
+          "The LORD calls Samuel; he runs to Eli and says, \"Here I am. You called me.\"",
+          "After the third call Eli understands that the LORD is calling the boy.",
+          "Samuel answers, \"Speak, for your servant is listening.\"",
+          "The LORD says he will carry out his judgment against Eli's family.",
+          "In the morning Samuel tells Eli everything; Eli says, \"He is the LORD.\"",
+          "The LORD is with Samuel, and all Israel knows he is a prophet of the LORD."
+        ],
+        "zh": [
+          "那時耶和華的話很少。孩子撒母耳睡在有約櫃的耶和華的殿裏。",
+          "耶和華呼喚撒母耳，他跑到以利那裏說：「我在這裏，你叫我。」",
+          "第三次以後，以利明白是耶和華在呼喚這孩子。",
+          "撒母耳回答：「請說，你的僕人在聽。」",
+          "耶和華說他要向以利的家施行審判。",
+          "早晨撒母耳把一切都告訴以利；以利說：「他是耶和華。」",
+          "耶和華與撒母耳同在，全以色列都知道他是耶和華的先知。"
+        ]
+      },
+      "readings": [
+        { "ref": "1Sam.2.30-35", "about": { "en": "A man of God's warning to Eli's family", "zh": "神人對以利家的警告" } },
+        { "ref": "Isa.6.8", "about": { "en": "Isaiah: \"Here I am. Send me.\"", "zh": "以賽亞說：「我在這裏，請差遣我。」" } },
+        { "ref": "Acts.3.24", "about": { "en": "Peter: all the prophets from Samuel on", "zh": "彼得說：從撒母耳以來的眾先知" } }
+      ],
+      "history": {
+        "en": [
+          "The lamp of God was the tabernacle lampstand, kept burning from evening until morning (Exodus 27:20-21).",
+          "\"From Dan to Beersheba\" means the whole land: Dan in the far north, Beersheba in the south, more than 200 km apart.",
+          "Samuel's age is not given; the Jewish historian Josephus, writing about AD 93, says he was twelve."
+        ],
+        "zh": [
+          "神的燈就是會幕裏的燈臺，從晚上點到早晨（出埃及記27章20至21節）。",
+          "「從但到別是巴」指全地：但在最北，別是巴在南，相距二百多公里。",
+          "經文沒有記撒母耳的年齡；猶太史學家約瑟夫約在主後93年寫道他當時十二歲。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "lamp" },
+      "connections": "1Sam.3"
+    },
+    {
+      "n": 11,
+      "title": { "en": "The ark is captured", "zh": "約櫃被擄" },
+      "passages": ["1Sam.4-6"],
+      "key": "1Sam.4.10-11",
+      "points": {
+        "en": [
+          "Defeated by the Philistines, Israel brings the ark of the covenant from Shiloh into the camp.",
+          "Israel is defeated again; the ark is captured, and Hophni and Phinehas die.",
+          "Hearing the news, Eli falls backward and dies; his grandson is named Ichabod.",
+          "In Ashdod the statue of Dagon falls face down before the ark.",
+          "The LORD strikes the Philistine cities with tumors as the ark is moved from city to city.",
+          "After seven months the Philistines send the ark back on a cart pulled by two cows.",
+          "The cows go straight to Beth-shemesh; later the ark is taken to Kiriath-jearim."
+        ],
+        "zh": [
+          "以色列被非利士人打敗，就從示羅把約櫃抬到營中。",
+          "以色列又被打敗；約櫃被擄，何弗尼和非尼哈都死了。",
+          "以利聽見消息，往後跌倒死了；他的孫子取名叫以迦博。",
+          "在亞實突，大袞像臉伏於地，仆倒在約櫃前。",
+          "約櫃從一城轉到另一城，耶和華就用腫瘤擊打非利士人的城。",
+          "七個月後，非利士人用兩頭母牛拉的車把約櫃送回。",
+          "母牛直往伯‧示麥去；後來約櫃被接到基列‧耶琳。"
+        ]
+      },
+      "readings": [
+        { "ref": "Ps.78.60-61", "about": { "en": "God abandoned Shiloh and let the ark be captured", "zh": "神離棄示羅，使約櫃被擄" } },
+        { "ref": "Jer.7.12", "about": { "en": "Jeremiah: go and see what God did to Shiloh", "zh": "耶利米說：去看神向示羅所做的" } },
+        { "ref": "2Sam.6.1-2", "about": { "en": "David later brings up the ark", "zh": "後來大衛把約櫃運上來" } }
+      ],
+      "history": {
+        "en": [
+          "Aphek, where the Philistines camped, is Tel Aphek at the source of the Yarkon River, east of today's Tel Aviv.",
+          "Ekron is Tel Miqne. An inscription found there in 1996 names the city and its king, confirming the site.",
+          "Ashdod, Ekron and Beth-shemesh lie in the lowlands between the coast and the hills of Judah."
+        ],
+        "zh": [
+          "非利士人安營的亞弗是雅孔河源頭的亞弗丘，在今特拉維夫以東。",
+          "以革倫就是米克尼丘；1996年在那裏出土的碑文提到這城和它的王，證實了地點。",
+          "亞實突、以革倫和伯‧示麥都位於沿海和猶大山地之間的低地。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "ox" },
+      "connections": "1Sam.5"
+    },
+    {
+      "n": 12,
+      "title": { "en": "Israel asks for a king", "zh": "以色列求立王" },
+      "passages": ["1Sam.8"],
+      "key": "1Sam.8.6-7",
+      "points": {
+        "en": [
+          "Samuel grows old; his sons, judges at Beersheba, take bribes and twist justice.",
+          "The elders come to Ramah and ask for a king to judge them, like all the nations.",
+          "Samuel is displeased and prays to the LORD.",
+          "The LORD says, \"It is not you they have rejected; they have rejected me.\"",
+          "Samuel warns them: a king will take their sons, daughters, fields and a tenth of their harvest.",
+          "The people refuse to listen: \"We must have a king over us.\"",
+          "The LORD tells Samuel, \"Listen to them and give them a king.\""
+        ],
+        "zh": [
+          "撒母耳年老了；他在別是巴作士師的兒子貪財受賄，屈枉公義。",
+          "長老們來到拉瑪，求他立一個王治理他們，像列國一樣。",
+          "撒母耳很不喜歡，就向耶和華禱告。",
+          "耶和華說：「他們不是厭棄你，而是厭棄我。」",
+          "撒母耳警告他們：王會徵用他們的兒女、田地，又取他們收成的十分之一。",
+          "百姓不肯聽：「我們一定要有一個王治理我們。」",
+          "耶和華對撒母耳說：「你要聽從他們，為他們立王。」"
+        ]
+      },
+      "readings": [
+        { "ref": "Deut.17.14-20", "about": { "en": "The law for a king in Israel", "zh": "以色列立王的條例" } },
+        { "ref": "Judg.8.22-23", "about": { "en": "Gideon: the LORD will rule over you", "zh": "基甸說：耶和華要管理你們" } },
+        { "ref": "Hos.13.10-11", "about": { "en": "Hosea: \"I gave you a king in my anger\"", "zh": "何西阿說：我在怒氣中將王賜你" } }
+      ],
+      "history": {
+        "en": [
+          "Israel asked for a king about 1050 BC, when the Philistines were pressing hard on the hill country.",
+          "Samuel's home, Ramah, is often identified with er-Ram, about 8 km north of Jerusalem; some place it elsewhere.",
+          "Israel's neighbours, such as the Philistine cities, Ammon and Moab, had kings; Israel's tribes had none until Saul."
+        ],
+        "zh": [
+          "以色列約在主前1050年求立王，那時非利士人對山地的壓迫日益加重。",
+          "撒母耳的家鄉拉瑪通常被認為是耶路撒冷以北約8公里的拉姆；也有人認為在別處。",
+          "以色列的鄰邦，如非利士諸城、亞捫和摩押，都有君王；以色列各支派在掃羅以前沒有王。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "crown" },
+      "connections": "1Sam.8"
+    }
+  ]
+}

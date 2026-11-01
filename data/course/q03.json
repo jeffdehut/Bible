@@ -1,0 +1,901 @@
+{
+  "q": 3,
+  "lessons": [
+    {
+      "n": 1,
+      "title": {
+        "en": "Joseph meets his brothers",
+        "zh": "約瑟與哥哥們相見"
+      },
+      "passages": [
+        "Gen.42-45"
+      ],
+      "key": "Gen.45.4-7",
+      "points": {
+        "en": [
+          "Famine drives Jacob to send ten sons to Egypt for grain; he keeps Benjamin at home.",
+          "They bow down to Joseph, the governor. He recognizes them, but they do not recognize him.",
+          "He calls them spies, keeps Simeon bound, and sends them home to bring their youngest brother.",
+          "When the grain runs out, Judah guarantees Benjamin's safety, and they return with gifts and Benjamin.",
+          "Joseph hides his silver cup in Benjamin's sack, then says the one found with it will be his slave.",
+          "Judah offers to stay as a slave in Benjamin's place, so that their father will not die of grief.",
+          "Joseph weeps and says, \"I am Joseph\"; God sent him ahead to save lives. He sends for his father."
+        ],
+        "zh": [
+          "饑荒臨到，雅各打發十個兒子到埃及買糧，卻把便雅憫留在家裏。",
+          "他們向埃及的宰相約瑟下拜。約瑟認出了他們，他們卻沒有認出他。",
+          "約瑟說他們是奸細，把西緬捆綁留下，打發其餘的人回去帶最小的弟弟來。",
+          "糧食吃完了，猶大擔保便雅憫的安全，他們就帶着禮物和便雅憫再下埃及。",
+          "約瑟把銀杯藏在便雅憫的袋裏，又說杯在誰那裏找到，誰就要作他的奴僕。",
+          "猶大願意留下作奴僕，代替便雅憫，免得父親憂傷而死。",
+          "約瑟放聲大哭，說：「我就是約瑟。」神差他先來是為了保全性命。他又打發人去接父親。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Gen.37.5-11",
+          "about": {
+            "en": "Joseph dreams that his brothers will bow down to him",
+            "zh": "約瑟夢見哥哥們向他下拜"
+          }
+        },
+        {
+          "ref": "Gen.37.26-28",
+          "about": {
+            "en": "The brothers sell Joseph for twenty pieces of silver",
+            "zh": "哥哥們以二十塊銀子把約瑟賣了"
+          }
+        },
+        {
+          "ref": "Acts.7.11-13",
+          "about": {
+            "en": "Stephen tells of the brothers' two journeys to Egypt",
+            "zh": "司提反講述兄弟們兩次下埃及"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Egypt's harvests depended on the yearly flooding of the Nile, not on rain, so Egypt often had grain when famine struck Canaan.",
+          "A tomb painting at Beni Hasan in Egypt, from about 1890 BC, shows a group of 37 people from western Asia arriving in Egypt.",
+          "Egyptian and the Semitic language of Jacob's family were very different, so Joseph could speak to his brothers through an interpreter (42:23)."
+        ],
+        "zh": [
+          "埃及的收成靠每年尼羅河氾濫，不靠雨水，所以迦南有饑荒時，埃及往往仍有糧食。",
+          "埃及貝尼哈桑一座約公元前1890年的墓中壁畫，描繪了三十七個從西亞來到埃及的人。",
+          "埃及話和雅各家所說的閃族語言差別很大，所以約瑟可以藉着傳譯和哥哥們說話（42章23節）。"
+        ]
+      },
+      "maps": [
+        "western-asia"
+      ],
+      "felt": {
+        "find": "donkey"
+      },
+      "connections": "Gen.45"
+    },
+    {
+      "n": 2,
+      "title": {
+        "en": "Jacob's family moves to Egypt",
+        "zh": "雅各全家下埃及"
+      },
+      "passages": [
+        "Gen.46-47",
+        "Gen.50.15-21"
+      ],
+      "key": "Gen.46.3-4",
+      "points": {
+        "en": [
+          "At Beersheba God tells Jacob not to fear going to Egypt: he will make him a great nation there.",
+          "Jacob's household, seventy persons in all, comes to Egypt with their livestock.",
+          "Joseph meets his father in Goshen, throws his arms around his neck and weeps a long time.",
+          "Pharaoh gives them the best of the land, in Goshen, and Jacob, aged 130, blesses Pharaoh.",
+          "As the famine goes on, Joseph buys all the land of Egypt for Pharaoh in exchange for food.",
+          "Jacob lives seventeen years in Egypt and makes Joseph swear to bury him with his fathers.",
+          "After Jacob dies, Joseph tells his fearful brothers: you planned evil, but God planned it for good."
+        ],
+        "zh": [
+          "在別是巴，神對雅各說：不要害怕下埃及去，他要在那裏使雅各成為大國。",
+          "雅各全家共七十人，帶着牲畜來到埃及。",
+          "約瑟在歌珊迎見父親，抱住他的頸項，哭了許久。",
+          "法老把歌珊這上好的地給了他們；一百三十歲的雅各給法老祝福。",
+          "饑荒持續，約瑟用糧食換取埃及全地，歸給法老。",
+          "雅各在埃及住了十七年，又叫約瑟起誓，要把他葬在祖先的墳地。",
+          "雅各死後，哥哥們害怕，約瑟對他們說：你們有意害我，神卻有意使它變為好事。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Gen.15.13-14",
+          "about": {
+            "en": "God tells Abram his offspring will be foreigners and slaves",
+            "zh": "神告訴亞伯蘭，他的後裔要寄居外地受奴役"
+          }
+        },
+        {
+          "ref": "Acts.7.14-16",
+          "about": {
+            "en": "Stephen tells of Jacob's family going down to Egypt",
+            "zh": "司提反講述雅各全家下埃及"
+          }
+        },
+        {
+          "ref": "Heb.11.22",
+          "about": {
+            "en": "Joseph speaks of the exodus and gives orders about his bones",
+            "zh": "約瑟提到出埃及的事，又吩咐安葬他的骸骨"
+          }
+        },
+        {
+          "ref": "Exod.13.19",
+          "about": {
+            "en": "Moses takes Joseph's bones out of Egypt",
+            "zh": "摩西把約瑟的骸骨帶出埃及"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Goshen was in the eastern Nile Delta, good grazing land on the route toward Canaan; its exact borders are not known.",
+          "\"The region of Rameses\" (47:11) probably takes its name from the later city Pi-Ramesses, built by Ramesses II at Qantir in the eastern Delta.",
+          "Egyptians embalmed their dead; Genesis 50 says Jacob's embalming took forty days and Egypt mourned him seventy days."
+        ],
+        "zh": [
+          "歌珊位於尼羅河三角洲東部，是適合放牧的好地方，靠近往迦南的道路；確實的邊界已無從得知。",
+          "「蘭塞地」（47章11節）的名稱大概來自後來的培爾‧拉美西斯城；那城由拉美西斯二世建於三角洲東部的坎提爾。",
+          "埃及人有用香料保存屍體的習俗；創世記50章說雅各的屍體用了四十天保存，埃及人為他哀哭七十天。"
+        ]
+      },
+      "maps": [
+        "western-asia",
+        "exodus"
+      ],
+      "felt": {
+        "find": "sheep"
+      },
+      "connections": "Gen.46"
+    },
+    {
+      "n": 3,
+      "title": {
+        "en": "Jacob blesses his sons",
+        "zh": "雅各為兒子們祝福"
+      },
+      "passages": [
+        "Gen.49"
+      ],
+      "key": "Gen.49.8-10",
+      "points": {
+        "en": [
+          "Jacob gathers his sons to tell them what will happen to them in the days to come.",
+          "Reuben, the firstborn, will not be first, because he went up onto his father's bed.",
+          "Simeon and Levi will be scattered in Israel because of their violent anger.",
+          "Judah is a lion's cub; the scepter will not depart from Judah, and the peoples will obey him.",
+          "Joseph is a fruitful vine, kept strong by the Mighty One of Jacob and blessed by the Almighty.",
+          "Jacob speaks to each son, and these are the twelve tribes of Israel.",
+          "He asks to be buried in the cave of Machpelah with Abraham and Isaac, then breathes his last."
+        ],
+        "zh": [
+          "雅各召集兒子們，要告訴他們日後必遇的事。",
+          "長子流便不再居首位，因為他上了父親的床。",
+          "西緬和利未因為暴烈的怒氣，必分散在以色列中。",
+          "猶大是隻小獅子；權杖必不離開猶大，萬民都要歸順他。",
+          "約瑟是多結果子的葡萄樹，雅各的大能者使他強壯，全能者賜福給他。",
+          "雅各向每個兒子說話；這些就是以色列的十二支派。",
+          "他吩咐兒子們把他葬在麥比拉洞，與亞伯拉罕和以撒在一起，然後氣絕而死。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Gen.48.13-20",
+          "about": {
+            "en": "Jacob blesses Joseph's sons, putting Ephraim first",
+            "zh": "雅各為約瑟的兒子祝福，立以法蓮在前"
+          }
+        },
+        {
+          "ref": "Gen.50.12-13",
+          "about": {
+            "en": "Jacob's sons bury him at Machpelah",
+            "zh": "雅各的兒子們把他葬在麥比拉洞"
+          }
+        },
+        {
+          "ref": "Heb.11.21",
+          "about": {
+            "en": "By faith Jacob blessed Joseph's sons",
+            "zh": "雅各因着信為約瑟的兩個兒子祝福"
+          }
+        },
+        {
+          "ref": "Rev.5.5",
+          "about": {
+            "en": "\"The Lion of the tribe of Judah\" has conquered",
+            "zh": "「猶大支派中的獅子」已經得勝"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "The cave of Machpelah is at Hebron; the Cave of the Patriarchs there, inside a great wall built under Herod the Great, is traditionally the site.",
+          "In the later division of the land, Levi received towns rather than a territory, and Joseph's portion went to two tribes, Ephraim and Manasseh.",
+          "The meaning of \"until Shiloh comes\" (49:10) is uncertain: it is read as a name, as \"to whom it belongs\", or as the town of Shiloh."
+        ],
+        "zh": [
+          "麥比拉洞在希伯崙；傳統上認為就是那裏的「列祖之墓」，外面圍着希律王時代建造的高大石牆。",
+          "後來分地時，利未只得了城邑，沒有地業；約瑟的一分歸給兩個支派，就是以法蓮和瑪拿西。",
+          "「直到細羅來到」（49章10節）的意思並不確定：有人解作人名，有人解作「直到那屬於他的來到」，也有人解作示羅城。"
+        ]
+      },
+      "maps": [
+        "western-asia"
+      ],
+      "felt": {
+        "find": "lion"
+      },
+      "connections": "Gen.49"
+    },
+    {
+      "n": 4,
+      "title": {
+        "en": "Israel multiplies and is enslaved",
+        "zh": "以色列人增多，淪為奴隸"
+      },
+      "passages": [
+        "Exod.1"
+      ],
+      "key": "Exod.1.8-11",
+      "points": {
+        "en": [
+          "Jacob's descendants are in Egypt; Joseph and all his generation die.",
+          "The Israelites are fruitful and grow very strong, so that the land is filled with them.",
+          "A new king who did not know about Joseph fears them and puts slave masters over them.",
+          "They build Pithom and Rameses for Pharaoh, yet the more they are oppressed, the more they multiply.",
+          "The king tells the Hebrew midwives, Shiphrah and Puah, to kill every baby boy.",
+          "The midwives fear God and let the boys live, and God is good to them.",
+          "Pharaoh orders all his people to throw every newborn son into the Nile."
+        ],
+        "zh": [
+          "雅各的後代住在埃及；約瑟和他那一代的人都死了。",
+          "以色列人生養眾多，極其強盛，遍滿了那地。",
+          "一個不認識約瑟的新王懼怕他們，派監工管轄他們。",
+          "他們為法老建造比東和蘭塞；但越受壓迫，人數越多。",
+          "埃及王吩咐希伯來的接生婦施弗拉和普阿，把男嬰都殺掉。",
+          "接生婦敬畏神，讓男孩活下來；神就厚待她們。",
+          "法老吩咐他所有的百姓，把生下來的男孩都丟進尼羅河。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Gen.15.13-14",
+          "about": {
+            "en": "God foretells that Abram's offspring will be enslaved",
+            "zh": "神預言亞伯蘭的後裔要受奴役"
+          }
+        },
+        {
+          "ref": "Acts.7.17-19",
+          "about": {
+            "en": "Stephen: a king who did not know Joseph oppresses Israel",
+            "zh": "司提反說：不認識約瑟的王苦待以色列人"
+          }
+        },
+        {
+          "ref": "Matt.2.16",
+          "about": {
+            "en": "Herod kills the baby boys of Bethlehem",
+            "zh": "希律殺了伯利恆的男孩"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Egypt built mostly with mud bricks; a tomb painting of Rekhmire, an official of about 1450 BC, shows foreign workers making bricks.",
+          "Pithom and Rameses were in the eastern Nile Delta. Rameses is usually linked with Pi-Ramesses (Qantir); Pithom with Tell el-Maskhuta or Tell er-Retaba.",
+          "The Bible does not name this pharaoh; scholars differ on his reign, depending on how they date the exodus."
+        ],
+        "zh": [
+          "埃及的建築多用泥磚；約公元前1450年官員雷克米爾墓中的壁畫，描繪了外族工人製磚的情景。",
+          "比東和蘭塞在尼羅河三角洲東部。蘭塞通常認為是培爾‧拉美西斯（坎提爾）；比東則有馬斯胡塔丘或雷塔巴丘兩說。",
+          "聖經沒有說出這位法老的名字；學者對他是哪一位意見不一，視乎他們把出埃及定在哪個年代。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "story": "moses"
+      },
+      "connections": "Exod.1"
+    },
+    {
+      "n": 5,
+      "title": {
+        "en": "Hiding baby Moses",
+        "zh": "藏起嬰孩摩西"
+      },
+      "passages": [
+        "Exod.2.1-10"
+      ],
+      "key": "Exod.2.7-10",
+      "points": {
+        "en": [
+          "A Levite man and woman have a son; she sees he is a fine child and hides him for three months.",
+          "She puts him in a papyrus basket coated with tar and sets it among the reeds by the Nile.",
+          "His sister stands at a distance to see what will happen to him.",
+          "Pharaoh's daughter finds the crying baby and feels sorry for him: \"one of the Hebrews' children.\"",
+          "His sister offers to find a Hebrew nurse and calls the child's own mother.",
+          "When he is older, he becomes the princess's son. She names him Moses: \"I drew him out of the water.\""
+        ],
+        "zh": [
+          "一個利未男人和利未女子生了一個兒子；母親見他俊美，把他藏了三個月。",
+          "她把孩子放在塗了柏油的紙莎草籃子裏，放在尼羅河邊的蘆葦中。",
+          "孩子的姊姊遠遠站着，要看看他會怎樣。",
+          "法老的女兒發現了正在哭的嬰孩，可憐他，說：「這是希伯來人的孩子。」",
+          "姊姊提議去找一個希伯來奶媽，就把孩子的母親叫了來。",
+          "孩子長大後，成了公主的兒子。她給他取名叫摩西，說：「因為我把他從水裏拉了出來。」"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Num.26.59",
+          "about": {
+            "en": "Moses' parents Amram and Jochebed, and his sister Miriam",
+            "zh": "摩西的父母暗蘭和約基別，以及姊姊米利暗"
+          }
+        },
+        {
+          "ref": "Acts.7.20-22",
+          "about": {
+            "en": "Stephen: Moses brought up and trained in Egypt",
+            "zh": "司提反說：摩西在埃及長大受教育"
+          }
+        },
+        {
+          "ref": "Heb.11.23",
+          "about": {
+            "en": "By faith Moses' parents hid him for three months",
+            "zh": "摩西的父母因着信把他藏了三個月"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Papyrus grew thickly along the Nile; Egyptians used it for baskets, rope, boats and writing material.",
+          "Moses is probably an Egyptian name, like the \"-mose\" in Ahmose and Thutmose; Exodus links it with the Hebrew verb \"draw out\".",
+          "The Hebrew word for the basket, tevah, is used elsewhere only for Noah's ark."
+        ],
+        "zh": [
+          "尼羅河邊長滿紙莎草；埃及人用它來編籃子、搓繩、造船和造紙。",
+          "「摩西」很可能是埃及名字，與雅赫摩斯、圖特摩斯等名字中的「摩斯」相同；出埃及記把它和希伯來文「拉出來」一詞連在一起。",
+          "這「籃子」的希伯來文 tevah，在聖經別處只用於挪亞的方舟。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "story": "moses"
+      },
+      "connections": "Exod.2"
+    },
+    {
+      "n": 6,
+      "title": {
+        "en": "Moses flees to Midian",
+        "zh": "摩西逃往米甸"
+      },
+      "passages": [
+        "Exod.2.11-25"
+      ],
+      "key": "Exod.2.23-25",
+      "points": {
+        "en": [
+          "Grown up, Moses sees an Egyptian beating a Hebrew. He kills the Egyptian and hides him in the sand.",
+          "The next day a Hebrew asks him, \"Who made you a ruler and judge over us?\" Moses is afraid.",
+          "Pharaoh tries to kill Moses, so he flees to the land of Midian and sits down by a well.",
+          "He rescues the seven daughters of the priest of Midian from shepherds and waters their flock.",
+          "Their father Reuel gives Moses his daughter Zipporah; their son is Gershom: \"a foreigner in a foreign land.\"",
+          "The king of Egypt dies. The Israelites cry out, and God remembers his covenant with Abraham, Isaac and Jacob."
+        ],
+        "zh": [
+          "摩西長大後，看見一個埃及人毆打希伯來人，就打死那埃及人，把他埋在沙土裏。",
+          "第二天，一個希伯來人問他：「誰立你作我們的首領和審判官呢？」摩西就害怕了。",
+          "法老想殺摩西，摩西就逃到米甸地，坐在一口井旁。",
+          "他救了米甸祭司的七個女兒，不讓牧人欺負她們，又替她們給羊群喝水。",
+          "她們的父親流珥把女兒西坡拉嫁給摩西；他們的兒子叫革舜，因為摩西說：「我在外地作了外人。」",
+          "埃及王死了。以色列人哀號求救，神就記起他與亞伯拉罕、以撒和雅各所立的約。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Acts.7.23-29",
+          "about": {
+            "en": "Stephen: Moses at forty, and his flight to Midian",
+            "zh": "司提反講述摩西四十歲時的事和逃往米甸"
+          }
+        },
+        {
+          "ref": "Heb.11.24-27",
+          "about": {
+            "en": "By faith Moses refused to be called the son of Pharaoh's daughter",
+            "zh": "摩西因着信不肯稱為法老女兒的兒子"
+          }
+        },
+        {
+          "ref": "Exod.18.1-12",
+          "about": {
+            "en": "Jethro, Moses' father-in-law, visits him after the exodus",
+            "zh": "摩西的岳父葉忒羅在出埃及後來探望他"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Midian lay east of the Gulf of Aqaba, in northwest Arabia; Midianite herders also roamed Sinai and the Negev.",
+          "The priest of Midian is called Reuel here and Jethro in 3:1 and 18:1; scholars differ on why he has two names.",
+          "Stephen says Moses was forty when he fled and spent forty years in Midian (Acts 7:23, 30); Exodus 7:7 gives his age as eighty before Pharaoh."
+        ],
+        "zh": [
+          "米甸位於亞喀巴灣以東，在今天阿拉伯半島西北部；米甸的牧民也在西奈和南地一帶遊牧。",
+          "米甸祭司在這裏叫流珥，在3章1節和18章1節叫葉忒羅；學者對他為何有兩個名字看法不一。",
+          "司提反說摩西逃走時四十歲，在米甸住了四十年（使徒行傳7章23、30節）；出埃及記7章7節說他見法老時八十歲。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "find": "well"
+      },
+      "connections": "Exod.2"
+    },
+    {
+      "n": 7,
+      "title": {
+        "en": "God calls Moses",
+        "zh": "神呼召摩西"
+      },
+      "passages": [
+        "Exod.3-4"
+      ],
+      "key": "Exod.3.11-14",
+      "points": {
+        "en": [
+          "Tending Jethro's flock at Horeb, Moses sees a bush burning with fire but not burned up.",
+          "God calls from the bush: take off your sandals; I am the God of Abraham, Isaac and Jacob.",
+          "The LORD has seen his people's misery and sends Moses to Pharaoh to bring them out of Egypt.",
+          "Moses asks, \"Who am I?\" God says, \"I will be with you,\" and gives his name: \"I am who I am.\"",
+          "God gives signs: the staff becomes a snake, his hand becomes diseased and is healed, Nile water will become blood.",
+          "Moses says he is slow of speech and asks God to send someone else; God appoints Aaron to speak for him.",
+          "Moses returns to Egypt. Aaron tells the elders, and the people believe and worship."
+        ],
+        "zh": [
+          "摩西在何烈山放葉忒羅的羊，看見荊棘被火燒着，卻沒有燒毀。",
+          "神從荊棘中呼叫他：把鞋脫下來；我是亞伯拉罕、以撒、雅各的神。",
+          "耶和華看見了他子民的苦情，要差摩西去見法老，把他們從埃及領出來。",
+          "摩西說：「我是甚麼人？」神說：「我必與你同在。」又說出自己的名：「我就是我。」",
+          "神賜他神蹟：杖變成蛇，手長了皮膚病又復原，尼羅河的水要變成血。",
+          "摩西說自己拙口笨舌，求神差別人去；神就派亞倫替他說話。",
+          "摩西回到埃及。亞倫把話告訴長老，百姓就信了，並且下拜敬拜。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Acts.7.30-34",
+          "about": {
+            "en": "Stephen tells of the burning bush",
+            "zh": "司提反講述燃燒的荊棘"
+          }
+        },
+        {
+          "ref": "Mark.12.26",
+          "about": {
+            "en": "Jesus quotes God's words to Moses at the bush",
+            "zh": "耶穌引用神在荊棘中對摩西說的話"
+          }
+        },
+        {
+          "ref": "John.8.58",
+          "about": {
+            "en": "Jesus: \"Before Abraham was, I am\"",
+            "zh": "耶穌說：「還沒有亞伯拉罕，我就是。」"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Horeb is another name for Mount Sinai. Its location is uncertain; Jebel Musa in southern Sinai is the traditional site, with St Catherine's Monastery (6th century AD) at its foot.",
+          "God's name, the LORD (Hebrew YHWH, probably pronounced Yahweh), is linked in 3:14–15 with the verb \"to be\". Later Jews avoided saying it and read \"Adonai\" (Lord) instead."
+        ],
+        "zh": [
+          "何烈山是西奈山的另一個名字，位置並不確定；傳統認為是西奈半島南部的穆薩山，山腳有公元六世紀建的聖凱瑟琳修道院。",
+          "神的名字「耶和華」（希伯來文 YHWH，讀音可能是「雅威」），在3章14至15節與「是」這個動詞相連。後來猶太人避免念出這名，改讀「阿多乃」（主）。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "find": "bush"
+      },
+      "connections": "Exod.3"
+    },
+    {
+      "n": 8,
+      "title": {
+        "en": "Moses before Pharaoh",
+        "zh": "摩西見法老"
+      },
+      "passages": [
+        "Exod.5-6"
+      ],
+      "key": "Exod.6.6-8",
+      "points": {
+        "en": [
+          "Moses and Aaron tell Pharaoh, \"Let my people go.\" Pharaoh answers, \"Who is the LORD? I do not know the LORD.\"",
+          "Pharaoh stops giving the people straw, yet demands the same number of bricks.",
+          "The Israelite foremen are beaten, and they blame Moses and Aaron.",
+          "Moses asks the LORD, \"Why have you brought trouble on this people? Why did you ever send me?\"",
+          "God says, \"I am the LORD\": he will bring them out, take them as his people and give them the land.",
+          "The Israelites do not listen to Moses, because they are so discouraged and their labor is so hard.",
+          "A list of Levi's family shows the line of Moses and Aaron."
+        ],
+        "zh": [
+          "摩西和亞倫對法老說：「讓我的子民走。」法老說：「耶和華是誰？我不認識耶和華。」",
+          "法老不再給百姓草，卻要他們做出和從前一樣多的磚。",
+          "以色列的工頭被打，就埋怨摩西和亞倫。",
+          "摩西問耶和華：「你為甚麼苦待這百姓？為甚麼差我來？」",
+          "神說：「我是耶和華。」他要領他們出來，以他們為子民，把那地賜給他們。",
+          "以色列人因為灰心和苦工，不肯聽摩西的話。",
+          "經文列出利未的家譜，記下摩西和亞倫的家系。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Gen.17.7-8",
+          "about": {
+            "en": "God's covenant with Abraham: to be their God and give the land",
+            "zh": "神與亞伯拉罕立約：作他們的神，賜他們那地"
+          }
+        },
+        {
+          "ref": "Ps.105.23-27",
+          "about": {
+            "en": "A psalm: Israel in Egypt, and God sends Moses and Aaron",
+            "zh": "詩篇：以色列在埃及，神差派摩西和亞倫"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Egyptian bricks were made of Nile mud mixed with straw or chaff, shaped in wooden molds and dried in the sun.",
+          "An Egyptian leather scroll from the reign of Ramesses II (13th century BC) records daily brick quotas set for work gangs.",
+          "\"Pharaoh\" comes from the Egyptian for \"great house\", first meaning the palace and later the king himself."
+        ],
+        "zh": [
+          "埃及的磚用尼羅河的泥加上草或糠，放在木模裏成形，再在太陽下曬乾。",
+          "一卷拉美西斯二世時期（公元前十三世紀）的埃及皮卷，記載了給工人隊伍定下的每日造磚數額。",
+          "「法老」來自埃及文「大房子」一詞，起初指王宮，後來用來稱呼國王本人。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "story": "moses"
+      },
+      "connections": "Exod.5"
+    },
+    {
+      "n": 9,
+      "title": {
+        "en": "The plagues begin",
+        "zh": "災禍開始"
+      },
+      "passages": [
+        "Exod.7-9"
+      ],
+      "key": "Exod.7.3-5",
+      "points": {
+        "en": [
+          "Aaron's staff becomes a serpent and swallows the staffs of Pharaoh's magicians, but Pharaoh's heart grows hard.",
+          "Aaron strikes the Nile, and its water turns to blood; the fish die and the river stinks.",
+          "Frogs cover the land. Pharaoh asks Moses to pray, but when there is relief he makes his heart stubborn.",
+          "Dust becomes gnats. The magicians cannot copy it and say, \"This is the finger of God.\"",
+          "Swarms of flies fill Egypt, but not the land of Goshen, where the Israelites live.",
+          "The Egyptians' livestock die, and soot thrown into the air brings boils on people and animals.",
+          "Hail and fire strike Egypt, but not Goshen. Pharaoh says, \"I have sinned,\" then hardens his heart again."
+        ],
+        "zh": [
+          "亞倫的杖變成蛇，吞了法老術士的杖；法老的心卻剛硬。",
+          "亞倫擊打尼羅河，河水變成血，魚都死了，河也發臭。",
+          "青蛙遍滿全地。法老求摩西禱告，災禍一停，他又頑固起來。",
+          "塵土變成蚊子。術士做不到，就說：「這是神的手指。」",
+          "成群的蒼蠅遍滿埃及，以色列人所住的歌珊地卻沒有。",
+          "埃及人的牲畜死了；摩西把爐灰揚向空中，人和牲畜都長了毒瘡。",
+          "冰雹和火降在埃及，歌珊地卻沒有。法老說：「我犯了罪。」後來又硬着心。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Ps.105.26-33",
+          "about": {
+            "en": "A psalm recounts the plagues on Egypt",
+            "zh": "詩篇追述埃及所受的災禍"
+          }
+        },
+        {
+          "ref": "Luke.11.20",
+          "about": {
+            "en": "Jesus drives out demons \"by the finger of God\"",
+            "zh": "耶穌「靠神的手指」趕鬼"
+          }
+        },
+        {
+          "ref": "Rom.9.17",
+          "about": {
+            "en": "Paul quotes God's words to Pharaoh (Exodus 9:16)",
+            "zh": "保羅引用神對法老說的話（出9章16節）"
+          }
+        },
+        {
+          "ref": "Rev.16.2-4",
+          "about": {
+            "en": "The bowls of wrath: sores, and seas and rivers turned to blood",
+            "zh": "盛怒的碗：毒瘡，海和江河變成血"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Almost all Egyptians lived in the narrow Nile valley and delta; they honored the river's yearly flood as the god Hapi.",
+          "In Egypt barley and flax ripen around February and March, wheat and spelt about a month later, as 9:31–32 describes.",
+          "This site follows the Hebrew numbering: Exodus 7:26–29 and 8:1–28 here are 8:1–32 in most English Bibles."
+        ],
+        "zh": [
+          "幾乎所有埃及人都住在狹長的尼羅河谷和三角洲；他們把每年的河水氾濫尊為哈比神。",
+          "在埃及，大麥和亞麻約在二、三月成熟，小麥和粗麥晚一個月左右，與9章31至32節所說的相合。",
+          "本站依照希伯來文的節數：這裏的出埃及記7章26至29節和8章1至28節，在多數英文聖經是8章1至32節。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "story": "moses"
+      },
+      "connections": "Exod.8"
+    },
+    {
+      "n": 10,
+      "title": {
+        "en": "The last plagues",
+        "zh": "最後的災禍"
+      },
+      "passages": [
+        "Exod.10-11"
+      ],
+      "key": "Exod.11.4-7",
+      "points": {
+        "en": [
+          "Pharaoh's officials beg him to let the people go, but he will let only the men go.",
+          "An east wind brings locusts that eat every plant the hail has left.",
+          "Pharaoh admits his sin; a west wind drives the locusts into the Red Sea, but he does not let Israel go.",
+          "Thick darkness covers Egypt for three days, but the Israelites have light where they live.",
+          "Pharaoh would keep their flocks; Moses refuses, and Pharaoh tells him never to see his face again.",
+          "Moses announces that about midnight every firstborn in Egypt will die, but not among the Israelites."
+        ],
+        "zh": [
+          "法老的臣僕求他放百姓走，他卻只准男人去。",
+          "東風颳來蝗蟲，把冰雹打剩的植物都吃光了。",
+          "法老承認自己有罪；西風把蝗蟲颳進紅海，他卻仍不放以色列人走。",
+          "濃密的黑暗籠罩埃及三天，以色列人住的地方卻有亮光。",
+          "法老要留下他們的牛羊，摩西不肯；法老就叫他永遠不要再見他的面。",
+          "摩西宣告：約在半夜，埃及所有頭生的都要死，以色列人中卻不會這樣。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Ps.78.43-51",
+          "about": {
+            "en": "A psalm recalls the signs in Egypt, down to the firstborn",
+            "zh": "詩篇追述在埃及的神蹟，直到擊殺長子"
+          }
+        },
+        {
+          "ref": "Rev.16.10",
+          "about": {
+            "en": "The fifth bowl plunges the beast's kingdom into darkness",
+            "zh": "第五碗使獸的國度陷入黑暗"
+          }
+        },
+        {
+          "ref": "Exod.12.29-32",
+          "about": {
+            "en": "The last plague comes, and Pharaoh lets Israel go",
+            "zh": "最後的災禍臨到，法老讓以色列人走"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Desert locust swarms still strike Egypt and the Near East; one swarm can hold hundreds of millions of insects and strip fields in hours.",
+          "Egyptians worshiped the sun god Ra as one of their chief gods, and the pharaoh was called \"son of Ra\"."
+        ],
+        "zh": [
+          "沙漠蝗蟲至今仍侵襲埃及和近東；一群蝗蟲可達數以億計，幾小時內就能把田地吃光。",
+          "埃及人敬拜太陽神拉，視他為主要的神明之一；法老被稱為「拉的兒子」。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "story": "moses"
+      },
+      "connections": "Exod.10"
+    },
+    {
+      "n": 11,
+      "title": {
+        "en": "The Passover",
+        "zh": "逾越節"
+      },
+      "passages": [
+        "Exod.12"
+      ],
+      "key": "Exod.12.13-14",
+      "points": {
+        "en": [
+          "The LORD tells Moses and Aaron that this month will be the first month of their year.",
+          "Each household is to take a lamb without defect and slaughter it at twilight on the fourteenth day.",
+          "They put its blood on the doorposts and eat it roasted, with unleavened bread and bitter herbs, ready to leave.",
+          "\"When I see the blood, I will pass over you\": the LORD will strike every firstborn in Egypt.",
+          "At midnight every firstborn in Egypt dies, and Pharaoh tells Moses and Aaron to go.",
+          "The Israelites leave in haste with unrisen dough, setting out from Rameses for Succoth.",
+          "About six hundred thousand men on foot go out, after 430 years in Egypt."
+        ],
+        "zh": [
+          "耶和華對摩西和亞倫說，這個月要作他們一年的第一個月。",
+          "每家要取一隻沒有殘疾的羊羔，在十四日黃昏宰殺。",
+          "他們要把血塗在門框上，把羊羔烤了，和無酵餅、苦菜一同吃，並且要穿戴整齊準備起行。",
+          "「我一看見這血，就越過你們去。」耶和華要擊殺埃及地所有頭生的。",
+          "半夜，埃及所有頭生的都死了；法老叫摩西和亞倫離去。",
+          "以色列人帶着還沒發起的麵團匆匆離開，從蘭塞起行往疏割去。",
+          "步行的男人約有六十萬；他們在埃及住了四百三十年。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Luke.22.7-8",
+          "about": {
+            "en": "Jesus sends Peter and John to prepare the Passover",
+            "zh": "耶穌打發彼得和約翰去預備逾越節"
+          }
+        },
+        {
+          "ref": "1Cor.5.7",
+          "about": {
+            "en": "\"Christ, our Passover lamb, has been sacrificed\"",
+            "zh": "「我們逾越節的羊羔基督已經被獻為祭」"
+          }
+        },
+        {
+          "ref": "John.1.29",
+          "about": {
+            "en": "John: \"Look, the Lamb of God\"",
+            "zh": "約翰說：「看哪，神的羔羊！」"
+          }
+        },
+        {
+          "ref": "John.19.36",
+          "about": {
+            "en": "\"Not one of his bones will be broken\" (Exodus 12:46)",
+            "zh": "「他的骨頭一根也不可折斷」（出12章46節）"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Jews still keep Passover (Hebrew Pesach) each spring, in the month of Nisan (Abib in 13:4), in March or April.",
+          "Hyssop (12:22), used to put on the blood, is probably Syrian marjoram, a small bushy plant.",
+          "Many date the exodus to about 1446 BC; others to about 1260 BC."
+        ],
+        "zh": [
+          "猶太人至今每年春天守逾越節（希伯來文 Pesach），在尼散月（13章4節稱亞筆月），約在公曆三、四月間。",
+          "用來塗血的牛膝草（12章22節），很可能是敘利亞馬鬱蘭，一種矮小叢生的植物。",
+          "許多人把出埃及定在約公元前1446年，也有人定在約公元前1260年。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "find": "lamb"
+      },
+      "connections": "Exod.12"
+    },
+    {
+      "n": 12,
+      "title": {
+        "en": "The parting of the Red Sea",
+        "zh": "紅海分開"
+      },
+      "passages": [
+        "Exod.13.17-14.31"
+      ],
+      "key": "Exod.14.21-22",
+      "points": {
+        "en": [
+          "God leads the people by the wilderness road toward the Red Sea, not through the land of the Philistines. Moses takes Joseph's bones.",
+          "The LORD goes ahead of them in a pillar of cloud by day and a pillar of fire by night.",
+          "Pharaoh pursues with six hundred select chariots and overtakes them camped by the sea.",
+          "The terrified people cry out. Moses says, \"The LORD will fight for you. You need only to be still.\"",
+          "Moses stretches out his hand; a strong east wind drives the sea back all night, and Israel crosses on dry ground.",
+          "The Egyptians follow; at daybreak the waters return and cover Pharaoh's whole army.",
+          "The people fear the LORD and believe in the LORD and in his servant Moses."
+        ],
+        "zh": [
+          "神領百姓走曠野的路往紅海去，不經過非利士人的地。摩西帶着約瑟的骸骨。",
+          "耶和華在他們前面行，日間在雲柱中，夜間在火柱中。",
+          "法老帶着六百輛精選的戰車追趕，在海邊追上了安營的以色列人。",
+          "百姓非常害怕，大聲哀求。摩西說：「耶和華會為你們爭戰，你們只要安靜。」",
+          "摩西向海伸手，耶和華用強勁的東風整夜使海水退去，以色列人在海中走乾地。",
+          "埃及人追進海中；天亮時海水回流，淹沒了法老的全軍。",
+          "百姓就敬畏耶和華，信服耶和華和他的僕人摩西。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Exod.15.1-21",
+          "about": {
+            "en": "Moses and Miriam sing to the LORD",
+            "zh": "摩西和米利暗向耶和華歌唱"
+          }
+        },
+        {
+          "ref": "Ps.106.9-12",
+          "about": {
+            "en": "A psalm: God led them through the depths",
+            "zh": "詩篇：神領他們經過深水"
+          }
+        },
+        {
+          "ref": "1Cor.10.1-2",
+          "about": {
+            "en": "Paul: all passed through the sea, under the cloud",
+            "zh": "保羅說：他們都在雲下，都從海中經過"
+          }
+        },
+        {
+          "ref": "Heb.11.29",
+          "about": {
+            "en": "By faith the people crossed the Red Sea",
+            "zh": "百姓因着信過紅海"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "\"Red Sea\" is in Hebrew yam suph, \"sea of reeds\"; the same name is used for the Gulf of Aqaba. The crossing place is uncertain.",
+          "\"The road through the land of the Philistines\" was the coastal road from Egypt to Canaan, guarded by a chain of Egyptian forts.",
+          "Egyptian chariots were light, two-wheeled and drawn by two horses, usually carrying a driver and a warrior."
+        ],
+        "zh": [
+          "「紅海」的希伯來文是 yam suph，意思是「蘆葦海」；亞喀巴灣也用這名字。過海的確實地點並不確定。",
+          "「經過非利士人之地的路」是從埃及到迦南的沿海大道，沿路有一連串埃及的堡壘把守。",
+          "埃及的戰車輕巧，有兩個輪子，由兩匹馬拉動，通常載着一個駕車的和一個戰士。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "story": "moses"
+      },
+      "connections": "Exod.14"
+    }
+  ]
+}

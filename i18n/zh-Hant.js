@@ -2412,5 +2412,9 @@ I18N.add({
  "The Bible tells one complete story.": "聖經講述一個完整的故事。",
  "Review, or catching up": "複習或補課",
  "New": "新",
- "Changed": "已修改"
+ "Changed": "已修改",
+ "Resource Room · Teaching Resources": "資源室 · 教學資源",
+ "The major stories and themes of the whole Bible, from Genesis to Revelation, in three years: twelve quarters of thirteen weeks, each quarter one part of the story. Each week is one lesson, on one page; the thirteenth week of each quarter is kept for review.": "整本聖經的主要故事和主題，從創世記到啟示錄，三年教完：十二季，每季十三週，每季講故事的一部分。每週一課，一課一頁；每季第十三週留作複習。",
+ "This lesson isn't ready yet.": "這一課還沒有準備好。",
+ "Lesson · The Complete Bible Story · BibleData.org": "課程 · 完整的聖經故事 · BibleData.org"
 });

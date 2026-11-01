@@ -1,0 +1,544 @@
+{
+  "q": 2,
+  "lessons": [
+    {
+      "n": 1,
+      "title": { "en": "God calls Abram", "zh": "神呼召亞伯蘭" },
+      "passages": ["Gen.12.1-9"],
+      "key": "Gen.12.1-3",
+      "points": {
+        "en": [
+          "The LORD tells Abram to leave his land and family and go to the land he will show him.",
+          "God promises to make him a great nation; in him all the families of the earth will be blessed.",
+          "Abram goes, at seventy-five, from Haran with his wife Sarai and his nephew Lot.",
+          "At Shechem the LORD says, \"To your offspring I will give this land\"; Abram builds an altar.",
+          "Between Bethel and Ai he builds another altar and calls on the name of the LORD.",
+          "Abram journeys on by stages toward the Negev."
+        ],
+        "zh": [
+          "耶和華吩咐亞伯蘭離開本地和親族，往他要指示的地方去。",
+          "神應許使他成為大國；地上的萬族都要因他得福。",
+          "亞伯蘭七十五歲時，帶着妻子撒萊和姪兒羅得離開哈蘭。",
+          "在示劍，耶和華說：「我要把這地賜給你的後代。」亞伯蘭就築了一座壇。",
+          "他在伯特利和艾之間又築了一座壇，呼求耶和華的名。",
+          "亞伯蘭一路遷移，漸漸往南地去。"
+        ]
+      },
+      "readings": [
+        { "ref": "Gen.11.31-32", "about": { "en": "Terah takes Abram from Ur to Haran", "zh": "他拉帶亞伯蘭從吾珥到哈蘭" } },
+        { "ref": "Acts.7.2-4", "about": { "en": "Stephen tells of Abraham's call", "zh": "司提反講述亞伯拉罕蒙召" } },
+        { "ref": "Heb.11.8-10", "about": { "en": "By faith Abraham went out, not knowing where", "zh": "亞伯拉罕因着信出去，不知往哪裏去" } },
+        { "ref": "Gal.3.8", "about": { "en": "The good news announced beforehand to Abraham", "zh": "預先傳福音給亞伯拉罕" } }
+      ],
+      "history": {
+        "en": [
+          "Ur was a great city in southern Iraq, excavated by Leonard Woolley in 1922–34; Haran is still a village, Harran, in southeast Turkey.",
+          "Shechem is Tell Balata, beside modern Nablus; Bethel is usually placed at Beitin, north of Jerusalem.",
+          "Abraham is often dated to about 2000–1800 BC, but the dates are uncertain and scholars differ."
+        ],
+        "zh": [
+          "吾珥是伊拉克南部的大城，1922至1934年由伍利發掘；哈蘭今天仍是土耳其東南部的一個村莊，名叫哈蘭。",
+          "示劍就是今天納布盧斯旁的巴拉塔丘；伯特利一般認為在耶路撒冷以北的貝廷。",
+          "亞伯拉罕的年代常被定在約公元前2000至1800年，但並不確定，學者看法不一。"
+        ]
+      },
+      "maps": ["western-asia"],
+      "felt": { "story": "abraham" },
+      "connections": "Gen.12"
+    },
+    {
+      "n": 2,
+      "title": { "en": "Abram blessed by Melchizedek", "zh": "麥基洗德祝福亞伯蘭" },
+      "passages": ["Gen.14.13-24"],
+      "key": "Gen.14.18-20",
+      "points": {
+        "en": [
+          "Abram hears that his relative Lot has been taken captive by invading kings.",
+          "With 318 trained men he pursues them as far as Dan and brings back Lot and all the goods.",
+          "The king of Sodom comes out to meet Abram in the King's Valley.",
+          "Melchizedek, king of Salem and priest of God Most High, brings out bread and wine.",
+          "He blesses Abram by God Most High, Creator of heaven and earth; Abram gives him a tenth of everything.",
+          "Abram refuses to take even a thread or a sandal strap from the king of Sodom."
+        ],
+        "zh": [
+          "亞伯蘭聽見他的親人羅得被入侵的諸王擄去。",
+          "他帶着三百一十八個受過訓練的壯丁追趕到但，奪回了羅得和一切財物。",
+          "所多瑪王出來，到王谷迎接亞伯蘭。",
+          "撒冷王麥基洗德是至高的神的祭司，他帶着餅和酒出來。",
+          "他奉天地的主、至高的神祝福亞伯蘭；亞伯蘭把所得的十分之一給他。",
+          "亞伯蘭連一根線、一根鞋帶也不肯從所多瑪王那裏拿。"
+        ]
+      },
+      "readings": [
+        { "ref": "Ps.110.4", "about": { "en": "A priest forever, after the manner of Melchizedek", "zh": "照着麥基洗德的樣式永遠為祭司" } },
+        { "ref": "Heb.7.1-3", "about": { "en": "Melchizedek, king of righteousness and of peace", "zh": "麥基洗德是公義的王、平安的王" } },
+        { "ref": "Heb.5.5-6", "about": { "en": "Christ called a priest in the order of Melchizedek", "zh": "基督照麥基洗德的等次為祭司" } }
+      ],
+      "history": {
+        "en": [
+          "Salem is commonly identified with Jerusalem; Psalm 76 sets Salem beside Zion.",
+          "Dan lay at the far north of the land, at the foot of Mount Hermon; its ruins are at Tel Dan in northern Israel.",
+          "Giving a tenth (a tithe) of produce or plunder to a king or a temple was a known custom in the ancient Near East."
+        ],
+        "zh": [
+          "撒冷一般認為就是耶路撒冷；詩篇76篇把撒冷和錫安並列。",
+          "但在那地的最北端，位於黑門山腳下；遺址在今以色列北部的但丘。",
+          "把出產或戰利品的十分之一獻給君王或神廟，是古代近東常見的習俗。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "priest" },
+      "connections": "Gen.14"
+    },
+    {
+      "n": 3,
+      "title": { "en": "God's promise: land, nation, and a blessing for every nation", "zh": "神的應許：土地、國家，萬國得福" },
+      "passages": ["Gen.15", "Gen.17", "Gal.3.6-9", "Gal.3.16"],
+      "key": "Gen.15.5-6",
+      "points": {
+        "en": [
+          "Abram is childless; God brings him outside: \"Count the stars. So will your offspring be.\"",
+          "Abram believes the LORD, and he credits it to him as righteousness.",
+          "A smoking firepot and a flaming torch pass between cut animals; God gives the land by covenant.",
+          "At ninety-nine Abram is renamed Abraham, \"father of a multitude of nations\"; circumcision is the covenant's sign.",
+          "Sarai is renamed Sarah; God says she will bear a son, Isaac, and the covenant will be with him.",
+          "Paul writes that scripture announced the good news to Abraham: \"In you all the nations will be blessed.\"",
+          "The promises were spoken to Abraham and to his seed, who is Christ."
+        ],
+        "zh": [
+          "亞伯蘭沒有兒子；神領他出去，說：「你數數天上的星，你的後代也要這樣。」",
+          "亞伯蘭信耶和華，耶和華就以此算為他的義。",
+          "冒煙的爐和燒着的火把從切開的牲畜中間經過；神與他立約，把這地賜給他。",
+          "亞伯蘭九十九歲時改名亞伯拉罕，意思是「多國的父」；割禮是立約的記號。",
+          "撒萊改名撒拉；神說她要生一個兒子，名叫以撒，神要與他立約。",
+          "保羅寫道，經上預先傳福音給亞伯拉罕：「萬國都必因你得福。」",
+          "應許是向亞伯拉罕和他的後裔說的，這後裔就是基督。"
+        ]
+      },
+      "readings": [
+        { "ref": "Rom.4.18-22", "about": { "en": "Abraham did not waver concerning God's promise", "zh": "亞伯拉罕對神的應許總沒有疑惑" } },
+        { "ref": "Jer.34.18", "about": { "en": "Passing between the pieces of a calf to make a covenant", "zh": "從劈開的牛犢中間經過立約" } },
+        { "ref": "Heb.6.13-15", "about": { "en": "God swore by himself to Abraham", "zh": "神指着自己向亞伯拉罕起誓" } },
+        { "ref": "Gen.21.1-3", "about": { "en": "Sarah gives birth to Isaac", "zh": "撒拉生了以撒" } }
+      ],
+      "history": {
+        "en": [
+          "Cutting animals in two and passing between the pieces was a way of making a covenant; Jeremiah 34:18–19 describes the same rite.",
+          "Circumcision was also practised by some other ancient peoples, such as the Egyptians, but not by all.",
+          "The \"river of Egypt\" is often taken as the Wadi el-Arish in Sinai; the Euphrates flows through Syria and Iraq."
+        ],
+        "zh": [
+          "把牲畜劈成兩半，從中間經過，是古代立約的方式；耶利米書34章18至19節記載了同樣的禮儀。",
+          "其他一些古代民族，如埃及人，也行割禮，但不是所有民族都這樣做。",
+          "「埃及河」常被認為是西奈半島的阿里什乾河；伯拉河（幼發拉底河）流經敘利亞和伊拉克。"
+        ]
+      },
+      "maps": ["western-asia"],
+      "felt": { "find": "star" },
+      "connections": "Gen.15"
+    },
+    {
+      "n": 4,
+      "title": { "en": "Sodom and Gomorrah; the pillar of salt", "zh": "所多瑪和蛾摩拉；鹽柱" },
+      "passages": ["Gen.18-19"],
+      "key": "Gen.19.24-26",
+      "points": {
+        "en": [
+          "Abraham welcomes three visitors at Mamre and serves them a meal.",
+          "The LORD says Sarah will have a son; Sarah laughs. \"Is anything too hard for the LORD?\"",
+          "Abraham pleads for Sodom: will God spare it for fifty righteous? For ten? God says yes.",
+          "Two angels come to Lot in Sodom; the men of the city surround the house and are struck blind.",
+          "The angels lead Lot, his wife and two daughters out: \"Don't look back.\"",
+          "The LORD rains down sulfur and fire on Sodom and Gomorrah.",
+          "Lot's wife looks back and becomes a pillar of salt; Abraham sees the smoke rising."
+        ],
+        "zh": [
+          "亞伯拉罕在幔利接待三位客人，預備飯給他們吃。",
+          "耶和華說撒拉要生一個兒子；撒拉暗笑。「耶和華豈有難成的事嗎？」",
+          "亞伯拉罕為所多瑪求情：若有五十個義人，神會饒恕那城嗎？十個呢？神都答應了。",
+          "兩位天使來到所多瑪羅得那裏；城裏的人圍住房子，被擊打得眼睛昏迷。",
+          "天使領羅得、他的妻子和兩個女兒出城，說：「不可回頭看。」",
+          "耶和華使硫磺和火降在所多瑪和蛾摩拉。",
+          "羅得的妻子回頭一看，就變成了一根鹽柱；亞伯拉罕看見煙氣上騰。"
+        ]
+      },
+      "readings": [
+        { "ref": "Heb.13.2", "about": { "en": "Some have entertained angels without knowing it", "zh": "有人不知不覺就接待了天使" } },
+        { "ref": "Luke.17.28-32", "about": { "en": "Jesus: \"Remember Lot's wife!\"", "zh": "耶穌說：「要記念羅得的妻子！」" } },
+        { "ref": "2Pet.2.6-8", "about": { "en": "Sodom condemned, righteous Lot rescued", "zh": "所多瑪被定罪，義人羅得被救" } }
+      ],
+      "history": {
+        "en": [
+          "Sodom and Gomorrah were \"cities of the plain\" near the Dead Sea; their exact sites are unknown, and scholars differ.",
+          "The Dead Sea, about 430 m below sea level, is the lowest place on land and very salty; Mount Sodom on its southwest shore is a ridge of rock salt.",
+          "Three seahs of flour was a large amount, perhaps about 20 litres; measures of the time are not known exactly."
+        ],
+        "zh": [
+          "所多瑪和蛾摩拉是死海附近的「平原的城」；確實位置不詳，學者看法不一。",
+          "死海低於海平面約430公尺，是陸地上最低的地方，含鹽量極高；西南岸的所多瑪山是一道岩鹽山脊。",
+          "三細亞細麵是很多的麵粉，大約20公升；當時的量器不能確知。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "angel" },
+      "connections": "Gen.19"
+    },
+    {
+      "n": 5,
+      "title": { "en": "Abraham's sacrifice", "zh": "亞伯拉罕獻以撒" },
+      "passages": ["Gen.22.1-19"],
+      "key": "Gen.22.7-8",
+      "points": {
+        "en": [
+          "God tests Abraham: \"Take your son, your only son Isaac, and offer him on a mountain in Moriah.\"",
+          "Abraham sets out early; on the third day he sees the place and lays the wood on Isaac.",
+          "Isaac asks, \"Where is the lamb?\" Abraham says, \"God will provide the lamb himself.\"",
+          "Abraham binds Isaac on the altar and takes the knife.",
+          "The angel of the LORD calls from heaven, \"Do not lay your hand on the boy.\"",
+          "Abraham offers a ram caught in a thicket in place of his son and names the place \"The LORD will provide.\"",
+          "God swears to bless him and multiply his offspring; in them all nations will be blessed."
+        ],
+        "zh": [
+          "神試驗亞伯拉罕：「你帶着你獨一的兒子以撒，到摩利亞地的一座山上，把他獻為燔祭。」",
+          "亞伯拉罕清早起身；第三天他看見那地方，就把柴放在以撒身上。",
+          "以撒問：「羔羊在哪裏呢？」亞伯拉罕說：「神必親自預備作燔祭的羔羊。」",
+          "亞伯拉罕把以撒捆綁，放在壇上，拿起刀來。",
+          "耶和華的使者從天上呼叫：「你不可在這孩子身上下手。」",
+          "亞伯拉罕把一隻角扣在稠密小樹中的公羊獻上，代替他的兒子，給那地方起名叫「耶和華必預備」。",
+          "神起誓要賜福給他，使他的後代眾多；萬國都要因他的後代得福。"
+        ]
+      },
+      "readings": [
+        { "ref": "Heb.11.17-19", "about": { "en": "By faith Abraham offered up Isaac", "zh": "亞伯拉罕因着信把以撒獻上" } },
+        { "ref": "Jas.2.21-23", "about": { "en": "Abraham, called God's friend", "zh": "亞伯拉罕被稱為神的朋友" } },
+        { "ref": "Rom.8.32", "about": { "en": "God did not spare his own Son", "zh": "神不愛惜自己的兒子" } },
+        { "ref": "2Chr.3.1", "about": { "en": "Solomon builds the temple on Mount Moriah", "zh": "所羅門在摩利亞山建殿" } }
+      ],
+      "history": {
+        "en": [
+          "2 Chronicles 3:1 places Solomon's temple on Mount Moriah; Moriah is traditionally the Temple Mount in Jerusalem.",
+          "Beersheba lay in the Negev; its ruins, Tel Beer Sheva, are beside the modern city, about 75 km south of Jerusalem."
+        ],
+        "zh": [
+          "歷代志下3章1節說所羅門的聖殿建在摩利亞山上；傳統認為摩利亞就是耶路撒冷的聖殿山。",
+          "別是巴在南地；遺址別是巴丘就在今天的城市旁邊，在耶路撒冷以南約75公里。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "story": "abraham" },
+      "connections": "Gen.22"
+    },
+    {
+      "n": 6,
+      "title": { "en": "Isaac and Rebekah", "zh": "以撒和利百加" },
+      "passages": ["Gen.24"],
+      "key": "Gen.24.12-14",
+      "points": {
+        "en": [
+          "Abraham makes his servant swear to find a wife for Isaac from his own relatives, not from the Canaanites.",
+          "The servant takes ten camels to the city of Nahor and stops by the well at evening.",
+          "He prays that the woman who offers to water his camels will be the one the LORD has chosen.",
+          "Rebekah comes, gives him a drink and draws water for all his camels.",
+          "The servant worships the LORD; Laban and Bethuel say, \"This has come from the LORD.\"",
+          "Asked if she will go with the man, Rebekah says, \"I will go.\"",
+          "Isaac meets her in the field; she becomes his wife, and he loves her."
+        ],
+        "zh": [
+          "亞伯拉罕叫僕人起誓，要從自己的親族中為以撒娶妻，不可娶迦南的女子。",
+          "僕人帶着十匹駱駝到了拿鶴的城，傍晚停在井旁。",
+          "他禱告：願那肯給他駱駝喝水的女子，就是耶和華所選定的。",
+          "利百加來了，給他水喝，又為他所有的駱駝打水。",
+          "僕人敬拜耶和華；拉班和彼土利說：「這事是出於耶和華。」",
+          "家人問利百加肯不肯跟這人去，她說：「我去。」",
+          "以撒在田間遇見她；她成了以撒的妻子，以撒愛她。"
+        ]
+      },
+      "readings": [
+        { "ref": "Gen.22.20-23", "about": { "en": "Rebekah's family: Nahor, Milcah and Bethuel", "zh": "利百加的家族：拿鶴、密迦、彼土利" } },
+        { "ref": "Gen.26.2-5", "about": { "en": "God's promise to Abraham passes to Isaac", "zh": "神給亞伯拉罕的應許傳給以撒" } },
+        { "ref": "Matt.1.2", "about": { "en": "Abraham, Isaac and Jacob in Jesus' family line", "zh": "耶穌家譜中的亞伯拉罕、以撒、雅各" } }
+      ],
+      "history": {
+        "en": [
+          "Aram-naharaim, \"Aram of the two rivers\", was upper Mesopotamia, around Haran in southeast Turkey and northern Syria.",
+          "A thirsty camel can drink up to about 100 litres; watering ten camels meant many trips to the well.",
+          "A shekel weighed about 11.5 g; the gold nose ring of a beka was half a shekel."
+        ],
+        "zh": [
+          "兩河之間的亞蘭，就是美索不達米亞北部，在土耳其東南部的哈蘭和敘利亞北部一帶。",
+          "口渴的駱駝一次可喝約100公升水；為十匹駱駝打水要往返水井許多次。",
+          "一舍客勒約重11.5公克；重一比加的金鼻環就是半舍客勒。"
+        ]
+      },
+      "maps": ["western-asia"],
+      "felt": { "find": "well" },
+      "connections": "Gen.24"
+    },
+    {
+      "n": 7,
+      "title": { "en": "Jacob and Esau", "zh": "雅各和以掃" },
+      "passages": ["Gen.25.19-34", "Gen.27"],
+      "key": "Gen.25.21-23",
+      "points": {
+        "en": [
+          "Isaac prays for Rebekah; the LORD tells her, \"Two nations are in your womb; the older will serve the younger.\"",
+          "Esau is born red and hairy; Jacob comes out grasping Esau's heel.",
+          "Esau, exhausted, sells his birthright to Jacob for bread and lentil stew.",
+          "Old and blind, Isaac sends Esau to hunt game so that he may bless him.",
+          "Rebekah dresses Jacob in Esau's clothes and goatskins, and Isaac blesses Jacob.",
+          "Esau cries out bitterly and plans to kill Jacob; Rebekah sends Jacob to Laban in Haran."
+        ],
+        "zh": [
+          "以撒為利百加祈求；耶和華對她說：「兩國在你腹內；將來大的要服事小的。」",
+          "以掃出生時身體發紅，渾身有毛；雅各出來時手抓住以掃的腳跟。",
+          "以掃累極了，為了餅和紅豆湯，把長子的名分賣給雅各。",
+          "以撒年老眼瞎，打發以掃去打獵，好為他祝福。",
+          "利百加給雅各穿上以掃的衣服，又用山羊羔的皮包他，以撒就為雅各祝福。",
+          "以掃放聲痛哭，想殺雅各；利百加打發雅各往哈蘭投奔拉班。"
+        ]
+      },
+      "readings": [
+        { "ref": "Rom.9.10-13", "about": { "en": "\"The older will serve the younger\"", "zh": "「將來大的要服事小的」" } },
+        { "ref": "Heb.12.16-17", "about": { "en": "Esau sold his birthright for a single meal", "zh": "以掃因一點食物賣了長子的名分" } },
+        { "ref": "Mal.1.2-3", "about": { "en": "\"I loved Jacob, but Esau I hated\"", "zh": "「我愛雅各，惡以掃」" } }
+      ],
+      "history": {
+        "en": [
+          "The birthright was the firstborn son's right, including a double share of the inheritance (Deut 21:17).",
+          "Edom, Esau's land, lay south and southeast of the Dead Sea, in modern southern Jordan."
+        ],
+        "zh": [
+          "長子的名分是長子的權利，包括承受雙份產業（申命記21章17節）。",
+          "以掃的地以東，在死海的南面和東南面，今約旦南部。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "goat" },
+      "connections": "Gen.27"
+    },
+    {
+      "n": 8,
+      "title": { "en": "Jacob works for Rachel and Leah; Laban changes his wages", "zh": "雅各為拉結和利亞服事；拉班改他的工價" },
+      "passages": ["Gen.29.1-30", "Gen.30.25-43", "Gen.31"],
+      "key": "Gen.29.18-20",
+      "points": {
+        "en": [
+          "At a well near Haran Jacob rolls away the stone and waters the sheep of his cousin Rachel.",
+          "Jacob works seven years for Rachel, and they seem like only a few days because he loves her.",
+          "Laban gives him Leah instead; Jacob marries Rachel too and works another seven years.",
+          "Jacob's wages are to be the speckled and spotted animals, and God makes his flocks grow.",
+          "Laban changes Jacob's wages ten times; the LORD tells Jacob to go back to his land.",
+          "Jacob leaves secretly; Laban pursues, and they make a covenant at a heap of stones."
+        ],
+        "zh": [
+          "雅各在哈蘭附近的井旁把石頭轉開，給表妹拉結的羊喝水。",
+          "雅各為拉結服事了七年，因為深愛她，就看這七年如同幾天。",
+          "拉班卻把利亞給了他；雅各又娶了拉結，再服事了七年。",
+          "雅各的工價是有斑點和花紋的牲畜，神使他的羊群興旺。",
+          "拉班十次改了雅各的工價；耶和華吩咐雅各回到本地去。",
+          "雅各暗中離開；拉班追趕他，二人在一堆石頭那裏立約。"
+        ]
+      },
+      "readings": [
+        { "ref": "Gen.28.12-15", "about": { "en": "On the way, Jacob's dream at Bethel", "zh": "雅各途中在伯特利做的夢" } },
+        { "ref": "Hos.12.13", "about": { "en": "Israel served for a wife and kept sheep", "zh": "以色列為得妻子服事人、牧放羊群" } },
+        { "ref": "Ruth.4.11", "about": { "en": "Rachel and Leah built up the house of Israel", "zh": "拉結和利亞建立以色列的家" } }
+      ],
+      "history": {
+        "en": [
+          "Haran lay in Paddan-aram, in modern southeast Turkey; Gilead is the hill country east of the Jordan, in northern Jordan.",
+          "A wedding feast lasted a week (Gen 29:27; Judg 14:12).",
+          "Jacob served twenty years in all: fourteen for his two wives and six for his flock (Gen 31:41)."
+        ],
+        "zh": [
+          "哈蘭在巴旦‧亞蘭，今土耳其東南部；基列是約旦河東的山區，在今約旦北部。",
+          "婚宴要延續七日（創世記29章27節；士師記14章12節）。",
+          "雅各一共服事了二十年：為兩個妻子十四年，為羊群六年（創世記31章41節）。"
+        ]
+      },
+      "maps": ["western-asia"],
+      "felt": { "find": "sheep" },
+      "connections": "Gen.29"
+    },
+    {
+      "n": 9,
+      "title": { "en": "The twelve sons of Jacob", "zh": "雅各的十二個兒子" },
+      "passages": ["Gen.29.31-30.24", "Gen.35.16-26"],
+      "key": "Gen.35.23-26",
+      "points": {
+        "en": [
+          "The LORD sees that Leah is unloved; she bears Reuben, Simeon, Levi and Judah.",
+          "Rachel has no children and gives Jacob her servant Bilhah, who bears Dan and Naphtali.",
+          "Leah gives Jacob her servant Zilpah, who bears Gad and Asher.",
+          "Leah bears Issachar and Zebulun, and a daughter, Dinah.",
+          "God remembers Rachel, and she bears Joseph.",
+          "Near Bethlehem Rachel dies giving birth to Benjamin; Jacob now has twelve sons."
+        ],
+        "zh": [
+          "耶和華見利亞失寵；她生了呂便、西緬、利未和猶大。",
+          "拉結沒有孩子，就把婢女辟拉給雅各，辟拉生了但和拿弗他利。",
+          "利亞把婢女悉帕給雅各，悉帕生了迦得和亞設。",
+          "利亞又生了以薩迦和西布倫，還有一個女兒底拿。",
+          "神記念拉結，她生了約瑟。",
+          "拉結在伯利恆附近生便雅憫時死了；雅各共有十二個兒子。"
+        ]
+      },
+      "readings": [
+        { "ref": "Gen.49.1-2", "about": { "en": "Jacob gathers his sons to tell them what will happen", "zh": "雅各召集兒子們，告訴他們日後的事" } },
+        { "ref": "Matt.2.17-18", "about": { "en": "Rachel weeping for her children", "zh": "拉結哭她的兒女" } },
+        { "ref": "Rev.7.4-8", "about": { "en": "Twelve thousand sealed from each tribe", "zh": "每支派受印的一萬二千人" } }
+      ],
+      "history": {
+        "en": [
+          "The twelve sons became the ancestors of the twelve tribes of Israel; Joseph's line became two tribes, Ephraim and Manasseh.",
+          "Each name is explained by a wordplay: Judah sounds like \"praise\" and Joseph like \"may he add\".",
+          "Rachel's Tomb, on the road at the edge of Bethlehem, is the traditional site of her grave."
+        ],
+        "zh": [
+          "十二個兒子成為以色列十二支派的祖先；約瑟的後代成為以法蓮和瑪拿西兩個支派。",
+          "每個名字都有諧音的解釋：猶大與「讚美」音近，約瑟與「願他再加」音近。",
+          "伯利恆城邊路旁的拉結墓，是傳統認為的拉結葬地。"
+        ]
+      },
+      "maps": [],
+      "felt": { "find": "tent" },
+      "connections": "Gen.30"
+    },
+    {
+      "n": 10,
+      "title": { "en": "God renames Jacob Israel; Jacob meets Esau", "zh": "神給雅各改名以色列；雅各與以掃相見" },
+      "passages": ["Gen.32-33"],
+      "key": "Gen.32.27-29",
+      "points": {
+        "en": [
+          "Messengers tell Jacob that Esau is coming with four hundred men; Jacob is very afraid.",
+          "Jacob prays, \"I am not worthy of all your faithful love,\" and sends herds ahead as a gift.",
+          "At the ford of the Jabbok a man wrestles with Jacob until daybreak and wrenches his hip.",
+          "Jacob will not let him go without a blessing; his name becomes Israel.",
+          "Jacob names the place Peniel: \"I have seen God face to face\"; he goes on limping.",
+          "Esau runs to meet Jacob, hugs him and kisses him, and they weep.",
+          "Jacob comes to Shechem, buys land and sets up an altar."
+        ],
+        "zh": [
+          "使者告訴雅各，以掃帶着四百人來了；雅各非常懼怕。",
+          "雅各禱告：「你向僕人所施的一切慈愛，我一點也不配得。」又把牲畜先送去作禮物。",
+          "在雅博渡口，有一個人與雅各摔跤直到黎明，扭傷了他的大腿窩。",
+          "雅各不肯放他走，要他祝福；雅各的名字就改為以色列。",
+          "雅各給那地方起名叫毗努伊勒：「我面對面見了神。」他走路一拐一拐的。",
+          "以掃跑來迎接雅各，抱住他，與他親嘴，兩人都哭了。",
+          "雅各來到示劍，買了一塊地，在那裏築了一座壇。"
+        ]
+      },
+      "readings": [
+        { "ref": "Hos.12.4-5", "about": { "en": "Jacob struggled with God and prevailed", "zh": "雅各與神較力，並且得勝" } },
+        { "ref": "Gen.35.9-12", "about": { "en": "God confirms the name Israel at Bethel", "zh": "神在伯特利再次確立以色列之名" } },
+        { "ref": "Luke.15.20", "about": { "en": "A father runs to embrace a returning son", "zh": "父親跑去擁抱回家的兒子" } }
+      ],
+      "history": {
+        "en": [
+          "The Jabbok is the Zarqa River in Jordan, which flows west into the Jordan River.",
+          "Letters found at Amarna in Egypt (1300s BC) show vassals bowing \"seven times and seven times\" before a ruler, as Jacob bows seven times."
+        ],
+        "zh": [
+          "雅博河就是今約旦境內的扎卡河，向西流入約旦河。",
+          "在埃及阿瑪納出土的書信（公元前十四世紀）中，屬國向君王「下拜七次又七次」，正如雅各下拜七次。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "river" },
+      "connections": "Gen.32"
+    },
+    {
+      "n": 11,
+      "title": { "en": "Joseph's coat of many colors", "zh": "約瑟的彩衣" },
+      "passages": ["Gen.37"],
+      "key": "Gen.37.3-4",
+      "points": {
+        "en": [
+          "Israel loves Joseph more than his other sons and makes him a special robe; his brothers hate him.",
+          "Joseph dreams that his brothers' sheaves, and then the sun, moon and eleven stars, bow down to him.",
+          "Sent to find his brothers, Joseph finds them at Dothan; they plot to kill him.",
+          "Reuben persuades them to throw him into an empty pit instead.",
+          "At Judah's word they sell Joseph to traders going to Egypt for twenty pieces of silver.",
+          "They dip his robe in goat's blood; Jacob thinks a wild animal has eaten Joseph and mourns.",
+          "In Egypt Joseph is sold to Potiphar, captain of Pharaoh's guard."
+        ],
+        "zh": [
+          "以色列愛約瑟勝過愛其他兒子，給他做了一件特別的長袍；哥哥們都恨他。",
+          "約瑟夢見哥哥們的禾捆向他下拜，又夢見太陽、月亮和十一顆星向他下拜。",
+          "約瑟奉命去找哥哥們，在多坍找到他們；他們卻設計要殺他。",
+          "呂便勸他們不要殺他，只把他丟進一個沒有水的坑裏。",
+          "照着猶大的話，他們以二十塊銀子把約瑟賣給往埃及去的商人。",
+          "他們把約瑟的長袍蘸了山羊的血；雅各以為約瑟被野獸吃了，就為他悲哀。",
+          "約瑟在埃及被賣給法老的護衛長波提乏。"
+        ]
+      },
+      "readings": [
+        { "ref": "Acts.7.9-10", "about": { "en": "The patriarchs sold Joseph, but God was with him", "zh": "先祖賣了約瑟，神卻與他同在" } },
+        { "ref": "Gen.45.4-8", "about": { "en": "Joseph: \"God sent me ahead of you\"", "zh": "約瑟說：「是神差我在你們以先來」" } },
+        { "ref": "Ps.105.17-19", "about": { "en": "Joseph sold as a slave until his word came true", "zh": "約瑟被賣為奴，直到他的話應驗" } }
+      ],
+      "history": {
+        "en": [
+          "\"Coat of many colors\" comes from the old Greek and Latin translations; the Hebrew phrase is uncertain and may mean a long robe with sleeves.",
+          "Dothan is Tell Dothan, about 20 km north of Shechem, on a trade route from Gilead to Egypt.",
+          "Twenty shekels was the value set for a boy aged five to twenty in Leviticus 27:5."
+        ],
+        "zh": [
+          "「彩衣」一說來自古希臘文和拉丁文譯本；希伯來文原意不確定，可能是有袖的長袍。",
+          "多坍就是多坍丘，在示劍以北約20公里，位於從基列往埃及的商路上。",
+          "利未記27章5節規定，五歲到二十歲男子的價值是二十舍客勒。"
+        ]
+      },
+      "maps": ["palestine-history"],
+      "felt": { "find": "shepherd" },
+      "connections": "Gen.37"
+    },
+    {
+      "n": 12,
+      "title": { "en": "Joseph and the king's dreams", "zh": "約瑟和法老的夢" },
+      "passages": ["Gen.39-41"],
+      "key": "Gen.41.15-16",
+      "points": {
+        "en": [
+          "The LORD is with Joseph; Potiphar puts him in charge of his whole household.",
+          "Joseph refuses his master's wife; she accuses him falsely, and he is put in prison.",
+          "In prison Joseph says to Pharaoh's cupbearer and baker, \"Don't interpretations belong to God?\"",
+          "The cupbearer is restored as Joseph said, but he forgets Joseph for two years.",
+          "Pharaoh dreams of seven fat and seven thin cows, and seven full and seven thin heads of grain.",
+          "Joseph says God is showing seven years of plenty followed by seven years of famine.",
+          "Pharaoh puts Joseph in charge of all Egypt; Joseph stores grain, and all the world comes to buy."
+        ],
+        "zh": [
+          "耶和華與約瑟同在；波提乏派他管理全家。",
+          "約瑟拒絕主人的妻子；她誣告約瑟，約瑟就被關進監牢。",
+          "約瑟在監裏對法老的司酒長和膳食長說：「解夢不是出於神嗎？」",
+          "司酒長照約瑟所說的官復原職，卻把約瑟忘了兩年。",
+          "法老夢見七頭肥母牛和七頭瘦母牛，又夢見七個飽滿的穗子和七個細弱的穗子。",
+          "約瑟說神是在顯明：先有七個豐年，隨後有七個荒年。",
+          "法老派約瑟治理全埃及；約瑟積存糧食，天下的人都來買糧。"
+        ]
+      },
+      "readings": [
+        { "ref": "Ps.105.16-22", "about": { "en": "The king set Joseph free and made him lord", "zh": "君王釋放約瑟，立他為主" } },
+        { "ref": "Acts.7.9-12", "about": { "en": "God gave Joseph favor and wisdom before Pharaoh", "zh": "神使約瑟在法老面前得恩寵和智慧" } },
+        { "ref": "Dan.2.27-28", "about": { "en": "Daniel: a God in heaven reveals mysteries", "zh": "但以理說：天上有一位神能顯明奧祕" } }
+      ],
+      "history": {
+        "en": [
+          "\"Pharaoh\" comes from an Egyptian word meaning \"great house\"; Egyptian art shows officials given gold collars and fine linen.",
+          "Egypt's harvests depended on the yearly flooding of the Nile; when the flood was low, famine could follow.",
+          "On, where Joseph's father-in-law was priest, is Heliopolis, now in northeast Cairo."
+        ],
+        "zh": [
+          "「法老」源自埃及文，意思是「大房子」；埃及的壁畫描繪官員受賜金項圈和細麻衣。",
+          "埃及的收成取決於尼羅河每年的氾濫；氾濫水位低時，就可能發生饑荒。",
+          "約瑟岳父作祭司的安城，就是希里歐波利斯，在今開羅東北部。"
+        ]
+      },
+      "maps": ["western-asia"],
+      "felt": { "find": "king" },
+      "connections": "Gen.41"
+    }
+  ]
+}

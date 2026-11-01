@@ -1,0 +1,539 @@
+{
+  "q": 1,
+  "lessons": [
+    {
+      "n": 1,
+      "title": { "en": "God's plan: all things in Christ", "zh": "神的計劃：萬有都在基督裏" },
+      "passages": ["Eph.1.3-10", "Col.1.15-20"],
+      "key": "Eph.1.9-10",
+      "points": {
+        "en": [
+          "Paul blesses God, who has blessed us in Christ with every spiritual blessing.",
+          "God chose us in Christ before the foundation of the world and destined us to be his children.",
+          "In Christ we have redemption through his blood, the forgiveness of our wrongdoings.",
+          "God has made known the mystery of his will: to bring all things together under one head in Christ.",
+          "Christ is the image of the invisible God; all things were created through him and for him.",
+          "He is before all things, and he is the head of the body, the church.",
+          "Through the blood of his cross God reconciles all things to himself."
+        ],
+        "zh": [
+          "保羅頌讚神，因神在基督裏把天上各樣屬靈的福氣賜給我們。",
+          "神在創立世界以前，就在基督裏揀選了我們，預定我們作他的兒女。",
+          "我們在基督裏藉着他的血得蒙救贖，過犯得到赦免。",
+          "神叫我們知道他旨意的奧祕：要使萬有都在基督裏同歸於一。",
+          "基督是那看不見的神的形像，萬有都是藉着他、為着他而造的。",
+          "他在萬有之先，也是身體的頭，這身體就是教會。",
+          "神藉着基督在十字架上所流的血，使萬有與自己和好。"
+        ]
+      },
+      "readings": [
+        { "ref": "John.1.1-3", "about": { "en": "All things came into being through the Word", "zh": "萬物都是藉着道造的" } },
+        { "ref": "Heb.1.1-3", "about": { "en": "God has spoken through his Son, heir of all things", "zh": "神藉着承受萬有的兒子說話" } },
+        { "ref": "Rev.21.1-5", "about": { "en": "A new heaven and a new earth", "zh": "新天新地" } }
+      ],
+      "history": {
+        "en": [
+          "Ephesus was a great port city of the Roman province of Asia; its ruins lie near Selçuk in western Turkey.",
+          "Colossae was a town in the Lycus valley of western Turkey; its site is an unexcavated mound near Honaz.",
+          "Paul wrote both letters as a prisoner (Eph 3:1; Col 4:18), traditionally from Rome about AD 60–62."
+        ],
+        "zh": [
+          "以弗所是羅馬亞細亞省的大港口城市，遺址在今土耳其西部的塞爾丘克附近。",
+          "歌羅西是土耳其西部呂刻斯河谷的一個城鎮，遺址是霍納茲附近一座尚未發掘的土丘。",
+          "保羅寫這兩封信時正被囚禁（以弗所書3章1節；歌羅西書4章18節），傳統認為約在公元60至62年寫於羅馬。"
+        ]
+      },
+      "maps": ["roman-empire"],
+      "felt": { "find": "cross" },
+      "connections": "Eph.1"
+    },
+    {
+      "n": 2,
+      "title": { "en": "God creates the universe", "zh": "神創造宇宙" },
+      "passages": ["Gen.1.1-2.3"],
+      "key": "Gen.1.1-3",
+      "points": {
+        "en": [
+          "In the beginning God created the heavens and the earth; the earth was formless and empty.",
+          "Day one: God says, \"Let there be light.\" Day two: he makes the dome of the sky.",
+          "Day three: dry land and seas appear, and the land produces plants and fruit trees.",
+          "Day four: God makes the sun, the moon and the stars. Day five: sea creatures and birds.",
+          "Day six: God makes the animals, and then human beings in his image, male and female.",
+          "God sees everything he has made, and it is very good.",
+          "On the seventh day God rests, and he blesses that day and makes it holy."
+        ],
+        "zh": [
+          "起初，神創造天地；地是荒涼空虛的。",
+          "第一日，神說：「要有光。」第二日，他造了天空的穹蒼。",
+          "第三日，旱地和海出現，地上長出植物和結果子的樹。",
+          "第四日，神造了太陽、月亮和星星。第五日，造了海裏的生物和飛鳥。",
+          "第六日，神造了野獸，然後照着自己的形像造人，造男造女。",
+          "神看他所造的一切都非常好。",
+          "第七日神安息了，他賜福給這一日，定為聖日。"
+        ]
+      },
+      "readings": [
+        { "ref": "John.1.1-3", "about": { "en": "In the beginning was the Word", "zh": "太初有道" } },
+        { "ref": "Ps.33.6-9", "about": { "en": "By the word of the LORD the heavens were made", "zh": "諸天藉耶和華的話而造" } },
+        { "ref": "Heb.11.3", "about": { "en": "The universe was formed by the word of God", "zh": "宇宙是藉神的話造成的" } }
+      ],
+      "history": {
+        "en": [
+          "Other ancient peoples told creation stories too; the Babylonian Enuma Elish is known from clay tablets found at Nineveh in the 1800s.",
+          "The Hebrew word for the \"dome\" of the sky means something hammered out or spread out, like beaten metal.",
+          "A seven-day week with a day of rest became a mark of Israel; the Romans later adopted the seven-day week."
+        ],
+        "zh": [
+          "其他古代民族也有創世故事；巴比倫的《埃努瑪‧埃利什》見於十九世紀在尼尼微出土的泥版。",
+          "希伯來文中天空的「穹蒼」一詞，意思是錘打出來或鋪展開來的東西，像打薄的金屬。",
+          "七日一週並有一日安息，成了以色列的特色；後來羅馬人也採用了七日一週。"
+        ]
+      },
+      "maps": [],
+      "felt": { "story": "creation" },
+      "connections": "Gen.1"
+    },
+    {
+      "n": 3,
+      "title": { "en": "God creates man", "zh": "神造人" },
+      "passages": ["Gen.2.4-25"],
+      "key": "Gen.2.7-8",
+      "points": {
+        "en": [
+          "The LORD God forms the man from the dust of the ground and breathes into him the breath of life.",
+          "He plants a garden in Eden, with the tree of life and the tree of the knowledge of good and evil.",
+          "A river flows out of Eden and divides into four, among them the Tigris and the Euphrates.",
+          "God puts the man in the garden to work it, and forbids him to eat from the tree of knowledge.",
+          "God says it is not good for the man to be alone; the man names all the animals.",
+          "God makes the man sleep, takes one of his ribs, and builds it into a woman.",
+          "The man says, \"Bone of my bones and flesh of my flesh\"; the two become one flesh."
+        ],
+        "zh": [
+          "耶和華神用地上的塵土造人，將生命的氣息吹進他的鼻孔。",
+          "他在伊甸開闢了一個園子，園中有生命樹和分辨善惡的樹。",
+          "有河從伊甸流出，分為四道，其中有希底結和伯拉河。",
+          "神把那人安置在園中耕種看守，又吩咐他不可吃分辨善惡樹上的果子。",
+          "神說那人獨居不好；那人給所有的動物起名。",
+          "神使那人沉睡，取下他的一根肋骨，造成一個女人。",
+          "那人說：「這是我骨中的骨，肉中的肉。」二人成為一體。"
+        ]
+      },
+      "readings": [
+        { "ref": "Matt.19.4-6", "about": { "en": "Jesus quotes Genesis on marriage", "zh": "耶穌引用創世記論婚姻" } },
+        { "ref": "1Cor.15.45-47", "about": { "en": "The first man Adam and the last Adam", "zh": "首先的亞當和末後的亞當" } },
+        { "ref": "Ps.8.4-7", "about": { "en": "What is a human being, that you remember him?", "zh": "人算甚麼，你竟顧念他" } }
+      ],
+      "history": {
+        "en": [
+          "The Tigris and Euphrates rise in eastern Turkey and flow through Syria and Iraq to the Persian Gulf; the Pishon and Gihon are not certainly identified.",
+          "In Hebrew the word for \"man\" (adam) sounds like the word for \"ground\" (adamah)."
+        ],
+        "zh": [
+          "希底結河和伯拉河（底格里斯河和幼發拉底河）發源於土耳其東部，流經敘利亞和伊拉克，注入波斯灣；比遜河和基訓河的位置不能確定。",
+          "在希伯來文中，「人」（adam）和「地」（adamah）兩個字發音相近。"
+        ]
+      },
+      "maps": ["western-asia"],
+      "felt": { "story": "creation" },
+      "connections": "Gen.2"
+    },
+    {
+      "n": 4,
+      "title": { "en": "The garden of Eden and the fall", "zh": "伊甸園與人的墮落" },
+      "passages": ["Gen.3"],
+      "key": "Gen.3.6-9",
+      "points": {
+        "en": [
+          "The snake asks the woman, \"Did God really say, 'You must not eat from any tree'?\"",
+          "The snake says, \"You will certainly not die,\" and that she will be like God.",
+          "The woman eats the fruit and gives some to her husband, and he eats.",
+          "Their eyes are opened; they sew fig leaves together and hide from the LORD God.",
+          "God calls, \"Where are you?\" The man blames the woman, and the woman blames the snake.",
+          "God pronounces curses on the snake and the ground, and pain for the woman and the man.",
+          "God clothes them with skins and sends them out of Eden; cherubim guard the tree of life."
+        ],
+        "zh": [
+          "蛇問女人：「神真的說過『你們不可吃園中任何樹上的果子』嗎？」",
+          "蛇說：「你們一定不會死。」又說她會像神一樣。",
+          "女人吃了果子，又給她丈夫，他也吃了。",
+          "他們的眼睛開了，就用無花果樹的葉子編裙子，躲避耶和華神。",
+          "神呼喚：「你在哪裏？」那人怪女人，女人怪蛇。",
+          "神宣告蛇和地受咒詛，女人和男人要受苦楚。",
+          "神用皮子給他們做衣服，把他們趕出伊甸；基路伯把守生命樹的路。"
+        ]
+      },
+      "readings": [
+        { "ref": "Rom.5.12", "about": { "en": "Sin entered the world through one man", "zh": "罪是從一人入了世界" } },
+        { "ref": "2Cor.11.3", "about": { "en": "The snake deceived Eve by its craftiness", "zh": "蛇用詭詐誘惑了夏娃" } },
+        { "ref": "Rev.22.1-3", "about": { "en": "The tree of life, and no more curse", "zh": "生命樹，再沒有咒詛" } }
+      ],
+      "history": {
+        "en": [
+          "Winged guardian figures stood at palace and temple doors in the ancient Near East; cherubim were later carved on the cover of the ark (Exod 25:18–20).",
+          "Fig trees grow throughout the Middle East; their leaves are large, as wide as a hand or more."
+        ],
+        "zh": [
+          "古代近東的宮殿和廟宇門口常立有帶翅膀的守衛像；後來約櫃的蓋上也造了基路伯（出埃及記25章18至20節）。",
+          "無花果樹遍佈中東各地，葉子很大，有手掌那麼寬或更寬。"
+        ]
+      },
+      "maps": [],
+      "felt": { "story": "fall" },
+      "connections": "Gen.3"
+    },
+    {
+      "n": 5,
+      "title": { "en": "God's first promise", "zh": "神的第一個應許" },
+      "passages": ["Gen.3.14-15", "Gal.4.4-5"],
+      "key": "Gen.3.15",
+      "points": {
+        "en": [
+          "The LORD God tells the snake that it is cursed and will crawl on its belly.",
+          "God will put hostility between the snake and the woman, and between their offspring.",
+          "God says of her offspring, \"He will strike your head, and you will strike his heel.\"",
+          "Paul writes that when the fullness of time had come, God sent his Son, born of a woman.",
+          "God sent him to redeem those under the Law, so that we might receive adoption as sons."
+        ],
+        "zh": [
+          "耶和華神對蛇說，牠必受咒詛，要用肚子爬行。",
+          "神要叫蛇和女人彼此為仇，蛇的後代和女人的後代也彼此為仇。",
+          "神論到女人的後代說：「他要打傷你的頭，你要打傷他的腳跟。」",
+          "保羅寫道，到了時候滿足，神就差遣他的兒子，為女子所生。",
+          "神差他來，要救贖律法以下的人，叫我們得着兒子的名分。"
+        ]
+      },
+      "readings": [
+        { "ref": "Rom.16.20", "about": { "en": "God will soon crush Satan under your feet", "zh": "神快要將撒但踐踏在你們腳下" } },
+        { "ref": "Heb.2.14-15", "about": { "en": "Through his death he broke the power of the one who holds death", "zh": "他藉着死敗壞掌死權的" } },
+        { "ref": "Rev.12.9", "about": { "en": "That ancient serpent, called the devil and Satan", "zh": "古蛇，名叫魔鬼，又叫撒但" } }
+      ],
+      "history": {
+        "en": [
+          "Early Christian writers, such as Irenaeus about AD 180, read Genesis 3:15 as a first announcement of the gospel; it was later called the \"first gospel\".",
+          "Galatia was a Roman province in central Asia Minor, around modern Ankara in Turkey."
+        ],
+        "zh": [
+          "早期基督徒作者，如約公元180年的愛任紐，把創世記3章15節讀作福音的第一次宣告；後來這節被稱為「原始福音」。",
+          "加拉太是羅馬在小亞細亞中部的一個省，在今土耳其的安卡拉一帶。"
+        ]
+      },
+      "maps": [],
+      "felt": { "find": "snake" },
+      "connections": "Gen.3"
+    },
+    {
+      "n": 6,
+      "title": { "en": "Cain and Abel", "zh": "該隱和亞伯" },
+      "passages": ["Gen.4"],
+      "key": "Gen.4.8-10",
+      "points": {
+        "en": [
+          "Eve gives birth to Cain and then Abel; Abel keeps flocks and Cain works the ground.",
+          "Both bring offerings; the LORD looks with favor on Abel's offering but not on Cain's.",
+          "The LORD warns the angry Cain that sin is crouching at the door.",
+          "Cain attacks his brother Abel in the field and kills him.",
+          "God asks, \"Where is your brother Abel?\" Cain answers, \"Am I my brother's keeper?\"",
+          "Cain is cursed to wander; the LORD puts a mark on him so no one will kill him.",
+          "Eve gives birth to Seth in place of Abel, and people begin to call on the name of the LORD."
+        ],
+        "zh": [
+          "夏娃生了該隱，又生了亞伯；亞伯牧羊，該隱耕地。",
+          "兩人都獻上供物；耶和華看中了亞伯的供物，卻沒有看中該隱的。",
+          "耶和華警告發怒的該隱：罪就伏在門前。",
+          "該隱在田間攻擊他的弟弟亞伯，把他殺了。",
+          "神問：「你弟弟亞伯在哪裏？」該隱回答：「我豈是看守我弟弟的嗎？」",
+          "該隱受咒詛，要流離飄蕩；耶和華給他一個記號，免得人殺他。",
+          "夏娃生了塞特代替亞伯；那時人開始求告耶和華的名。"
+        ]
+      },
+      "readings": [
+        { "ref": "Heb.11.4", "about": { "en": "By faith Abel offered a better sacrifice", "zh": "亞伯因着信獻上更美的祭" } },
+        { "ref": "1John.3.12", "about": { "en": "Do not be like Cain, who killed his brother", "zh": "不可像殺弟弟的該隱" } },
+        { "ref": "Heb.12.24", "about": { "en": "Jesus' blood speaks better than Abel's", "zh": "耶穌的血比亞伯的血所說的更美" } }
+      ],
+      "history": {
+        "en": [
+          "Farming and herding began in the Fertile Crescent of the Middle East about 10,000 years ago.",
+          "Bronze tools came into use in the Near East about 3300 BC; iron became common only after about 1200 BC."
+        ],
+        "zh": [
+          "農耕和畜牧約在一萬年前起源於中東的肥沃月灣。",
+          "近東約在公元前3300年開始使用銅器；鐵器要到約公元前1200年以後才普遍。"
+        ]
+      },
+      "maps": [],
+      "felt": { "find": "altar" },
+      "connections": "Gen.4"
+    },
+    {
+      "n": 7,
+      "title": { "en": "Evil on the earth; Noah builds the ark", "zh": "地上的罪惡；挪亞造方舟" },
+      "passages": ["Gen.6"],
+      "key": "Gen.6.5-8",
+      "points": {
+        "en": [
+          "The LORD sees that the thoughts of human hearts are only evil all the time, and he is grieved.",
+          "But Noah finds favor with the LORD; he is righteous and walks with God.",
+          "Noah has three sons: Shem, Ham and Japheth. The earth is filled with violence.",
+          "God tells Noah to build an ark of gopher wood, 300 cubits long, covered with pitch.",
+          "God will bring a flood, but he will make his covenant with Noah and his family.",
+          "Noah is to bring two of every kind of animal into the ark, and food for all.",
+          "Noah does everything just as God commanded him."
+        ],
+        "zh": [
+          "耶和華看見人心裏所想的盡都是惡，就心中憂傷。",
+          "惟有挪亞在耶和華眼前蒙恩；他是義人，與神同行。",
+          "挪亞有三個兒子：閃、含和雅弗。地上滿了強暴。",
+          "神吩咐挪亞用歌斐木造一艘方舟，長三百肘，裏外塗上瀝青。",
+          "神要使洪水氾濫，但要與挪亞和他的家人立約。",
+          "挪亞要把各樣動物每種兩隻帶進方舟，又要預備眾生的食物。",
+          "挪亞照着神吩咐他的一切去做了。"
+        ]
+      },
+      "readings": [
+        { "ref": "Heb.11.7", "about": { "en": "By faith Noah built an ark", "zh": "挪亞因着信造了方舟" } },
+        { "ref": "Matt.24.37-39", "about": { "en": "As in the days of Noah", "zh": "挪亞的日子怎樣" } },
+        { "ref": "2Pet.2.5", "about": { "en": "Noah, a herald of righteousness", "zh": "傳義道的挪亞" } }
+      ],
+      "history": {
+        "en": [
+          "A cubit was the length of a forearm, about 45 cm (18 in); the ark was about 135 m long, 22 m wide and 13 m high.",
+          "Mesopotamian flood stories are found in the Epic of Gilgamesh; George Smith published a flood tablet from Nineveh in 1872.",
+          "Pitch (bitumen) seeps from the ground in Mesopotamia and was used there to waterproof boats and baskets."
+        ],
+        "zh": [
+          "一肘是前臂的長度，約45公分；方舟約長135公尺，寬22公尺，高13公尺。",
+          "美索不達米亞的洪水故事見於《吉爾伽美什史詩》；1872年喬治‧史密斯發表了尼尼微出土的洪水泥版。",
+          "美索不達米亞地下有瀝青滲出，當地人用它塗抹船隻和籃子防水。"
+        ]
+      },
+      "maps": ["western-asia"],
+      "felt": { "story": "noah" },
+      "connections": "Gen.6"
+    },
+    {
+      "n": 8,
+      "title": { "en": "The flood; Noah sends the dove", "zh": "洪水；挪亞放出鴿子" },
+      "passages": ["Gen.7-8"],
+      "key": "Gen.8.8-11",
+      "points": {
+        "en": [
+          "Noah, his family and the animals go into the ark, and the LORD shuts him in.",
+          "Rain falls forty days and forty nights; the waters cover the high mountains.",
+          "Every living thing on dry land dies; only Noah and those with him are left.",
+          "God remembers Noah; the waters go down, and the ark rests on the mountains of Ararat.",
+          "Noah sends out a raven, then a dove; the dove returns with an olive leaf, then stays away.",
+          "Noah comes out of the ark and offers burnt offerings to the LORD on an altar.",
+          "The LORD says that as long as the earth lasts, seedtime and harvest will not cease."
+        ],
+        "zh": [
+          "挪亞、他的家人和動物都進了方舟，耶和華把他關在裏頭。",
+          "大雨降在地上四十晝夜；水淹沒了高山。",
+          "旱地上一切有生命的都死了；只留下挪亞和與他同在方舟裏的。",
+          "神記念挪亞；水漸漸退去，方舟停在亞拉臘的山上。",
+          "挪亞放出一隻烏鴉，又放出鴿子；鴿子叼回一片橄欖葉，後來就不再回來。",
+          "挪亞出了方舟，在壇上向耶和華獻燔祭。",
+          "耶和華說，地還存留的時候，稼穡和收割永不停息。"
+        ]
+      },
+      "readings": [
+        { "ref": "Luke.17.26-27", "about": { "en": "The flood came and destroyed them all", "zh": "洪水來了，把他們全都滅了" } },
+        { "ref": "1Pet.3.20-21", "about": { "en": "Eight people brought safely through water", "zh": "八個人藉着水得救" } },
+        { "ref": "Isa.54.9", "about": { "en": "As I swore the waters of Noah would not return", "zh": "我曾起誓挪亞的洪水不再漫過" } }
+      ],
+      "history": {
+        "en": [
+          "Ararat is the ancient kingdom of Urartu, around Lake Van in eastern Turkey and Armenia; the text says only \"the mountains of Ararat\".",
+          "The peak now called Mount Ararat, in eastern Turkey, rises about 5,137 m and is traditionally named as the ark's resting place.",
+          "In the Gilgamesh flood story the hero also sends out birds: a dove, a swallow and a raven."
+        ],
+        "zh": [
+          "亞拉臘就是古代的烏拉爾圖王國，在今土耳其東部和亞美尼亞的凡湖一帶；經文只說「亞拉臘的山」。",
+          "今天稱為亞拉臘山的山峰在土耳其東部，高約5137公尺，傳統上被認為是方舟停靠之處。",
+          "在《吉爾伽美什史詩》的洪水故事裏，主角也放出了鳥：一隻鴿子、一隻燕子和一隻烏鴉。"
+        ]
+      },
+      "maps": ["western-asia"],
+      "felt": { "find": "dove" },
+      "connections": "Gen.8"
+    },
+    {
+      "n": 9,
+      "title": { "en": "God's covenant and the rainbow", "zh": "神的約和彩虹" },
+      "passages": ["Gen.9.1-17"],
+      "key": "Gen.9.13-15",
+      "points": {
+        "en": [
+          "God blesses Noah and his sons: \"Be fruitful and multiply, and fill the earth.\"",
+          "Every moving thing will be food for them, but they must not eat meat with its blood.",
+          "Whoever sheds human blood will have his own blood shed, for God made humankind in his image.",
+          "God makes his covenant with Noah, his offspring and every living creature.",
+          "Never again will a flood destroy the earth.",
+          "God sets his bow in the clouds as the sign of the covenant, and he will remember it."
+        ],
+        "zh": [
+          "神賜福給挪亞和他的兒子們：「你們要生養眾多，遍滿地面。」",
+          "凡活着的動物都可以作他們的食物，只是不可吃帶着血的肉。",
+          "凡流人血的，他的血也必被人所流，因為神照着自己的形像造人。",
+          "神與挪亞、他的後代和一切活物立約。",
+          "洪水不再毀滅大地。",
+          "神把他的虹放在雲中，作立約的記號，他必記念這約。"
+        ]
+      },
+      "readings": [
+        { "ref": "Isa.54.9-10", "about": { "en": "My covenant of peace will not be removed", "zh": "我平安的約不遷移" } },
+        { "ref": "Ezek.1.28", "about": { "en": "Like a rainbow in the clouds: the glory of the LORD", "zh": "像雲中的虹，是耶和華的榮耀" } },
+        { "ref": "Rev.4.3", "about": { "en": "A rainbow around the throne", "zh": "寶座周圍有虹" } }
+      ],
+      "history": {
+        "en": [
+          "The Hebrew word for the rainbow (qeshet) is the ordinary word for a warrior's bow.",
+          "Ancient covenants were often marked by a sign or witness, such as a heap of stones or a shared meal (Gen 31:44–54)."
+        ],
+        "zh": [
+          "希伯來文中「虹」（qeshet）這個字，就是指戰士所用的弓。",
+          "古代立約常有記號或見證，例如一堆石頭或一同吃飯（創世記31章44至54節）。"
+        ]
+      },
+      "maps": [],
+      "felt": { "find": "rainbow" },
+      "connections": "Gen.9"
+    },
+    {
+      "n": 10,
+      "title": { "en": "The tower of Babel", "zh": "巴別塔" },
+      "passages": ["Gen.11.1-9"],
+      "key": "Gen.11.4-5",
+      "points": {
+        "en": [
+          "The whole earth has one language, and people settle on a plain in the land of Shinar.",
+          "They make baked bricks and use tar for mortar.",
+          "They say, \"Let us build a city with a tower whose top reaches the heavens.\"",
+          "They want to make a name for themselves and not be scattered over the earth.",
+          "The LORD comes down to see the city and confuses their language.",
+          "The LORD scatters them over the whole earth, and they stop building the city, called Babel."
+        ],
+        "zh": [
+          "那時全地只有一種語言，人們在示拿地的平原住下來。",
+          "他們燒製磚塊，用瀝青當灰泥。",
+          "他們說：「我們要建造一座城和一座塔，塔頂通天。」",
+          "他們要為自己立名，免得分散在全地上。",
+          "耶和華降臨，要看那城，就混亂了他們的語言。",
+          "耶和華把他們分散到全地上，他們就停工不建那城了；那城名叫巴別。"
+        ]
+      },
+      "readings": [
+        { "ref": "Gen.10.8-10", "about": { "en": "Nimrod's kingdom began at Babel in Shinar", "zh": "寧錄的國起頭在示拿地的巴別" } },
+        { "ref": "Acts.2.5-11", "about": { "en": "At Pentecost each hears in his own language", "zh": "五旬節各人聽見用自己的鄉談說話" } },
+        { "ref": "Rev.7.9", "about": { "en": "A crowd from every nation and language", "zh": "從各國各方言來的群眾" } }
+      ],
+      "history": {
+        "en": [
+          "Shinar is southern Mesopotamia (Babylonia), in modern Iraq; in Hebrew \"Babel\" is the name of Babylon.",
+          "Mesopotamian cities built ziggurats, stepped temple towers of mud brick; the ziggurat of Babylon was about 90 m high.",
+          "Stone was scarce in southern Mesopotamia, so builders used baked brick with bitumen as mortar."
+        ],
+        "zh": [
+          "示拿就是美索不達米亞南部（巴比倫尼亞），在今伊拉克；希伯來文的「巴別」就是巴比倫的名字。",
+          "美索不達米亞的城市建有塔廟，是用泥磚築成的階梯形廟塔；巴比倫的塔廟高約90公尺。",
+          "美索不達米亞南部缺乏石頭，所以建築用燒過的磚，以瀝青作灰泥。"
+        ]
+      },
+      "maps": ["western-asia"],
+      "felt": { "find": "town" },
+      "connections": "Gen.11"
+    },
+    {
+      "n": 11,
+      "title": { "en": "Job: everything taken", "zh": "約伯：失去一切" },
+      "passages": ["Job.1-2"],
+      "key": "Job.1.20-22",
+      "points": {
+        "en": [
+          "Job lives in Uz; he is blameless and upright, with ten children and great wealth.",
+          "The Accuser says to the LORD, \"Is it for nothing that Job fears God?\" The LORD allows him to test Job.",
+          "In one day raiders, fire and a great wind take Job's animals, his servants and his children.",
+          "Job tears his robe and worships: \"The LORD gave, and the LORD has taken away.\"",
+          "The Accuser strikes Job with painful sores from head to foot.",
+          "Job's wife says, \"Curse God and die!\" Job answers, \"Shall we accept the good from God, and not the bad?\"",
+          "Three friends come and sit silently with Job for seven days and seven nights."
+        ],
+        "zh": [
+          "約伯住在烏斯地，完全正直，有十個兒女和極多的財產。",
+          "撒但對耶和華說：「約伯敬畏神，豈是無故呢？」耶和華容許他試驗約伯。",
+          "一天之內，強盜、天火和狂風奪去了約伯的牲畜、僕人和兒女。",
+          "約伯撕裂外袍，俯伏敬拜：「賞賜的是耶和華，收取的也是耶和華。」",
+          "撒但擊打約伯，使他從腳掌到頭頂長滿毒瘡。",
+          "約伯的妻子說：「你咒詛神，死了吧！」約伯回答：「我們從神手裏得福，不也受禍嗎？」",
+          "三個朋友來了，與約伯一同默默坐了七天七夜。"
+        ]
+      },
+      "readings": [
+        { "ref": "Jas.5.11", "about": { "en": "You have heard of the endurance of Job", "zh": "你們聽見過約伯的忍耐" } },
+        { "ref": "Ezek.14.14", "about": { "en": "Noah, Daniel and Job named together", "zh": "挪亞、但以理、約伯並列" } },
+        { "ref": "Zech.3.1-2", "about": { "en": "The Accuser stands to accuse; the LORD rebukes him", "zh": "撒但站着控告，耶和華責備他" } }
+      ],
+      "history": {
+        "en": [
+          "The land of Uz is not certainly located; it is often placed in or near Edom (Lam 4:21), east and south of the Dead Sea.",
+          "The Sabeans came from Sheba in southern Arabia (modern Yemen); the Chaldeans lived in southern Mesopotamia.",
+          "The book does not date its story; Job offers sacrifice as head of his family, as the patriarchs did. Scholars differ on when it was written."
+        ],
+        "zh": [
+          "烏斯地的位置不能確定，常被認為在以東境內或附近（耶利米哀歌4章21節），即死海的東面和南面。",
+          "示巴人來自阿拉伯半島南部的示巴（今也門）；迦勒底人住在美索不達米亞南部。",
+          "本書沒有註明故事的年代；約伯以家長身分獻祭，與先祖時代相似。學者對本書寫成的時間看法不一。"
+        ]
+      },
+      "maps": ["western-asia"],
+      "felt": { "find": "camel" },
+      "connections": "Job.1"
+    },
+    {
+      "n": 12,
+      "title": { "en": "Job: God answers", "zh": "約伯：神的回答" },
+      "passages": ["Job.38-42"],
+      "key": "Job.38.4-7",
+      "points": {
+        "en": [
+          "The LORD answers Job out of the storm: \"Where were you when I laid the foundations of the earth?\"",
+          "God asks about the sea, the light, the snow and rain, the stars, and wild animals and birds.",
+          "Job answers, \"I am of small account; what can I answer you? I put my hand over my mouth.\"",
+          "God speaks of Behemoth and Leviathan, great creatures that only he can master.",
+          "Job says, \"I had heard of you, but now my eye sees you,\" and he repents in dust and ashes.",
+          "The LORD is angry with Job's three friends; Job prays for them, and God accepts his prayer.",
+          "The LORD gives Job twice as much as before, and seven sons and three daughters; he lives 140 more years."
+        ],
+        "zh": [
+          "耶和華從旋風中回答約伯：「我立大地根基的時候，你在哪裏呢？」",
+          "神問到海洋、光明、雪雨、星辰，以及野地的走獸和飛鳥。",
+          "約伯回答：「我是卑微的，我用甚麼回答你呢？我只好用手摀口。」",
+          "神講到比希摩和利維坦，這些巨大的動物只有他能制伏。",
+          "約伯說：「我從前風聞有你，現在親眼看見你。」他就在塵土和爐灰中懊悔。",
+          "耶和華向約伯的三個朋友發怒；約伯為他們禱告，神悅納了他的禱告。",
+          "耶和華加倍賜給約伯，又賜他七個兒子、三個女兒；此後他又活了一百四十年。"
+        ]
+      },
+      "readings": [
+        { "ref": "Rom.11.33-36", "about": { "en": "Paul echoes Job: who has given to God first?", "zh": "保羅引約伯記：誰是先給了神的" } },
+        { "ref": "Jas.5.11", "about": { "en": "The Lord is full of compassion and mercy", "zh": "主是滿心憐憫，大有慈悲" } },
+        { "ref": "Ps.104.1-9", "about": { "en": "The LORD set the earth on its foundations", "zh": "耶和華將地立在根基上" } }
+      ],
+      "history": {
+        "en": [
+          "Many identify Behemoth with the hippopotamus and Leviathan with the crocodile; others take them as great creatures of poetry. Scholars differ.",
+          "The qesitah (Job 42:11) was a unit of money of unknown value, also mentioned in Genesis 33:19 and Joshua 24:32.",
+          "Job's friends are named from places linked with Edom and Arabia; Teman was a region of Edom, in modern southern Jordan."
+        ],
+        "zh": [
+          "許多人認為比希摩是河馬，利維坦是鱷魚；也有人認為是詩歌中描寫的巨大生物。學者看法不一。",
+          "約伯記42章11節的「一塊銀子」原文是qesitah，是一種錢幣單位，價值不詳，也見於創世記33章19節和約書亞記24章32節。",
+          "約伯的朋友以地名稱呼，這些地方與以東和阿拉伯有關；提幔是以東的一個地區，在今約旦南部。"
+        ]
+      },
+      "maps": [],
+      "felt": { "find": "cloud" },
+      "connections": "Job.38"
+    }
+  ]
+}

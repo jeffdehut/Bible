@@ -1,0 +1,577 @@
+{
+  "q": 7,
+  "lessons": [
+    {
+      "n": 1,
+      "title": { "en": "The kingdom divides; the kings of Israel and Judah", "zh": "王國分裂；以色列和猶大的君王" },
+      "passages": ["1Kgs.12"],
+      "key": "1Kgs.12.13-16",
+      "points": {
+        "en": [
+          "Rehoboam goes to Shechem, where all Israel has gathered to make him king.",
+          "Jeroboam and the people ask him to lighten the heavy yoke Solomon put on them.",
+          "Rehoboam rejects the elders’ advice and follows the young men: “I will add to your yoke.”",
+          "The northern tribes reject the house of David and make Jeroboam king; only Judah stays with David’s house.",
+          "Through Shemaiah the LORD tells Rehoboam not to fight against Israel, and the army goes home.",
+          "Afraid the people will turn back to Jerusalem, Jeroboam makes two golden calves and sets them in Bethel and Dan.",
+          "He builds shrines on high places, appoints priests who are not Levites, and devises his own festival."
+        ],
+        "zh": [
+          "羅波安往示劍去，以色列眾人都聚集在那裏要立他作王。",
+          "耶羅波安和百姓求他減輕所羅門加在他們身上的重軛。",
+          "羅波安拒絕老年人的勸告，聽從少年人的話：「我要使你們的軛更重。」",
+          "北方各支派離棄大衛家，立耶羅波安作王；只有猶大仍跟從大衛家。",
+          "耶和華藉示瑪雅吩咐羅波安不可攻打以色列，軍隊就各自回家。",
+          "耶羅波安怕百姓歸向耶路撒冷，就鑄造兩頭金牛犢，安放在伯特利和但。",
+          "他在高處建造神廟，立不是利未人的作祭司，又自定節期。"
+        ]
+      },
+      "readings": [
+        { "ref": "1Kgs.11.29-39", "about": { "en": "Ahijah tears his new cloak into twelve pieces", "zh": "亞希雅把新外衣撕成十二片" } },
+        { "ref": "2Chr.10", "about": { "en": "Chronicles tells of the division", "zh": "歷代志記載王國分裂" } },
+        { "ref": "Exod.32.1-8", "about": { "en": "Israel’s golden calf at Mount Sinai", "zh": "以色列人在西奈山造金牛犢" } },
+        { "ref": "Ezek.37.15-22", "about": { "en": "A promise that the two kingdoms will become one", "zh": "應許兩國將來合而為一" } }
+      ],
+      "history": {
+        "en": [
+          "The kingdom divided about 930 BC. The north was called Israel (or Ephraim), later ruled from Samaria; the south was Judah, ruled from Jerusalem.",
+          "Israel had nineteen kings from several families until Assyria took it in 722 BC; Judah had twenty rulers, all of David’s line but Queen Athaliah, until 586 BC.",
+          "Shechem lay at Tell Balata, by modern Nablus. At Tel Dan in the far north, archaeologists have uncovered a large platform for worship from the time of the kings."
+        ],
+        "zh": [
+          "王國約在公元前930年分裂。北國稱為以色列（又稱以法蓮），後來建都撒馬利亞；南國稱為猶大，以耶路撒冷為京城。",
+          "以色列先後有十九個王，出自幾個不同的家族，直到公元前722年被亞述所滅；猶大有二十位君王，除亞他利雅女王外都是大衛的後裔，直到公元前586年。",
+          "示劍位於今納布盧斯旁的巴拉塔丘。考古學家在北方的但城遺址發掘出一座君王時期的大型敬拜台。"
+        ]
+      },
+      "maps": ["kingdoms"],
+      "felt": { "find": "crown" },
+      "connections": "1Kgs.12"
+    },
+    {
+      "n": 2,
+      "title": { "en": "Elijah, the ravens and the widow", "zh": "以利亞、烏鴉和寡婦" },
+      "passages": ["1Kgs.17"],
+      "key": "1Kgs.17.14-16",
+      "points": {
+        "en": [
+          "Elijah the Tishbite tells King Ahab there will be no dew or rain except at his word.",
+          "The LORD sends Elijah to hide by the Kerith Ravine, east of the Jordan.",
+          "Ravens bring him bread and meat morning and evening, and he drinks from the stream.",
+          "When the stream dries up, the LORD sends him to a widow in Zarephath, which belongs to Sidon.",
+          "She has only a handful of flour and a little oil, yet her jar and jug do not run out.",
+          "Her son falls ill and stops breathing; Elijah cries out to the LORD, and the boy’s life comes back.",
+          "The woman says, “Now I know that you are a man of God.”"
+        ],
+        "zh": [
+          "提斯比人以利亞對亞哈王說，若不是他開口，必不降露，也不下雨。",
+          "耶和華打發以利亞藏在約旦河東邊的基立溪旁。",
+          "烏鴉早晚給他叼來餅和肉，他就喝溪裏的水。",
+          "溪水乾了，耶和華又打發他到屬西頓的撒勒法去找一個寡婦。",
+          "她只有一把麵粉和一點油，罈裏的麵卻不用完，瓶裏的油也不短缺。",
+          "她的兒子病得斷了氣；以利亞向耶和華呼求，孩子的生命就回來了。",
+          "婦人說：「現在我知道你是神人。」"
+        ]
+      },
+      "readings": [
+        { "ref": "Luke.4.25-26", "about": { "en": "Jesus speaks of Elijah and the widow of Zarephath", "zh": "耶穌提到以利亞和撒勒法的寡婦" } },
+        { "ref": "Jas.5.17-18", "about": { "en": "Elijah prayed, and it did not rain", "zh": "以利亞禱告，天就不下雨" } },
+        { "ref": "1Kgs.16.29-33", "about": { "en": "Ahab marries Jezebel and serves Baal", "zh": "亞哈娶耶洗別，又事奉巴力" } },
+        { "ref": "Luke.7.11-15", "about": { "en": "Jesus raises a widow’s son at Nain", "zh": "耶穌使拿因城寡婦的兒子復活" } }
+      ],
+      "history": {
+        "en": [
+          "Ahab ruled Israel from Samaria about 874–853 BC. An Assyrian inscription names him among the kings who fought Shalmaneser III at Qarqar in 853 BC.",
+          "Baal was worshipped as the Canaanite god of storm and rain. Jezebel, daughter of the king of the Sidonians, promoted his worship in Israel (1 Kings 16:31).",
+          "Zarephath was a coastal town between Tyre and Sidon; its site is by Sarafand in Lebanon."
+        ],
+        "zh": [
+          "亞哈約在公元前874至853年在撒馬利亞作以色列王。亞述的碑文記載，他是公元前853年在卡爾卡爾與撒縵以色三世交戰的諸王之一。",
+          "巴力被敬拜為迦南人掌管風暴和雨水的神。西頓王的女兒耶洗別在以色列推行巴力崇拜（列王紀上16章31節）。",
+          "撒勒法是推羅和西頓之間的一座海邊城鎮，遺址在今黎巴嫩的薩拉凡德附近。"
+        ]
+      },
+      "maps": ["kingdoms"],
+      "felt": { "find": "raven" },
+      "connections": "1Kgs.17"
+    },
+    {
+      "n": 3,
+      "title": { "en": "Elijah and the false prophets", "zh": "以利亞和假先知" },
+      "passages": ["1Kgs.18"],
+      "key": "1Kgs.18.36-39",
+      "points": {
+        "en": [
+          "In the third year of drought, Elijah meets Ahab, who calls him “troubler of Israel.”",
+          "Elijah gathers all Israel and the 450 prophets of Baal at Mount Carmel.",
+          "“How long will you go limping between two opinions? If the LORD is God, follow him.”",
+          "The prophets of Baal call on Baal from morning until evening, but no one answers.",
+          "Elijah repairs the LORD’s altar with twelve stones and has water poured on the sacrifice three times.",
+          "Elijah prays, the fire of the LORD falls, and the people cry, “The LORD, he is God!”",
+          "On top of Carmel a cloud as small as a man’s hand rises from the sea, and heavy rain falls."
+        ],
+        "zh": [
+          "旱災的第三年，以利亞去見亞哈；亞哈稱他為「使以色列遭難的人」。",
+          "以利亞把以色列眾人和四百五十個巴力的先知召集到迦密山。",
+          "「你們在兩者之間搖擺不定，要到幾時呢？如果耶和華是神，就跟從他。」",
+          "巴力的先知從早到晚求告巴力，卻沒有回應。",
+          "以利亞用十二塊石頭修築耶和華的壇，叫人三次把水倒在祭物上。",
+          "以利亞禱告，耶和華的火降下來，眾民就喊着說：「耶和華是神！」",
+          "在迦密山頂，有一小片雲像人的手掌那麼大，從海上升起，接着就下了大雨。"
+        ]
+      },
+      "readings": [
+        { "ref": "1Kgs.19.1-18", "about": { "en": "Elijah flees from Jezebel to Mount Horeb", "zh": "以利亞逃避耶洗別，到了何烈山" } },
+        { "ref": "Rom.11.2-4", "about": { "en": "Paul recalls Elijah and the seven thousand", "zh": "保羅提到以利亞和七千人" } },
+        { "ref": "Lev.9.23-24", "about": { "en": "Fire from the LORD consumes the first offerings", "zh": "耶和華的火燒盡最初的祭物" } }
+      ],
+      "history": {
+        "en": [
+          "Mount Carmel is a ridge running southeast from the coast at Haifa, Israel. A site on its southeast end, El-Muhraqa (“the place of burning”), is traditionally the place of this contest.",
+          "The Kishon River flows along the foot of Carmel into the bay of Haifa.",
+          "A seah was a dry measure; scholars’ estimates of its size range from about 7 to 13 litres."
+        ],
+        "zh": [
+          "迦密山是一道山嶺，從以色列海法的海邊向東南延伸。山嶺東南端的穆赫拉卡（意思是「焚燒之地」）相傳就是這次較量的地點。",
+          "基順河沿着迦密山腳流入海法灣。",
+          "細亞是量乾貨的單位；學者估計它的容量約在7至13公升之間。"
+        ]
+      },
+      "maps": ["kingdoms"],
+      "felt": { "find": "altar" },
+      "connections": "1Kgs.18"
+    },
+    {
+      "n": 4,
+      "title": { "en": "Elijah and the chariot of fire", "zh": "以利亞和火車火馬" },
+      "passages": ["2Kgs.2.1-15"],
+      "key": "2Kgs.2.9-12",
+      "points": {
+        "en": [
+          "As the LORD is about to take Elijah up, Elisha refuses to leave him: “I will not leave you.”",
+          "They travel from Gilgal to Bethel, then to Jericho, then to the Jordan.",
+          "Elijah strikes the Jordan with his rolled-up cloak, the water divides, and they cross on dry ground.",
+          "Elisha asks for a double share of Elijah’s spirit.",
+          "A chariot of fire and horses of fire separate them, and Elijah goes up to heaven in a whirlwind.",
+          "Elisha picks up Elijah’s cloak and strikes the water, and it divides for him too.",
+          "The prophets from Jericho say, “The spirit of Elijah rests on Elisha.”"
+        ],
+        "zh": [
+          "耶和華要接以利亞上去的時候，以利沙不肯離開他，說：「我必不離開你。」",
+          "他們從吉甲到伯特利，又到耶利哥，再到約旦河。",
+          "以利亞把外衣捲起來擊打約旦河，水就分開，二人走乾地過去。",
+          "以利沙求以利亞的靈加倍歸給他。",
+          "忽然有火的戰車和火的馬把二人隔開，以利亞乘旋風升天去了。",
+          "以利沙拾起以利亞的外衣擊打河水，水也為他分開。",
+          "耶利哥的先知們說：「以利亞的靈停在以利沙身上了。」"
+        ]
+      },
+      "readings": [
+        { "ref": "1Kgs.19.19-21", "about": { "en": "Elijah calls Elisha from his plowing", "zh": "以利亞呼召正在耕地的以利沙" } },
+        { "ref": "Mal.3.23-24", "about": { "en": "God will send Elijah before the day of the LORD", "zh": "耶和華的日子以前，神要差以利亞來" } },
+        { "ref": "Matt.17.1-4", "about": { "en": "Moses and Elijah with Jesus on the mountain", "zh": "摩西和以利亞在山上與耶穌同在" } },
+        { "ref": "Luke.1.17", "about": { "en": "John comes in the spirit and power of Elijah", "zh": "約翰帶着以利亞的靈和能力而來" } }
+      ],
+      "history": {
+        "en": [
+          "Elijah and Elisha were prophets in the northern kingdom in the 800s BC, under Ahab and the kings after him.",
+          "Gilgal and Jericho were where Israel first camped and conquered after crossing the Jordan under Joshua (Joshua 4–6). Jericho lies about 250 m below sea level.",
+          "Under Israel’s law, the firstborn son received a double share of his father’s inheritance (Deuteronomy 21:17)."
+        ],
+        "zh": [
+          "以利亞和以利沙是公元前九世紀北國的先知，活躍於亞哈和他以後的諸王年間。",
+          "吉甲和耶利哥是以色列人在約書亞率領下過約旦河後最先安營、攻取的地方（約書亞記4至6章）。耶利哥低於海平面約250米。",
+          "按以色列的律法，長子可以得父親產業的雙份（申命記21章17節）。"
+        ]
+      },
+      "maps": ["kingdoms"],
+      "felt": { "find": "river" },
+      "connections": "2Kgs.2"
+    },
+    {
+      "n": 5,
+      "title": { "en": "Elisha: the bears and the floating axe head", "zh": "以利沙：母熊和浮起的斧頭" },
+      "passages": ["2Kgs.2.19-25", "2Kgs.6.1-7"],
+      "key": "2Kgs.6.5-7",
+      "points": {
+        "en": [
+          "Elisha heals the bad water of Jericho by throwing salt into its spring.",
+          "On the road to Bethel, youths come out of the town and jeer at him: “Go on up, baldhead!”",
+          "Elisha curses them in the name of the LORD, and two female bears maul forty-two of them.",
+          "The company of prophets need a bigger place, so Elisha goes with them to the Jordan to cut beams.",
+          "An iron axe head falls into the water, and the man cries out, “It was borrowed!”",
+          "Elisha throws a stick in where it fell and makes the iron float, and the man picks it up."
+        ],
+        "zh": [
+          "以利沙把鹽撒在耶利哥的水源裏，治好了那裏的壞水。",
+          "在往伯特利的路上，一群孩子從城裏出來嘲笑他：「禿頭的，上去吧！」",
+          "以利沙奉耶和華的名詛咒他們，就有兩隻母熊出來，撕裂了其中四十二個孩子。",
+          "先知們嫌住處太窄，以利沙就與他們同往約旦河去砍木頭。",
+          "有一個鐵斧頭掉進水裏，那人喊着說：「這斧頭是借來的！」",
+          "以利沙砍了一根木棍丟在斧頭掉下的地方，鐵斧頭就浮上來，那人把它拿了起來。"
+        ]
+      },
+      "readings": [
+        { "ref": "2Kgs.4.1-7", "about": { "en": "Elisha and the widow’s jar of oil", "zh": "以利沙和寡婦的油" } },
+        { "ref": "2Kgs.4.38-41", "about": { "en": "Elisha makes a poisoned stew safe to eat", "zh": "以利沙使有毒的湯可以吃" } },
+        { "ref": "2Kgs.13.20-21", "about": { "en": "A dead man touches Elisha’s bones and lives", "zh": "死人碰到以利沙的骸骨就復活" } }
+      ],
+      "history": {
+        "en": [
+          "A spring at Jericho, Ein es-Sultan, is traditionally known as Elisha’s Spring.",
+          "Bethel, where Jeroboam had set up a golden calf (1 Kings 12:29), lay about 17 km north of Jerusalem; it is usually identified with the village of Beitin.",
+          "The Syrian brown bear lived in the land in Bible times; it died out there in the twentieth century.",
+          "Iron tools were costly, and under the law a borrower had to make good anything borrowed that was lost or harmed (Exodus 22:13)."
+        ],
+        "zh": [
+          "耶利哥的蘇丹泉，相傳就是「以利沙泉」。",
+          "伯特利是耶羅波安安放金牛犢的地方（列王紀上12章29節），在耶路撒冷以北約17公里，一般認為就是今天的貝廷村。",
+          "聖經時代，敘利亞棕熊生活在這地，到了二十世紀才在當地絕跡。",
+          "鐵器很昂貴；按律法，借來的東西若有損失，借的人必須賠償（出埃及記22章13節）。"
+        ]
+      },
+      "maps": ["kingdoms"],
+      "felt": { "find": "water" },
+      "connections": "2Kgs.6"
+    },
+    {
+      "n": 6,
+      "title": { "en": "Naaman is healed", "zh": "乃縵得醫治" },
+      "passages": ["2Kgs.5"],
+      "key": "2Kgs.5.13-15",
+      "points": {
+        "en": [
+          "Naaman, commander of the army of Aram, is a mighty warrior, but he has a skin disease.",
+          "A young girl taken captive from Israel tells his wife about the prophet in Samaria.",
+          "The king of Israel tears his clothes at the letter, but Elisha says, “Let him come to me.”",
+          "Elisha sends word: “Go and wash seven times in the Jordan.” Naaman goes away angry.",
+          "His servants persuade him; he dips seven times, and his flesh becomes like a young boy’s.",
+          "Naaman says, “Now I know that there is no God in all the earth except in Israel.”",
+          "Elisha’s servant Gehazi secretly takes silver from Naaman and is struck with the skin disease."
+        ],
+        "zh": [
+          "亞蘭王的元帥乃縵是英勇的戰士，卻患了嚴重的皮膚病。",
+          "一個從以色列擄來的小女孩告訴乃縵的妻子，撒馬利亞有一位先知。",
+          "以色列王讀了國書就撕裂衣服，以利沙卻說：「讓他到我這裏來。」",
+          "以利沙派人說：「去，在約旦河裏洗七次。」乃縵卻發怒走了。",
+          "他的臣僕勸他，他就在約旦河裏浸了七次，皮肉復原，好像小孩子的一樣。",
+          "乃縵說：「現在我知道，除了以色列以外，全地都沒有神。」",
+          "以利沙的僕人基哈西私下向乃縵拿了銀子，就患上了那皮膚病。"
+        ]
+      },
+      "readings": [
+        { "ref": "Luke.4.27", "about": { "en": "Jesus speaks of Naaman the Syrian", "zh": "耶穌提到敘利亞人乃縵" } },
+        { "ref": "Lev.14.1-9", "about": { "en": "The law for cleansing from a skin disease", "zh": "律法中潔淨皮膚病的條例" } },
+        { "ref": "Luke.17.11-19", "about": { "en": "Ten men healed; one, a Samaritan, returns to give thanks", "zh": "十人得潔淨，一個撒馬利亞人回來感謝" } }
+      ],
+      "history": {
+        "en": [
+          "Aram was the kingdom of the Arameans, centred on Damascus in today’s Syria; it often fought with Israel in the 800s BC.",
+          "The Amana (or Abana) is usually identified with the Barada River, which flows through Damascus; the Pharpar probably with the Awaj, south of the city.",
+          "The Hebrew word for Naaman’s disease covers many skin conditions, not only leprosy as known today.",
+          "A talent was about 30 kg (66 lb); Naaman brought ten talents of silver."
+        ],
+        "zh": [
+          "亞蘭是亞蘭人的王國，以今敘利亞的大馬色為中心，在公元前九世紀經常與以色列交戰。",
+          "亞瑪拿河一般認為就是今天流經大馬色的拜拉達河；法珥法河大概是城南的阿瓦吉河。",
+          "希伯來文中乃縵所患的病包括多種皮膚病，不只是今天所說的痲瘋病。",
+          "一他連得約重30公斤；乃縵帶了十他連得銀子。"
+        ]
+      },
+      "maps": ["kingdoms"],
+      "felt": { "find": "river" },
+      "connections": "2Kgs.5"
+    },
+    {
+      "n": 7,
+      "title": { "en": "Jonah runs from God", "zh": "約拿逃避神" },
+      "passages": ["Jonah.1-2"],
+      "key": "Jonah.1.1-3",
+      "points": {
+        "en": [
+          "The LORD tells Jonah to go to Nineveh and cry out against it, for its evil has come up before him.",
+          "Jonah runs the other way: he goes down to Joppa and boards a ship for Tarshish.",
+          "The LORD hurls a great storm on the sea; the sailors cry out to their gods while Jonah sleeps.",
+          "The lot falls on Jonah: “I fear the LORD, the God of heaven, who made the sea and the dry land.”",
+          "The sailors hurl him into the sea, and the sea stops raging.",
+          "The LORD appoints a great fish to swallow Jonah, and he is inside it three days and three nights.",
+          "Jonah prays from the fish, “Salvation belongs to the LORD!” and the fish vomits him onto dry land."
+        ],
+        "zh": [
+          "耶和華吩咐約拿往尼尼微去，向那城呼喊，因為他們的罪惡已經達到他面前。",
+          "約拿卻往反方向逃跑：他下到約帕，上了往他施去的船。",
+          "耶和華使海上起了大風暴；水手各自呼求自己的神，約拿卻在睡覺。",
+          "掣籤掣出約拿，他說：「我敬畏耶和華天上的神，就是創造海洋和陸地的那位。」",
+          "水手把他拋進海裏，海就平靜了。",
+          "耶和華安排一條大魚吞下約拿，他在魚腹中三日三夜。",
+          "約拿在魚腹中禱告：「救恩屬於耶和華！」大魚就把他吐在陸地上。"
+        ]
+      },
+      "readings": [
+        { "ref": "2Kgs.14.25", "about": { "en": "Jonah son of Amittai in the days of Jeroboam II", "zh": "耶羅波安二世年間的亞米太的兒子約拿" } },
+        { "ref": "Matt.12.38-41", "about": { "en": "Jesus speaks of the sign of Jonah", "zh": "耶穌談到約拿的神蹟" } },
+        { "ref": "Ps.139.7-10", "about": { "en": "There is nowhere to flee from God’s presence", "zh": "無處可以逃避神的同在" } },
+        { "ref": "Mark.4.35-41", "about": { "en": "Jesus calms a storm on the sea", "zh": "耶穌平靜海上的風浪" } }
+      ],
+      "history": {
+        "en": [
+          "Jonah son of Amittai prophesied in the days of Jeroboam II of Israel, who reigned about 786–746 BC (2 Kings 14:25).",
+          "Joppa is modern Jaffa, the old port of Tel Aviv. Tarshish lay far to the west; many identify it with Tartessus in southern Spain.",
+          "Nineveh, on the Tigris River, was a great city of the Assyrian Empire; its ruins lie by Mosul in Iraq.",
+          "In this site’s Bible, the great fish is Jonah 2:1, following the Hebrew numbering; English Bibles number it 1:17."
+        ],
+        "zh": [
+          "亞米太的兒子約拿在以色列王耶羅波安二世年間說預言；耶羅波安二世約在公元前786至746年在位（列王紀下14章25節）。",
+          "約帕就是今天的雅法，是特拉維夫的古港。他施遠在西方，許多人認為就是西班牙南部的塔特蘇斯。",
+          "尼尼微位於底格里斯河畔，是亞述帝國的大城，遺址在今伊拉克的摩蘇爾附近。",
+          "本站聖經依照希伯來文的節數，大魚一節是約拿書2章1節；英文聖經作1章17節。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "story": "jonah" },
+      "connections": "Jonah.1"
+    },
+    {
+      "n": 8,
+      "title": { "en": "Jonah and Nineveh", "zh": "約拿和尼尼微" },
+      "passages": ["Jonah.3-4"],
+      "key": "Jonah.4.10-11",
+      "points": {
+        "en": [
+          "The word of the LORD comes to Jonah a second time, and this time he goes to Nineveh.",
+          "He proclaims, “Forty days more, and Nineveh will be overthrown!”",
+          "The people believe God; from the greatest to the least they fast and put on sackcloth.",
+          "The king sits in ashes and orders everyone to call on God and turn from evil and violence.",
+          "God sees that they turn from their evil way and relents from the disaster.",
+          "Jonah is angry: he knew God is gracious and compassionate, slow to anger and abounding in faithful love.",
+          "God appoints a plant, a worm and a hot wind, then asks: should I not be concerned about Nineveh?"
+        ],
+        "zh": [
+          "耶和華的話第二次臨到約拿，這次他往尼尼微去了。",
+          "他宣告說：「再過四十天，尼尼微就要傾覆了！」",
+          "尼尼微人信了神；從最大的到最小的都禁食，穿上麻衣。",
+          "王坐在灰中，下令眾人呼求神，離開惡行和強暴。",
+          "神看見他們離開惡道，就改變心意，不降那災禍。",
+          "約拿發怒：他早知道神是有恩典、有憐憫的神，不輕易發怒，大有慈愛。",
+          "神安排了一棵蓖麻、一條蟲和炎熱的東風，然後問他：我豈能不愛惜尼尼微呢？"
+        ]
+      },
+      "readings": [
+        { "ref": "Luke.11.29-32", "about": { "en": "Nineveh repented at Jonah’s preaching", "zh": "尼尼微人因約拿的宣講悔改" } },
+        { "ref": "Exod.34.6-7", "about": { "en": "The LORD proclaims his name: gracious and compassionate", "zh": "耶和華宣告他的名：有憐憫、有恩典" } },
+        { "ref": "Jer.18.7-8", "about": { "en": "God relents when a nation turns from evil", "zh": "邦國若離開惡行，神就改變心意" } },
+        { "ref": "Nah.1.1", "about": { "en": "Nahum’s later message against Nineveh", "zh": "那鴻後來論尼尼微的默示" } }
+      ],
+      "history": {
+        "en": [
+          "Under Sennacherib (about 705–681 BC), Nineveh became Assyria’s capital, with walls about 12 km (7.5 miles) around.",
+          "Nineveh fell to the Babylonians and the Medes in 612 BC.",
+          "The mound of Nebi Yunus (“the prophet Jonah”) at Nineveh traditionally held Jonah’s tomb; its shrine was blown up by Islamic State in 2014.",
+          "Sackcloth was coarse cloth, often of goat hair, worn as a sign of mourning."
+        ],
+        "zh": [
+          "在西拿基立年間（約公元前705至681年），尼尼微成為亞述的京城，城牆周長約12公里。",
+          "尼尼微在公元前612年被巴比倫人和米底亞人攻陷。",
+          "尼尼微的「先知約拿丘」相傳有約拿的墳墓；那裏的聖祠在2014年被伊斯蘭國炸毀。",
+          "麻衣是粗布，常用山羊毛織成，是人哀慟時所穿的。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "story": "jonah" },
+      "connections": "Jonah.3"
+    },
+    {
+      "n": 9,
+      "title": { "en": "Hosea: God's promise to restore Israel", "zh": "何西阿：神應許復興以色列" },
+      "passages": ["Hos.1-3", "Hos.14"],
+      "key": "Hos.14.5-6",
+      "points": {
+        "en": [
+          "The LORD tells Hosea to marry a wife of prostitution, for the land has turned from the LORD; he marries Gomer.",
+          "Their children are named Jezreel, Lo-ruhamah (“no compassion”) and Lo-ammi (“not my people”).",
+          "Yet those called “not my people” will be called “children of the living God.”",
+          "The LORD will lead Israel into the wilderness, speak tenderly to her, and betroth her to himself forever.",
+          "Hosea is told to love an adulterous woman again, as the LORD loves Israel though they turn to other gods.",
+          "“Return, Israel, to the LORD your God.”",
+          "The LORD says, “I will heal their unfaithfulness; I will love them freely.”"
+        ],
+        "zh": [
+          "耶和華吩咐何西阿娶一個淫亂的妻子，因為這地背離了耶和華；他就娶了歌篾。",
+          "他們的兒女名叫耶斯列、羅‧路哈瑪（意思是「不蒙憐憫」）和羅‧阿米（意思是「不是我的子民」）。",
+          "然而，那些被稱為「不是我的子民」的，將被稱為「永活神的兒女」。",
+          "耶和華要領以色列到曠野，對她說安慰的話，永遠聘她歸自己。",
+          "耶和華吩咐何西阿再去愛一個犯姦淫的婦人，就像耶和華愛以色列人，雖然他們轉向別的神。",
+          "「以色列啊，你要歸向耶和華你的神。」",
+          "耶和華說：「我要醫治他們的背叛，甘心愛他們。」"
+        ]
+      },
+      "readings": [
+        { "ref": "Rom.9.25-26", "about": { "en": "Paul quotes Hosea: “not my people” become God’s people", "zh": "保羅引用何西阿論「不是我的子民」" } },
+        { "ref": "1Pet.2.10", "about": { "en": "Once not a people, now God’s people", "zh": "從前不是子民，現在是神的子民" } },
+        { "ref": "Hos.11.1-4", "about": { "en": "“When Israel was a child, I loved him”", "zh": "以色列年幼的時候，神就愛他" } },
+        { "ref": "Matt.2.15", "about": { "en": "Matthew quotes “Out of Egypt I called my son”", "zh": "馬太引用「我從埃及召出我的兒子」" } }
+      ],
+      "history": {
+        "en": [
+          "Hosea prophesied in the northern kingdom in the 700s BC, in its last decades before Assyria took Samaria in 722 BC.",
+          "Jezreel was the valley and royal city where King Jehu had shed much blood (2 Kings 9–10); the name of Hosea’s son recalls it.",
+          "Hosea often calls the northern kingdom “Ephraim,” after its largest tribe.",
+          "A shekel weighed roughly 11.5 g, so fifteen shekels was about 170 g of silver."
+        ],
+        "zh": [
+          "何西阿在公元前八世紀於北國說預言，正是亞述在公元前722年攻取撒馬利亞之前的最後幾十年。",
+          "耶斯列是平原和王城的名字，耶戶王曾在那裏大行殺戮（列王紀下9至10章）；何西阿兒子的名字就是指這事。",
+          "何西阿常用最大的支派「以法蓮」來稱呼北國。",
+          "一舍客勒約重11.5克，十五舍客勒約是170克銀子。"
+        ]
+      },
+      "maps": ["kingdoms"],
+      "felt": { "find": "flowers" },
+      "connections": "Hos.1"
+    },
+    {
+      "n": 10,
+      "title": { "en": "Isaiah's calling", "zh": "以賽亞蒙召" },
+      "passages": ["Isa.6"],
+      "key": "Isa.6.6-8",
+      "points": {
+        "en": [
+          "In the year King Uzziah dies, Isaiah sees the Lord on a high throne, the hem of his robe filling the temple.",
+          "Seraphim call, “Holy, holy, holy is the LORD of Armies! The whole earth is full of his glory.”",
+          "Isaiah cries, “Woe is me! I am a man of unclean lips.”",
+          "A seraph touches his mouth with a glowing coal from the altar, and his guilt is taken away.",
+          "The Lord asks, “Whom shall I send?” Isaiah answers, “Here I am. Send me!”",
+          "He is sent to a people who will hear but not understand, until the land is left desolate.",
+          "Yet a stump will remain: “The holy seed is its stump.”"
+        ],
+        "zh": [
+          "烏西雅王去世那年，以賽亞看見主坐在高高的寶座上，他衣袍的下襬充滿聖殿。",
+          "撒拉弗呼喊說：「聖哉！聖哉！聖哉！萬軍之耶和華！他的榮耀充滿全地！」",
+          "以賽亞喊着說：「我有禍了！我是嘴唇不潔的人。」",
+          "一個撒拉弗用壇上燒紅的炭沾他的口，他的罪孽就除掉了。",
+          "主問：「我可以差遣誰呢？」以賽亞回答：「我在這裏，請差遣我！」",
+          "他被差到一群聽而不明白的百姓那裏，直到地土荒涼。",
+          "然而必留下樹墩：「這聖潔的種子就是樹墩。」"
+        ]
+      },
+      "readings": [
+        { "ref": "Rev.4.8", "about": { "en": "Living creatures cry, “Holy, holy, holy”", "zh": "四活物呼喊「聖哉！聖哉！聖哉！」" } },
+        { "ref": "John.12.37-41", "about": { "en": "John: Isaiah saw Jesus’ glory", "zh": "約翰說以賽亞看見了耶穌的榮耀" } },
+        { "ref": "Matt.13.13-15", "about": { "en": "Jesus quotes Isaiah on hearing without understanding", "zh": "耶穌引用以賽亞論聽而不明白" } }
+      ],
+      "history": {
+        "en": [
+          "King Uzziah of Judah died about 740 BC, after a long reign (2 Chronicles 26).",
+          "Isaiah son of Amoz prophesied in Jerusalem under Uzziah, Jotham, Ahaz and Hezekiah (Isaiah 1:1), for about forty years.",
+          "The Great Isaiah Scroll, found among the Dead Sea Scrolls in 1947, holds all 66 chapters; it was copied in the second century BC.",
+          "The Hebrew word seraphim is related to a verb meaning “to burn.”"
+        ],
+        "zh": [
+          "猶大王烏西雅在位多年，約在公元前740年去世（歷代志下26章）。",
+          "亞摩斯的兒子以賽亞在烏西雅、約坦、亞哈斯和希西家年間於耶路撒冷說預言（以賽亞書1章1節），約有四十年。",
+          "1947年發現的死海古卷中，有一卷完整的以賽亞書，共66章，抄寫於公元前二世紀。",
+          "希伯來文「撒拉弗」與一個意思是「焚燒」的動詞有關。"
+        ]
+      },
+      "maps": ["kingdoms", "jerusalem"],
+      "felt": { "find": "throne" },
+      "connections": "Isa.6"
+    },
+    {
+      "n": 11,
+      "title": { "en": "Immanuel's birth prophesied", "zh": "預言以馬內利降生" },
+      "passages": ["Isa.7.1-17", "Isa.8.23-9.6"],
+      "key": "Isa.9.5-6",
+      "points": {
+        "en": [
+          "Aram and Israel march against Jerusalem, and the hearts of King Ahaz and his people shake.",
+          "Isaiah tells Ahaz, “Do not be afraid”; their plan will not stand.",
+          "Ahaz refuses to ask for a sign, saying he will not put the LORD to the test.",
+          "The Lord himself gives a sign: the young woman will give birth to a son and call him Immanuel.",
+          "Galilee of the nations will see glory: “The people who walked in darkness have seen a great light.”",
+          "“A child has been born to us”: Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.",
+          "He will reign on David’s throne with justice and righteousness, and his peace will have no end."
+        ],
+        "zh": [
+          "亞蘭和以色列上來攻打耶路撒冷，亞哈斯王和百姓的心都震動。",
+          "以賽亞對亞哈斯說：「不要怕」；他們的計謀必不能成立。",
+          "亞哈斯不肯求兆頭，說他不試探耶和華。",
+          "主自己要給一個兆頭：那少女要生一個兒子，給他起名叫以馬內利。",
+          "外邦人的加利利必得榮耀：「在黑暗中行走的百姓看見了大光。」",
+          "「有一個孩子為我們而生」：奇妙的策士、大能的神、永恆的父、和平的君。",
+          "他要坐在大衛的寶座上，以公平和公義治理，他的平安沒有窮盡。"
+        ]
+      },
+      "readings": [
+        { "ref": "Matt.1.22-23", "about": { "en": "Matthew: the birth of Jesus fulfils the Immanuel sign", "zh": "馬太說耶穌降生應驗了以馬內利的兆頭" } },
+        { "ref": "Matt.4.12-16", "about": { "en": "Jesus begins his work in Galilee: a great light", "zh": "耶穌在加利利開始工作，應驗大光" } },
+        { "ref": "Luke.1.31-33", "about": { "en": "Gabriel: Jesus will reign on David’s throne forever", "zh": "加百列說耶穌要坐大衛的寶座" } },
+        { "ref": "2Kgs.16.5-9", "about": { "en": "Ahaz turns to Assyria for help", "zh": "亞哈斯向亞述求救" } }
+      ],
+      "history": {
+        "en": [
+          "About 735 BC, Rezin of Aram and Pekah of Israel attacked Judah; many scholars think they wanted to force it into a league against Assyria.",
+          "Tiglath-pileser III of Assyria took Damascus in 732 BC and annexed Galilee, the land of Zebulun and Naphtali (2 Kings 15:29).",
+          "The Hebrew word ‘almah means “young woman”; the Greek translation made before Christ rendered it “virgin,” the word Matthew quotes.",
+          "This site follows the Hebrew numbering: English Isaiah 9:1 is 8:23 here, and 9:2–7 is 9:1–6."
+        ],
+        "zh": [
+          "約在公元前735年，亞蘭王利汛和以色列王比加攻打猶大；許多學者認為，他們是要逼猶大加入反亞述的聯盟。",
+          "亞述王提革拉‧毗列色三世在公元前732年攻取大馬色，並吞併了加利利，就是西布倫地和拿弗他利地（列王紀下15章29節）。",
+          "希伯來文的這個詞意思是「少女」；主前譯成的希臘文舊約把它譯作「童女」，馬太引用的就是這個詞。",
+          "本站依照希伯來文節數：英文以賽亞書9章1節在這裏是8章23節，9章2至7節是9章1至6節。"
+        ]
+      },
+      "maps": ["kingdoms"],
+      "felt": { "find": "baby" },
+      "connections": "Isa.9"
+    },
+    {
+      "n": 12,
+      "title": { "en": "The suffering servant", "zh": "受苦的僕人" },
+      "passages": ["Isa.52.13-53.12"],
+      "key": "Isa.53.4-6",
+      "points": {
+        "en": [
+          "“My servant will act wisely; he will be raised and lifted up and greatly exalted.”",
+          "Many are appalled at him; his appearance is disfigured beyond that of any man.",
+          "He grows up like a root out of dry ground; he is despised and rejected by others.",
+          "“He was pierced for our rebellious acts… and by his wounds we are healed.”",
+          "“We all, like sheep, have gone astray,” and the LORD lays on him the guilt of us all.",
+          "Like a lamb led to the slaughter he does not open his mouth; he is cut off and his grave made with the wicked.",
+          "After his anguish he will see and be satisfied; he bears the sin of many and intercedes for the rebels."
+        ],
+        "zh": [
+          "「我的僕人必行事有智慧，必被高舉上升，大大受尊崇。」",
+          "許多人因他驚駭；他的面貌比任何人都憔悴。",
+          "他像根出於乾地；他被人藐視，被人厭棄。",
+          "「他卻因我們的過犯被刺傷……因他受的鞭傷，我們得了醫治。」",
+          "「我們都像羊一樣走迷了路」，耶和華卻使我們眾人的罪孽都落在他身上。",
+          "他像羊羔被牽去宰殺，卻不開口；他被剪除，人使他與惡人同埋。",
+          "他受了勞苦之後，必看見而心滿意足；他擔當多人的罪，又為罪人代求。"
+        ]
+      },
+      "readings": [
+        { "ref": "Acts.8.30-35", "about": { "en": "Philip explains this passage to an Ethiopian official", "zh": "腓利向埃提阿伯大臣講解這段經文" } },
+        { "ref": "1Pet.2.22-25", "about": { "en": "Peter: by his wounds you have been healed", "zh": "彼得說：因他受的鞭傷，你們得了醫治" } },
+        { "ref": "Luke.22.37", "about": { "en": "Jesus says this passage must be fulfilled in him", "zh": "耶穌說這段經文必應驗在他身上" } },
+        { "ref": "Matt.8.16-17", "about": { "en": "Matthew quotes Isaiah 53 of Jesus’ healings", "zh": "馬太引用以賽亞書53章論耶穌治病" } }
+      ],
+      "history": {
+        "en": [
+          "Scholars call Isaiah 42, 49, 50 and 52–53 the “Servant Songs”; this is the fourth and longest.",
+          "The Great Isaiah Scroll from Qumran contains this passage, copied more than a century before Jesus was born.",
+          "Lambs were offered at the temple every morning and evening (Exodus 29:38–39), and a lamb was eaten at each Passover."
+        ],
+        "zh": [
+          "學者把以賽亞書42、49、50和52至53章稱為「僕人之歌」；這是第四首，也是最長的一首。",
+          "在昆蘭發現的以賽亞書古卷載有這段經文，抄寫的時間比耶穌降生早一百多年。",
+          "聖殿每天早晚都獻上羊羔（出埃及記29章38至39節）；每年逾越節，各家也要吃羊羔。"
+        ]
+      },
+      "maps": [],
+      "felt": { "find": "lamb" },
+      "connections": "Isa.53"
+    }
+  ]
+}
