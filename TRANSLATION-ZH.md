@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts and Romans drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans and 1 Corinthians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1407,6 +1407,27 @@ Settled while drafting Romans (for all of Paul's letters):
 | Old Testament quotations | The Greek in the text; our Old Testament line in the note where it differs | Wording our Old Testament notes already give is kept: 2:24 (Isaiah 52:5); 3:4 (Psalm 51:6); 3:15–17 (Isaiah 59:7–8); 9:25 (Hosea 2:25); 9:27–28 (Isaiah 10:22–23); 10:15, 16, 20–21; 11:26–27 (救主從錫安出來); 11:34; 12:19 (伸冤是我的事，我必報應); 14:11 (萬口必向神承認); 15:12. Joel 3:5 (10:13) as Acts 2:21 (凡求告主名的，都必得救). |
 | 16:24; 16:25–27 | 16:24 kept, no 25–27 | As the SBLGNT (Byzantine 16:24); the doxology translated in the note at 16:24, with its place after 14:23 noted there and at 14:23. |
 | Names (16) | 非比、堅革哩、百基拉 (*Priska*)、亞居拉、以拜尼土、安多尼古、猶尼亞 (a woman, noted)、暗伯利、耳巴奴、士大古、亞比利、亞利多布、希羅天、拿其數、土非拿、土富撒、彼息、魯孚、亞遜其土、弗勒干、黑米、八羅巴、黑馬、非羅羅古、猶利亞、尼利亞、阿林巴、路求、耶孫、所西巴德、德提、該猶、以拉都、括土；以利哩古；士班雅 | Union Version forms; 士班雅 the classic form (the 1989 text has 西班牙). |
+
+Settled while drafting 1 Corinthians:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| The Corinthians' slogans (6:12, 13; 7:1; 8:1, 4; 10:23) | In 「」 within Paul's sentence: 「凡事我都可以做」；「食物是為肚腹，肚腹是為食物」；「男人不親近女人倒是好的」；「我們都有知識」；「偶像在世上算不得甚麼」 | Noted each time: most interpreters take it as a Corinthian saying; the Greek has no quotation marks. 6:18 left unmarked, with the suggestion in a note, as the English. |
+| χάρισμα, χαρίσματα; πνευματικά (12:1; 14:1) | 恩賜；屬靈的恩賜 | As Romans; 「屬靈的人」 noted at 12:1. χαρίσματα ἰαμάτων 醫病的恩賜. |
+| γλώσσαις λαλεῖν; γένη γλωσσῶν; (δι)ερμηνεύω, ἑρμηνεία | 說方言；說各種方言；翻譯（方言） | As Acts 10:46 and 19:6 and the Union Version. Noted at 12:10 (the debate over human or unknown languages) and that 方言 here is not a regional dialect; 13:1 and 14:2 note 或譯「語言」. |
+| προφητεία; προφητεύω; προφήτης | 預言；說預言；先知 | As Acts 2:17 and Romans 12:6; the sense (speech the church understands, weighed by others, 14:3, 24–25, 29) noted at 12:10. |
+| διακρίσεις πνευμάτων; δυνάμεις (12:10, 28–29) | 辨別諸靈；行神蹟 | 直譯「能力的運作」「都是能力嗎」 noted. |
+| ἀγάπη (13) | 愛 | 13:4 愛是恆久忍耐，愛是恩慈，愛是不嫉妒 keeps the Greek's three 愛; 13:7 凡事包容……凡事忍耐; 13:13 如今常存的，有信，有望，有愛，這三樣；其中最大的是愛. Native readers should read it aloud. |
+| ψυχικός; πνευματικός; σάρκινος, σαρκικός | 屬血氣的；屬靈的；屬肉體的 | 2:14; 15:44–46 (屬血氣的身體); *psychikos* noted. χοϊκός 屬塵土的 (15:47–49, Genesis 2:7 noted). |
+| ναός (3:16–17; 6:19) | 殿 (神的殿；聖靈的殿) | *naos* noted, as the Gospels. |
+| κοινωνία (10:16); κοινωνοί (10:18, 20) | 同享；有分 | |
+| εἰδωλόθυτα; ἱερόθυτον (10:28) | 祭過偶像的食物；獻過祭的 | As Acts 15:29. |
+| δαιμόνια (10:20–21) | 鬼魔 | To keep our Deuteronomy 32:17 (他們祭祀鬼魔), which Paul echoes; the Gospels' 鬼 noted. |
+| πορνεία; πόρνοι; μαλακοί; ἀρσενοκοῖται (5:1; 6:9) | 淫亂；淫亂的人；柔弱的男子；與男人同睡的男人 | 6:9 renders the two rare words literally (the second echoes our Leviticus 18:22 不可與男人同睡), with the debate and 和合本「作孌童的」「親男色的」 in the notes. |
+| The Lord's Supper (11:23–25) | Luke 22:19–20's wording where the Greek agrees | 這是我的身體，是為你們的 (no 捨的; Luke noted); 這杯是用我的血所立的新約 as Luke; 為的是記念我; 主耶穌被出賣的那一夜 (*paradidomi* 「交出去」 noted). |
+| The creed (15:3–5) | 基督照聖經所說，為我們的罪死了，而且埋葬了，而且照聖經所說，第三天復活了，並且向磯法顯現…… | 而且 for the repeated *hoti*; the tradition noted. ἐγήγερται 復活了 (perfect noted); οἱ δώδεκα 十二門徒 as Mark. κοιμάομαι 睡了 (noted: died). |
+| Old Testament quotations | The Greek in the text; our Old Testament wording, and the wording our Old Testament notes already give, where the Greek agrees | 1:19 (Isaiah 29:14 note); 1:31 誇口的，應當指着主誇口 (Jeremiah 9:23 note); 2:9 (Isaiah 64:3 note); 3:19 = Job 5:13; 6:16 = Genesis 2:24 (二人成為一體); 9:9 = Deuteronomy 25:4; 10:7 = Exodus 32:6; 14:21 (Isaiah 28:11 note); 15:27 = Psalm 8:7; 15:32 = Isaiah 22:13; 15:45 (頭一個人亞當成了有生命的活人, Genesis 2:7); 15:54 死亡被吞滅，得了勝利 (Isaiah 25:8 note); 15:55 死亡啊，你的勝利在哪裏？死亡啊，你的毒鉤在哪裏？ (Hosea 13:14 note). |
+| Names | 所提尼、革來氏（家裏的人）、亞波羅、磯法、基利司布、該猶、司提反 (Stephanas)、福徒拿都、亞該古、亞居拉、百基拉 | Stephanas is 司提反, the classic Union Version form (the 1989 text has 司提法那), told apart from Stephen in a note at 1:16; the names table follows. Chloe 革來 with the Union Version's 氏. 16:22 Μαράνα θά 瑪拉那他, the meaning noted. |
 
 ## Style
 
