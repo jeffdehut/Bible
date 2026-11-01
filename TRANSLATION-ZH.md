@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1497,6 +1497,22 @@ Settled while drafting Philippians:
 | πολιτεύομαι (1:27); πολίτευμα (3:20) | 生活為人；國籍 | Philippi a Roman colony, noted. |
 | 4:4; 4:6–7; 4:13 | 你們要常常在主裏喜樂；我再說，你們要喜樂……神那超越人一切理解的平安，必在基督耶穌裏保守你們的心懷意念……我靠着那加給我力量的，凡事都能做 | 「基督」 manuscripts noted at 4:13. |
 | Names | 友阿爹、循都基、革利免、以巴弗提、腓立比、馬其頓、帖撒羅尼迦；該撒家裏的人 | 友阿爹 the classic Union form (1989 友阿蝶); Euodia and Syntyche added to the names table. *syzygos* (4:3) 同伴, the possible name noted. |
+
+Settled while drafting Colossians:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| The Christ hymn (1:15–20) | 他是那不能看見的神的像，是一切受造之物中首生的……他是元始，是從死人中首生的 | Prose verses; the hymn's two parts noted. *eikon* 像 (also 3:10; 2 Corinthians 4:4's 形像 and Philippians 2:6's *morphe* noted). *prototokos* 首生的, with Romans 8:29's 長子 and Psalm 89:28 noted as the same word. θρόνοι, κυριότητες, ἀρχαί, ἐξουσίαι 坐王位的、主治的、統治的、掌權的, as Ephesians. |
+| κλῆρος (1:12); κληρονομία (3:24) | 產業 | As Ephesians. |
+| τὰ στοιχεῖα τοῦ κόσμου (2:8, 20) | 世上的基本原則 | As Galatians 4:3, 9, with the same notes. |
+| 2:16 | 節期、月朔、安息日 | 月朔 as Isaiah 1:13; plural *sabbata* noted. |
+| χειρόγραφον (2:14); θριαμβεύω (2:15) | 債據；凱旋遊行 | Both noted. |
+| 3:1–4 | 尋求上面的事……你們的生命與基督一同藏在神裏面 | τὰ ἄνω 上面的事. |
+| 3:11 | 在這裏，不再分希臘人或猶太人，不再分受割禮的或未受割禮的，不再分未開化的人、西古提人、奴僕、自由人；唯有基督是一切，又在一切之中 | Galatians 3:28's pattern. |
+| ψαλμοί, ὕμνοι, ᾠδαὶ πνευματικαί (3:16) | 詩章、頌詞和靈歌 | As Ephesians 5:19. |
+| The household code (3:18–4:1) | 作妻子的……順服；作丈夫的；作兒女的……聽從；作父親的；作奴僕的……肉身的主人；不要只在人眼前工作，像是要討人喜歡；作主人的 | Ephesians 5:22–6:9's wording and notes where the Greek is parallel; 3:21 *erethizo* 激怒 (Ephesians 6:4 *parorgizo* 惹……發怒). |
+| 4:16 | 從老底嘉來的那封信 | Noted: lost, or perhaps Ephesians. |
+| Names | 歌羅西、老底嘉、希拉坡里、以巴弗、推基古、阿尼西母、亞里達古、馬可、巴拿巴、耶數（稱為猶士都的）、路加、底馬、寧法、亞基布、西古提人 | 阿尼西母 the classic Union form (1989 阿尼西謀); the names table changed, and Colossae added. 耶數 noted as the Greek *Iesous*. |
 
 ## Style
 

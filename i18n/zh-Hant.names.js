@@ -2,6 +2,7 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Colossae":"歌羅西",
 "Syntyche":"循都基",
 "Euodia":"友阿爹",
 "Beliar":"彼列",
@@ -3654,7 +3655,7 @@ I18N.add({
 "Onam (1 Chronicles 2.26)":"阿南（歷代志上 2.26）",
 "Onam (Genesis 36.23)":"阿南（創世記 36.23）",
 "Onan":"俄南",
-"Onesimus":"阿尼西謀",
+"Onesimus":"阿尼西母",
 "Onesiphorus":"阿尼色弗",
 "Ono":"阿挪",
 "Ophel":"俄斐勒",

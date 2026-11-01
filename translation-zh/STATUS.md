@@ -1,6 +1,6 @@
 # Translation status
 
-1107 of 1,189 chapters translated: 1107 draft, 0 checked, 0 reviewed, 0 approved.
+1111 of 1,189 chapters translated: 1111 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -54,3 +54,4 @@
 | Galatians | 6 | 6 |  |  |  | 1, 2, 3, 4, 5, 6 |
 | Ephesians | 6 | 6 |  |  |  | 1, 2, 3, 4, 5, 6 |
 | Philippians | 4 | 4 |  |  |  | 1, 2, 3, 4 |
+| Colossians | 4 | 4 |  |  |  | 1, 2, 3, 4 |
