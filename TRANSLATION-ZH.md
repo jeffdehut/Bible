@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, 1, 2 and 3 John, Jude drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the whole Bible drafted, Genesis to Revelation (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1727,6 +1727,22 @@ Settled while drafting Revelation:
 | Old Testament allusions | Our Old Testament's wording where the Greek agrees, the source noted | 1:7 as Matthew 24:30 (駕着雲降臨；地上萬族都要……哀哭) and Zechariah 12:10 (刺); 1:13–15 Daniel 7 and 10 (一位好像人子的；像眾水的響聲, Ezekiel 43:2); 1:17 我是首先的，我是末後的 (Isaiah 44:6); 4:8 Isaiah 6:3; 5:5 Genesis 49:9 and Isaiah 11:10; 6:16 Hosea 10:8 with Luke 23:30 in the note (倒在我們身上); 7:16–17 Isaiah 49:10 and 25:8 (擦去……眼淚); 8:11 茵蔯 as Jeremiah 9:14; 11:4 Zechariah 4:3, 14. |
 | 2:27 (Psalm 2:9 LXX) | 他必用鐵杖管轄他們，把他們像瓦器一樣打碎 | *poimaino* 「牧養」 noted; our Psalm's 打碎 (Hebrew) quoted. |
 | ὁ χριστὸς αὐτοῦ (11:15) | 他的基督 | 或譯「他的受膏者」, Psalm 2:2 noted. |
+| δράκων; θηρίον; ὁ ψευδοπροφήτης | 龍 (大紅龍；古蛇，又叫魔鬼，也叫撒但)；獸 (從海裏上來的／從地裏上來的)；假先知 | 牠 for the dragon and the beasts, as Daniel 7's beasts; *drakon* and Leviathan noted at 12:3; 16:13 notes the false prophet as the second beast. |
+| χάραγμα; εἰκών; ἑξακόσιοι ἑξήκοντα ἕξ (13:18) | 印記；獸像；六百六十六 | As the English, the note gives gematria and 尼祿該撒 without settling it; no other number in the apparatus, so 616 is not noted. |
+| Βαβυλὼν ἡ μεγάλη; ἡ πόρνη ἡ μεγάλη | 大巴比倫；大淫婦 | 14:8; 18:2 傾倒了！大巴比倫傾倒了！ as our Isaiah 21:9 (傾倒了！巴比倫傾倒了！), the double ἔπεσεν noted; 和合本's 大淫婦 kept, 直譯「大妓女」 noted at 17:1. |
+| Ἁρμαγεδών (16:16) | 哈米吉多頓 | *har megiddo* 米吉多山 noted. |
+| Ἁλληλουϊά (19:1–6) | 哈利路亞 | *hallelu-yah* and our Psalms' 你們要讚美耶和華 noted. |
+| ὁ λόγος τοῦ θεοῦ (19:13) | 神的道 | As John 1:1 and 10:35. |
+| ἡ λίμνη τοῦ πυρός; ὁ θάνατος ὁ δεύτερος | 火湖 (燒着硫磺的火湖)；第二次的死 | |
+| χίλια ἔτη (20:2–7) | 一千年 | ἡ ἀνάστασις ἡ πρώτη 頭一次的復活. |
+| Γὼγ καὶ Μαγώγ (20:8) | 歌革和瑪各 | Ezekiel 38–39 noted. |
+| οὐρανὸς καινὸς καὶ γῆ καινή (21:1) | 新天新地 | As our Isaiah 65:17. 21:4 擦去……眼淚 as 7:17 (Isaiah 25:8); 21:3 σκηνή 居所 (帳幕 noted). |
+| The stones (21:19–20) | 碧玉、藍寶石、玉髓、綠寶石、纏絲瑪瑙、肉紅玉髓、貴橄欖石、綠柱石、黃玉、綠玉髓、紅鋯石、紫晶 | Modern names, our Exodus 28's where they overlap; 和合本's list in the note. |
+| Measures | 斯他丟 (14:20; 21:16)；肘 (21:17)；他連得 (16:21) | Metric values in notes, as Luke 24:13. |
+| ἔρχομαι ταχύ (3:11; 22:7, 12, 20) | 我快要來了 | 22:20 「是的，我快要來了！」阿們！主耶穌啊，願你來！ (瑪拉那他 noted); 22:21 願主耶穌的恩典與眾人同在！ |
+| 22:18–19 | 加添……加在他身上；刪去……刪去他的份 | Deuteronomy 4:2's 不可加添，也不可刪減 echoed and noted; the TR's 生命冊 noted. |
+| Old Testament allusions (12–22) | As 1–11 | 12:5 and 19:15 Psalm 2:9 as 2:27; 13:1–2 Daniel 7:3–6; 13:5 說誇大……之話的口 (Daniel 7:8); 17:14; 19:16 萬王之王，萬主之主 (Deuteronomy 10:17 萬主之主); 18 Babylon's fall from Isaiah 21, 47 and Jeremiah 50–51, and Tyre's lament (Ezekiel 26–27); 22:2 生命樹 as Genesis 2:9, 葉子可以醫治 as Ezekiel 47:12. |
+| Names (12–22) | 米迦勒、歌革、瑪各、哈米吉多頓、所多瑪、埃及、錫安山 | |
 
 ## Style
 
