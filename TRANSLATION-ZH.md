@@ -1036,6 +1036,22 @@ Settled while drafting Ezekiel:
 | הָמוֹן (of Egypt) | 群眾 (財富 where it is carried off: 29:19; 30:4, 10) | *hamon* noted at 29:19, later chapters refer back. |
 | בּוֹר; יוֹרְדֵי בוֹר; אֶרֶץ תַּחְתִּיּוֹת; שַׁחַת; שְׁאוֹל | 坑；下坑的人；地底深處；墳坑；陰間 | As Psalms and Isaiah 38 (26:20; 28:8; 31:14–17; 32:18–32). |
 | עֲרֵלִים; חַלְלֵי־חֶרֶב | 未受割禮的人；被刀殺的人 | A death in disgrace, noted at 28:10 (31:18; 32:19–32). |
+| 33:1–20 (3:17–21; 18:21–32) | Chapters 3 and 18's wording wherever the Hebrew agrees (守望的人；我卻要你為他流血的罪負責；主的道不公平；我必按你們各人所行的審判你們) | Differences noted (33:7, 18). שְׁמָמָה וּמְשַׁמָּה 荒涼淒慘, as 6:14 (33:28–29; 35:3, 7). |
+| Shepherds (34) | 牧人；羊群；草場；牧養；我的僕人大衛……作他們的牧人 | As Jeremiah 23:1–4; the king as shepherd noted at 34:2; בְּרִית שָׁלוֹם 平安的約, as Isaiah 54:10 (34:25; 37:26). |
+| 36:25–27 | 清水；新心；新的靈；石心；肉心；我的靈 | As 11:19 and 18:31; *ruach* noted at 36:27. |
+| רוּחַ (37:1–14) | 靈 (37:1, 14)；氣息 (37:5–10)；四方的風 (37:9) | One long note at 37:1 on the three senses and the wordplay; בִּקְעָה 平原 as 3:22, 「山谷」 noted. |
+| עֵץ (37:15–28) | 木杖 | *ets* noted (37:16). |
+| גּוֹג אֶרֶץ הַמָּגוֹג נְשִׂיא רֹאשׁ מֶשֶׁךְ וְתֻבָל (38:2–3; 39:1) | 瑪各地的歌革，就是羅施、米設、土巴的領袖 | Rosh as a name, as the Union Version and the Septuagint; 「米設、土巴的大領袖」 (*nesi rosh*) and 和合本「王」 noted (38:2). 哈們‧歌革谷, 哈摩那 (39:11, 16). |
+| Temple vision (40–42): הֵיכָל; אוּלָם (of the house); קֹדֶשׁ הַקֳּדָשִׁים; צֵלָע | 大殿；前廊；至聖所；廂房 | As 1 Kings 6 and 2 Chronicles 3–4; עָב 簷篷 as 1 Kings 7:6. |
+| Gates and courts: תָּא; אַיִל; אוּלָם / אֵלָם הַשַּׁעַר; סַף; רִצְפָה; לִשְׁכָּה; חָצֵר הַחִיצוֹנָה / הַפְּנִימִית | 衞房；牆柱；門廊；門檻；鋪石地；房間；外院／內院 | *ta*, *ayil*, *elammot* noted (40:7–16). The singular ketiv / plural qere of chapter 40 in one note (40:6). |
+| גִּזְרָה; בִּנְיָן; מֻנָּח; אַתִּיק | 隔開的地方；建築物；空地；樓廊 | Each noted as uncertain (41:9–15; 42:1–5). |
+| קְנֵה הַמִּדָּה; the long cubit (40:5; 43:13) | 量度竿，一竿；一肘另加一掌寬 | Chinese numerals in the text; metric in notes (長肘約 52.5 厘米，一竿約 3.2 米); a unit the Hebrew omits is not supplied (45:1; 48). |
+| The altar (43:13–17): חֵיק; עֲזָרָה; גְּבוּל; הַרְאֵל / אֲרִיאֵל; זֶרֶת | 底座；臺層；邊沿；爐臺；虎口 | *azarah* (和合本「磴臺」) and *har'el*/*ari'el* noted, with Isaiah 29:1–2. חִטֵּא 潔淨……除去它的罪; מִלֵּא יָד (of the altar) 分別為聖, 「充滿它的手」 noted. |
+| Speech of 44:5–46:18 | 「 opened at 44:5, the message 『 at 44:6, both reopened (「『) at 45:1 and 46:1, closed 』」 at 46:18 | 47:13–48:35 one speech, 「 reopened at 48:1, closed at 48:35 (『耶和華在那裏』). |
+| תְּרוּמָה (land, 45; 48); תְּרוּמַת הַקֹּדֶשׁ; אֲחֻזָּה; נַחֲלָה; מִגְרָשׁ | 獻地；聖獻地；地業；產業；草場 | *terumah* noted at 45:1 as the word for 舉祭 (offerings: 舉祭, 45:13, 16). |
+| Measures (45:10–14) | 伊法；罷特；賀梅珥；柯珥；欣；舍客勒；季拉；彌那 | Values in notes. דְּרוֹר (46:17) 自由之年, Jubilee noted. |
+| Tribal portions (48) | 挨着X的地界，從東到西，是Y的一份 | One line throughout; tribe names as settled (呂便, as Genesis). City gates 呂便門、猶大門…… (48:31–34). יְהוָה שָׁמָּה 『耶和華在那裏』, 和合本「耶和華的所在」 noted. |
+| Numbering of 33–48 | = 和合本 | No differences. |
 
 ## Style
 

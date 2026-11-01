@@ -2,6 +2,9 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Meribath-kadesh":"米利巴‧加低斯",
+"En-eglaim":"隱‧以革蓮",
+"Hamon-gog":"哈們‧歌革",
 "Gammadim":"迦瑪",
 "Kub":"古巴",
 "Vedan":"威但",

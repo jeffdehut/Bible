@@ -45,3 +45,7 @@ Found while drafting; not yet settled across books.
   28:2–9 renders *el*/*elohim* in the king's claim as 神明 (或譯「神」). Migdol is 密奪 as Jeremiah, against 和合本 Ezekiel's 「色弗尼塔」; Kilmad (27:23) is 基抹 as 和合本,
   the same form as Chemosh; Gammadim (27:11) is transliterated 迦瑪 (和合本「勇士」). 29:3 and 32:2 *tannim* 大海怪 (和合本「大魚」). 30:18 keeps the Masoretic *chasakh* (白晝必退去).
   Chapter 23 renders the sexual imagery as plainly as chapter 16 (23:3, 8, 20–21); a native reviewer should judge the register.
+- Ezekiel 33–48: 38:2–3, 39:1 follow the Union Version and the Septuagint in reading Rosh as a name (羅施), with 「米設、土巴的大領袖」 in a note; *nasi* is 領袖 (和合本「王」).
+  37:1–14 renders *ruach* as 靈／氣息／風 by context, so the wordplay survives only in the note. The temple terms of 40–42 are coined in part (衞房 *ta*, 牆柱 *ayil*, 門廊 for the gate *ulam*,
+  隔開的地方 *gizrah*, 樓廊 *attiq*, 臺層 *azarah*, 虎口 *zeret*) and rest on uncertain Hebrew (40:14, 30; 41:6–11, 15–17, 21; 42:2–12; 46:22); an architectural specialist should check them.
+  The land *terumah* is 獻地／聖獻地 (和合本「供地」「聖供地」). 48:6, 31 Reuben 呂便 as Genesis; 1 Samuel 10 has 流便. 48:35 『耶和華在那裏』 (和合本「耶和華的所在」).
