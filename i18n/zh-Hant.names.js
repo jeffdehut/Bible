@@ -2,6 +2,8 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Abednego":"亞伯尼歌",
+"Belteshazzar":"伯提沙撒",
 "Meribath-kadesh":"米利巴‧加低斯",
 "En-eglaim":"隱‧以革蓮",
 "Hamon-gog":"哈們‧歌革",
@@ -4315,7 +4317,7 @@ I18N.add({
 "Tibni":"提比尼",
 "Tidal":"提達",
 "Tiglath-pileser":"提革拉‧毘列色",
-"Tigris":"底格里斯",
+"Tigris":"希底結",
 "Tikvah":"特瓦",
 "Tikvah (2 Kings 22.14)":"特瓦（列王紀下 22.14）",
 "Tikvah (Ezra 10.15)":"特瓦（以斯拉記 10.15）",

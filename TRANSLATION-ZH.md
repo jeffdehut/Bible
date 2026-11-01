@@ -1053,6 +1053,32 @@ Settled while drafting Ezekiel:
 | Tribal portions (48) | 挨着X的地界，從東到西，是Y的一份 | One line throughout; tribe names as settled (呂便, as Genesis). City gates 呂便門、猶大門…… (48:31–34). יְהוָה שָׁמָּה 『耶和華在那裏』, 和合本「耶和華的所在」 noted. |
 | Numbering of 33–48 | = 和合本 | No differences. |
 
+Settled while drafting Daniel:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Layout | Narrative with speeches in 「」 (1–6); visions told by Daniel in 「」 from 7:2, the angel's words inside 『』 | 10:20–12:4 one speech, 「 reopened at 11:1 and 12:1, closed at 12:4 (noted 11:1). Prayers and doxologies (2:20–23; 3:31–33; 4:31–32; 6:27–28; 7:9–14; 9:24–27) one verse per line. |
+| The Aramaic of 2:4b–7:28 | Noted where it starts and ends | 2:4 (用亞蘭語), 7:28, 8:1; and in the first note of 3–7, as Ezra. |
+| Numbering | 3:31–33 = 和合本 4:1–3；4:1–34 = 和合本 4:4–37；6:1 = 和合本 5:31；6:2–29 = 和合本 6:1–28 | Noted at 3:31, 4:1, 6:1; other references give both (4章5節（和合本作4章8節）). |
+| חַרְטֻמִּים; אַשָּׁפִים; מְכַשְּׁפִים; כַּשְׂדִּים; גָּזְרִין | 術士；巫師；行邪術的；迦勒底人；占卜的 | *chartummim* as Exodus; *ashshafim* (1:20), *kasdim* as a class of scholars (2:2), *gazerin* (2:27) noted. |
+| חַכִּימִין; רַב סָרִיסִים; מֶלְצַר | 智慧人；宮廷總管；看守 | *sarisim* (官員，也可指太監) and *meltsar* noted (1:3, 11). |
+| Officials (3:2; 6:2–8): אֲחַשְׁדַּרְפְּנִין; סִגְנִין; פַּחֲוָן; סָרְכִין; הַדָּבְרִין | 總督；地方官；省長；總長；謀士 | As Ezra; 謀士、司庫、法官、執法官 for the rest of 3:2. |
+| עִלָּאָה, עֶלְיוֹנִין; אֱלָהָא עִלָּאָה; אֱלָהּ שְׁמַיָּא | 至高者；至高的神；天上的神 | As Genesis 14. |
+| עִיר וְקַדִּישׁ (4:10, 14, 20) | 守望者，就是聖者 | *ir* noted. |
+| עִדָּן, עִדָּנִין; מוֹעֵד | 期 (七期, 4:13)；一期、兩期、半期 (7:25; 12:7) | Noted: probably years; three and a half years. |
+| עַתִּיק יוֹמִין (7:9, 13, 22) | 亙古常在者 | As the Union Version; 「日子久遠的那位」 noted. |
+| כְּבַר אֱנָשׁ (7:13) | 一位像人子的，駕着天上的雲而來 | Echoes Ezekiel's 人子 (*ben adam*) and Mark 13:26; 14:62 (人子駕着雲降臨); the readings of the figure noted. 8:17 בֶּן־אָדָם 人子, as Ezekiel. |
+| קַדִּישֵׁי עֶלְיוֹנִין (7:18, 22, 25); עַם קַדִּישֵׁי עֶלְיוֹנִין (7:27); קַדִּישִׁין (7:21–22) | 至高者的聖民；至高者聖民的百姓；聖民 | 「至高者的聖者們」 (angels or the faithful) noted at 7:18. |
+| שַׂר (of angels and God) | 君 | 波斯國的君 (和合本「魔君」, 10:13)；為首的君米迦勒；大君米迦勒 (12:1)；天軍之君 (8:11)；萬君之君 (8:25). |
+| הַתָּמִיד | 經常獻的燔祭 | As Numbers 28; noted at 8:11. |
+| שָׁבֻעִים שִׁבְעִים (9:24–27) | 七十個七；七個七；六十二個七；一七；一七之半 | Noted: *shavua* usually 「星期」, hence 「七十個星期」; taken as weeks of years. 9:25 follows the Masoretic accents (seven apart from sixty-two), 和合本 joins them (noted). |
+| מָשִׁיחַ נָגִיד (9:25); מָשִׁיחַ (9:26) | 受膏的領袖；受膏者 | 和合本「受膏君」 and the readings (Cyrus, Onias, the Messiah) noted. |
+| הַשִּׁקּוּץ מְשׁוֹמֵם (11:31); שִׁקּוּץ שֹׁמֵם (12:11); שִׁקּוּצִים מְשֹׁמֵם (9:27); הַפֶּשַׁע שֹׁמֵם (8:13) | 那帶來荒涼的可憎之物；帶來荒涼的罪過 | As Mark 13:14; *shiqquts* here 可憎之物, not Ezekiel's 可厭之物 (noted 9:27). |
+| חַיֵּי עוֹלָם (12:2) | 永生 | As Mark's ζωὴ αἰώνιος; noted as its only occurrence in the Old Testament. |
+| מַשְׂכִּילִים (11:33, 35; 12:3, 10) | 有智慧的人 | *maskilim* noted. |
+| מֶלֶךְ הַנֶּגֶב; מֶלֶךְ הַצָּפוֹן; אֶרֶץ הַצְּבִי | 南方王；北方王；榮美之地 | The Ptolemies and Seleucids named only in notes. |
+| Names | 伯提沙撒、沙得拉、米煞、亞伯尼歌、伯沙撒、亞施毘拿、亞略、米底亞人大流士、古列、加百列、米迦勒、希底結、烏萊河、書珊城、杜拉、烏法、路比人 | Darius 大流士 as Ezra (the classic text 大利烏); Cyrus 古列 and Tigris 希底結 (the 1989 text 塞魯士, 底格里斯); 毘 for 亞施毘拿 and 毘勒斯 (5:28). 彌尼，彌尼，提客勒，烏法珥新 (5:25). |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
