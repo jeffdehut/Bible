@@ -997,7 +997,7 @@ Settled while drafting Ezekiel:
 | וַתְּהִי עָלַי יַד־יְהוָה | 耶和華的手臨到我（他）身上 | 1:3 noted (3:14, 22; 8:1; 37:1; 40:1); 3:14 *chazaqah* 耶和華的手大有能力地臨到我身上. |
 | וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר | 耶和華的話臨到我說： | |
 | The chariot vision (1; 10): חַיּוֹת; אוֹפַן, אוֹפַנִּים; רָקִיעַ; כִּסֵּא; דְּמוּת כְּבוֹד־יְהוָה | 活物；輪；穹蒼；寶座；耶和華榮耀的形象 | For chapter 10 and 43. *chayyot* and the cherubim (10:15, 20), *ofan*, *raqia* (as Genesis 1) noted. דְּמוּת 形象, מַרְאֶה 樣貌, עֵין 光彩 kept apart throughout 1:4–28. |
-| חַשְׁמַל (1:4, 27; 8:2) | 琥珀金 | The Septuagint's *elektron* (amber, electrum) and 和合本「光耀的精金」 noted. *tarshish* 水蒼玉, *sappir* 青金石, *nesher* 鷹, *qerach* 水晶, as earlier books. |
+| חַשְׁמַל (1:4, 27; 8:2) | 琥珀金 | Settled (REVIEW.md): one rendering in all three verses, the note at 1:4, 8:2 refers back. The Septuagint's *elektron* (amber, electrum) and 和合本「光耀的精金」 noted. *tarshish* 水蒼玉, *sappir* 青金石, *nesher* 鷹, *qerach* 水晶, as earlier books. |
 | רוּחַ (1:12, 20; 2:2; 3:12, 14, 24) | 靈 | *ruach* (靈、風、氣息) noted. |
 | בֵּית מְרִי; מֶרִי | 悖逆的家；悖逆的 | |
 | תּוֹעֵבוֹת; גִּלּוּלִים; שִׁקּוּצִים | 可憎的事；可憎的偶像；可厭之物 | As the Exodus table; each noted at its first occurrence in each chapter. |
@@ -1007,6 +1007,51 @@ Settled while drafting Ezekiel:
 | נָשִׂיא (of the king) | 領袖 | As the Exodus table; noted at 7:27 (12:10; 34:24; 37:25; 44–48). |
 | עַם הָאָרֶץ | 普通百姓 | As Leviticus; 7:27 這地普通百姓. |
 | נִדָּה (7:19–20) | 不潔之物 | As Lamentations 1:17. |
+| Chapter 10 (= chapter 1) | 活物／基路伯、輪、穹蒼、寶座、形象、樣貌、光彩、水蒼玉、青金石 | Chapter 1's wording wherever the Hebrew agrees (10:9–11, 17 as 1:16–17, 21). גַּלְגַּל 旋輪 (10:2, 6, 13), kept apart from 輪 (*ofan*), noted. |
+| סֵמֶל הַקִּנְאָה (8:3, 5) | 忌恨的偶像 | *semel*, *qin'ah* noted with 忌邪的神 (Exodus 20:5). |
+| וַתִּפֹּל עָלַי יַד (8:1); רוּחַ יְהוָה (11:5) | 耶和華的手臨到我身上；耶和華的靈降在我身上 | 「落在」 noted. |
+| הוֹי; אוֹי אוֹי לָךְ | 禍哉；你有禍了！你有禍了！ | As Isaiah; *hoy* noted (13:3); 16:23 in （）. |
+| מַעַל | 不忠 | *ma'al* noted at its first occurrence in each chapter (14:13; 15:8; 17:20; 18:24). |
+| נֹחַ, דנאל, אִיּוֹב (14:14, 20) | 挪亞、但以理、約伯 | Ketiv *Dan'el*, qere *Daniyyel*, and Ugarit's Dan'el noted (for 28:3). |
+| מָשָׁל; חִידָה | 俗語 (12:22; 16:44; 18:2)、比喻 (17:2)；謎語 | 18:2 as Jeremiah 31:29. |
+| זָנָה; תַּזְנוּת; זוֹנָה; אֶתְנַן (16; for 23) | 行淫；淫行；妓女；酬金 | *zanah* noted at 16:15. The allegory plain, neither coarsened nor softened (16:25 張開雙腿; 16:26 下體粗大, *basar* noted). |
+| The ketiv *-ti* for "you" (16) | The qere | One combined note (16:13), as in English. |
+| גַּב; רָמָה (16:24–39) | 土臺；高臺 | Noted. |
+| טָפֵל (13:10–15); כְּסָתוֹת; מִסְפָּחוֹת | 白灰；符帶；蒙頭的帕子 | 和合本「未泡透的灰」「靠枕」 noted. |
+| אֲדֹנָי alone (18:25, 29) | 主 | Noted: not YHWH. |
+| קִינָה (19:1, 14) | 哀歌 | *qinah* noted. Chapters 17 and 19 (parables, lament) one verse per line, cola joined by ，；. |
+| Numbering | Ezekiel 8–19 = 和合本 | No shift in 8–19 (the next is 21:1–5 = 和合本 20:45–49). |
+| Numbering of 20–21 | 21:1–5 = 和合本 20:45–49；21:6–37 = 和合本 21:1–32 | Noted at 20:44, 21:1 and 21:6; 22–32 = 和合本. |
+| Dates | 第七年五月十日；第十一年，某月初一 | Chinese numerals; a month the Hebrew leaves out is 某月 (26:1; 32:17), noted; the year BC in a note. |
+| עָגַב; Oholah and Oholibah (23) | 迷戀；阿荷拉、阿荷利巴 | Chapter 16's 行淫、淫行、愛人、淫蕩、酬金 kept; the imagery as plain as 16 (23:3, 8, 20–21). Names' meanings noted at 23:4. |
+| פַּחוֹת וּסְגָנִים; שָׁלִשִׁים (23) | 省長和地方官；軍官 | As Jeremiah 51:23; *shalishim* noted. |
+| הִנְנִי עָלַיִךְ / אֵלַיִךְ | 看哪，我要與你為敵 | 21:8; 26:3; 28:22; 29:3, 10; 30:22. |
+| נְבוּכַדְרֶאצַּר | 尼布甲尼撒 | *Nevukhadre'tsar* noted at 26:7; 29:18 and 30:10 refer back. |
+| Oracles against the nations (25–32) | Unmarked, as 6–7; names as the Union Version | 推羅 (classic), 西頓, 亞發, 迦巴勒, 大馬色, 雅完, 陀迦瑪, 基抹 (*Kilmad*, noted as not Chemosh), 迦瑪 (*Gammadim*, 和合本「勇士」), 挪弗, 挪, 訓, 瑣安, 巴忒羅, 古實, 古巴, 亞文, 比伯實, 答比匿; 密奪 as Jeremiah (和合本 Ezekiel「色弗尼塔」 noted, 29:10; 30:6). |
+| The stones of 28:13; 27:16 | Exodus 28's names: 肉紅玉髓、貴橄欖石、月長石、水蒼玉、紅瑪瑙、碧玉、青金石、綠松石、綠寶石 | Traditional names noted. 27:16 *nofekh* 綠松石, *ra'mot* 珊瑚, *kadkod* 紅寶石 as Job 28:18 and Isaiah 54:12. |
+| כְּרוּב מִמְשַׁח הַסּוֹכֵךְ (28:14, 16); עֵדֶן גַּן־אֱלֹהִים | 受膏、遮掩的基路伯；伊甸，就是神的園 | *at*/*et*, *mimshach* and the Septuagint's reading noted. 28:12–19 one verse per line, as 19. |
+| אֵל; אֱלֹהִים (the king's claim, 28:2, 6, 9) | 神明 | 或譯「神」 noted. |
+| יְאֹר; יְאֹרִים | 尼羅河；河道 | As Genesis 41 and Exodus 7; 29:3, 9 「尼羅河是我的」. |
+| תַּנִּים (29:3; 32:2) | 大海怪 | Crocodile and 和合本「大魚」 noted. |
+| הָמוֹן (of Egypt) | 群眾 (財富 where it is carried off: 29:19; 30:4, 10) | *hamon* noted at 29:19, later chapters refer back. |
+| בּוֹר; יוֹרְדֵי בוֹר; אֶרֶץ תַּחְתִּיּוֹת; שַׁחַת; שְׁאוֹל | 坑；下坑的人；地底深處；墳坑；陰間 | As Psalms and Isaiah 38 (26:20; 28:8; 31:14–17; 32:18–32). |
+| עֲרֵלִים; חַלְלֵי־חֶרֶב | 未受割禮的人；被刀殺的人 | A death in disgrace, noted at 28:10 (31:18; 32:19–32). |
+| 33:1–20 (3:17–21; 18:21–32) | Chapters 3 and 18's wording wherever the Hebrew agrees (守望的人；我卻要你為他流血的罪負責；主的道不公平；我必按你們各人所行的審判你們) | Differences noted (33:7, 18). שְׁמָמָה וּמְשַׁמָּה 荒涼淒慘, as 6:14 (33:28–29; 35:3, 7). |
+| Shepherds (34) | 牧人；羊群；草場；牧養；我的僕人大衛……作他們的牧人 | As Jeremiah 23:1–4; the king as shepherd noted at 34:2; בְּרִית שָׁלוֹם 平安的約, as Isaiah 54:10 (34:25; 37:26). |
+| 36:25–27 | 清水；新心；新的靈；石心；肉心；我的靈 | As 11:19 and 18:31; *ruach* noted at 36:27. |
+| רוּחַ (37:1–14) | 靈 (37:1, 14)；氣息 (37:5–10)；四方的風 (37:9) | One long note at 37:1 on the three senses and the wordplay; בִּקְעָה 平原 as 3:22, 「山谷」 noted. |
+| עֵץ (37:15–28) | 木杖 | *ets* noted (37:16). |
+| גּוֹג אֶרֶץ הַמָּגוֹג נְשִׂיא רֹאשׁ מֶשֶׁךְ וְתֻבָל (38:2–3; 39:1) | 瑪各地的歌革，就是羅施、米設、土巴的領袖 | Rosh as a name, as the Union Version and the Septuagint; 「米設、土巴的大領袖」 (*nesi rosh*) and 和合本「王」 noted (38:2). 哈們‧歌革谷, 哈摩那 (39:11, 16). |
+| Temple vision (40–42): הֵיכָל; אוּלָם (of the house); קֹדֶשׁ הַקֳּדָשִׁים; צֵלָע | 大殿；前廊；至聖所；廂房 | As 1 Kings 6 and 2 Chronicles 3–4; עָב 簷篷 as 1 Kings 7:6. |
+| Gates and courts: תָּא; אַיִל; אוּלָם / אֵלָם הַשַּׁעַר; סַף; רִצְפָה; לִשְׁכָּה; חָצֵר הַחִיצוֹנָה / הַפְּנִימִית | 衞房；牆柱；門廊；門檻；鋪石地；房間；外院／內院 | *ta*, *ayil*, *elammot* noted (40:7–16). The singular ketiv / plural qere of chapter 40 in one note (40:6). |
+| גִּזְרָה; בִּנְיָן; מֻנָּח; אַתִּיק | 隔開的地方；建築物；空地；樓廊 | Each noted as uncertain (41:9–15; 42:1–5). |
+| קְנֵה הַמִּדָּה; the long cubit (40:5; 43:13) | 量度竿，一竿；一肘另加一掌寬 | Chinese numerals in the text; metric in notes (長肘約 52.5 厘米，一竿約 3.2 米); a unit the Hebrew omits is not supplied (45:1; 48). |
+| The altar (43:13–17): חֵיק; עֲזָרָה; גְּבוּל; הַרְאֵל / אֲרִיאֵל; זֶרֶת | 底座；臺層；邊沿；爐臺；虎口 | *azarah* (和合本「磴臺」) and *har'el*/*ari'el* noted, with Isaiah 29:1–2. חִטֵּא 潔淨……除去它的罪; מִלֵּא יָד (of the altar) 分別為聖, 「充滿它的手」 noted. |
+| Speech of 44:5–46:18 | 「 opened at 44:5, the message 『 at 44:6, both reopened (「『) at 45:1 and 46:1, closed 』」 at 46:18 | 47:13–48:35 one speech, 「 reopened at 48:1, closed at 48:35 (『耶和華在那裏』). |
+| תְּרוּמָה (land, 45; 48); תְּרוּמַת הַקֹּדֶשׁ; אֲחֻזָּה; נַחֲלָה; מִגְרָשׁ | 獻地；聖獻地；地業；產業；草場 | *terumah* noted at 45:1 as the word for 舉祭 (offerings: 舉祭, 45:13, 16). |
+| Measures (45:10–14) | 伊法；罷特；賀梅珥；柯珥；欣；舍客勒；季拉；彌那 | Values in notes. דְּרוֹר (46:17) 自由之年, Jubilee noted. |
+| Tribal portions (48) | 挨着X的地界，從東到西，是Y的一份 | One line throughout; tribe names as settled (呂便, as Genesis). City gates 呂便門、猶大門…… (48:31–34). יְהוָה שָׁמָּה 『耶和華在那裏』, 和合本「耶和華的所在」 noted. |
+| Numbering of 33–48 | = 和合本 | No differences. |
 
 ## Style
 
