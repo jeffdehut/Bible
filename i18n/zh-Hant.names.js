@@ -2,6 +2,7 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Bel":"彼勒",
 "Perazim":"毗拉心",
 "Sargon":"撒珥根",
 "Dimon":"底們",

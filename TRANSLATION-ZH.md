@@ -893,6 +893,21 @@ Settled while drafting Isaiah (for all the prophets):
 | Animals of the ruins (34:11–15) | 13:21–22 and 14:23's names (曠野的走獸、鬣狗、野山羊、豺狼、鴕鳥、刺蝟); 鵜鶘、大鴞 as Leviticus 11; 黑鳶 (*dayyah*) | *lilit* 夜間的怪物, *qippoz* 貓頭鷹 (和合本「箭蛇」) noted. |
 | Isaiah 36–39 (2 Kings 18:13–20:19) | 2 Kings' wording wherever the Hebrew agrees | Differences noted as 列王紀下18章20節作「……」; Isaiah's names (米羅達‧巴拉但, 39:1). 39:6 *amar YHWH* follows Kings' 這是耶和華說的, noted as not *ne'um*. |
 | Hezekiah's psalm (38:9–20) | Poetry without quotation marks; 我曾說：「……」 for his quoted thoughts | *mikhtav* 所寫的 (*miktam* noted); *Yah* 耶和華; *bor* 下坑. |
+| Isaiah 40:3–5 | 有聲音呼喊：「要在曠野為耶和華預備道路，在沙漠中為我們的神修直大路！」 | Mark 1:3's 有聲音……呼喊 kept; the Hebrew accents join 在曠野 to 預備, the Septuagint and the Gospels to the voice (noted, with 他的路徑). |
+| עֶבֶד; עַבְדִּי; עֶבֶד יְהוָה | 僕人；我的僕人；耶和華的僕人 | Israel as 我的僕人 noted at 41:8; the four 「僕人之歌」 (42:1–9; 49:1–13; 50:4–11; 52:13–53:12), the readings of the servant, the Targum and Matthew 12:18–21 noted at 42:1; 49:1, 50:4, 52:13 refer back. |
+| אִיִּים | 眾海島 | *iyyim* noted at the first occurrence in each chapter (40:15); 42:15 乾地, noted. |
+| גֹּאֵל; גָּאַל; גְּאוּלִים; פָּדָה | 救贖者；救贖；被救贖的人；救贖 | As Job 19:25 and Psalm 19:15; *go'el* noted at 41:14, later chapters refer back. |
+| אֲנִי הוּא; אָנֹכִי אָנֹכִי הוּא | 我就是那一位；我，惟有我是那一位 | *ani hu*, the Septuagint's *ego eimi* and John 8:24, 28 noted at 41:4; later chapters refer back. |
+| רִאשׁוֹן … אַחֲרוֹן (41:4; 44:6; 48:12) | 我是首先的，我是末後的 | Revelation 1:17; 2:8; 22:13 noted (44:6). |
+| הָרִאשֹׁנוֹת; חֲדָשׁוֹת | 先前的事；新的事 | |
+| מְבַשֵּׂר, מְבַשֶּׂרֶת | 報好消息的 | *basar* and the New Testament's 福音 noted (40:9; 52:7). |
+| מִשְׁפָּט (42:1–4; 49:4) | 公正；公理 (49:4, one's right) | 和合本「公理」 noted at 42:1. |
+| כּוֹרֶשׁ; מְשִׁיחוֹ (45:1) | 古列；他的受膏者 | The classic Union form (the 1989 text has 塞魯士); *mashiach* noted. |
+| בֵּל; נְבוֹ (46:1) | 彼勒；尼波 | Marduk and Nabu noted. |
+| בְּתוּלַת בַּת־בָּבֶל; בַּת־כַּשְׂדִּים; גְּבֶרֶת | 處女巴比倫的女兒；迦勒底人的女兒；女主人 | Feminine *you* noted (47:1); Zion likewise (45:14; 49:15; 51:12). |
+| יֹאמַר; אָמַר (closing) | 你們的神說 (40:1)；萬軍之耶和華說 (45:13)；耶和華說： (48:22) | Kept apart from *ne'um* 這是耶和華說的. חַי־אָנִי (49:18) 我指着我的永生起誓, as Numbers 14:21. |
+| NT quotations (40:3–8, 13; 42:1–4; 45:23; 49:6, 8; 52:5, 7, 11, 15) | The Hebrew in the text | The Greek in notes: Luke 3:6 「神的救恩」; 1 Peter 1:25 「主的話」; Romans 11:34 「主的心」; Matthew 12:20–21 「使公正得勝」「寄望於他的名」; Romans 14:11 「向神承認」; Acts 13:47; 2 Corinthians 6:2; Romans 2:24 「因你們」; Romans 10:15 (plural, no 山嶺). |
+| סִינִים (49:12) | 希尼地 | 和合本「秦國」 (its margin 希尼國) and 1QIsa-a's Syene noted; see REVIEW.md. |
 
 ## Style
 
