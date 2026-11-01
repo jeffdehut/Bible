@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=47"></script>
+<script src="i18n.js?v=48"></script>
 <script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
@@ -302,9 +302,21 @@ body.panel-open .auto { display: none; }
 .chap.par .par-sec:lang(he) { font-size: 1.1em; line-height: 1.75; color: var(--ink); }
 .chap.par .par-sec:lang(grc) { color: var(--ink); opacity: 0.85; }
 .chap.par.poetry .pair { margin-bottom: 1.2em; }
-.ver-two-h { margin: 4px 0 4px; font: 600 15px/1.3 var(--sans); }
-.ver-list + .ver-two-h { margin-top: 18px; }
-#ver-two { margin: 6px 0 4px; }
+/* The versions sheet, in the book picker's style: a section for the version on top and one for
+   the version underneath, each a list of rows with the one shown marked. */
+#ver-body .pk-sec + .pk-sec { margin-top: 10px; }
+#ver-body .pk-sec + .ver-foot { margin: 16px 2px 8px; }
+#ver-body .pk-sec > p { margin: 0 2px 8px; font: 400 13px/1.4 var(--sans); color: var(--muted); }
+#ver-body .pk-glabel { margin: 12px 4px 6px; font: 600 11px/1.2 var(--sans); letter-spacing: 0.06em; text-transform: uppercase; color: var(--faint); }
+#ver-body .pk-book { align-items: center; min-height: 50px; }
+#ver-body .pk-book .vt { flex: 1; min-width: 0; display: grid; gap: 2px; }
+#ver-body .pk-book .vt b { font: 500 16px/1.25 var(--read); }
+#ver-body .pk-book .vt span { font: 400 12px/1.35 var(--sans); color: var(--muted); }
+#ver-body .pk-book small { min-width: 44px; text-align: end; font-weight: 700; color: var(--c); }
+#ver-body .pk-book[aria-current="true"] { background: color-mix(in srgb, var(--c) 9%, var(--surface)); }
+#ver-body .pk-book[aria-current="true"] .vt b { font-weight: 700; color: var(--c); }
+#ver-body .pk-book .tick { width: 18px; height: 18px; flex: none; color: var(--c); }
+.ver-foot { margin: 8px 2px 4px; }
 .ver-notice { margin: 14px 0 0; font: 400 12px/1.45 var(--sans); color: var(--faint); }
 .ver-notice a { color: var(--muted); font-weight: 600; }
 .plan-bar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; background: var(--gold-soft); border-radius: 12px; padding: 10px 12px; margin: 0 0 18px; font: 500 14px/1.35 var(--sans); }
@@ -1164,16 +1176,11 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="scroll" id="marks-body"></div>
 </section>
 
-<section class="ui-sheet sheet dialog" id="versions" hidden aria-labelledby="versions-title">
+<section class="ui-sheet sheet dialog split" data-detent="full" id="versions" hidden aria-labelledby="versions-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="versions-title">Versions</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
-  <h3 class="ver-two-h">On top</h3>
-  <p class="hint" style="margin-top:0">The version you read.</p>
-  <ul class="ver-list" id="ver-list"></ul>
-  <h3 class="ver-two-h">Underneath</h3>
-  <p class="hint" style="margin-top:0">A second version under each verse, to compare them verse by verse.</p>
-  <div class="seg" role="radiogroup" aria-label="Underneath" id="ver-two"></div>
-  <p class="hint">Your highlights, notes and bookmarks on whole verses show in every version. Highlights and notes on some of a verse's words, and your markings, are kept with our own translation's wording.</p>
+  <div class="scroll pk-list" id="ver-body"></div>
+  <p class="hint ver-foot" id="ver-foot" hidden>Your highlights, notes and bookmarks on whole verses show in every version. Highlights and notes on some of a verse's words, and your markings, are kept with our own translation's wording.</p>
 </section>
 <section class="ui-sheet sheet dialog" id="menu" hidden aria-labelledby="menu-title">
   <div class="grab"></div>
@@ -4017,24 +4024,47 @@ function untranslated(b, chapter) {
   const lang = ourLangOf(chapter);
   return !!lang && lang !== "en" && (chapter.l === "en" || !LB[lang]?.[b.osis]);
 }
-// The versions for the reader's language first (ours, then the others), then the rest.
+// Two sections, as the book picker: the version on top (the one read) and the version underneath
+// (under each verse, or none). In each, our own translation and the reader's language first,
+// then the original languages, then the other languages; the description under each name.
+const VER_TICK = '<svg class="tick" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg>';
+const VER_ICONS = { top: '<rect x="4" y="4" width="16" height="7" rx="2"/><path d="M5 16h14M5 20h10" opacity=".55"/>', bottom: '<path d="M5 4h14M5 8h10" opacity=".55"/><rect x="4" y="13" width="16" height="7" rx="2"/>' };
 function openVersions() {
-  const item = (id, short, name, lic) => el("li", {}, el("button", { type: "button", "aria-current": String(VER === id), onclick: () => setVersion(id) },
-    el("span", { class: "s", translate: "no", text: short }), el("span", { class: "n", translate: "no", text: name }), el("span", { class: "l", text: lic })));
-  const ours = item("ours", ourName(), L.en ? "Open Plain English Translation" : "淺白中文譯本",
-    L.t("Our own translation, from the Hebrew, Aramaic and Greek. A first draft."));
-  const orig = VERSIONS.filter(v => v.id === "orig");
-  const mine = VERSIONS.filter(v => v.lang === LANG && v.id !== "orig"), rest = VERSIONS.filter(v => v.lang !== LANG && v.id !== "orig").sort((a, b) => !!b.ours - !!a.ours);
-  const head = t => el("li", {}, el("h3", { text: t }));
-  const name = v => v.id === "orig" ? origName() : v.name, short = v => v.id === "orig" ? origShort() : v.short;
-  $("ver-list").replaceChildren(ours, ...mine.map(v => item(v.id, v.short, v.name, v.license)),
-    ...(orig.length ? [head("Original languages"), ...orig.map(v => item(v.id, short(v), name(v), v.license))] : []),
-    ...(rest.length ? [head("Other languages"), ...rest.map(v => item(v.id, v.short, v.name, v.license))] : []));
-  // A second version under each verse: none, or any version but the one being read.
-  const chip = (id, label) => el("button", { type: "button", role: "radio", "aria-checked": String((VER2 || null) === id), translate: "no", text: label, onclick: () => setSecond(id) });
-  const all = [["ours", ourName()], ...VERSIONS.map(v => [v.id, short(v)])].filter(([id]) => id !== VER);
-  $("ver-two").replaceChildren(chip(null, L.t("None")), ...all.map(([id, label]) => chip(id, label)));
+  const ourFull = L.en ? "Open Plain English Translation" : "淺白中文譯本";
+  const opt = v => v === "ours" ? { id: "ours", short: ourName(), name: ourFull, about: L.t("Our own translation, from the Hebrew, Aramaic and Greek. A first draft.") }
+    : { id: v.id, short: v.id === "orig" ? origShort() : v.short, name: v.id === "orig" ? origName() : v.name, about: v.license };
+  const groups = [
+    ["", ["ours", ...VERSIONS.filter(v => v.lang === LANG && v.id !== "orig")]],
+    ["Original languages", VERSIONS.filter(v => v.id === "orig")],
+    ["Other languages", VERSIONS.filter(v => v.lang !== LANG && v.id !== "orig").sort((a, b) => !!b.ours - !!a.ours)],
+  ].map(([t, list]) => [t, list.map(opt)]);
+  const row = (o, on, pick) => {
+    const btn = el("button", { type: "button", class: "pk-book", "aria-current": String(on), onclick: () => pick(o.id) },
+      el("span", { class: "vt", translate: "no" }, el("b", { text: o.name }), on && o.about ? el("span", { text: o.about }) : null),
+      on ? null : el("small", { translate: "no", text: o.id ? tiny(o.id) : "" }));
+    if (on) btn.insertAdjacentHTML("beforeend", VER_TICK);
+    return el("li", {}, btn);
+  };
+  const section = (key, k, title, hint, chosen, pick, extra, skip) => {
+    const h = el("h3", {}, el("i"), L.t(title));
+    h.querySelector("i").innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${VER_ICONS[key]}</svg>`;
+    const parts = [h, el("p", { text: L.t(hint) })];
+    if (extra) parts.push(el("ul", { class: "pk-rows" }, row(extra, chosen === extra.id, pick)));
+    for (const [t, list] of groups) {
+      const shown = list.filter(o => o.id !== skip);
+      if (!shown.length) continue;
+      if (t || extra) parts.push(el("p", { class: "pk-glabel", text: L.t(t || "Versions") }));
+      parts.push(el("ul", { class: "pk-rows" }, ...shown.map(o => row(o, chosen === o.id, pick))));
+    }
+    return el("section", { class: "pk-sec", style: pkColors(k) }, ...parts);
+  };
+  $("ver-body").replaceChildren(
+    section("top", 4, "On top", "The version you read.", VER, setVersion),
+    section("bottom", 6, "Underneath", "A second version under each verse, to compare them verse by verse.", VER2 || null, setSecond,
+      { id: null, short: "", name: L.t("None"), about: L.t("One version only.") }, VER),
+    Object.assign($("ver-foot").cloneNode(true), { id: "", hidden: false }));
   openSheet("versions");
+  requestAnimationFrame(() => { $("ver-body").scrollTop = 0; });
 }
 // Show a second version under each verse (or none), keeping the place.
 function setSecond(id) {
@@ -5442,7 +5472,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=119").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=120").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
