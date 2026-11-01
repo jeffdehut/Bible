@@ -185,8 +185,13 @@
 
   // On an iPad the system may take a pencil's stroke for a scroll and cancel it; holding the
   // pencil's own touches keeps them for drawing (a finger still scrolls).
-  function holdStylus(el, when = () => true) {
-    const hold = e => { if (when() && [...e.changedTouches].some(t => t.touchType === "stylus")) e.preventDefault(); };
+  // fingers: also hold a finger's touches ("one" for one finger at a time, "all" for any).
+  function holdStylus(el, when = () => true, fingers = () => null) {
+    const hold = e => {
+      if (!when()) return;
+      const f = fingers();
+      if ([...e.changedTouches].some(t => t.touchType === "stylus") || f === "all" || (f === "one" && e.touches.length === 1)) e.preventDefault();
+    };
     el.addEventListener("touchstart", hold, { passive: false });
     el.addEventListener("touchmove", hold, { passive: false });
   }
@@ -407,7 +412,7 @@
     };
     paper.addEventListener("pointerup", up);
     paper.addEventListener("pointercancel", up);
-    holdStylus(paper);
+    holdStylus(paper, () => true, () => "all");
     paper.addEventListener("pointerleave", () => { if (pid === null) ring.style.display = "none"; });
 
     const result = () => (strokes.length ? encode(strokes) : null);
