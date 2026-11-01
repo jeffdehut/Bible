@@ -1,6 +1,6 @@
 # Translation status
 
-1078 of 1,189 chapters translated: 1078 draft, 0 checked, 0 reviewed, 0 approved.
+1091 of 1,189 chapters translated: 1091 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -50,3 +50,4 @@
 | Acts | 28 | 28 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28 |
 | Romans | 16 | 16 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 |
 | 1 Corinthians | 16 | 16 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 |
+| 2 Corinthians | 13 | 13 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 |

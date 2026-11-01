@@ -2,6 +2,8 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Beliar":"彼列",
+"Silvanus":"西拉",
 "Tertius":"德提",
 "Sosipater":"所西巴德",
 "Persis":"彼息",

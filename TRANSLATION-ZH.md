@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans and 1 Corinthians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1428,6 +1428,26 @@ Settled while drafting 1 Corinthians:
 | The creed (15:3–5) | 基督照聖經所說，為我們的罪死了，而且埋葬了，而且照聖經所說，第三天復活了，並且向磯法顯現…… | 而且 for the repeated *hoti*; the tradition noted. ἐγήγερται 復活了 (perfect noted); οἱ δώδεκα 十二門徒 as Mark. κοιμάομαι 睡了 (noted: died). |
 | Old Testament quotations | The Greek in the text; our Old Testament wording, and the wording our Old Testament notes already give, where the Greek agrees | 1:19 (Isaiah 29:14 note); 1:31 誇口的，應當指着主誇口 (Jeremiah 9:23 note); 2:9 (Isaiah 64:3 note); 3:19 = Job 5:13; 6:16 = Genesis 2:24 (二人成為一體); 9:9 = Deuteronomy 25:4; 10:7 = Exodus 32:6; 14:21 (Isaiah 28:11 note); 15:27 = Psalm 8:7; 15:32 = Isaiah 22:13; 15:45 (頭一個人亞當成了有生命的活人, Genesis 2:7); 15:54 死亡被吞滅，得了勝利 (Isaiah 25:8 note); 15:55 死亡啊，你的勝利在哪裏？死亡啊，你的毒鉤在哪裏？ (Hosea 13:14 note). |
 | Names | 所提尼、革來氏（家裏的人）、亞波羅、磯法、基利司布、該猶、司提反 (Stephanas)、福徒拿都、亞該古、亞居拉、百基拉 | Stephanas is 司提反, the classic Union Version form (the 1989 text has 司提法那), told apart from Stephen in a note at 1:16; the names table follows. Chloe 革來 with the Union Version's 氏. 16:22 Μαράνα θά 瑪拉那他, the meaning noted. |
+
+Settled while drafting 2 Corinthians:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| παράκλησις, παρακαλέω; θλῖψις | 安慰；患難 | 1:3–7 keeps 安慰 throughout (*paraklesis* noted); 13:11 παρακαλεῖσθε 要彼此勸勉 (或譯「要受安慰」). |
+| διακονία; διάκονος | 職事 (3:7–9; 4:1; 5:18; 6:3)；僕人 (3:6; 6:4; 11:15, 23) | As Romans 13:4 and 1 Corinthians 3:5; *diakonoi* noted (或譯「執事」). The collection's διακονία is 供應 (8:4; 9:1, 12–13). |
+| ἱκανός, ἱκανότης (2:16; 3:5–6) | 勝任 | *hikanos* noted. |
+| καταργέω (3:7–14) | 要廢去的；被廢去 | As 1 Corinthians 15:24's 廢掉; 「逐漸褪去」 noted. |
+| κάλυμμα (3:13–16; 4:3) | 帕子 | As our Exodus 34:33–35 (*masveh*); 3:7 摩西臉上的榮光 with Exodus 34:29's 發光 and the Septuagint's 得了榮耀 noted. ἡ παλαιὰ διαθήκη 舊約; καινὴ διαθήκη 新約 (Jeremiah 31:31 noted). |
+| ἀρραβών (1:22; 5:5) | 訂金 | 和合本「質」 noted. |
+| καινὴ κτίσις (5:17) | 新造的人 | 直譯「新的創造」 and 或譯「就有新的創造」 noted. |
+| 5:21 | 神使那不知罪的，替我們成為罪，好讓我們在他裏面成為神的義 | 「作贖罪祭」 and *dikaiosyne theou* (as Romans 1:17) noted. |
+| χάρις for the collection (8–9) | 恩惠 (8:4)；這恩惠的事 (8:6, 7, 19)；恩典 (8:1, 9; 9:8, 14)；感謝 (8:16; 9:15) | The senses listed in a note at 8:4; 1 Corinthians 16:3's 捐獻 linked. ἁπλότης 慷慨 (8:2; 9:11, 13), 專一 (11:3); εὐλογία 厚禮 (9:5, 直譯「祝福」). |
+| Old Testament quotations | The Greek in the text; our Old Testament wording, and the wording our notes give, where the Greek agrees | 4:6 光要從黑暗裏照出來 (Genesis 1:3 要有光 noted); 4:13 我信了，所以我說 (our Psalm 116:10 note); 6:2 在悅納的時候，我垂聽了你 (our Isaiah 49:8 note; the text has 應允); 6:16 Leviticus 26:12 and Ezekiel 37:27 (作他們的神……作我的子民); 6:17 不要觸摸不潔淨的東西 (Isaiah 52:11); 6:18 作你們的父親……兒子和女兒, 全能的主 (*kyrios pantokrator*, 萬軍之耶和華 noted); 8:15 = Exodus 16:18; 9:9 = Psalm 112:9a; 10:17 as 1 Corinthians 1:31; 13:1 as Deuteronomy 19:15. |
+| ὑπερλίαν ἀπόστολοι (11:5; 12:11) | 那些超等的使徒 | Paul's irony noted; 和合本「那些最大的使徒」. The "fool's speech" (11:1–12:13) keeps 愚妄 (ἀφροσύνη, ἄφρων) and its sarcasm (11:19–21; 12:13, 16) without softening. |
+| τρίτος οὐρανός; παράδεισος (12:2–4) | 第三層天；樂園 | 樂園 as Luke 23:43. |
+| σκόλοψ τῇ σαρκί (12:7) | 一根刺加在我的肉體上；撒但的差役 | The suggested meanings in a note. |
+| 13:12–13 | 13:13 the grace: 願主耶穌基督的恩典、神的愛、聖靈的相交，與你們眾人同在！ | As the SBLGNT and the English (13 verses); 和合本 13:12–14 noted. κοινωνία 相交 (as 1 Corinthians 1:9; 和合本「聖靈的感動」 noted). |
+| Names | 提多、西拉 (*Silvanus*, as the Union Version)、彼列 (*Beliar*)、亞哩達、大馬色、特羅亞 | ἐθνάρχης (11:32) 總管 (和合本「提督」 noted). Silvanus and Beliar added to the names table. |
 
 ## Style
 
