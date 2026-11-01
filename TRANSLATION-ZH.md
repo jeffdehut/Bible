@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 Peter drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1625,6 +1625,21 @@ Settled while drafting James:
 | Κύριος Σαβαώθ (5:4); παρουσία (5:7–8) | 萬軍之主；主來臨 | *YHWH tseva'ot* noted; *parousia* as 1 Thessalonians. |
 | πρεσβύτεροι τῆς ἐκκλησίας (5:14) | 教會的長老 | As Acts and Titus; anointing 用油抹他. 5:15 *sozo* 救 (或譯「醫好」 noted). |
 | Names | 雅各、亞伯拉罕、以撒、喇合、約伯、以利亞 | *Iakobos* = Jacob noted at 1:1. |
+
+Settled while drafting 1 Peter:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| παρεπίδημοι; πάροικοι; παροικία (1:1, 17; 2:11) | 寄居的人；寄居的外人，暫住的客旅；在世寄居的日子 | Genesis 23:4's 寄居的外人 (LXX *paroikos kai parepidemos*) noted at 2:11. *diaspora* as James 1:1. |
+| ἀναγεννάω (1:3, 23) | 重生 | Kept apart from John 3's 從上面生 (*anothen*). |
+| Old Testament quotations | Our Old Testament wording and our notes' wording where the Greek agrees | 1:16 你們要聖潔，因為我是聖潔的 (= our Leviticus 11:45); 1:24–25 草必枯乾，花必凋謝，惟有主的話永遠長存 (our Isaiah 40:8 note); 2:3 Psalm 34:9; 3:10–12 Psalm 34:13–17 in the third person; 4:18 the wording our Proverbs 11:31 note gives; 5:5 = James 4:6. |
+| The stone catena (2:6–8) | 看哪，我在錫安放一塊揀選的、寶貴的房角石，信靠他的人必不至於羞愧；建築工人丟棄的石頭，已經成了房角的基石；絆腳的石頭，跌人的磐石 | Our Isaiah 28:16 note's wording; Psalm 118:22 = Matthew 21:42 and Mark 12:10; Isaiah 8:14 = Romans 9:33. 2:7 *time* 尊貴, linked to *entimos* 寶貴. |
+| 2:9 (Exodus 19:5–6; Isaiah 43:20–21) | 蒙揀選的族類，作君王的祭司，聖潔的國民，屬神自己的子民……美德 | 聖潔的國民 as our Exodus 19:6; 和合本「君尊的祭司」 and our 祭司的國度 noted. |
+| 2:22–25 (Isaiah 53) | 他沒有犯罪，口裏也沒有詭詐；因他受的鞭傷，你們得了醫治；你們從前好像迷路的羊 | The wording our Isaiah 53:5–6, 9 notes give; ξύλον 木頭 as Acts 5:30, noted as the cross. |
+| 3:18–22 | 按肉體說，他被處死；按靈性說，他卻復活了；向那些在監獄裏的靈宣告；八個人；洗禮……向神求得無愧的良心 | The three readings of 3:19 in one note (fallen angels and 1 Enoch; the dead; Christ in Noah); *eperotema* noted. |
+| οἰκέται (2:18); συμπρεσβύτερος (5:1); ἀρχιποίμην (5:4); ἐπίσκοπος (2:25) | 家僕；同作長老的；牧長；監督 | 5:5 *presbyteroi* 年長的 (the link to 長老 noted). |
+| 4:8 (Proverbs 10:12) | 愛能遮掩許多的罪 | As our Proverbs note; James 5:20 the same. Χριστιανός 基督徒 as Acts 11:26. |
+| Names | 彼得、本都、加拉太、加帕多家、亞細亞、庇推尼、撒拉、亞伯拉罕、挪亞、西拉 (*Silouanos*, as 2 Corinthians 1:19)、巴比倫 (noted as Rome)、馬可 | |
 
 ## Style
 

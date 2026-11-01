@@ -1,6 +1,6 @@
 # Translation status
 
-1151 of 1,189 chapters translated: 1151 draft, 0 checked, 0 reviewed, 0 approved.
+1156 of 1,189 chapters translated: 1156 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -63,3 +63,4 @@
 | Philemon | 1 | 1 |  |  |  | 1 |
 | Hebrews | 13 | 13 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 |
 | James | 5 | 5 |  |  |  | 1, 2, 3, 4, 5 |
+| 1 Peter | 5 | 5 |  |  |  | 1, 2, 3, 4, 5 |
