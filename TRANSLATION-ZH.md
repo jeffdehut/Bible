@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1482,6 +1482,21 @@ Settled while drafting Ephesians:
 | The household code (5:22–6:9) | 作妻子的／作丈夫的／作兒女的／作父親的／作奴僕的／作主人的 | *douloi* noted on slavery (6:5); *kyrioi* 主人, *kyrios* 主. |
 | The armor of God (6:11–17) | 神所賜的全副軍裝；真理作帶子束腰，義作鎧甲……信心作盾牌，救恩作頭盔，聖靈的寶劍 | 鎧甲 and 頭盔 as our Isaiah 59:17. |
 | Names | 以弗所、推基古 | |
+
+Settled while drafting Philippians:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| ἐπίσκοποι καὶ διάκονοι (1:1) | 監督和執事 | 監督 as Acts 20:28 (傳統「主教」 noted); *diakonoi* noted as a recognized role (傳統「執事」), as Romans 16:1. |
+| 1:21 | 活着就是基督，死了就有益處 | |
+| The Christ hymn (2:6–11) | 他本有神的形像，並不把與神同等看作要抓住不放的，反而倒空自己，取了奴僕的形像，成為人的樣式 | Prose verses, as the English. *morphe* 形像 (kept apart from *eikon* 像, Colossians 1:15); *harpagmos* (和合本「強奪的」) and *kenoo* (和合本「虛己」) noted; the participle 本有 (雖然有／正因為有) noted. |
+| 2:10–11 (Isaiah 45:23) | 萬膝都要跪拜，萬口都要承認「耶穌基督是主」 | As Romans 14:11's 萬膝必向我跪拜，萬口必向神承認; our Isaiah's 起誓 and *kyrios* for YHWH noted. |
+| σπένδομαι (2:17) | 像奠祭一樣被澆 | 奠祭 as Exodus 29:40. *leitourgia*, *leitourgos* 事奉；供應……的人. |
+| σκύβαλα (3:8) | 糞土 | Noted as a coarse word (垃圾、糞便). |
+| κατατομή / περιτομή (3:2–3) | 殘害肉體的；受割禮的 | The wordplay noted. *sarx* here outward descent, noted (3:3–4). |
+| πολιτεύομαι (1:27); πολίτευμα (3:20) | 生活為人；國籍 | Philippi a Roman colony, noted. |
+| 4:4; 4:6–7; 4:13 | 你們要常常在主裏喜樂；我再說，你們要喜樂……神那超越人一切理解的平安，必在基督耶穌裏保守你們的心懷意念……我靠着那加給我力量的，凡事都能做 | 「基督」 manuscripts noted at 4:13. |
+| Names | 友阿爹、循都基、革利免、以巴弗提、腓立比、馬其頓、帖撒羅尼迦；該撒家裏的人 | 友阿爹 the classic Union form (1989 友阿蝶); Euodia and Syntyche added to the names table. *syzygos* (4:3) 同伴, the possible name noted. |
 
 ## Style
 

@@ -2,6 +2,8 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Syntyche":"循都基",
+"Euodia":"友阿爹",
 "Beliar":"彼列",
 "Silvanus":"西拉",
 "Tertius":"德提",
