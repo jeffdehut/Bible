@@ -1,4 +1,4 @@
-// The Story Board: a felt board for telling Bible stories. Pieces come out of the drawers (tap
+// Felt Stories (the Story Board): a felt board for telling Bible stories. Pieces come out of the drawers (tap
 // one, or drag it onto the board), and on the board they move with a finger, a mouse or the
 // keyboard; two fingers resize and turn the piece picked up. The board is kept on this device.
 (() => {
@@ -68,7 +68,7 @@
     render(); showName();
     if (!quiet) say(t("Opened: ") + doc.name);
   }
-  function showName() { $("doc-name").textContent = doc.name || untitled(); document.title = (doc.name || untitled()) + " · " + t("Story Board"); }
+  function showName() { $("doc-name").textContent = doc.name || untitled(); document.title = (doc.name || untitled()) + " · " + t("Felt Stories"); }
   function remember() { past.push(JSON.stringify(board)); if (past.length > 60) past.shift(); $("undo").disabled = false; }
   function undo() {
     if (!past.length) return;
@@ -467,7 +467,7 @@
       img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(boardSVG(mode));
     });
   }
-  const fileName = () => (doc.name || "story-board").replace(/[\\/:*?"<>|]+/g, "").trim().slice(0, 60) || "story-board";
+  const fileName = () => (doc.name || "felt-stories").replace(/[\\/:*?"<>|]+/g, "").trim().slice(0, 60) || "felt-stories";
   // Share: the device's own share sheet where it can take a picture (phones, tablets, some
   // desktops); otherwise the picture is saved.
   $("share").onclick = async () => {
@@ -475,7 +475,7 @@
     try { blob = await boardPNG(); } catch (e) { say(t("The picture couldn't be made")); return; }
     const file = new File([blob], fileName() + ".png", { type: "image/png" });
     if (navigator.canShare && navigator.canShare({ files: [file] })) {
-      try { await navigator.share({ files: [file], title: doc.name || t("Story Board") }); return; }
+      try { await navigator.share({ files: [file], title: doc.name || t("Felt Stories") }); return; }
       catch (e) { if (e.name === "AbortError") return; }
     }
     const a = document.createElement("a");
@@ -583,7 +583,41 @@
     function changed() { listeners.forEach(f => f(state)); }
     document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") run(); });
     window.addEventListener("online", run);
-    return { soon, run, get state() { return state; }, email: () => (acct().session || {}).user?.email || "", on: f => listeners.push(f) };
+    // Signing in here, with the same account as the reader. The session is kept where the reader
+    // keeps it, marked fresh so the reader also sends what it has saved on this device.
+    async function auth(path, body) {
+      if (navigator.onLine === false) throw new Error(t("You're offline. Try again when you're connected."));
+      const res = await fetch(BASE + path, { method: "POST", headers: { apikey: C.key, "Content-Type": "application/json" }, body: JSON.stringify(body) });
+      let j = {};
+      try { j = await res.json(); } catch (e) { /* empty */ }
+      if (!res.ok) throw new Error(j.msg || j.message || j.error_description || j.error || "HTTP " + res.status);
+      return j;
+    }
+    function keep(s) {
+      const a = acct();
+      a.session = { access_token: s.access_token, refresh_token: s.refresh_token, expires_at: s.expires_at || Math.floor(Date.now() / 1000) + (+s.expires_in || 3600), user: { id: s.user.id, email: s.user.email } };
+      a.fresh = true; a.dirty = a.dirty || {};
+      try { localStorage.setItem("pe.account", JSON.stringify(a)); } catch (e) { /* storage */ }
+      run();
+    }
+    const back = () => encodeURIComponent(new URL("index.html", location.href).href);
+    async function signIn(email, password) { keep(await auth("/auth/v1/token?grant_type=password", { email, password })); }
+    async function signUp(email, password) {
+      const s = await auth("/auth/v1/signup?redirect_to=" + back(), { email, password });
+      if (s && s.access_token) { keep(s); return "in"; }
+      const u = (s && (s.user || s)) || {};
+      return Array.isArray(u.identities) && !u.identities.length ? "exists" : "confirm";
+    }
+    async function recover(email) { await auth("/auth/v1/recover?redirect_to=" + back(), { email }); }
+    async function signOut() {
+      const s = acct().session;
+      if (s) { try { await fetch(BASE + "/auth/v1/logout", { method: "POST", headers: { apikey: C.key, Authorization: "Bearer " + s.access_token } }); } catch (e) { /* offline */ } }
+      try { localStorage.setItem("pe.account", JSON.stringify({ dirty: {} })); } catch (e) { /* storage */ }
+      state = "off"; changed();
+    }
+    // Another tab signing in or out.
+    window.addEventListener("storage", e => { if (e.key === "pe.account") run(); });
+    return { soon, run, get state() { return state; }, email: () => (acct().session || {}).user?.email || "", on: f => listeners.push(f), signIn, signUp, recover, signOut, ready: !!BASE };
   })();
 
   /* ---------- My boards: the library ---------- */
@@ -635,13 +669,12 @@
     function status() {
       const s = Sync.state, el = $("lib-status");
       el.textContent = "";
-      if (s === "on" || s === "busy") el.append(s === "busy" ? t("Syncing…") : t("Synced with your account") + (Sync.email() ? " (" + Sync.email() + ")" : ""));
+      const link = (label, fn) => { const b = document.createElement("button"); b.type = "button"; b.className = "linkish"; b.textContent = label; b.onclick = fn; return b; };
+      if (s === "on" || s === "busy") el.append(s === "busy" ? t("Syncing…") : t("Synced with your account") + (Sync.email() ? " (" + Sync.email() + ")" : "") + ". ", link(t("Sign out"), async () => { await Sync.signOut(); status(); }));
       else if (s === "waiting") el.append(t("Saved on this device. Syncing with your account starts soon."));
       else if (s === "error") el.append(t("Saved on this device. Your account couldn't be reached just now; it will sync later."));
       else {
-        el.append(t("Saved on this device. "));
-        const a = Object.assign(document.createElement("a"), { href: "index.html#open=account", textContent: t("Sign in to keep your boards on every device.") });
-        el.append(a);
+        el.append(t("Saved on this device. "), link(t("Sign in to keep your boards on every device."), () => SignIn.open()));
       }
       el.dataset.s = s;
     }
@@ -725,6 +758,52 @@
     Sync.on(() => { if (dlg.open) status(); });
     return { refresh };
   })();
+  /* ---------- Signing in, here ---------- */
+  const SignIn = (() => {
+    const dlg = $("signin");
+    let mode = "in";
+    function show(msg, ok) { const m = $("si-msg"); m.textContent = msg || ""; m.hidden = !msg; m.className = "si-msg" + (ok ? " ok" : ""); }
+    function said(e) {
+      const m = (e && e.message) || "";
+      if (/invalid login credentials/i.test(m)) return t("That email and password don't match. Try again, or choose “Forgot your password?”.");
+      if (/email not confirmed/i.test(m)) return t("Confirm your email first: open the link we sent you, then sign in.");
+      if (/password.*(at least|short|characters)/i.test(m)) return t("Choose a longer password: at least 8 characters.");
+      if (/rate limit|too many|security purposes/i.test(m)) return t("Too many tries for now. Wait a minute and try again.");
+      return m;
+    }
+    function setMode(m) {
+      mode = m;
+      $("si-title").textContent = t(m === "new" ? "Create an account" : m === "reset" ? "Reset your password" : "Sign in");
+      $("si-pass-row").hidden = m === "reset";
+      $("si-pass").required = m !== "reset";
+      $("si-pass").autocomplete = m === "new" ? "new-password" : "current-password";
+      $("si-go").textContent = t(m === "new" ? "Create account" : m === "reset" ? "Email me a reset link" : "Sign in");
+      $("si-switch").textContent = t(m === "in" ? "New here? Create an account" : "I have an account: sign in");
+      $("si-forgot").hidden = m !== "in";
+      show("");
+    }
+    $("si-switch").onclick = () => setMode(mode === "in" ? "new" : "in");
+    $("si-forgot").onclick = () => setMode("reset");
+    $("si-cancel").onclick = () => dlg.close();
+    $("si-form").onsubmit = async e => {
+      e.preventDefault();
+      const email = $("si-email").value.trim(), pass = $("si-pass").value, go = $("si-go");
+      go.disabled = true; show("");
+      try {
+        if (mode === "in") { await Sync.signIn(email, pass); dlg.close(); say(t("Signed in")); Library.refresh(); }
+        else if (mode === "new") {
+          const r = await Sync.signUp(email, pass);
+          if (r === "in") { dlg.close(); Library.refresh(); }
+          else if (r === "exists") { setMode("in"); show(t("There is already an account with this email. Sign in instead.")); }
+          else show(t("Check your email: open the link we sent to confirm your account, then sign in here."), true);
+        } else { await Sync.recover(email); show(t("We sent a link to reset your password. Open it on this device to choose a new one."), true); }
+      } catch (err) { show(said(err)); }
+      go.disabled = false;
+    };
+    return { open: () => { setMode("in"); dlg.showModal(); $("si-email").focus(); } };
+  })();
+  if (!Sync.ready) $("lib-status").hidden = true;
+
   $("doc-name").onclick = async () => {
     const r = await ask({ title: t("Rename board"), value: doc.name });
     if (r && r.name) { doc.name = r.name; touch(doc); showName(); }

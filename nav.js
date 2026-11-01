@@ -68,7 +68,7 @@
     ]],
     ["Resource Room", "menu-resources", [
       ["course", "Three-year course", "course", "course.html", "The whole Bible taught in twelve quarters"],
-      ["storyboard", "Story Board", "board", "storyboard.html", "A felt board: people, animals and scenes to move as you tell the story"],
+      ["storyboard", "Felt Stories", "board", "storyboard.html", "A felt board: people, animals and scenes to move as you tell the story"],
     ]],
     ["Settings", "menu-you", [
       ["account", "Account", "account", "reader:account", "Sign in to keep your highlights and notes on every device", { sub: "account-sub", hidden: true }],

@@ -487,6 +487,9 @@
   }
   $("open-account").onclick = () => { render(); R.openSheet("account"); };
 
+  // Signed in on another page (Felt Stories): adopt the session as a new sign-in, so what this
+  // device has saved is sent to the account too.
+  if (state.session && state.fresh) { delete state.fresh; signedIn(); }
   render();
   fromLink().then(opened => {
     if (opened) { render(); R.openSheet("account"); }

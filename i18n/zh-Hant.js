@@ -2320,5 +2320,20 @@ I18N.add({
  "Saved on this device. Syncing with your account starts soon.": "已存在這部裝置上。與帳戶同步即將開始。",
  "Saved on this device. Your account couldn't be reached just now; it will sync later.": "已存在這部裝置上。目前無法連上你的帳戶，稍後會再同步。",
  "Share a picture": "分享圖片",
- "Picture saved": "圖片已儲存"
+ "Picture saved": "圖片已儲存",
+ "Felt Stories": "絨布故事",
+ "Create an account": "建立帳戶",
+ "Create account": "建立帳戶",
+ "Reset your password": "重設密碼",
+ "Email me a reset link": "寄給我重設連結",
+ "New here? Create an account": "第一次來？建立帳戶",
+ "Keep your boards and folders on every device. It's the same account as your highlights and notes in the reader.": "讓你的故事板和資料夾在每部裝置上都一樣。這和閱讀器裡標記與筆記用的是同一個帳戶。",
+ "That email and password don't match. Try again, or choose “Forgot your password?”.": "電子郵件和密碼不相符。請再試一次，或選「忘記密碼？」。",
+ "Confirm your email first: open the link we sent you, then sign in.": "請先確認電子郵件：打開我們寄給你的連結，然後登入。",
+ "Too many tries for now. Wait a minute and try again.": "嘗試次數太多。請等一分鐘再試。",
+ "There is already an account with this email. Sign in instead.": "這個電子郵件已有帳戶。請直接登入。",
+ "Check your email: open the link we sent to confirm your account, then sign in here.": "請查看電子郵件：打開我們寄出的連結確認帳戶，然後在這裡登入。",
+ "We sent a link to reset your password. Open it on this device to choose a new one.": "我們已寄出重設密碼的連結。請在這部裝置上打開它，設定新密碼。",
+ "You're offline. Try again when you're connected.": "你目前離線。連上網路後再試。",
+ "Signed in": "已登入"
 });
