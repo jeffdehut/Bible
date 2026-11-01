@@ -817,10 +817,6 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 .markmenu .pen mark[data-s="zig"] { background-size: 6px 6px; padding-bottom: 4px; }
 .markmenu .swatch.ink { background: var(--c); border-color: transparent; }
 .markmenu .row .pen { flex: 1 1 0; min-width: 0; padding: 0; overflow: hidden; }
-@media (max-width: 360px) {
-  .markmenu .tool.wide:not(:first-child) { flex: 0 0 44px; padding: 0; }
-  .markmenu .tool.wide:not(:first-child) span { display: none; }
-}
 /* Emoji: on the words they mark, and to choose from. */
 .emo { display: inline-block; width: 0.9em; height: 0.9em; margin: 0 0.1em 0 0.06em; vertical-align: 0.3em; line-height: 0; color: var(--lapis); cursor: pointer; }
 .emo svg, .emo-pick svg, .emo-sample svg { width: 100%; height: 100%; display: block; }
@@ -836,10 +832,12 @@ mark.emr { color: inherit; background: color-mix(in srgb, var(--lapis) 11%, tran
 #notecard.is-emoji .emo-grid { display: flex; }
 #notecard.is-emoji #nc-text, #notecard.is-emoji #nc-colors, #notecard.is-emoji #nc-done { display: none; }
 .wnotes .emo-big { font-size: 22px; margin-inline-end: 8px; vertical-align: middle; }
-.markmenu .tools { padding-top: 6px; border-top: 1px solid var(--line); justify-content: space-between; }
-.markmenu .tool.wide { flex: 1 1 auto; width: auto; min-width: 0; height: 34px; padding: 0 10px; border-radius: 99px; display: inline-flex; align-items: center; justify-content: center; gap: 6px;
-  font: 600 13px/1 var(--sans); color: var(--ink); white-space: nowrap; }
-.markmenu .tool.wide svg { width: 17px; height: 17px; flex: none; color: var(--lapis); }
+/* What to do with the words: every choice in view at once, an icon over a short name. */
+.markmenu .row.tools { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); gap: 4px; padding-top: 6px; border-top: 1px solid var(--line); overflow: visible; }
+.markmenu .tool.wide { width: auto; min-width: 0; height: auto; min-height: 50px; padding: 6px 2px 5px; border-radius: 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px;
+  font: 600 11px/1.15 var(--sans); color: var(--ink); text-align: center; white-space: normal; overflow-wrap: normal; }
+@media (max-width: 360px) { .markmenu .tool.wide { padding-inline: 0; font-size: 10px; letter-spacing: -0.01em; } }
+.markmenu .tool.wide svg { width: 18px; height: 18px; flex: none; color: var(--lapis); }
 .markmenu .hl-note { white-space: normal; }
 .markmenu .tool { display: grid; place-items: center; background: var(--surface); color: var(--lapis); border: 1px solid var(--line); font: 600 20px/1 var(--sans); flex: none; }
 .markmenu .tool svg { width: 16px; height: 16px; }
@@ -5506,7 +5504,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=126").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=127").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
