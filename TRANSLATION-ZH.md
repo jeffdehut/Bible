@@ -1712,7 +1712,7 @@ Settled while drafting Revelation:
 | ἄγγελος (also of the churches, 1:20; 2–3) | 天使 | 或譯「使者」 noted (和合本「使者」 for the churches' angels). |
 | The seven letters (2–3) | 你要寫信給……教會的天使說：那……的，這樣說：我知道你的行為……有耳朵的，就應當聽聖靈對眾教會所說的話。得勝的，我必…… | *tade legei* as the prophets' 耶和華這樣說 (2:1); *nikao* 得勝 (John 16:33's 勝過 noted). The letters are not set in 『』; inner quotations 『』. |
 | The seven churches | 以弗所、士每拿、別迦摩、推雅推喇、撒狄、非拉鐵非、老底嘉 | Union Version forms; 亞細亞 noted as the Roman province. |
-| Names (1–11) | 拔摩、安提帕、巴蘭、巴勒、耶洗別、尼哥拉黨、亞巴頓、亞玻倫、伯拉大河、所多瑪；7:5–8 呂便 etc. as our Genesis | 伯拉大河 as the classic Union Version (幼發拉底河 noted; Genesis 15:18 大河，就是伯拉河). Patmos, Antipas, Nicolaitans, Apollyon, Euphrates added to the names table. |
+| Names (1–11) | 拔摩、安提帕、巴蘭、巴勒、耶洗別、尼哥拉黨、亞巴頓、亞玻倫、伯拉河、所多瑪；7:5–8 呂便 etc. as our Genesis | 大河伯拉河 in the text, as our Old Testament (Genesis 15:18 大河，就是伯拉河); 和合本 伯拉大河 and 幼發拉底河 noted. Patmos, Antipas, Nicolaitans, Apollyon, Euphrates added to the names table. |
 | ἀρνίον | 羔羊 | As John's *amnos* (神的羔羊); *arnion* noted at 5:6. ἐσφαγμένον 被宰殺過的 (*sphazo* noted, Isaiah 53:7). |
 | σφραγίς; σάλπιγξ; φιάλη | 印 (揭開第……個印)；號 (七枝號、吹號、號聲)；碗 (金碗 where the Greek has χρυσαῖ) | *phiale* noted at 5:8 (和合本 5:8「金爐」, 15:7「金碗」). 1 Thessalonians 4:16's 號角 is the same word. |
 | ζῷα; πρεσβύτεροι; θρόνος | 四個活物 (他們, as our Ezekiel 1)；二十四位長老；寶座 (the elders' θρόνοι 座位) | Ezekiel 1 and Isaiah 6 noted at 4:6–8. |
