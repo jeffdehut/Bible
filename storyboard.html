@@ -3,15 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=50"></script>
+<script src="i18n.js?v=51"></script>
 <script src="ui.js?v=3"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
 <meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0d111b" media="(prefers-color-scheme: dark)">
 <script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) { /* storage unavailable */ }</script>
-<title>Story Board · BibleData.org</title>
-<meta name="description" content="A felt board for telling Bible stories: pull people, animals and things out of the drawers, place them in a scene and move them as you tell the story.">
+<title>Felt Stories · BibleData.org</title>
+<meta name="description" content="Felt Stories: a felt board for telling Bible stories: pull people, animals and things out of the drawers, place them in a scene and move them as you tell the story.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
@@ -196,6 +196,13 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
 .ask input, .ask select { width: 100%; height: 44px; padding: 0 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); color: var(--ink); font: 400 16px/1.2 var(--sans); }
 .ask-btns { display: flex; justify-content: flex-end; gap: 8px; margin-top: 4px; }
 
+.linkish { border: 0; background: none; padding: 0; color: var(--lapis); font: 600 13px/1.4 var(--sans); cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
+.si-lede { margin: -6px 0 14px; font: 400 14px/1.45 var(--sans); color: var(--muted); }
+.si-msg { margin: 0 0 12px; padding: 10px 12px; border-radius: 10px; background: color-mix(in srgb, #c0392b 12%, var(--surface)); font: 500 14px/1.4 var(--sans); }
+.si-msg.ok { background: color-mix(in srgb, #2f8a3c 14%, var(--surface)); }
+.si-msg[hidden] { display: none; }
+.si-links { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-top: 14px; }
+.si-links [hidden] { display: none; }
 /* Printing: only the board, on a page laid out sideways. */
 #print { display: none; }
 @media print {
@@ -218,12 +225,12 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
 <header class="appbar">
   <a class="brand" href="index.html"><img src="icons/icon.svg" alt="BibleData.org"><span aria-hidden="true">BibleData.org</span></a>
 </header>
-<script src="nav.js?v=44"></script>
+<script src="nav.js?v=45"></script>
 
 <main class="sb" id="sb">
   <div class="sb-head">
     <button class="tbtn" type="button" id="boards" aria-haspopup="dialog"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z"/></svg><span class="lbl">My boards</span></button>
-    <h1><button type="button" id="doc-name" title="Rename this board">Story Board</button></h1>
+    <h1><button type="button" id="doc-name" title="Rename this board">Felt Stories</button></h1>
     <button class="tbtn" type="button" id="undo" disabled aria-label="Undo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 14 4 9l5-5"/><path d="M4 9h10a6 6 0 0 1 0 12h-3"/></svg><span class="lbl">Undo</span></button>
     <button class="tbtn" type="button" id="share" aria-label="Share a picture"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3M8 7l4-4 4 4"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span class="lbl">Share</span></button>
     <span class="menu-wrap">
@@ -299,10 +306,22 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
   </form>
 </dialog>
 
+<dialog class="ask" id="signin" aria-labelledby="si-title">
+  <form id="si-form">
+    <h2 id="si-title">Sign in</h2>
+    <p class="si-lede">Keep your boards and folders on every device. It's the same account as your highlights and notes in the reader.</p>
+    <label class="row"><span>Email</span><input type="email" id="si-email" autocomplete="email" required></label>
+    <label class="row" id="si-pass-row"><span>Password</span><input type="password" id="si-pass" autocomplete="current-password" minlength="8" required></label>
+    <p class="si-msg" id="si-msg" role="status" hidden></p>
+    <div class="ask-btns"><button type="button" class="tbtn" id="si-cancel">Cancel</button><button type="submit" class="tbtn primary" id="si-go">Sign in</button></div>
+    <div class="si-links"><button type="button" class="linkish" id="si-switch">New here? Create an account</button><button type="button" class="linkish" id="si-forgot">Forgot your password?</button></div>
+  </form>
+</dialog>
+
 <div id="print" aria-hidden="true"></div>
 
 <script src="config.js?v=31"></script>
 <script src="storyboard-art.js?v=2"></script>
-<script src="storyboard.js?v=2"></script>
+<script src="storyboard.js?v=3"></script>
 </body>
 </html>
