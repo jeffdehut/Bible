@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1448,6 +1448,22 @@ Settled while drafting 2 Corinthians:
 | σκόλοψ τῇ σαρκί (12:7) | 一根刺加在我的肉體上；撒但的差役 | The suggested meanings in a note. |
 | 13:12–13 | 13:13 the grace: 願主耶穌基督的恩典、神的愛、聖靈的相交，與你們眾人同在！ | As the SBLGNT and the English (13 verses); 和合本 13:12–14 noted. κοινωνία 相交 (as 1 Corinthians 1:9; 和合本「聖靈的感動」 noted). |
 | Names | 提多、西拉 (*Silvanus*, as the Union Version)、彼列 (*Beliar*)、亞哩達、大馬色、特羅亞 | ἐθνάρχης (11:32) 總管 (和合本「提督」 noted). Silvanus and Beliar added to the names table. |
+
+Settled while drafting Galatians:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| πίστις Ἰησοῦ Χριστοῦ (2:16; 3:22); ἐν πίστει ζῶ τῇ τοῦ υἱοῦ τοῦ θεοῦ (2:20) | 信耶穌基督；因信基督；是因信神的兒子而活 | As Romans 3:22; 「耶穌基督的信實」 in the note each time. |
+| ἔργα νόμου; δικαιόω | 遵行律法 (靠遵行律法)；稱義 | As Romans; 2:16 ends as Romans 3:20 (沒有一個人能靠遵行律法稱義). |
+| Old Testament quotations | As Romans where Paul quotes the same verse | 3:6 = Romans 4:3; 3:11 = Romans 1:17; 5:14 = Romans 13:9 and our Leviticus 19:18; 3:8 萬國都要因你得福; 3:10 堅守遵行……必受咒詛 (our Deuteronomy 27:26); 3:12 遵行這些的人，就必因此存活; 3:13 受咒詛 (our Deuteronomy 21:23 詛咒 noted); 4:27 the wording our Isaiah 54:1 note gives; 4:30 Genesis 21:10's 女奴. |
+| σπέρμα (3:16, 19, 29) | 後裔 | The singular/plural argument (「和你的眾後裔」／「和你的後裔」) explained in a note at 3:16. |
+| παιδαγωγός (3:24–25); ἐπίτροποι καὶ οἰκονόμοι (4:2) | 監護人；受託人和管家 | *paidagogos* noted (和合本「訓蒙的師傅」). |
+| τὰ στοιχεῖα τοῦ κόσμου (4:3, 9) | 世上的基本原則 | 或譯「統治世界的靈力」 and 和合本「世俗的小學」 noted. |
+| παιδίσκη; ἡ ἐλευθέρα (4:22–31) | 女奴；自由的婦人 | As Genesis 21:10; Genesis 16's 使女 noted. ἀλληγορέω 有寓意. |
+| 3:28 | 不再分猶太人或希臘人，不再分奴僕或自由人，也不再分男或女；因為你們在基督耶穌裏都是一 | Genesis 1:27's 有男有女 noted. |
+| The works of the flesh; the fruit of the Spirit (5:19–23) | 淫亂、污穢、放蕩……紛爭、嫉妒、怒氣、自私的野心 (as 2 Corinthians 12:20–21)；仁愛、喜樂、平安、忍耐、恩慈、良善、信實、溫柔、節制 | Two-character list for reading aloud; 仁愛 for *agape* (1 Corinthians 13's 愛 noted), 平安 as in the greetings. |
+| καινὴ κτίσις (6:15) | 新造的人 | As 2 Corinthians 5:17. |
+| Names | 磯法、巴拿巴、提多、安提阿、敘利亞、基利家、阿拉伯、大馬色、夏甲、西奈山 | 阿拉伯 as the rest of this translation (classic Union Version 亞拉伯). |
 
 ## Style
 
