@@ -75,3 +75,4 @@ Found while drafting; not yet settled across books.
 - Matthew 21–28: our Zechariah 9:9 note quotes Matthew 21:5 as 「又騎着驢，就是騎着驢駒」; Matthew's Greek (καὶ ἐπὶ πῶλον) has two animals, and 21:5 now reads 「騎着驢，又騎着驢駒，就是負軛之驢的崽子」: align the Zechariah note.
   22:39 follows Matthew 19:19 and Leviticus 19:18 (要愛你的鄰舍，如同愛自己), but Mark 12:31, 33 have 要愛鄰舍，像愛自己一樣; align Mark. 21:9 and 23:39 keep Mark 11:9's 是應當稱頌的 (the 蒙福/應當稱頌 point above is still open).
   *Nomikos* (22:35) is 律法專家, new; Luke uses the word often. 26:17 keeps Mark's 除酵節 against the Old Testament's 無酵節; settle one. 21:30 κύριε to a father is 父親; 26:50 (*eph' ho parei*) is uncertain.
+- Settled after Matthew: "love your neighbour" as 要愛你的鄰舍，如同愛自己 (Mark 12:31, 33 aligned with Matthew); the feast 無酵節 everywhere (Mark 14, Matthew 26 aligned with the Old Testament).
