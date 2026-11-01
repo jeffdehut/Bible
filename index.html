@@ -4454,58 +4454,42 @@ new ResizeObserver(queueInk).observe($("text"));
 addEventListener("resize", queueInk);
 if (document.fonts) document.fonts.ready.then(queueInk);
 
-// Where a stroke belongs: the word beside its first point (in the margin, the word on that line).
-function inkCaret(x, y) {
-  if (document.caretPositionFromPoint) { const c = document.caretPositionFromPoint(x, y); return c && [c.offsetNode, c.offset]; }
-  if (document.caretRangeFromPoint) { const r = document.caretRangeFromPoint(x, y); return r && [r.startContainer, r.startOffset]; }
-  return null;
-}
-function inkAnchor(px, py) {
-  const tr = $("text").getBoundingClientRect();
-  const x = Math.min(Math.max(px - scrollX, tr.left + 2), tr.right - 2);
-  inkSvg.style.pointerEvents = "none";
-  let hit = null;
-  for (const dy of [0, 6, -6, 12, -12, 20, -20, 30, -30]) {
-    const c = inkCaret(x, py - scrollY + dy);
-    const sp = c && c[0] && (c[0].nodeType === 3 ? c[0].parentElement : c[0]).closest?.(".v");
-    if (sp && $("text").contains(sp)) { hit = [sp, c[0], c[1]]; break; }
+// The word a stroke belongs to: the word it covers most, on the line it is drawn on. A line under
+// words (drawn a little below them) belongs to the line above it, not to the line it nears below.
+const INK_WORD = /[\p{L}\p{N}'’-]+|[⺀-鿿豈-﫿]/gu;
+function inkAnchor(points) {
+  let x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity;
+  for (let i = 0; i < points.length; i += 3) {
+    x0 = Math.min(x0, points[i]); x1 = Math.max(x1, points[i]);
+    y0 = Math.min(y0, points[i + 1]); y1 = Math.max(y1, points[i + 1]);
   }
-  inkSvg.style.pointerEvents = "";
-  let sp, at = 0;
-  if (hit) {
-    [sp] = hit;
-    // Count the verse's words up to the caret, wherever the browser puts it (in a text node, or
-    // between elements).
-    const lim = document.createRange();
-    lim.setStart(sp, 0);
-    try { lim.setEnd(hit[1], hit[2]); } catch (e) { lim.setEnd(sp, 0); }
+  const cy = (y0 + y1) / 2;
+  const lh = parseFloat(getComputedStyle($("text")).lineHeight) || 34;
+  let best = null;
+  for (const sp of $("text").querySelectorAll(".v")) {
+    const sr = sp.getBoundingClientRect();
+    if (sr.bottom + scrollY < y0 - lh * 2 || sr.top + scrollY > y1 + lh * 2) continue;
+    let pos = 0;
     for (const node of countedText(sp)) {
-      if (lim.comparePoint(node, node.data.length) <= 0) at += node.data.length;
-      else { if (node === hit[1]) at += hit[2]; break; }
+      for (const m of node.data.matchAll(INK_WORD)) {
+        const r = document.createRange();
+        r.setStart(node, m.index); r.setEnd(node, m.index + m[0].length);
+        const rc = r.getClientRects()[0];
+        if (!rc) continue;
+        const L = rc.left + scrollX, R = rc.right + scrollX, T = rc.top + scrollY, B = rc.bottom + scrollY;
+        if (B < y0 - lh * 2 || T > y1 + lh * 2) continue;
+        const ov = Math.max(0, Math.min(R, x1) - Math.max(L, x0));
+        const gap = ov > 0 ? 0 : Math.min(Math.abs(L - x1), Math.abs(x0 - R));
+        const vd = cy < T ? (T - cy) / lh + 0.2 : cy > B ? Math.max(0, (cy - B) / lh - 0.1) : 0;
+        const score = vd * lh * 3 + gap - Math.min(ov, R - L) * 0.6;
+        if (!best || score < best.score) best = { score, sp, s: pos + m.index, e: pos + m.index + m[0].length };
+      }
+      pos += node.data.length;
     }
-  } else {
-    // Nowhere near words: the nearest verse on the screen, at its start.
-    let best = Infinity;
-    for (const v of $("text").querySelectorAll(".v")) {
-      const r = v.getBoundingClientRect();
-      if (r.bottom < -200 || r.top > innerHeight + 200) continue;
-      const d = Math.abs((r.top + r.bottom) / 2 + scrollY - py);
-      if (d < best) { best = d; sp = v; }
-    }
-    if (!sp) return null;
   }
-  const words = countedText(sp).map(n => n.data).join("");
-  at = Math.min(Math.max(0, at), Math.max(0, words.length - 1));
-  let s = at, e = at + 1;
-  if (/[⺀-鿿豈-﫿]/.test(words[at] || "")) { /* one character is a word */ }
-  else {
-    const isW = ch => /[\p{L}\p{N}'’-]/u.test(ch || "");
-    if (!isW(words[at])) { while (at < words.length && !isW(words[at])) at++; s = at; e = at + 1; }
-    while (s > 0 && isW(words[s - 1])) s--;
-    while (e < words.length && isW(words[e])) e++;
-  }
-  const box = wordBox(sp, s, Math.min(e, words.length));
-  return box && { sp, s, e: Math.min(e, words.length), box };
+  if (!best) return null;
+  const box = wordBox(best.sp, best.s, best.e);
+  return box && { sp: best.sp, s: best.s, e: best.e, box };
 }
 // Every verse's ink, for undo: { id: [its ink ranges] }.
 const inkSnapshot = () => {
@@ -4524,7 +4508,7 @@ function inkRestore(snap) {
 }
 const inkHist = Sketch.history(inkSnapshot, inkRestore);
 function inkAdd(points) {
-  const at = inkAnchor(points[0], points[1]);
+  const at = inkAnchor(points);
   if (!at) return;
   const ctx = ctxOfNode(at.sp);
   const f = (parseFloat(getComputedStyle(at.sp).fontSize) || 18) / INK_U;
@@ -5151,7 +5135,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=84").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=85").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {

@@ -920,6 +920,28 @@ Settled while drafting Isaiah (for all the prophets):
 | גַּד; מְנִי (65:11) | 時運之神；命運之神 | *Gad*, *Meni* noted; the pun with *u-maniti* 我要命定 (65:12). |
 | שָׁמַיִם חֲדָשִׁים וָאָרֶץ חֲדָשָׁה (65:17; 66:22) | 新天新地 | 2 Peter 3:13 and Revelation 21:1 noted. |
 
+Settled while drafting Jeremiah:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Layout | Isaiah's: one verse per line; oracles without quotation marks; dialogue (1:4–19) and words quoted inside an oracle in 「」 | Noted at 2:2. Prose sermons (7; 11) laid out like the poetry, as in English. |
+| נְאֻם יְהוָה; אָמַר יְהוָה (closing) | 這是耶和華說的 (also after a clause, mid-verse)；……，耶和華說 | As Isaiah; *ne'um* noted at its first occurrence in each chapter (1:8). *amar* closing (6:15; 8:12) kept apart. 9:21 *dabber koh ne'um YHWH* 你要這樣說，耶和華說：. |
+| שָׁקֵד; שֹׁקֵד (1:11–12) | 杏樹；看守 | The wordplay noted (lost in Chinese); 5:6 *shoqed* 窺伺 refers back. |
+| שׁוּב; מְשׁוּבָה; מְשֻׁבָה יִשְׂרָאֵל; בָּנִים שׁוֹבָבִים | 回轉、回來；背道；背道的以色列；背道的兒女 | The *shuv* wordplay noted at 2:19; 3:12, 14; 8:4. |
+| בֹּגֵדָה יְהוּדָה; בָּגַד | 奸詐的猶大；行詭詐 | Her *achot* 姊妹 (not 妹妹, as Mark's 兄弟). |
+| בַּת־עַמִּי; בַּת־צִיּוֹן | 我的子民；錫安的女兒 | 「我子民的女兒」 noted at its first occurrence in each chapter. |
+| יְהוָה אֱלֹהֵי צְבָאוֹת (5:14) | 耶和華萬軍之神 | As 2 Samuel 5:10. |
+| קִטֵּר | 燒香 | 或譯「燒祭物」, *qatar* noted at its first occurrence in each chapter. |
+| שְׁפָיִם | 光禿的高處 | |
+| הַשְׁכֵּם וְדַבֵּר / שָׁלֹחַ / הָעֵד | 從早到晚（一再、不斷）…… | 「早起而說」 noted (7:13; 11:7). |
+| הַבַּיִת אֲשֶׁר נִקְרָא־שְׁמִי עָלָיו | 這稱為我名下的殿 | 「我的名在其上被稱呼的」 noted (7:10). |
+| מְעָרַת פָּרִצִים (7:11) | 賊窩 | As Mark 11:17, noted. |
+| תֹּפֶת; גֵּיא בֶן־הִנֹּם; גֵּיא הַהֲרֵגָה; מְלֶכֶת הַשָּׁמַיִם | 陀斐特；欣嫩子谷；殺戮谷；天后 | 7:18, 31–32. |
+| מָגוֹר מִסָּבִיב (6:25) | 四面都是驚嚇 | For 20:3, 10; 46:5; 49:29. |
+| הַבֹּשֶׁת | 那可恥的 | Baal, noted (3:24; 11:13). |
+| Numbering of 8:23–9:25 | 8:23 = 和合本 9:1；9:1–25 = 和合本 9:2–26 | Noted at 8:23 and 9:1; 9:22–23 (= 和合本 9:23–24) and 1 Corinthians 1:31 noted. |
+| The Aramaic of 10:11 | Noted where it starts and ends | |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

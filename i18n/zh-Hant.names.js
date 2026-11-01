@@ -2,6 +2,10 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Noph":"挪弗",
+"Valley of Slaughter":"殺戮谷",
+"Valley of Ben-hinnom":"欣嫩子谷",
+"Beth-hakkerem":"伯‧哈基琳",
 "Bel":"彼勒",
 "Perazim":"毗拉心",
 "Sargon":"撒珥根",
