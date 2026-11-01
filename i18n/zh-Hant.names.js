@@ -4310,7 +4310,7 @@ I18N.add({
 "Solomon":"所羅門",
 "Sosthenes":"所提尼",
 "Spain":"士班雅",
-"Stephanas":"司提法那",
+"Stephanas":"司提反",
 "Stephen":"司提反",
 "Suah":"書亞",
 "Succoth":"疏割",
