@@ -5050,7 +5050,7 @@ function markMenu(t) {
   }
   return [pens, second, toolRow(barTool("Note on these words", ICON_STICKY, t.note, L.t("Note")), barTool("Sketch for these words", ICON_PENCIL, t.sketch, L.t("Sketch")),
     barTool("Bookmark", ICON_BM, t.bookmark, L.t(t.bookmarked ? "Bookmarked" : "Bookmark")), barTool("Copy the selected words", ICON_COPY, t.copy, L.t("Copy")),
-    ...(t.felt ? [barTool("Put these words on a Felt Stories board", ICON_FELT, t.felt, L.t("Felt Stories"))] : []))];
+    ...(t.felt ? [barTool("Put these words on a Felt Stories board", ICON_FELT, t.felt, L.t("Stories"))] : []))];
 }
 // The balloon: for the words chosen, or for an emoji tapped in the text (then that emoji's words).
 let editingEmoji = null;   // { id, k }
@@ -5504,7 +5504,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=128").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=129").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
