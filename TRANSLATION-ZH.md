@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, Jude drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1656,6 +1656,19 @@ Settled while drafting 2 Peter:
 | 2:22 | 狗轉過來吃自己所吐的；豬洗淨了，又回到泥裏打滾 | Our Proverbs 26:11 and its note. 2:20 = Matthew 12:45 (後來的景況就比先前更糟了). |
 | 3:8; 3:10 | 在主看來，一日如千年，千年如一日；主的日子要像賊一樣來到 | Psalm 90:4 and 1 Thessalonians 5:2 noted. στοιχεῖα 元素; 3:10 εὑρεθήσεται 顯露出來, with the variants. |
 | 3:16 | 別的經書 | Noted as the one New Testament reference to a collection of Paul's letters. |
+
+Settled while drafting Jude:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Wording shared with 2 Peter 2 | 放蕩；主宰 (*despotes*)；輕視主權；毀謗那些有尊榮的；毀謗自己所不知道的事；沒有理性的畜類；一同吃喝；巴蘭；漆黑的幽暗；口出誇大的話；好嘲笑的人隨從……私慾而行 | Each parallel noted to 2 Peter. *spilades* 暗礁 (12; 2 Peter 2:13's *spiloi* 污點); ἀγάπαι 愛筵. |
+| Ἰησοῦς (5) | 耶穌 | The SBLGNT (NA28); 「約書亞」 and 「主」 in the note. |
+| 6 | 不守本位……他用永遠的鎖鏈把他們拘禁在黑暗裏，等候那大日的審判 | *tereo* wordplay and 1 Enoch 6–16 noted. |
+| 9 | 天使長米迦勒為了摩西的屍體與魔鬼爭辯……「願主斥責你！」 | Zechariah 3:2's 願耶和華斥責你 and the Assumption of Moses noted. |
+| 14–15 (1 Enoch 1:9) | 亞當的第七代孫以諾……「看哪，主帶着他千萬的聖者來了」 | 《以諾一書》 noted (Ethiopic, Greek, Aramaic). Book titles outside the Bible in 《》. |
+| 22–23 | Three groups, as the SBLGNT | The manuscripts' two- and three-group forms noted. |
+| The doxology (24–25) | 那能保守你們不失腳，叫你們無瑕無疵、歡歡喜喜地站在他榮耀之前的，就是獨一的神、我們的救主，願榮耀、威嚴、能力、權柄，藉着我們的主耶穌基督歸給他，從萬古以前，到現在，直到永永遠遠！阿們。 | For reading aloud. |
+| Names | 猶大、雅各、米迦勒、摩西、該隱、巴蘭、可拉、以諾、亞當、所多瑪、蛾摩拉、埃及 | |
 
 ## Style
 

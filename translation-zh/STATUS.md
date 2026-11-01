@@ -1,6 +1,6 @@
 # Translation status
 
-1159 of 1,189 chapters translated: 1159 draft, 0 checked, 0 reviewed, 0 approved.
+1160 of 1,189 chapters translated: 1160 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -65,3 +65,4 @@
 | James | 5 | 5 |  |  |  | 1, 2, 3, 4, 5 |
 | 1 Peter | 5 | 5 |  |  |  | 1, 2, 3, 4, 5 |
 | 2 Peter | 3 | 3 |  |  |  | 1, 2, 3 |
+| Jude | 1 | 1 |  |  |  | 1 |
