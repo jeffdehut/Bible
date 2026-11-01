@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, Jude drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, 1, 2 and 3 John, Jude drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1669,6 +1669,37 @@ Settled while drafting Jude:
 | 22–23 | Three groups, as the SBLGNT | The manuscripts' two- and three-group forms noted. |
 | The doxology (24–25) | 那能保守你們不失腳，叫你們無瑕無疵、歡歡喜喜地站在他榮耀之前的，就是獨一的神、我們的救主，願榮耀、威嚴、能力、權柄，藉着我們的主耶穌基督歸給他，從萬古以前，到現在，直到永永遠遠！阿們。 | For reading aloud. |
 | Names | 猶大、雅各、米迦勒、摩西、該隱、巴蘭、可拉、以諾、亞當、所多瑪、蛾摩拉、埃及 | |
+
+Settled while drafting 1 John:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| 1:1–4 | 那從起初就有的……就是論到生命之道；與父同在；永生 | John 1:1–2's 起初, 道, 與神同在 echoed; 道 here with 「生命的話」 in the note (John's table: *logos* elsewhere 話, 2:7; 2:5 遵守他話的; 2:14 神的道 as John 10:35). κοινωνία 相交. |
+| John's vocabulary | 光／黑暗；真理 (行真理, 1:6 直譯 noted)；真光 (2:8)；遵守命令；住在 (*meno*)；世界；永生；生命 | As John's table throughout. 2:17 μένει εἰς τὸν αἰῶνα 永遠長存. |
+| ἐκ τοῦ θεοῦ γεγέννηται | 從神生的 | As John 1:13 (從神生的); kept apart from John 3's 從上面生 (*anothen*) and 1 Peter's 重生. ἐκ τοῦ θεοῦ / τοῦ διαβόλου without the verb: 出於神的；屬魔鬼的 (3:8 note). |
+| παράκλητος (2:1) | 保惠師 | As John 14–16; the sense here (辯護者) in the note. |
+| ἱλασμός (2:2; 4:10) | 贖罪祭 (為我們的罪作贖罪祭) | As the Chinese New Version; 和合本「挽回祭」 noted. Linked in the note to Romans 3:25 and Hebrews 9:5 *hilasterion* 施恩座, Hebrews 2:17 *hilaskomai* 贖罪, and the Septuagint's 贖罪日 (Leviticus 25:9). |
+| ἀντίχριστος (2:18, 22; 4:3) | 敵基督 | *antichristos* noted at 2:18; χρῖσμα 恩膏, its link to *christos* noted (2:20, 27). |
+| τεκνία; παιδία; ἀγαπητοί; πατέρες; νεανίσκοι | 孩子們 (as John 13:33)；小孩子們；親愛的；父老們；青年人 | 2:12–14 *hoti* 因為, with 「寫信告訴你們」 in the note. |
+| ἀδελφός | 弟兄姊妹 | By the Romans rule, noted (直譯「他的弟兄」) at the first in each chapter; Abel (3:12) 兄弟. |
+| ἐκεῖνος (of Jesus) | 那一位 | Noted at 2:6 (2:6; 3:3, 5, 7, 16; 4:17). |
+| 3:16 | 那一位為我們捨了命 | John 10:11 and 15:13 (捨命) quoted in the note. 3:14 出死入生 as John 5:24. |
+| 4:8, 16 | 神是愛 | Plain, as 1:5 神是光. |
+| μονογενής (4:9) | 獨生子 | As John 3:16; *monogenes* noted. |
+| 5:6–8 | 藉着水和血來的……作見證的有三個：就是聖靈、水和血，而這三者是一致的 | Water and blood noted (John 19:34). The Johannine Comma (TR, KJV) not in the text, translated in the note at 5:7, as the English; 和合本 numbering (5:6b = its 7; 5:7–8 = its 8) noted. |
+| Names | 該隱 | |
+
+Settled while drafting 2 and 3 John:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| ὁ πρεσβύτερος (2 John 1; 3 John 1) | 作長老的，致…… | *presbyteros* noted; the opening as Romans (致……, no verb). |
+| ἐκλεκτὴ κυρία (2 John 1, 5); ἡ ἀδελφή σου ἡ ἐκλεκτή (13) | 蒙揀選的夫人；夫人哪；你那蒙揀選的姊妹 | The readings as names (*Kyria*, *Electa*) and as a figure for a church (1 Peter 5:13) noted; 和合本「太太」 noted. |
+| ἐν ἀληθείᾳ; περιπατέω ἐν ἀληθείᾳ | 在真理中 (或譯「真誠地」)；在真理中行 | 1 John's vocabulary throughout (住在, 敵基督, 迷惑人的, 在肉身中來的). |
+| χαίρειν λέγω (2 John 10–11) | 問安 | 直譯「說『願你喜樂！』」 noted, as James 1:1. |
+| στόμα πρὸς στόμα | 當面 | 直譯「口對口」 noted. |
+| 3 John: ἀγαπητέ; ἐθνικοί (7); ὑπὲρ τοῦ ὀνόματος (7) | 親愛的；外邦人；為了那名 | 直譯「蒙愛的」 noted; *ethnikoi* and the Name (Christ's or God's) noted. |
+| Names (3 John) | 該猶、丟特腓、低米丟 | Union Version forms; 低米丟 is 和合本's 3 John form, told apart in a note from Acts 19's silversmith 底米丟 (the names table keeps 底米丟). |
 
 ## Style
 
