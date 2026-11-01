@@ -208,12 +208,10 @@
     }
     if (sel.length === 1) {
       const it = sel[0], p = byId[it.a], pad = 10 / it.s, x0 = -p.w / 2 - pad, y0 = -p.h / 2 - pad, w = p.w + 2 * pad, h = p.h + 2 * pad, r = 15 / it.s;
-      out += `<g transform="translate(${it.x} ${it.y}) rotate(${it.r || 0}) scale(${it.s})"><rect class="sel-box" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="${8 / it.s}"/><rect class="sel-box2" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="${8 / it.s}"/>` +
-        (choosing ? "" : `<line x1="0" y1="${y0}" x2="0" y2="${y0 - 34 / it.s}" stroke="#2646a1" stroke-width="3" vector-effect="non-scaling-stroke"/><circle class="handle rot" data-h="rot" cx="0" cy="${y0 - 34 / it.s}" r="${r}"/><circle class="handle" data-h="size" cx="${x0 + w}" cy="${y0 + h}" r="${r}"/>`) + `</g>`;
+      out += `<g transform="translate(${it.x} ${it.y}) rotate(${it.r || 0}) scale(${it.s})"><rect class="sel-box" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="${14 / it.s}"/><rect class="sel-box2" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="${14 / it.s}"/></g>`;
     } else {
       const b = boxOf(sel), x0 = b.x0 - 12, y0 = b.y0 - 12, w = b.x1 - b.x0 + 24, h = b.y1 - b.y0 + 24;
-      out += `<rect class="sel-box" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="10"/><rect class="sel-box2" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="10"/>`;
-      if (!choosing) out += `<line x1="${b.cx}" y1="${y0}" x2="${b.cx}" y2="${y0 - 34}" stroke="#2646a1" stroke-width="3"/><circle class="handle rot" data-h="rot" cx="${b.cx}" cy="${y0 - 34}" r="15"/><circle class="handle" data-h="size" cx="${x0 + w}" cy="${y0 + h}" r="15"/>`;
+      out += `<rect class="sel-box" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="14"/><rect class="sel-box2" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="14"/>`;
       if (sel.every(i => i.g && i.g === sel[0].g)) out += `<g transform="translate(${x0 - 14} ${y0 - 14})"><circle cx="14" cy="14" r="16" fill="#fff" stroke="#2646a1" stroke-width="2.5"/><g transform="translate(2 2)" color="#2646a1">${CLIP_SVG}</g></g>`;
     }
     selG.innerHTML = out;
@@ -225,6 +223,11 @@
     if (!sel.length) choosing = false;
     drawSel();
     if (sel.length && announce) say(t("Picked up: ") + sel.map(nameOf).join(", "));
+    // The first time on a touch screen: how to make it bigger or turn it.
+    if (sel.length && matchMedia("(pointer: coarse)").matches && !storeGet("sb.pinchHint", false)) {
+      storeSet("sb.pinchHint", true);
+      notice(t("Pinch with two fingers to make it bigger or smaller, and twist to turn it."));
+    }
   }
   const pick = (it, announce) => pickItems(it ? groupOf(it) : [], announce);
   function update() {
@@ -464,6 +467,10 @@
       stage.classList.add("dragging");
       Pop.hide();
       e.preventDefault();
+    } else if (e.pointerType === "touch" && sel.length && !choosing) {
+      // A finger on the board beside what is picked up: if a second finger joins it, the two
+      // pinch the piece; if it lifts alone, the piece is let go.
+      drag = { mode: "letgo" };
     } else { if (!choosing) pickItems([]); drag = null; }
   });
   stage.addEventListener("pointermove", e => {
@@ -471,7 +478,7 @@
     const q = toBoard(e);
     pts.set(e.pointerId, q);
     if (drag && drag.mode === "pinch") { doPinch(); return; }
-    if (!drag) return;
+    if (!drag || drag.mode === "letgo") return;
     if (drag.mode === "move") {
       let dx = q.x - drag.start.x, dy = q.y - drag.start.y;
       if (!drag.moved && Math.hypot(dx, dy) < 3) return;
@@ -498,6 +505,7 @@
     pts.delete(e.pointerId);
     stage.classList.remove("dragging");
     if (drag && drag.mode === "pinch") { if (pts.size < 2) { drag = null; save(); drawSel(); } return; }
+    if (drag && drag.mode === "letgo") { drag = null; if (!pts.size) pickItems([]); return; }
     if (!drag) return;
     if (drag.mode === "move" && !drag.moved) past.pop();     // a tap: nothing to undo
     $("undo").disabled = !past.length;
@@ -510,12 +518,15 @@
     if (!drag || drag.mode !== "move") remember();
     if (drag && drag.mode === "move") for (const o of drag.snap) { o.x = o.it.x; o.y = o.it.y; }
     const bx = boxOf(sel);
-    drag = { mode: "pinch", snap: snapshot(sel), cx: bx.cx, cy: bx.cy, d0: Math.hypot(b.x - a.x, b.y - a.y), a0: Math.atan2(b.y - a.y, b.x - a.x) };
+    drag = { mode: "pinch", snap: snapshot(sel), cx: bx.cx, cy: bx.cy, d0: Math.hypot(b.x - a.x, b.y - a.y), a0: Math.atan2(b.y - a.y, b.x - a.x), mx: (a.x + b.x) / 2, my: (a.y + b.y) / 2 };
     Pop.hide();
   }
   function doPinch() {
     const [a, b] = [...pts.values()];
     transformFrom(drag.snap, drag.cx, drag.cy, Math.hypot(b.x - a.x, b.y - a.y) / Math.max(1, drag.d0), (Math.atan2(b.y - a.y, b.x - a.x) - drag.a0) * 180 / Math.PI);
+    // And it goes where the fingers go.
+    const dx = (a.x + b.x) / 2 - drag.mx, dy = (a.y + b.y) / 2 - drag.my;
+    for (const o of drag.snap) { o.it.x = Math.round(Math.max(0, Math.min(W, o.it.x + dx))); o.it.y = Math.round(Math.max(0, Math.min(H, o.it.y + dy))); }
     for (const o of drag.snap) { const g = itemsG.querySelector(`[data-k="${o.it.k}"]`); if (g) place(g, o.it); }
     selG.innerHTML = "";
   }
@@ -1279,7 +1290,7 @@
     b.hidden = Sync.email().toLowerCase() !== ARTIST;
     b.onclick = () => {
       if (window.Studio) { window.Studio.open(); return; }
-      const sc = document.createElement("script"); sc.src = "art-studio.js?v=3"; sc.onload = () => window.Studio && window.Studio.open(); document.head.append(sc);
+      const sc = document.createElement("script"); sc.src = "art-studio.js?v=4"; sc.onload = () => window.Studio && window.Studio.open(); document.head.append(sc);
     };
   }
   window.SB = { ART, W, H, t, byId, sceneById, artMarkup, Sync, notice, installed: rows => { artChanged(rows); try { localStorage.setItem(ART_KEY, JSON.stringify(rows)); } catch (e) { /* storage */ } }, ABASE, ACFG };

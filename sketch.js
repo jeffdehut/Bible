@@ -13,7 +13,11 @@
 // before), strokes separated by ";". A sketch's square is 288 units (3 inches at 96 per inch).
 (() => {
   const PAD = 288;
-  const PAPER = "#fbf8ef";
+  const PAPER = "#fbfdff";
+  // Light blue graph paper: a line every quarter inch, a stronger one every inch.
+  const GRID = 24, GRID_MINOR = "#d6e6f7", GRID_MAJOR = "#a9c9ec";
+  const gridPath = (size, step, every) => { let d = ""; for (let v = step; v < size; v += step) if (!every || Math.round(v / step) % every === 0) d += `M${v} 0V${size}M0 ${v}H${size}`; return d; };
+  const GRID_D = { minor: gridPath(PAD, GRID), major: gridPath(PAD, GRID, 4) };
   // Inks, the same on the paper in every theme. "ink" is the pen's own black (on the page, the
   // text's color, so it shows in a dark theme too).
   // Sketches keep each stroke's color as its place in KEYS, so new colors go at the end; PICK is
@@ -209,7 +213,8 @@
   // A sketch as a small picture on its paper.
   function picture(data, { size = 96, paper = true } = {}) {
     const svg = svgEl("svg", { viewBox: `0 0 ${PAD} ${PAD}`, width: size, height: size, class: "sk-pic", "aria-hidden": "true" });
-    if (paper) svg.append(svgEl("rect", { width: PAD, height: PAD, fill: PAPER }));
+    if (paper) svg.append(svgEl("rect", { width: PAD, height: PAD, fill: PAPER }),
+      svgEl("path", { d: GRID_D.minor, stroke: GRID_MINOR, "stroke-width": 0.8, fill: "none" }), svgEl("path", { d: GRID_D.major, stroke: GRID_MAJOR, "stroke-width": 1, fill: "none" }));
     for (const x of paths(data)) svg.append(svgEl("path", { d: x.d, fill: x.color }));
     return svg;
   }
@@ -227,7 +232,9 @@
 .sk-head small { display: block; margin-top: 2px; font: 400 13px/1.35 var(--read, Georgia, serif); color: var(--muted, #5b6475); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .sk-x { flex: none; width: 34px; height: 34px; border: 0; border-radius: 10px; background: transparent; color: inherit; font-size: 18px; cursor: pointer; }
 .sk-x:hover { background: var(--lapis-soft, #e7ecf8); }
-.sk-paper { position: relative; justify-self: center; width: min(288px, calc(100vw - 72px)); aspect-ratio: 1; background: ${PAPER}; border-radius: 3px;
+.sk-paper { position: relative; justify-self: center; width: min(288px, calc(100vw - 72px)); aspect-ratio: 1; border-radius: 3px;
+  background: linear-gradient(${GRID_MAJOR} 1px, transparent 1px) 0 0 / calc(100% / 3) calc(100% / 3), linear-gradient(90deg, ${GRID_MAJOR} 1px, transparent 1px) 0 0 / calc(100% / 3) calc(100% / 3),
+    linear-gradient(${GRID_MINOR} 1px, transparent 1px) 0 0 / calc(100% / 12) calc(100% / 12), linear-gradient(90deg, ${GRID_MINOR} 1px, transparent 1px) 0 0 / calc(100% / 12) calc(100% / 12), ${PAPER};
   box-shadow: 0 1px 2px rgb(0 0 0 / 12%), 0 6px 16px rgb(60 45 10 / 16%); touch-action: none; cursor: crosshair; overflow: hidden; }
 .sk-paper svg { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
 .sk-paper.erasing { cursor: cell; }
@@ -237,6 +244,10 @@
 .sk-tools .brk { flex-basis: 100%; height: 0; }
 .sk-bar .sk-tools .brk { flex-basis: auto; width: 1px; height: 24px; background: var(--line, #e4e2db); }
 .sk-bar .sk-end { display: flex; align-items: center; gap: 6px; }
+/* On the sketch pad: the colours on one row; the sizes and the tools on the next. */
+.sk-box .sk-tools { column-gap: 2px; row-gap: 8px; }
+.sk-box .sk-tools .sep { flex-basis: 100%; width: auto; height: 0; margin: 0; background: none; }
+.sk-box .sk-tools .brk { flex-basis: auto; width: 1px; height: 24px; background: var(--line, #e4e2db); margin: 0 3px; }
 .sk-c { width: 24px; height: 24px; margin: 2px; border-radius: 50%; border: 0; cursor: pointer; padding: 0; background: var(--c); transition: box-shadow .12s; }
 .sk-c[aria-pressed="true"] { box-shadow: 0 0 0 2.5px var(--surface, #fff), 0 0 0 4.5px var(--c); }
 .sk-b { display: inline-grid; place-items: center; min-width: 34px; height: 34px; padding: 0 6px; border: 1px solid transparent; border-radius: 10px; background: transparent; color: inherit; cursor: pointer; }
@@ -452,6 +463,6 @@
     return { close };
   }
 
-  window.Sketch = { holdStylus, PAD, PAPER, COLORS, KEYS, PICK, SIZES, ERASERS, outline, encode, decode, erase, pen, paths, picture, toolbar, history, open, css, colorOf, svgEl, tools, keepTools,
+  window.Sketch = { holdStylus, PAD, PAPER, GRID, GRID_MINOR, GRID_MAJOR, COLORS, KEYS, PICK, SIZES, ERASERS, outline, encode, decode, erase, pen, paths, picture, toolbar, history, open, css, colorOf, svgEl, tools, keepTools,
     get sawPen() { return sawPen; } };
 })();

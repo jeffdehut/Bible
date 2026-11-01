@@ -150,6 +150,9 @@
 
   // Scenes, behind everything: 1600 x 1000.
   const S = (sky, rest) => `<rect width="1600" height="1000" fill="${sky}"/>` + rest;
+  // Light blue graph paper: a line every 40 units, a stronger one every 200.
+  const gridLines = (step, every, out = "") => { for (let v = step; v < 1600; v += step) if (!every || v % every === 0) out += `M${v} 0V1000`; for (let v = step; v < 1000; v += step) if (!every || v % every === 0) out += `M0 ${v}H1600`; return out; };
+  const GRID_SVG = `<path d="${gridLines(40)}" stroke="#d6e6f7" stroke-width="2" fill="none"/><path d="${gridLines(40, 200)}" stroke="#a9c9ec" stroke-width="2.5" fill="none"/>`;
   const scenes = [
     ["hills", "Green hills", S("#7fb2e5", `<path d="M0 560Q300 420 620 520Q980 380 1600 540V1000H0Z" fill="#6fae58"/><path d="M0 700Q420 600 820 700Q1200 620 1600 690V1000H0Z" fill="#4f9440"/>`)],
     ["desert", "Desert", S("#f2d7a2", `<path d="M0 600Q400 500 800 600Q1200 520 1600 590V1000H0Z" fill="#dcb874"/><path d="M0 760Q500 660 1000 760Q1300 700 1600 750V1000H0Z" fill="#c9a15c"/>`)],
@@ -159,11 +162,12 @@
     ["night", "Night", S("#1b2747", `<path d="M0 640Q400 560 800 640Q1200 580 1600 630V1000H0Z" fill="#26364f"/><g fill="#f5e6a8" opacity=".7"><circle cx="200" cy="120" r="4"/><circle cx="420" cy="220" r="3"/><circle cx="760" cy="90" r="4"/><circle cx="1100" cy="180" r="3"/><circle cx="1400" cy="100" r="4"/><circle cx="1250" cy="320" r="3"/><circle cx="560" cy="360" r="3"/></g>`)],
     ["town", "Town", S("#a9cdee", `<path d="M0 640H1600V1000H0Z" fill="#d8bb84"/><g fill="#c9a46a"><rect x="80" y="430" width="220" height="210"/><rect x="340" y="480" width="180" height="160"/><rect x="1080" y="450" width="200" height="190"/><rect x="1320" y="410" width="220" height="230"/></g><g fill="#7a5232"><rect x="160" y="540" width="60" height="100" rx="30"/><rect x="400" y="560" width="50" height="80" rx="25"/><rect x="1150" y="550" width="60" height="90" rx="30"/><rect x="1400" y="530" width="60" height="110" rx="30"/></g>`)],
     ["indoors", "Indoors", S("#d9c49b", `<rect y="700" width="1600" height="300" fill="#a8835a"/><path d="M0 700H1600" stroke="#8a6a44" stroke-width="10"/><rect x="620" y="180" width="360" height="260" fill="#8ec1ea"/><path d="M620 310H980M800 180V440" stroke="#7a5232" stroke-width="14"/><rect x="610" y="170" width="380" height="280" fill="none" stroke="#7a5232" stroke-width="18"/>`)],
+    ["graph", "Graph paper", S("#fbfdff", GRID_SVG)],
     ["blue", "Blue felt", S("#2f5fa8", "")],
     ["green", "Green felt", S("#3d7a44", "")],
     ["tan", "Tan felt", S("#c9a874", "")],
     ["black", "Black felt", S("#22252b", "")],
-  ].map(([id, name, svg]) => ({ id, name, svg }));
+  ].map(([id, name, svg]) => ({ id, name, svg, ...(id === "graph" ? { line: `<rect width="1600" height="1000" fill="#fff"/><path d="${gridLines(40)}" stroke="#dde3ea" stroke-width="2" fill="none"/>` } : {}) }));
 
   // How the pieces are found: a group within their drawer, words to search by, and the stories
   // they belong to. With hundreds of pieces, these keep any one easy to find.

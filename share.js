@@ -105,7 +105,7 @@
   /* ---------- A sketch, on its paper ---------- */
   // paths: [{d, color}] in the sketch's own units (unit across); ref and quote: the words it was
   // drawn for.
-  async function sketch({ paths, unit = 288, paper = "#fbf8ef", ref, quote, url }) {
+  async function sketch({ paths, unit = 288, paper = "#fbfdff", grid = null, ref, quote, url }) {
     await ready();
     const [c, g] = canvas();
     // The sketch alone, a square of paper on a warm background, slightly turned.
@@ -119,6 +119,11 @@
     g.fillStyle = paper; g.fillRect(-sq / 2, -sq / 2, sq, sq);
     g.shadowColor = "transparent";
     g.scale(sq / unit, sq / unit); g.translate(-unit / 2, -unit / 2);
+    // Graph paper: a line every grid step, a stronger one every fourth.
+    if (grid) for (let v = grid.step, i = 1; v < unit; v += grid.step, i++) {
+      g.strokeStyle = i % 4 ? grid.minor : grid.major; g.lineWidth = i % 4 ? 0.8 : 1;
+      g.beginPath(); g.moveTo(v, 0); g.lineTo(v, unit); g.moveTo(0, v); g.lineTo(unit, v); g.stroke();
+    }
     for (const p of paths) { g.fillStyle = p.color; g.fill(new Path2D(p.d)); }
     g.restore();
     const px = sx - sq / 2 - 20, pw = sq + 40;
