@@ -192,6 +192,10 @@
     return { x0, y0, x1, y1, cx: (x0 + x1) / 2, cy: (y0 + y1) / 2 };
   }
   const CLIP_SVG = '<path d="M15.5 7.5 9 14a2 2 0 0 0 2.8 2.8l7-7a4 4 0 0 0-5.6-5.6l-7.1 7.1a6 6 0 0 0 8.5 8.5L20 14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>';
+  // With a mouse, a knob above what is picked up turns it (fingers twist instead, so a touch
+  // screen never shows it).
+  let mouse = false;
+  const knob = () => mouse && !choosing;
   function drawSel() {
     selG.innerHTML = "";
     if (capSel && board.cap) {
@@ -208,10 +212,12 @@
     }
     if (sel.length === 1) {
       const it = sel[0], p = byId[it.a], pad = 10 / it.s, x0 = -p.w / 2 - pad, y0 = -p.h / 2 - pad, w = p.w + 2 * pad, h = p.h + 2 * pad, r = 15 / it.s;
-      out += `<g transform="translate(${it.x} ${it.y}) rotate(${it.r || 0}) scale(${it.s})"><rect class="sel-box" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="${14 / it.s}"/><rect class="sel-box2" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="${14 / it.s}"/></g>`;
+      out += `<g transform="translate(${it.x} ${it.y}) rotate(${it.r || 0}) scale(${it.s})"><rect class="sel-box" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="${14 / it.s}"/><rect class="sel-box2" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="${14 / it.s}"/>` +
+        (knob() ? `<line class="knob-stem" x1="0" y1="${y0}" x2="0" y2="${y0 - 40 / it.s}"/><circle class="handle rot" data-h="rot" cx="0" cy="${y0 - 40 / it.s}" r="${r}"><title>${t("Drag to turn")}</title></circle>` : "") + `</g>`;
     } else {
       const b = boxOf(sel), x0 = b.x0 - 12, y0 = b.y0 - 12, w = b.x1 - b.x0 + 24, h = b.y1 - b.y0 + 24;
       out += `<rect class="sel-box" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="14"/><rect class="sel-box2" x="${x0}" y="${y0}" width="${w}" height="${h}" rx="14"/>`;
+      if (knob()) out += `<line class="knob-stem" x1="${b.cx}" y1="${y0}" x2="${b.cx}" y2="${y0 - 40}"/><circle class="handle rot" data-h="rot" cx="${b.cx}" cy="${y0 - 40}" r="15"><title>${t("Drag to turn")}</title></circle>`;
       if (sel.every(i => i.g && i.g === sel[0].g)) out += `<g transform="translate(${x0 - 14} ${y0 - 14})"><circle cx="14" cy="14" r="16" fill="#fff" stroke="#2646a1" stroke-width="2.5"/><g transform="translate(2 2)" color="#2646a1">${CLIP_SVG}</g></g>`;
     }
     selG.innerHTML = out;
@@ -347,6 +353,7 @@
     back: '<rect x="4" y="4" width="12" height="12" rx="2"/><path d="M20 8v11a1 1 0 0 1-1 1H8"/>',
     copy: '<rect x="8" y="8" width="12" height="12" rx="2"/><path d="M4 16V5a1 1 0 0 1 1-1h11"/>',
     clip: '<path d="M15.5 7.5 9 14a2 2 0 0 0 2.8 2.8l7-7a4 4 0 0 0-5.6-5.6l-7.1 7.1a6 6 0 0 0 8.5 8.5L20 14"/>',
+    choose: '<path d="M15.5 7.5 9 14a2 2 0 0 0 2.8 2.8l7-7a4 4 0 0 0-5.6-5.6l-7.1 7.1a6 6 0 0 0 8.5 8.5L20 14"/>',
     unclip: '<path d="M15.5 7.5 9 14a2 2 0 0 0 2.8 2.8l7-7a4 4 0 0 0-5.6-5.6l-7.1 7.1a6 6 0 0 0 8.5 8.5L20 14"/><path d="M3 3l18 18"/>',
     delete: '<path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3"/>',
     done: '<path d="m5 12.5 4.5 4.5L19 7.5"/>',
@@ -396,7 +403,7 @@
       if (capSel && board.cap) { const c = capBox(board.cap); b = { x0: c.x, y0: c.y, x1: c.x + c.w, y1: c.y + c.h }; }
       else if (sel.length) b = boxOf(sel);
       else return;
-      const tl = new DOMPoint(b.x0, b.y0 - 50).matrixTransform(m), br = new DOMPoint(b.x1, b.y1 + 20).matrixTransform(m);
+      const tl = new DOMPoint(b.x0, b.y0 - (sel.length && knob() ? 95 : 50)).matrixTransform(m), br = new DOMPoint(b.x1, b.y1 + 20).matrixTransform(m);
       const wrapR = $("wrap").getBoundingClientRect();
       const ph = pop.offsetHeight, pw = pop.offsetWidth;
       let top = tl.y - ph - 8, below = false;
@@ -438,6 +445,7 @@
   }
   stage.addEventListener("pointerdown", e => {
     kbd = false;
+    mouse = e.pointerType === "mouse";
     const q = toBoard(e);
     pts.set(e.pointerId, q);
     stage.setPointerCapture(e.pointerId);
@@ -535,7 +543,10 @@
     if (!sel.length) return;
     e.preventDefault();
     const b = boxOf(sel);
-    transformFrom(snapshot(sel), b.cx, b.cy, Math.exp(-e.deltaY * 0.0015), 0);
+    // Shift and the wheel turn it (some systems send Shift and the wheel sideways); the wheel alone,
+    // or a trackpad's pinch, makes it bigger or smaller.
+    if (e.shiftKey) transformFrom(snapshot(sel), b.cx, b.cy, 1, Math.max(-15, Math.min(15, (e.deltaY || e.deltaX) * 0.2)));
+    else transformFrom(snapshot(sel), b.cx, b.cy, Math.exp(-e.deltaY * 0.0015), 0);
     update(); clearTimeout(stage._w); stage._w = setTimeout(save, 300);
   }, { passive: false });
   addEventListener("scroll", () => Pop.place(), { passive: true });
