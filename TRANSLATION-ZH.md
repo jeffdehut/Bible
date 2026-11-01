@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, Jude drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1611,6 +1611,64 @@ Settled while drafting Hebrews:
 | κατάπαυσις; σαββατισμός (4:9) | 安息；安息日的安息 | Psalm 95's 安息. |
 | Old Testament quotations | Hebrews' Greek (mostly the Septuagint) in the text; the wording our Old Testament notes already give is kept | Our Old Testament's Hebrew-based line in the note where it differs: 1:6 神的使者都要拜他; 1:7 他以他的使者為風; 1:10–12 主啊……捲起來; 2:6–8 比天使微小一點 (世人, 直譯「人子」 noted); 2:13 我要倚靠他; 3:7–11 像在惹我發怒的時候，像在曠野試探的日子; 8:8–12 訂立新約……因為他們不恆守我的約，我也就不理他們……放在他們的思想裏; 10:5 你卻為我預備了身體; 10:30 as Romans 12:19; 10:38 我的義人必因信而活；他若退縮，我心裏就不喜悅他; 11:21 扶着杖頭; 12:5–6 不要灰心……鞭打; 12:12–13 as our Isaiah 35:3 and Proverbs 4:26 notes; 12:26 再一次我不單要震動地，還要震動天; 13:5 我決不撇下你，也決不丟棄你; 13:6 主是幫助我的. |
 | Names (11) | 亞伯、該隱、以諾、挪亞、撒拉、以掃、喇合、基甸、巴拉、參孫、耶弗他、撒母耳；意大利 (13:24, as Acts) | Our Old Testament forms. 4:8 *Iesous* 約書亞, noted. |
+
+Settled while drafting James:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| χαίρειν (1:1) | 問候……：願你們安好！ | As Acts 15:23; *chairein* and its link to 1:2's 喜樂 noted. |
+| πειρασμός; πειράζω (1:2–15) | 試煉；引誘 | 1:12 試煉, 1:13–14 引誘, the one word family noted at 1:2. δίψυχος 三心兩意 (1:8; 4:8). |
+| πίστις; ἔργα; δικαιόω (2:14–26) | 信心；行為；稱義 (因行為稱義) | Romans' words kept so the reader sees the same terms (Romans 4:2 因行為稱義; 3:28 人稱義是因着信). 2:24 人稱義是因着行為，不是單因着信. The relation to Paul noted briefly at 2:21. 2:20 *arge* 無用的 (*a-ergos* noted). |
+| Old Testament quotations | Paul's and the Old Testament notes' wording | 2:8 = Romans 13:9 (要愛你的鄰舍，如同愛自己); 2:11 不可通姦……不可謀殺 (Exodus 20; 傳統「殺人」 noted); 2:23 = Romans 4:3 (亞伯拉罕信了神，這就算為他的義); 4:6 神抵擋驕傲的人，賜恩給謙卑的人 (our Proverbs 3:34 note; 1 Peter 5:5 the same); 5:20 遮掩許多的罪 as 1 Peter 4:8. 4:5 (no known source) noted with its readings. |
+| νόμος βασιλικός (2:8); νόμος ἐλευθερίας (1:25; 2:12) | 至尊的律法；使人自由的律法 | 直譯「君王的律法」 noted. |
+| δαιμόνια (2:19); δαιμονιώδης (3:15); ψυχικός (3:15) | 鬼魔；屬鬼魔的；屬血氣的 | As 1 Corinthians 10:20 and 2:14. γέεννα (3:6) 地獄 as Mark. |
+| Κύριος Σαβαώθ (5:4); παρουσία (5:7–8) | 萬軍之主；主來臨 | *YHWH tseva'ot* noted; *parousia* as 1 Thessalonians. |
+| πρεσβύτεροι τῆς ἐκκλησίας (5:14) | 教會的長老 | As Acts and Titus; anointing 用油抹他. 5:15 *sozo* 救 (或譯「醫好」 noted). |
+| Names | 雅各、亞伯拉罕、以撒、喇合、約伯、以利亞 | *Iakobos* = Jacob noted at 1:1. |
+
+Settled while drafting 1 Peter:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| παρεπίδημοι; πάροικοι; παροικία (1:1, 17; 2:11) | 寄居的人；寄居的外人，暫住的客旅；在世寄居的日子 | Genesis 23:4's 寄居的外人 (LXX *paroikos kai parepidemos*) noted at 2:11. *diaspora* as James 1:1. |
+| ἀναγεννάω (1:3, 23) | 重生 | Kept apart from John 3's 從上面生 (*anothen*). |
+| Old Testament quotations | Our Old Testament wording and our notes' wording where the Greek agrees | 1:16 你們要聖潔，因為我是聖潔的 (= our Leviticus 11:45); 1:24–25 草必枯乾，花必凋謝，惟有主的話永遠長存 (our Isaiah 40:8 note); 2:3 Psalm 34:9; 3:10–12 Psalm 34:13–17 in the third person; 4:18 the wording our Proverbs 11:31 note gives; 5:5 = James 4:6. |
+| The stone catena (2:6–8) | 看哪，我在錫安放一塊揀選的、寶貴的房角石，信靠他的人必不至於羞愧；建築工人丟棄的石頭，已經成了房角的基石；絆腳的石頭，跌人的磐石 | Our Isaiah 28:16 note's wording; Psalm 118:22 = Matthew 21:42 and Mark 12:10; Isaiah 8:14 = Romans 9:33. 2:7 *time* 尊貴, linked to *entimos* 寶貴. |
+| 2:9 (Exodus 19:5–6; Isaiah 43:20–21) | 蒙揀選的族類，作君王的祭司，聖潔的國民，屬神自己的子民……美德 | 聖潔的國民 as our Exodus 19:6; 和合本「君尊的祭司」 and our 祭司的國度 noted. |
+| 2:22–25 (Isaiah 53) | 他沒有犯罪，口裏也沒有詭詐；因他受的鞭傷，你們得了醫治；你們從前好像迷路的羊 | The wording our Isaiah 53:5–6, 9 notes give; ξύλον 木頭 as Acts 5:30, noted as the cross. |
+| 3:18–22 | 按肉體說，他被處死；按靈性說，他卻復活了；向那些在監獄裏的靈宣告；八個人；洗禮……向神求得無愧的良心 | The three readings of 3:19 in one note (fallen angels and 1 Enoch; the dead; Christ in Noah); *eperotema* noted. |
+| οἰκέται (2:18); συμπρεσβύτερος (5:1); ἀρχιποίμην (5:4); ἐπίσκοπος (2:25) | 家僕；同作長老的；牧長；監督 | 5:5 *presbyteroi* 年長的 (the link to 長老 noted). |
+| 4:8 (Proverbs 10:12) | 愛能遮掩許多的罪 | As our Proverbs note; James 5:20 the same. Χριστιανός 基督徒 as Acts 11:26. |
+| Names | 彼得、本都、加拉太、加帕多家、亞細亞、庇推尼、撒拉、亞伯拉罕、挪亞、西拉 (*Silouanos*, as 2 Corinthians 1:19)、巴比倫 (noted as Rome)、馬可 | |
+
+Settled while drafting 2 Peter:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Συμεὼν Πέτρος (1:1) | 西面彼得 | The Hebrew form, as Acts 15:14; 和合本「西門彼得」 noted. 1:1 我們的神和救主耶穌基督 (one article, as Titus 2:13; the two-person reading noted). |
+| ἐπίγνωσις; ἀρετή; θείας κοινωνοὶ φύσεως (1:3–4) | 認識；美德；分享神的本性 | The ladder of 1:5–7: 信心、美德、知識、節制、忍耐、敬虔、愛弟兄姊妹的心、愛. |
+| 1:17 (the transfiguration) | 這是我的兒子，是我所愛的，我喜悅他 | = Matthew 17:5; the Greek order and the unfinished sentence noted. ἡ μεγαλοπρεπὴς δόξα 那至高的榮耀. |
+| 1:20–21 | 經上所有的預言，都不是出於個人的解釋；人被聖靈感動，說出從神而來的話 | The two readings of *idias epilyseos* and the *phero* wordplay noted. |
+| 2:1–18 (parallel to Jude 4–16) | Shared wording kept for Jude: 主宰 (*despotes*)；放蕩；藐視主權 (*kyriotes*)；毀謗那些有尊榮的；沒有理性的畜類；毀謗自己所不知道的事；一同吃喝；巴蘭；無水的泉源；漆黑的幽暗；誇大的話 | Each parallel noted. |
+| ταρταρόω (2:4) | 丟進地獄 | As 和合本; *Tartarus* noted and kept apart from *geenna*. σειραὶ ζόφου 黑暗的鎖鏈. |
+| 2:5–8 | 傳義道的挪亞一家八口；所多瑪和蛾摩拉；義人羅得 | 直譯「第八位挪亞」 noted. |
+| Βαλαὰμ τοῦ Βοσόρ (2:15) | 比珥的兒子巴蘭 | 比珥 as Numbers 22:5 and 和合本, with *Bosor* (SBLGNT) and *Beor* noted; Bosor added to the names table. |
+| 2:22 | 狗轉過來吃自己所吐的；豬洗淨了，又回到泥裏打滾 | Our Proverbs 26:11 and its note. 2:20 = Matthew 12:45 (後來的景況就比先前更糟了). |
+| 3:8; 3:10 | 在主看來，一日如千年，千年如一日；主的日子要像賊一樣來到 | Psalm 90:4 and 1 Thessalonians 5:2 noted. στοιχεῖα 元素; 3:10 εὑρεθήσεται 顯露出來, with the variants. |
+| 3:16 | 別的經書 | Noted as the one New Testament reference to a collection of Paul's letters. |
+
+Settled while drafting Jude:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Wording shared with 2 Peter 2 | 放蕩；主宰 (*despotes*)；輕視主權；毀謗那些有尊榮的；毀謗自己所不知道的事；沒有理性的畜類；一同吃喝；巴蘭；漆黑的幽暗；口出誇大的話；好嘲笑的人隨從……私慾而行 | Each parallel noted to 2 Peter. *spilades* 暗礁 (12; 2 Peter 2:13's *spiloi* 污點); ἀγάπαι 愛筵. |
+| Ἰησοῦς (5) | 耶穌 | The SBLGNT (NA28); 「約書亞」 and 「主」 in the note. |
+| 6 | 不守本位……他用永遠的鎖鏈把他們拘禁在黑暗裏，等候那大日的審判 | *tereo* wordplay and 1 Enoch 6–16 noted. |
+| 9 | 天使長米迦勒為了摩西的屍體與魔鬼爭辯……「願主斥責你！」 | Zechariah 3:2's 願耶和華斥責你 and the Assumption of Moses noted. |
+| 14–15 (1 Enoch 1:9) | 亞當的第七代孫以諾……「看哪，主帶着他千萬的聖者來了」 | 《以諾一書》 noted (Ethiopic, Greek, Aramaic). Book titles outside the Bible in 《》. |
+| 22–23 | Three groups, as the SBLGNT | The manuscripts' two- and three-group forms noted. |
+| The doxology (24–25) | 那能保守你們不失腳，叫你們無瑕無疵、歡歡喜喜地站在他榮耀之前的，就是獨一的神、我們的救主，願榮耀、威嚴、能力、權柄，藉着我們的主耶穌基督歸給他，從萬古以前，到現在，直到永永遠遠！阿們。 | For reading aloud. |
+| Names | 猶大、雅各、米迦勒、摩西、該隱、巴蘭、可拉、以諾、亞當、所多瑪、蛾摩拉、埃及 | |
 
 ## Style
 
