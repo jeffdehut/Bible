@@ -59,7 +59,6 @@
     ["Explore", "menu-explore", [
       ["graph", "Connections", "web", "graph.html", "Every chapter, person and place, and the threads between them"],
       ["web3d", "Web in 3D", "web3d", "web3d.html", "The web of Scripture in three dimensions"],
-      ["maps", "Maps", "maps", "maps/index.html", "Bible maps, and the 1915 historical atlas"],
       ["history", "Timeline", "time", "history.html", "World history beside the Bible, from Creation"],
       ["genealogy", "Genealogy", "gen", "genealogy.html", "From Adam to Jesus, and every family"],
       ["visual", "Visual Bible", "visual", "library.html", "Each book on the shelf, and seen whole from its own words"],
@@ -69,6 +68,7 @@
     ["Resource Room", "menu-resources", [
       ["course", "Three-year course", "course", "course.html", "The whole Bible taught in twelve quarters"],
       ["storyboard", "Felt Stories", "board", "storyboard.html", "A felt board: people, animals and scenes to move as you tell the story"],
+      ["maps", "Maps", "maps", "maps/index.html", "Bible maps, and the 1915 historical atlas"],
     ]],
     ["Settings", "menu-you", [
       ["account", "Account", "account", "reader:account", "Sign in to keep your highlights and notes on every device", { sub: "account-sub", hidden: true }],
