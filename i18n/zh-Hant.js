@@ -2398,5 +2398,9 @@ I18N.add({
  "This board": "這個故事板",
  "A new board": "新的故事板",
  "Named after the passage": "以經文出處命名",
- "in place of its verse": "取代原有的經文"
+ "in place of its verse": "取代原有的經文",
+ "Orange": "橙色",
+ "Yellow": "黃色",
+ "Indigo": "靛藍",
+ "Violet": "紫色"
 });
