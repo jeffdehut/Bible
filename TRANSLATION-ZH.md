@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1573,6 +1573,18 @@ Settled while drafting 2 Timothy:
 | θεόπνευστος (3:16); ἱερὰ γράμματα (3:15) | 全部聖經都是神所默示的；聖經 | *theopneustos* 「神所呼出的」 and the two readings of the verbless sentence noted. |
 | 4:6–8 | 像奠祭一樣被澆出來；那美好的仗我已經打過了，當跑的路我已經跑盡了，信仰我已經守住了；義的冠冕……公義的審判者 | 奠祭 as Philippians 2:17; δικαιοσύνη 義, δίκαιος of God's judgment 公義, as Romans. |
 | Names | 羅以、友尼基、腓吉路、黑摩其尼、阿尼色弗、許米乃、腓理徒、雅尼、佯庇、底馬、革勒士、撻馬太、加布、亞歷山大、友布羅、布田、利奴、革老底亞 | 友尼基 the classic Union form (1989 友妮基); the names table changed, and Hermogenes added. |
+
+Settled while drafting Titus:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| πρεσβύτεροι; ἐπίσκοπος (1:5–7); πρεσβῦται (2:2) | 長老；監督；年老的男人 | As 1 Timothy; the shift from elders to overseer and *presbytai* noted. ἐγκρατής 有節制 (as Galatians 5:23). |
+| 1:12 (Epimenides) | 「革哩底人常說謊話，是兇惡的野獸，又懶又貪吃。」 | 革哩底 as Acts 27; the poet noted (埃庇米尼得斯, as the Acts 17:28 note). |
+| 2:13 | 我們偉大的神和救主耶穌基督榮耀的顯現 | One article, as 2 Thessalonians 1:12; the two-person reading noted. |
+| λαὸς περιούσιος (2:14) | 作屬他自己的子民，作他的珍寶 | As our Deuteronomy 14:2. |
+| 3:5 | 重生的洗和聖靈的更新 | *palingenesia* noted, linked to Matthew 19:28 (萬物更新) and kept apart from John 3's *anothen* (從上面生). 3:6 傾倒 as Joel 3:1. |
+| καλῶν ἔργων προΐστασθαι (3:8, 14); αἱρετικός; νομικός (3:13) | 致力行善；分門結黨的人；律法專家 | 「從事正當的職業」 noted; 律法專家 as Matthew 22:35. |
+| Names | 革哩底、尼哥坡里、亞提馬、推基古、西納、亞波羅 | |
 
 ## Style
 
