@@ -1,6 +1,6 @@
 # Translation status
 
-1132 of 1,189 chapters translated: 1132 draft, 0 checked, 0 reviewed, 0 approved.
+1133 of 1,189 chapters translated: 1133 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -60,3 +60,4 @@
 | 1 Timothy | 6 | 6 |  |  |  | 1, 2, 3, 4, 5, 6 |
 | 2 Timothy | 4 | 4 |  |  |  | 1, 2, 3, 4 |
 | Titus | 3 | 3 |  |  |  | 1, 2, 3 |
+| Philemon | 1 | 1 |  |  |  | 1 |

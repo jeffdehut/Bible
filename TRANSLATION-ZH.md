@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1585,6 +1585,16 @@ Settled while drafting Titus:
 | 3:5 | 重生的洗和聖靈的更新 | *palingenesia* noted, linked to Matthew 19:28 (萬物更新) and kept apart from John 3's *anothen* (從上面生). 3:6 傾倒 as Joel 3:1. |
 | καλῶν ἔργων προΐστασθαι (3:8, 14); αἱρετικός; νομικός (3:13) | 致力行善；分門結黨的人；律法專家 | 「從事正當的職業」 noted; 律法專家 as Matthew 22:35. |
 | Names | 革哩底、尼哥坡里、亞提馬、推基古、西納、亞波羅 | |
+
+Settled while drafting Philemon:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| δέσμιος Χριστοῦ Ἰησοῦ (1, 9) | 為基督耶穌被囚的 | As 2 Timothy 1:8. |
+| Ὀνήσιμος; ἄχρηστος / εὔχρηστος (10–11); ὀναίμην (20) | 阿尼西母；沒有益處／有益處；得益處 | The name's meaning and both wordplays (*chrestos*/*Christos* too) in notes. |
+| σπλάγχνα (7, 12, 20) | 心；我的心肝 (12) | 直譯「心腸」 noted, as Philippians 1:8. |
+| πρεσβύτης (9) | 老人 | 「使者」 (*presbeutes*) noted. |
+| Names | 腓利門、亞腓亞、亞基布、阿尼西母、以巴弗、馬可、亞里達古、底馬、路加 | 阿尼西母 the classic form, as Colossians 4:9. |
 
 ## Style
 

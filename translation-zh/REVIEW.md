@@ -128,3 +128,4 @@ Found while drafting; not yet settled across books.
   2:17 *gangraina* 壞疽 (和合本「毒瘡」). 2:13 follows the SBLGNT (no γάρ) and 2:14 its 主 (Byzantine; 神 in other editions, noted).
 - Titus: 3:5 *palingenesia* is 重生 (重生的洗), the familiar word, while John 3:3, 7 keep 從上面生 for *anothen* with 重生 only in a note, and Matthew 19:28 renders *palingenesia* 萬物更新; the notes link all three. 2:13 follows the one-article reading in the text (我們偉大的神和救主耶穌基督), the other in a note.
   2:14 *laos periousios* takes our Deuteronomy 14:2's wording (作屬他自己的子民，作他的珍寶), which is longer than the Greek phrase. 1:12 names Epimenides 埃庇米尼得斯 in the note (a modern transliteration, as the Acts 17:28 note).
+- Philemon: the play on Onesimus' name (11, 20) cannot be kept in Chinese and is explained in notes; 12 τὰ ἐμὰ σπλάγχνα is the idiom 我的心肝 (直譯「心腸」 noted), while 7 and 20 have plain 心. 16 ἐν σαρκί 按肉體 keeps the table's word. Onesimus 阿尼西母 as Colossians (the classic-edition point there still applies).
