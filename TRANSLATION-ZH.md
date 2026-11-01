@@ -1112,6 +1112,55 @@ Settled while drafting Joel:
 | עֵמֶק יְהוֹשָׁפָט; עֵמֶק הֶחָרוּץ; נַחַל הַשִּׁטִּים | 約沙法谷；斷定谷；什亭谷 | Union Version names; meanings noted. |
 | בְּנֵי הַיְּוָנִים (4:6) | 希臘人 | As 和合本 Joel; *Yevanim* and Isaiah 66:19's 雅完 noted. |
 
+Settled while drafting Amos:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Layout | Oracles unmarked; the visions and Amaziah's story (7:1–17; 8:1–3) with dialogue in 「」, a message inside 『』 | 9:1 他說： then unmarked, as in English. |
+| עַל־שְׁלֹשָׁה פִּשְׁעֵי X וְעַל־אַרְבָּעָה לֹא אֲשִׁיבֶנּוּ (1:3–2:6) | X有三項罪行，甚至有四項，我必不撤回 | Identical in all eight oracles; *pesha* and the number saying noted at 1:3, 「我必不使它回轉」 at 1:3. |
+| וְשִׁלַּחְתִּי אֵשׁ בְּ… וְאָכְלָה אַרְמְנוֹת | 我要降火在……，燒毀……的堡壘 | As Hosea 8:14; *armenot* noted at 1:4. |
+| אָמַר יְהוָה (closing); נְאֻם יְהוָה | ……，耶和華說；這是耶和華說的 | Kept apart, as Isaiah and Jeremiah; *ne'um* noted at its first occurrence in each chapter. |
+| יְהוָה אֱלֹהֵי צְבָאוֹת; אֲדֹנָי יְהוִה אֱלֹהֵי הַצְּבָאוֹת | 耶和華萬軍之神；主耶和華萬軍之神 | As Jeremiah 5:14; 9:5 *Adonai YHWH ha-tseva'ot* 主萬軍之耶和華. |
+| הוֹי | 禍哉 | *hoy* noted at 5:18 (and Micah 2:1); 6:1 refers back. |
+| יוֹם יְהוָה (5:18–20) | 耶和華的日子 | As Joel. |
+| אֲנָךְ (7:7–8) | 鉛垂線 | 和合本「準繩」 and the reading 「錫」 noted. |
+| קַיִץ; קֵץ (8:1–2) | 夏天的果子；結局 | The wordplay noted. |
+| סִכּוּת; כִּיּוּן (5:26) | 西固特；基雲 | Coined; the Septuagint, Acts 7:42–43 and 和合本 noted. |
+| סֻכַּת דָּוִיד (9:11–12) | 大衛那倒塌的棚子 | Acts 15:16–17 (Septuagint: 「人」 for Edom, 「尋求」, 「主」) noted at 9:12. |
+| Hymns (4:13; 5:8–9; 9:5–6) | …的，他的名是耶和華（萬軍之神） | Noted at 4:13 as the first of three. |
+
+Settled while drafting Obadiah:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Obadiah 1–9 (Jeremiah 49:7–22) | Jeremiah 49's wording wherever the Hebrew agrees (我們從耶和華那裏聽見了消息；住在巖石穴中；你心中的驕傲欺騙了你；我必從那裏把你拉下來) | Differences noted as 耶利米書49章14節作「……」 (1–7). |
+| יוֹם (11–14) | ……的日子，你不該…… | The commands as reproach; 「你本不該」 noted at 12. |
+| מוֹשִׁעִים; שָׁפַט (21) | 拯救者；治理 | As Judges; noted. |
+
+Settled while drafting Jonah:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Numbering | 2:1 = 和合本 1:17；2:2–11 = 和合本 2:1–10 | Noted at 1:16 and 2:1. |
+| Jonah's psalm (2:3–10) | Poetry, one verse per line, no quotation marks; 2:3 opens 說： | Psalm echoes noted in Psalms' wording (42:8; 120:1; 31:7; 3:9). |
+| מִנָּה (2:1; 4:6–8) | 安排 | One verb throughout, noted. |
+| קִיקָיוֹן | 蓖麻 | 「葫蘆」 noted. |
+| רָעָה (3:8–4:6) | 惡；災禍；不高興；苦楚 | The one word noted at 3:10; 4:1, 6. |
+| 4:2; 3:9 | Joel 2:13–14's wording (有恩典、有憐憫……不降災禍；誰知道呢？也許……) | |
+
+Settled while drafting Micah:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Numbering | 4:14 = 和合本 5:1；5:1–14 = 和合本 5:2–15 | Noted at 4:14 and 5:1. |
+| Micah 4:1–3 (Isaiah 2:2–4) | Isaiah 2's wording wherever the Hebrew agrees | Differences noted (列民／萬國；許多國家／許多民族；遠方強盛的國家). |
+| Micah 3:12 (Jeremiah 26:18) | 錫安必被犁成田地，耶路撒冷必變成廢墟堆，這殿所在的山必成為長滿樹木的高崗 | Identical with Jeremiah 26:18. |
+| בֵּית־לֶחֶם אֶפְרָתָה (5:1) | 伯利恆‧以法他 | Matthew 2:6's Greek (「在猶大的首領中絕不是最小的」, with 2 Samuel 5:2) and *alfei*/*allufei* noted. |
+| Wordplays on towns (1:10–15) | Union Version names in the text | Each pun explained in a note. |
+| עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת (6:8) | 行公正，愛慈愛，謙卑地與你的神同行 | *chesed* and *hatsnea* noted; 和合本「好憐憫」 mentioned. |
+| רִיב (6:1–2) | 案件；控訴；爭訟 | *riv* noted, as Hosea 4:1. |
+| מִי־אֵל כָּמוֹךָ (7:18) | 有哪一位神像你呢？ | The echo of 彌迦 noted. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

@@ -1,6 +1,6 @@
 # Translation status
 
-896 of 1,189 chapters translated: 896 draft, 0 checked, 0 reviewed, 0 approved.
+917 of 1,189 chapters translated: 917 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -33,4 +33,8 @@
 | Daniel | 12 | 12 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 |
 | Hosea | 14 | 14 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 |
 | Joel | 4 | 4 |  |  |  | 1, 2, 3, 4 |
+| Amos | 9 | 9 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9 |
+| Obadiah | 1 | 1 |  |  |  | 1 |
+| Jonah | 4 | 4 |  |  |  | 1, 2, 3, 4 |
+| Micah | 7 | 7 |  |  |  | 1, 2, 3, 4, 5, 6, 7 |
 | Mark | 16 | 16 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 |
