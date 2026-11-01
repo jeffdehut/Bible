@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** Mark, Matthew and Luke drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1294,6 +1294,51 @@ Settled while drafting Luke:
 | Κρανίον (23:33) | 髑髏地 | As Mark 15:22; 各各他 and 加略山 noted. |
 | παράδεισος (23:43) | 樂園 | Noted. |
 | λεπτόν (12:59) | 小銅錢 | As Mark 12:42; ¹⁄₁₂₈ of a denarius noted. |
+
+Settled while drafting John:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| λόγος (1:1–14) | 道 | As the Union Version; *logos* and "Word" noted at 1:1. Elsewhere λόγος is 話 (5:24; 8:31), except ὁ λόγος τοῦ θεοῦ 神的道 (10:35). |
+| ἐσκήνωσεν ἐν ἡμῖν (1:14) | 住在我們中間 | 直譯「支搭帳幕」 noted. |
+| χάρις καὶ ἀλήθεια | 恩典和真理 | Exodus 34:6 (*chesed*, *emet*) noted. |
+| μονογενής | 獨生子 (1:14; 3:16, 18)；獨一的神 (1:18) | *monogenes* 「獨一的」 noted; 1:18 variant 獨生子. |
+| ζωὴ αἰώνιος; ζωή | 永生；生命 | As Mark; *zoe aionios* noted at 3:15. |
+| φῶς; σκοτία, σκότος | 光；黑暗 | |
+| ἀλήθεια; ἀληθινός; ἀληθής | 真理；真 (真光、真糧)；真實 | |
+| πιστεύω (εἰς) | 信 (信他、信他的名) | 2:24 交託, noted as the same verb. |
+| μένω | 住在 wherever it carries John's sense (5:38; 6:56; 8:31); 住、停留 in plain senses (1:32, 38–39) | *meno* noted at 1:32. |
+| δόξα; δοξάζω | 榮耀；榮耀、得着榮耀 | |
+| ὥρα (Jesus' hour; "an hour is coming") | 時候 (我的時候還沒有到；時候將到) | Clock hours as Mark (下午四時左右), noted. καιρός (7:6, 8) is 時機, noted apart. |
+| σημεῖον | 神蹟 | *semeion* 「記號」 noted at 2:11. |
+| κόσμος | 世界 throughout | 3:16 神這樣愛世界，甚至賜下他的獨生子，叫一切信他的人不致滅亡，反得永生 (傳統「神愛世人」 noted). 世人 only for οἱ ἄνθρωποι (3:19). |
+| οἱ Ἰουδαῖοι | 猶太人 | Noted at 1:19; the full note on its sense in John at 5:10 (the Jerusalem authorities and Jesus' opponents, not the Jewish people), and at each chapter's first use. |
+| ἐγώ εἰμι + predicate | 我是…… | 6:35 我是生命的糧 (the list in the note); 8:12 我是世界的光; 10:7, 9 我是羊的門; 10:11 我是好牧人; 11:25 我是復活和生命. |
+| ἐγώ εἰμι absolute | 是我 (6:20)；我就是 (4:26)；我就是那一位 (8:24, 28)；在亞伯拉罕出生以前，我就是 (8:58) | Notes link them to Exodus 3:14 (our 我就是我, the LXX *ego eimi ho on*) and Isaiah 43:10. |
+| ἀμὴν ἀμὴν λέγω ὑμῖν/σοι | 我實實在在地告訴你們／你 | *amen amen* noted at 1:51. |
+| ἄνωθεν (3:3, 7, 31) | 從上面 | 或譯「重生」 noted. |
+| ὁ ἀμνὸς τοῦ θεοῦ; ὁ προφήτης | 神的羔羊；那位先知 (Deuteronomy 18:15–18 noted) | |
+| Μεσσίας (1:41; 4:25) | 彌賽亞 | As the glossary. |
+| ἄρτος in John 6 | 餅 (the loaves, 6:5–13, 23, 26)；糧 (6:31–58, the discourse) | Same Greek word, noted at 6:32; 6:31 quotes Psalm 78:24 as our Psalm note (糧食). |
+| κύριε to Jesus from strangers | 先生 (4:11–49; 5:7; 6:34; 8:11; 9:36)；主啊 (disciples, Martha, 9:38) | *kyrie* noted. |
+| ὑπηρέται; συνέδριον; ἀποσυνάγωγος | 差役；議會；趕出會堂 | |
+| σκηνοπηγία; ἐγκαίνια | 住棚節；修殿節 (Hanukkah noted) | |
+| λῃστής (10:1, 8; 18:40) | 強盜 | 或譯「叛亂分子」 noted (Mark's rendering). 18:40 Barabbas also 強盜, to keep John's echo of 10:1, 8; the note gives the sense "rebel" from Mark 15:7, where Mark has 叛亂分子. |
+| 7:53–8:11 | In ⟦ ⟧, as the SBLGNT and Mark 16:9–20 | Note at 7:53 on the manuscripts; 經學家 (8:3) as elsewhere. |
+| Old Testament quotations (1–11) | The Greek in the text; our Old Testament line in the note | 1:23 keeps Mark 1:3's 在曠野呼喊 and 修直; 2:17 必把我吞噬 (future; our Psalm 69:10 past); 6:31 他從天上賜下糧食給他們吃; 6:45 他們都要受神的教導 (both as our Psalm 78 and Isaiah 54 notes quote them); 10:34 我曾說：你們是神 (as our Psalm 82:6). |
+| παράκλητος (14:16, 26; 15:26; 16:7) | 保惠師 | As the Union Version; *parakletos* noted at 14:16 (幫助者、辯護者、輔導者、安慰者). The Spirit is 他 (neuter *pneuma* noted, 14:17). |
+| ἐγώ εἰμι + predicate (12–21) | 14:6 我是道路、真理、生命 (和合本「我就是……」 noted)；15:1, 5 我是真葡萄樹／我是葡萄樹 | γεωργός 栽培的人 (或譯「農夫」); *kathairo* 修剪乾淨 / *katharos* 乾淨 noted. |
+| ἐγώ εἰμι absolute (13:19; 18:5–8) | 信我就是那一位 (13:19)；我就是 (18:5, 6, 8) | 18:17, 25 Peter's *ouk eimi* 我不是, noted against it. |
+| ὁ ἄρχων τοῦ κόσμου τούτου | 這世界的統治者 | 12:31; 14:30; 16:11. |
+| μονή (14:2, 23) | 住處 | Linked to *meno* in a note. |
+| ἀγαπάω / φιλέω (21:15–17) | 愛 for both | The two verbs and the other variations noted at 21:15; 20:2 and 16:27 *phileo* noted. |
+| The Passion (18–19) | Mark 14–15's wording where the Greek agrees | 大祭司的奴僕 (18:10, Malchus 馬勒古)；看門的女傭人；差役；總督府 (*praitorion*)；荊棘冠冕、紫袍、猶太人的王萬歲；髑髏地／各各他；酸酒；預備日；千夫長 (*chiliarchos*)；一營士兵 (*speira*, as Mark 15:16's 營). |
+| 19:14 ὥρα ἕκτη | 中午十二時 | 直譯「第六個時辰」 and Mark 15:25's third hour noted. |
+| 19:19–20 the title | 「拿撒勒人耶穌，猶太人的王」；希伯來文、拉丁文、希臘文 | 拉丁文 noted (直譯「羅馬文」); 希伯來話/希伯來文 noted as probably Aramaic. Names 厄巴大 (Gabbatha, classic and 1989 CUV), 革羅罷 (Clopas) added to the names table. |
+| τετέλεσται (19:28, 30) | 已經完成了；完成了 | 和合本「成了」 noted; 19:30 把靈交付了 (*pneuma*). |
+| 20:17 Μή μου ἅπτου; 20:28; 20:31 | 不要拉住我不放 (或譯「不要摸我」)；我的主！我的神！；使你們信 (the present/aorist variant and 19:35 noted) | |
+| Old Testament quotations (12–21) | The Greek in the text; our Old Testament line in the note | 12:13 是應當稱頌的 as Mark 11:9 (Psalm 118:26 是蒙福的 noted); 12:15 錫安的女兒，不要懼怕！看哪，你的王騎着驢駒來了 (as our Zechariah 9:9 note quotes it); 12:38 主啊，我們所傳的，有誰相信呢？ (as our Isaiah 53:1 note); 12:40 他使他們瞎了眼，使他們的心剛硬; 13:18 吃我飯的人，舉起腳跟踢我 (Psalm 41:10's 舉起腳跟踢我 kept); 15:25 他們無緣無故地恨我 (Psalm 69:5); 19:24 identical with our Psalm 22:19; 19:36 他的骨頭，一根也不會折斷; 19:37 他們要仰望自己所刺的人 (as our Zechariah 12:10 note). |
+| Chapter 21 | 後記 noted at 21:1 | 約翰的兒子西門 (約拿 noted); 二百肘, 一百五十三條. |
 
 ## Style
 
