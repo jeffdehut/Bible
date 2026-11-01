@@ -62,3 +62,7 @@ Found while drafting; not yet settled across books.
   *anakh* (Amos 7:7–8) is 鉛垂線, against 和合本「準繩」 (kept for *qav*). Micah 2:12 *botsrah* is 羊圈 in the text, against 和合本's name 波斯拉. Micah 4:8 *Migdal-eder* is translated 羊群的守望樓 (Genesis 35:21 以得臺).
   Obadiah keeps Jeremiah 49's wording except where the Hebrew differs (Obadiah 5 stays a question; 6 uses 搜遍). Amos 2:7, 3:12, 6:10, 7:4, Obadiah 7, 20, Micah 1:10–15, 2:4–11, 6:9–10, 6:14, 7:3 rest on difficult Hebrew.
   Moresheth is 摩利沙 (1:1, as Jeremiah 26:18) but Moresheth-gath 摩利設‧迦特 (1:14), as 和合本. The names-table keys Obadiah (俄巴底) and Micah (米迦) are shared with other bearers and were left alone; the text has 俄巴底亞, 彌迦.
+- Nahum to Malachi: Nahum 2:8 *hutsav* 已經定了 (和合本「王后」); 2:2 *mefits* 那驅散人的; 3:17 *minnezarayikh*, *tafsarayikh* 衞兵、官員 approximate. Habakkuk 3:1 *shigyonot* reuses the coined 示迦庸 (Psalm 7:1) rather than a new plural form.
+  Zephaniah 1:11 keeps 和合本's name 瑪革提施 for *makhtesh*; 3:8 follows the Septuagint *le'ed* 作見證 (as the English) against the Masoretic *la'ad* and 和合本「擄掠」.
+  Haggai and Zechariah use 和合本's 約撒答 for Jehozadak, against Ezra's 約薩達 and the names table's 約薩答 (left alone). Zechariah 1:8 *seruqqim* 栗色 (和合本「黃馬」); 11:7 the staffs translated 恩惠、聯合 (和合本「榮美」「聯索」).
+  Difficult Hebrew: Nahum 1:10, 12; 2:9; Habakkuk 1:9, 11; 2:5; 3:9; Zephaniah 2:1–2; 3:18; Haggai 2:16, 19; Zechariah 2:12; 6:6; 9:15; 14:6; Malachi 2:15–16.

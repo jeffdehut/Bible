@@ -2,6 +2,8 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Elkosh":"伊勒歌斯",
+"Nahum":"那鴻",
 "Wadi of the Arabah":"亞拉巴河",
 "Moresheth-gath":"摩利設‧迦特",
 "Kiyyun":"基雲",

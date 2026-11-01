@@ -1161,6 +1161,79 @@ Settled while drafting Micah:
 | רִיב (6:1–2) | 案件；控訴；爭訟 | *riv* noted, as Hosea 4:1. |
 | מִי־אֵל כָּמוֹךָ (7:18) | 有哪一位神像你呢？ | The echo of 彌迦 noted. |
 
+Settled while drafting Nahum:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Numbering | 2:1 = 和合本 1:15；2:2–14 = 和合本 2:1–13 | Noted at 1:14 and 2:1. |
+| מַשָּׂא נִינְוֵה (1:1) | 尼尼微的默示 | *massa* noted, as Isaiah 13:1. |
+| 2:1 (Isaiah 52:7) | 看哪，那報好消息的人，他的腳登上山嶺，他傳揚平安！ | Isaiah 52:7's words; *mevasser* and Romans 10:15 noted. |
+| הִנְנִי אֵלַיִךְ (2:14; 3:5) | 看哪，我要與你為敵 | As Ezekiel. |
+| בְּלִיַּעַל (1:11; 2:1) | 邪惡的；那邪惡的 | *beliyya'al* noted. |
+| נֹא אָמוֹן (3:8) | 挪亞們 | As 和合本 Nahum; Thebes noted (挪 in Jeremiah and Ezekiel). |
+| יֶלֶק; אַרְבֶּה (3:15–17) | 蝻子；蝗蟲 | As Joel 1:4. |
+
+Settled while drafting Habakkuk:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Layout | The LORD's replies (1:5–11; 2:2–20) in 「」, the taunt song (2:6–19) inside 『』 | As in English; noted at 1:1. |
+| וְצַדִּיק בֶּאֱמוּנָתוֹ יִחְיֶה (2:4) | 義人必因他的信實而活 | *emunah* noted, with 「因他的信心」, the Septuagint's 「我的信實」, Romans 1:17 and Galatians 3:11 (「義人必因信而活」) and Hebrews 10:37–38 (Septuagint, lines reversed). |
+| Habakkuk 3 (a psalm) | 先知哈巴谷的禱告。按照示迦庸。…細拉。…交給詩班長。用我絲弦的樂器。 | Psalms' rules: *shigyonot* as the plural of 示迦庸 (Psalm 7:1), 和合本「調用流離歌」; 細拉 after the line's 。; *lamenatseach* closing the psalm noted. No numbering difference. |
+| יְהוִה אֲדֹנָי (3:19) | 耶和華主 | As settled; 3:19 noted against Psalm 18:34. |
+| דֶּבֶר; רֶשֶׁף (3:5) | 瘟疫；熱病 | Resheph the god noted. |
+| tiqqune sopherim (1:12) | 文士的修正 | Also Zechariah 2:12; Malachi 1:13. |
+
+Settled while drafting Zephaniah:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| מַלְכָּם (1:5) | 瑪勒堪 | As 和合本 and Jeremiah 49:1; *malkam*/Milcom noted. |
+| מִשְׁנֶה; מַכְתֵּשׁ (1:10–11) | 第二區；瑪革提施 | 2 Kings 22:14's 第二區; *makhtesh* as 和合本's name, its meaning noted. |
+| יוֹם יְהוָה (1:7, 14–18; 2:2–3) | 耶和華的日子；耶和華發怒的日子 | 1:15 shares Joel 2:2's 黑暗幽冥的日子，密雲漆黑的日子; *Dies irae* noted. |
+| הַס (1:7) | 肅靜 | As Habakkuk 2:20 and Zechariah 2:17. |
+| שָׁב שְׁבוּת (2:7; 3:20) | 扭轉……的命運 | As Job and Psalms. |
+| קָאַת; קִפֹּד (2:14) | 鵜鶘；刺蝟 | As Isaiah 34:11. |
+| 3:19 | Micah 4:6's 瘸腿的……被趕散的 | |
+
+Settled while drafting Haggai:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| דָּרְיָוֶשׁ | 大利烏 | Settled (REVIEW.md); the 1989 text's 大流士 noted at Haggai 1:1 and Zechariah 1:1. |
+| פַּחַת יְהוּדָה | 猶大省長 | As Ezra and Nehemiah; *pechah* noted at 1:1 (Malachi 1:8 省長). |
+| יְהוֹשֻׁעַ בֶּן־יְהוֹצָדָק | 約撒答的兒子約書亞 | 和合本 Haggai and Zechariah; Ezra's 耶書亞, 約薩達 noted at Haggai 1:1. |
+| Dates | 大利烏王第二年六月初一 | The date BC in a note. |
+| בְּיַד חַגַּי | 藉着哈該 | 「藉着……的手」 noted. |
+| Dialogue (2:12–19) | 「」 | As in English. |
+| חוֹתָם (2:23) | 帶印的戒指 | As Jeremiah 22:24, noted. |
+
+Settled while drafting Zechariah:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Numbering | 2:1–4 = 和合本 1:18–21；2:5–17 = 和合本 2:1–13 | Noted at 1:17 and 2:1. |
+| The night visions (1:7–6:15) | Dialogue in 「」, a message inside 『』 (1:14–17; 2:8–9) | 1:7 notes the eight visions. הַמַּלְאָךְ הַדֹּבֵר בִּי 那與我說話的天使; אֲדֹנִי 我主 (*adoni* noted). |
+| הַשָּׂטָן (3:1–2) | 撒但 | Job 1:6's note (*ha-satan*, 那控告者). |
+| צֶמַח (3:8; 6:12) | 苗 | As Isaiah 4:2 and Jeremiah 23:5; 6:12 「苗」 as a name in 「」. |
+| מַשָּׂא (9:1; 12:1; Malachi 1:1) | 默示： | Heading as the first word; *massa* noted at 9:1, with the later date of 9–14. |
+| 9:9 (Matthew 21:5; John 12:15) | 他是公義的，是得勝的，是謙卑的，騎着驢，騎着驢駒，就是母驢的崽子 | *nosha*, *ani* noted; the Gospels' shorter Greek in the note. |
+| 11:12–13 (Matthew 27:9–10) | 三十塊銀子；陶匠 | *ha-yotser*, the Syriac 「庫房」, Exodus 21:32 and Matthew's Greek noted. Staffs 恩惠, 聯合 (和合本「榮美」「聯索」 noted). |
+| 12:10 (John 19:37) | 他們必仰望我，就是他們所刺的那一位 | 「我」/「他」, the Septuagint and John's Greek noted; 13:3 *daqar* refers back. |
+| 13:7 (Mark 14:27) | 擊打牧人，羊就分散了 | Mark 14:27's words; the Gospels' first person 「我要擊打」 noted. |
+| Names | 細罷特月, 基斯流月, 沙利色, 利堅米勒, 黑玳 (希連), 賢, 示拿, 哈得拉, 哈達臨門, 亞薩, 便雅憫門, 第一門, 角門, 哈楠業樓 | As 和合本 Zechariah; 推羅, 大馬色 classic. |
+
+Settled while drafting Malachi:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Numbering | 3:19–24 = 和合本 4:1–6 | Noted at 3:19 (和合本 makes these verses chapter 4). |
+| The disputes: וַאֲמַרְתֶּם בַּמֶּה | 你們卻說：「（我們）在甚麼事上……呢？」 | The same form for *bammeh* (1:2, 6, 7; 2:17; 3:8); 3:7 *bammeh nashuv* 我們要怎樣回來呢. |
+| 3:1 (Mark 1:2) | 看哪，我差遣我的使者，他要在我前面預備道路 | Mark 1:2's 差遣我的使者 and 預備道路 kept; the Greek 「在你前面」 and Exodus 23:20 noted. |
+| 3:23 | 在耶和華的日子，那大而可畏的日子來到以前，我必差遣以利亞先知 | As Joel 3:4. |
+| חֵרֶם (3:24; Zechariah 14:11) | 滅絕的咒詛 | The synagogue's repeat of 3:23 noted. |
+| מִנְחָה (1:10–13; 2:12–13; 3:3–4) | 供物 | *minchah* noted. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

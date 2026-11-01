@@ -1,6 +1,6 @@
 # Translation status
 
-917 of 1,189 chapters translated: 917 draft, 0 checked, 0 reviewed, 0 approved.
+945 of 1,189 chapters translated: 945 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -37,4 +37,10 @@
 | Obadiah | 1 | 1 |  |  |  | 1 |
 | Jonah | 4 | 4 |  |  |  | 1, 2, 3, 4 |
 | Micah | 7 | 7 |  |  |  | 1, 2, 3, 4, 5, 6, 7 |
+| Nahum | 3 | 3 |  |  |  | 1, 2, 3 |
+| Habakkuk | 3 | 3 |  |  |  | 1, 2, 3 |
+| Zephaniah | 3 | 3 |  |  |  | 1, 2, 3 |
+| Haggai | 2 | 2 |  |  |  | 1, 2 |
+| Zechariah | 14 | 14 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 |
+| Malachi | 3 | 3 |  |  |  | 1, 2, 3 |
 | Mark | 16 | 16 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 |
