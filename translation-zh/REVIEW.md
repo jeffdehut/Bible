@@ -53,3 +53,4 @@ Found while drafting; not yet settled across books.
   *ashshafim* 巫師, *gazerin* 占卜的 and the officials of 3:2 (謀士、司庫、法官、執法官) are approximate; *sar* for angels is 君 throughout (10:13 和合本「魔君」).
   7:13 「像人子的」 and 7:18 「至高者的聖民」 keep the traditional renderings, with the other readings only in notes. 9:24–27 follows the Masoretic accents in 9:25 against 和合本;
   9:24 *qodesh qodashim* is 至聖所 (或譯「至聖者」). *shiqquts* is 可憎之物 here (Mark 13:14) but 可厭之物 in Ezekiel; settle one. 2:1, 8:12, 9:26–27, 11:18 and 11:39 rest on difficult Hebrew/Aramaic.
+- Darius: settled as the classic Union Version's 大利烏 (Ezra, Nehemiah, Daniel), as 古列 and 推羅; the 1989 text has 大流士. The names table follows.
