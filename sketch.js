@@ -178,9 +178,17 @@
     return {
       start(ev) { if (ev.pointerType === "pen") sawPen = true; pr = ev.pointerType === "pen" && ev.pressure > 0 ? ev.pressure : 0.6; add(ev, true); },
       move(ev) { const all = ev.getCoalescedEvents ? ev.getCoalescedEvents() : []; for (const e of all.length ? all : [ev]) add(e, false); },
-      end(ev) { if (ev) { const [x, y] = toLocal(ev); if (last && Math.hypot(x - last[0], y - last[1]) > minGap) p.push(x, y, pr * 0.9); } },
+      end(ev) { if (ev && ev.type === "pointerup") { const [x, y] = toLocal(ev); if (last && Math.hypot(x - last[0], y - last[1]) > minGap) p.push(x, y, pr * 0.9); } },
       get points() { return p; },
     };
+  }
+
+  // On an iPad the system may take a pencil's stroke for a scroll and cancel it; holding the
+  // pencil's own touches keeps them for drawing (a finger still scrolls).
+  function holdStylus(el, when = () => true) {
+    const hold = e => { if (when() && [...e.changedTouches].some(t => t.touchType === "stylus")) e.preventDefault(); };
+    el.addEventListener("touchstart", hold, { passive: false });
+    el.addEventListener("touchmove", hold, { passive: false });
   }
 
   /* ---------- Drawing into SVG ---------- */
@@ -399,6 +407,7 @@
     };
     paper.addEventListener("pointerup", up);
     paper.addEventListener("pointercancel", up);
+    holdStylus(paper);
     paper.addEventListener("pointerleave", () => { if (pid === null) ring.style.display = "none"; });
 
     const result = () => (strokes.length ? encode(strokes) : null);
@@ -421,6 +430,6 @@
     return { close };
   }
 
-  window.Sketch = { PAD, PAPER, COLORS, KEYS, SIZES, ERASERS, outline, encode, decode, erase, pen, paths, picture, toolbar, history, open, css, colorOf, svgEl, tools, keepTools,
+  window.Sketch = { holdStylus, PAD, PAPER, COLORS, KEYS, SIZES, ERASERS, outline, encode, decode, erase, pen, paths, picture, toolbar, history, open, css, colorOf, svgEl, tools, keepTools,
     get sawPen() { return sawPen; } };
 })();
