@@ -85,3 +85,6 @@ Found while drafting; not yet settled across books.
   16:6–7 *batos*, *koros* are 簍, 石 in the text (罷特, 柯珥 in notes). SBLGNT's single brackets (22:19b–20; 24:40, 51–52) are printed 〔 〕; check this matches whatever John and Acts later use.
   19:4 *sykomorea* is 桑樹 as 和合本, with the fig-mulberry noted. 17:21 *entos hymon* 在你們中間 (或譯「在你們心裏」). 18:5 *hypopiazo*, 18:7, 22:36 and 23:31 are uncertain or proverbial.
   13:35 and 19:38 keep 是應當稱頌的 (the Psalm 118:26 point above is still open). 20:42–43 follows Luke's Greek 作你的腳凳 (as our Psalm 110:1), so it differs from Mark 12:36 and Matthew 22:44 (放在你的腳下), as the Greek does.
+- John 1–11: 7:53–8:11 is printed in ⟦ ⟧ (the SBLGNT's double brackets, as Mark 16:9–20), not the 〔 〕 kept for single brackets. *kosmos* is 世界 throughout, so 3:16 reads 神這樣愛世界 (傳統「神愛世人」 noted); native readers should judge whether it is memorable enough. 3:3, 7 *anothen* is 從上面生 in the text, with 重生 in a note.
+  *ego eimi* absolute is 我就是那一位 (8:24, 28) and 我就是 (8:58); a reviewer should judge 8:58 aloud. 10:35 承受神的道的人 matches our Psalm 82:6 note's quotation 承受神道的人 only loosely; align the note. *lestes* (10:1, 8) is 強盜 here against Mark's 叛亂分子; settle before John 18:40.
+  1:4 follows the SBLGNT punctuation (已經出現的，在他裏面就是生命). Bethesda (5:2) is 畢士大 as 和合本 (SBLGNT *Bethesda*; Bethzatha 伯撒他 coined in a note).

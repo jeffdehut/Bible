@@ -2,6 +2,9 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Cephas":"磯法",
+"Bethesda":"畢士大",
+"Sychar":"敘加",
 "Cleopas":"革流巴",
 "Sala":"沙拉",
 "Arni":"亞尼",
@@ -630,7 +633,7 @@ I18N.add({
 "Adullam":"亞杜蘭",
 "Adummim":"亞都冥",
 "Aeneas":"以尼雅",
-"Aenon":"撒冷",
+"Aenon":"哀嫩",
 "Agabus":"亞迦布",
 "Agag":"亞甲",
 "Agag (1 Samuel 15.8)":"亞甲（撒母耳記上 15.8）",
@@ -3543,7 +3546,7 @@ I18N.add({
 "Netophathites":"尼陀法",
 "Neziah":"尼細亞",
 "Nezib":"尼悉",
-"Nicodemus":"尼哥德慕",
+"Nicodemus":"尼哥底母",
 "Nicopolis":"尼哥坡里",
 "Nimrim":"寧林",
 "Nimrod":"寧錄",
@@ -3880,7 +3883,7 @@ I18N.add({
 "Salamis":"撒拉米",
 "Salecah":"撒迦",
 "Salem":"撒冷",
-"Salim":"哀嫩",
+"Salim":"撒冷",
 "Sallai":"撒來",
 "Sallu":"撒路",
 "Sallu (1 Chronicles 9.7)":"撒路（歷代志上 9.7）",

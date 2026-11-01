@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** Mark, Matthew and Luke drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** Mark, Matthew and Luke drafted, John in progress; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1294,6 +1294,38 @@ Settled while drafting Luke:
 | Κρανίον (23:33) | 髑髏地 | As Mark 15:22; 各各他 and 加略山 noted. |
 | παράδεισος (23:43) | 樂園 | Noted. |
 | λεπτόν (12:59) | 小銅錢 | As Mark 12:42; ¹⁄₁₂₈ of a denarius noted. |
+
+Settled while drafting John:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| λόγος (1:1–14) | 道 | As the Union Version; *logos* and "Word" noted at 1:1. Elsewhere λόγος is 話 (5:24; 8:31), except ὁ λόγος τοῦ θεοῦ 神的道 (10:35). |
+| ἐσκήνωσεν ἐν ἡμῖν (1:14) | 住在我們中間 | 直譯「支搭帳幕」 noted. |
+| χάρις καὶ ἀλήθεια | 恩典和真理 | Exodus 34:6 (*chesed*, *emet*) noted. |
+| μονογενής | 獨生子 (1:14; 3:16, 18)；獨一的神 (1:18) | *monogenes* 「獨一的」 noted; 1:18 variant 獨生子. |
+| ζωὴ αἰώνιος; ζωή | 永生；生命 | As Mark; *zoe aionios* noted at 3:15. |
+| φῶς; σκοτία, σκότος | 光；黑暗 | |
+| ἀλήθεια; ἀληθινός; ἀληθής | 真理；真 (真光、真糧)；真實 | |
+| πιστεύω (εἰς) | 信 (信他、信他的名) | 2:24 交託, noted as the same verb. |
+| μένω | 住在 wherever it carries John's sense (5:38; 6:56; 8:31); 住、停留 in plain senses (1:32, 38–39) | *meno* noted at 1:32. |
+| δόξα; δοξάζω | 榮耀；榮耀、得着榮耀 | |
+| ὥρα (Jesus' hour; "an hour is coming") | 時候 (我的時候還沒有到；時候將到) | Clock hours as Mark (下午四時左右), noted. καιρός (7:6, 8) is 時機, noted apart. |
+| σημεῖον | 神蹟 | *semeion* 「記號」 noted at 2:11. |
+| κόσμος | 世界 throughout | 3:16 神這樣愛世界，甚至賜下他的獨生子，叫一切信他的人不致滅亡，反得永生 (傳統「神愛世人」 noted). 世人 only for οἱ ἄνθρωποι (3:19). |
+| οἱ Ἰουδαῖοι | 猶太人 | Noted at 1:19; the full note on its sense in John at 5:10 (the Jerusalem authorities and Jesus' opponents, not the Jewish people), and at each chapter's first use. |
+| ἐγώ εἰμι + predicate | 我是…… | 6:35 我是生命的糧 (the list in the note); 8:12 我是世界的光; 10:7, 9 我是羊的門; 10:11 我是好牧人; 11:25 我是復活和生命. |
+| ἐγώ εἰμι absolute | 是我 (6:20)；我就是 (4:26)；我就是那一位 (8:24, 28)；在亞伯拉罕出生以前，我就是 (8:58) | Notes link them to Exodus 3:14 (our 我就是我, the LXX *ego eimi ho on*) and Isaiah 43:10. |
+| ἀμὴν ἀμὴν λέγω ὑμῖν/σοι | 我實實在在地告訴你們／你 | *amen amen* noted at 1:51. |
+| ἄνωθεν (3:3, 7, 31) | 從上面 | 或譯「重生」 noted. |
+| ὁ ἀμνὸς τοῦ θεοῦ; ὁ προφήτης | 神的羔羊；那位先知 (Deuteronomy 18:15–18 noted) | |
+| Μεσσίας (1:41; 4:25) | 彌賽亞 | As the glossary. |
+| ἄρτος in John 6 | 餅 (the loaves, 6:5–13, 23, 26)；糧 (6:31–58, the discourse) | Same Greek word, noted at 6:32; 6:31 quotes Psalm 78:24 as our Psalm note (糧食). |
+| κύριε to Jesus from strangers | 先生 (4:11–49; 5:7; 6:34; 8:11; 9:36)；主啊 (disciples, Martha, 9:38) | *kyrie* noted. |
+| ὑπηρέται; συνέδριον; ἀποσυνάγωγος | 差役；議會；趕出會堂 | |
+| σκηνοπηγία; ἐγκαίνια | 住棚節；修殿節 (Hanukkah noted) | |
+| λῃστής (10:1, 8) | 強盜 | 或譯「叛亂分子」 noted (Mark's rendering). |
+| 7:53–8:11 | In ⟦ ⟧, as the SBLGNT and Mark 16:9–20 | Note at 7:53 on the manuscripts; 經學家 (8:3) as elsewhere. |
+| Old Testament quotations (1–11) | The Greek in the text; our Old Testament line in the note | 1:23 keeps Mark 1:3's 在曠野呼喊 and 修直; 2:17 必把我吞噬 (future; our Psalm 69:10 past); 6:31 他從天上賜下糧食給他們吃; 6:45 他們都要受神的教導 (both as our Psalm 78 and Isaiah 54 notes quote them); 10:34 我曾說：你們是神 (as our Psalm 82:6). |
 
 ## Style
 
