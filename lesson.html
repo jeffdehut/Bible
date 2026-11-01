@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script src="i18n.js?v=57"></script>
+<script src="ui.js?v=3"></script>
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d111b" media="(prefers-color-scheme: dark)">
+<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) { /* storage unavailable */ }</script>
+<title>Lesson · The Complete Bible Story · BibleData.org</title>
+<meta name="description" content="A lesson of The Complete Bible Story: the passages, key points, related readings, history and resources, on one page.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8a91a0; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8;
+  --read: "Frank Ruhl Libre", "Noto Serif TC", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  --bar: 56px; --c: #ec3024; --ink-c: #c41f15;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #7d8799; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #7d8799; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; color-scheme: dark; }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--lapis); outline-offset: 2px; border-radius: 4px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; height: var(--bar);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))) calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 4px; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+}
+.appbar .brand { display: inline-flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px; border-radius: 10px; color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 var(--read); }
+.appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
+.appbar .sitenav-btn { margin-inline-start: auto; }
+
+/* The page: one lesson, made to fit one printed sheet. */
+.sheet { max-width: 960px; margin: 22px auto 60px; background: var(--surface); border: 1px solid var(--line); border-radius: 22px; overflow: hidden; }
+.band { display: flex; align-items: center; gap: 16px; padding: 18px 22px; background: color-mix(in srgb, var(--c) 13%, var(--surface)); border-bottom: 3px solid var(--c); }
+.band img { width: 64px; height: 64px; flex: none; }
+.band .where { margin: 0; font: 700 12px/1.3 var(--sans); letter-spacing: 0.07em; text-transform: uppercase; color: var(--ink-c); }
+.band .sec { margin: 2px 0 0; font: 500 14px/1.3 var(--sans); color: var(--muted); }
+.band-tools { margin-inline-start: auto; display: flex; gap: 6px; }
+.tbtn { display: inline-flex; align-items: center; gap: 6px; height: 36px; padding: 0 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); color: var(--ink); cursor: pointer; font: 500 14px/1 var(--sans); text-decoration: none; }
+.tbtn:hover { background: var(--lapis-soft); }
+.tbtn svg { width: 17px; height: 17px; }
+.body { padding: 18px 22px 22px; }
+h1 { margin: 0 0 10px; font: 400 clamp(30px, 5vw, 42px)/1.1 var(--read); letter-spacing: -0.01em; }
+.passages { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 18px; }
+.passages a { display: inline-flex; align-items: center; gap: 6px; padding: 5px 11px; border-radius: 99px; background: color-mix(in srgb, var(--c) 12%, transparent); color: var(--ink); text-decoration: none; font: 600 14px/1.2 var(--sans); }
+.passages a:hover { background: color-mix(in srgb, var(--c) 22%, transparent); }
+.passages svg { width: 15px; height: 15px; color: var(--ink-c); }
+.grid { display: grid; grid-template-columns: 1.15fr 1fr; gap: 16px; }
+@media (max-width: 720px) { .grid { grid-template-columns: 1fr; } }
+.col { display: grid; gap: 16px; align-content: start; }
+.card { border: 1px solid var(--line); border-radius: 16px; padding: 14px 16px; }
+.card h2 { display: flex; align-items: center; gap: 9px; margin: 0 0 10px; font: 700 12.5px/1.2 var(--sans); letter-spacing: 0.07em; text-transform: uppercase; color: var(--muted); }
+.card h2 i { display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 8px; background: var(--k); color: #fff; flex: none; }
+.card h2 i svg { width: 15px; height: 15px; }
+.k-key { --k: var(--c); } .k-points { --k: #2646a1; } .k-read { --k: #2f8a3c; } .k-hist { --k: #a8790a; } .k-res { --k: #6d43c9; }
+.key { background: color-mix(in srgb, var(--c) 7%, var(--surface)); border-color: color-mix(in srgb, var(--c) 35%, var(--line)); }
+.key blockquote { margin: 0; font: 400 18px/1.55 var(--read); }
+.key blockquote sup { font: 700 0.6em/1 var(--sans); color: var(--ink-c); margin-inline-end: 2px; }
+.key .ref { display: block; margin-top: 8px; font: 600 13px/1.2 var(--sans); color: var(--ink-c); text-align: right; }
+ul.list { margin: 0; padding: 0; list-style: none; display: grid; gap: 7px; }
+ul.list li { position: relative; padding-left: 20px; font: 400 15px/1.45 var(--sans); }
+ul.list li::before { content: ""; position: absolute; left: 3px; top: 0.55em; width: 8px; height: 8px; border-radius: 50%; background: var(--k); }
+ol.points { margin: 0; padding: 0; list-style: none; counter-reset: p; display: grid; gap: 7px; }
+ol.points li { counter-increment: p; display: grid; grid-template-columns: 24px 1fr; gap: 6px; font: 400 15px/1.45 var(--sans); }
+ol.points li::before { content: counter(p); display: grid; place-items: center; width: 22px; height: 22px; border-radius: 50%; background: color-mix(in srgb, #2646a1 12%, transparent); color: #2646a1; font: 700 12px/1 var(--sans); }
+.readings { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
+.readings a { display: block; padding: 8px 10px; border-radius: 10px; background: color-mix(in srgb, #2f8a3c 7%, transparent); text-decoration: none; }
+.readings a:hover { background: color-mix(in srgb, #2f8a3c 14%, transparent); }
+.readings b { display: block; font: 700 13.5px/1.25 var(--sans); color: #2a7a36; }
+.readings span { display: block; font: 400 14px/1.35 var(--sans); }
+.res { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; }
+.res a { display: flex; align-items: center; gap: 9px; padding: 9px 10px; border-radius: 12px; border: 1px solid var(--line); text-decoration: none; font: 600 13.5px/1.25 var(--sans); }
+.res a:hover { border-color: var(--k); background: color-mix(in srgb, var(--k) 7%, transparent); }
+.res a i { display: inline-grid; place-items: center; width: 30px; height: 30px; border-radius: 9px; flex: none; color: #fff; }
+.res a i svg { width: 17px; height: 17px; }
+.res a small { display: block; font: 400 11.5px/1.2 var(--sans); color: var(--muted); }
+.foot { display: flex; justify-content: space-between; align-items: center; gap: 8px; max-width: 960px; margin: -40px auto 48px; }
+.foot a { max-width: 45%; text-decoration: none; padding: 8px 12px; border-radius: 12px; font: 500 14px/1.3 var(--sans); color: var(--muted); }
+.foot a:hover { background: var(--lapis-soft); color: var(--ink); }
+.foot a b { display: block; color: var(--ink); font-weight: 600; }
+.foot .next { text-align: right; margin-inline-start: auto; }
+.missing { max-width: 640px; margin: 60px auto; text-align: center; color: var(--muted); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .readings b { color: #7fd38f; } :root:not([data-theme="light"]) ol.points li::before { color: #9db3ff; } }
+:root[data-theme="dark"] .readings b { color: #7fd38f; } :root[data-theme="dark"] ol.points li::before { color: #9db3ff; }
+
+/* Printed: one sheet of letter paper, in color. */
+@media print {
+  @page { size: letter portrait; margin: 0.4in; }
+  html, body { background: #fff !important; color: #111; padding: 0; font-size: 10pt; }
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body::before, .appbar, .band-tools, .foot, .sitenav-btn { display: none !important; }
+  .sheet { margin: 0; border: 0; border-radius: 0; max-width: none; }
+  .band { padding: 8pt 10pt; border-radius: 10pt; }
+  .band img { width: 46pt; height: 46pt; }
+  .body { padding: 10pt 0 0; }
+  h1 { font-size: 24pt; margin-bottom: 6pt; }
+  .passages { margin-bottom: 9pt; }
+  .passages a { font-size: 9.5pt; padding: 2pt 8pt; }
+  .grid { grid-template-columns: 1.15fr 1fr; gap: 9pt; }
+  .col { gap: 9pt; }
+  .card { padding: 8pt 10pt; border-radius: 10pt; break-inside: avoid; }
+  .card h2 { font-size: 8.5pt; margin-bottom: 6pt; }
+  .card h2 i { width: 17pt; height: 17pt; border-radius: 5pt; }
+  .card h2 i svg { width: 10pt; height: 10pt; }
+  .key blockquote { font-size: 11.5pt; line-height: 1.45; }
+  ul.list li, ol.points li, .readings span { font-size: 9.5pt; line-height: 1.38; }
+  ol.points, ul.list, .readings { gap: 4pt; }
+  .readings a { padding: 4pt 6pt; }
+  .readings b { font-size: 9pt; }
+  .res { grid-template-columns: repeat(2, 1fr); gap: 5pt; }
+  .res a { padding: 4pt 6pt; font-size: 9pt; }
+  .res a i { width: 18pt; height: 18pt; }
+  .res a small { display: none; }
+  .res a::after { content: attr(data-print); display: block; }
+}
+</style>
+</head>
+<body>
+<header class="appbar">
+  <a class="brand" href="index.html"><img src="icons/icon.svg" alt="BibleData.org"><span aria-hidden="true">BibleData.org</span></a>
+</header>
+<script src="nav.js?v=49"></script>
+<main id="main"></main>
+<nav class="foot" id="foot" aria-label="Other lessons"></nav>
+
+<script src="course-data.js?v=1"></script>
+<script>
+(() => {
+  const C = window.COURSE, ZH = C.zh();
+  const $ = id => document.getElementById(id);
+  const el = (tag, attrs = {}, ...kids) => { const n = document.createElement(tag); for (const [k, v] of Object.entries(attrs)) { if (k === "text") n.textContent = v; else if (k === "html") n.innerHTML = v; else n.setAttribute(k, v); } n.append(...kids.filter(k => k != null)); return n; };
+  const pick = o => (o ? (ZH && o.zh ? o.zh : o.en) : "");
+  const ICONS = {
+    book: '<path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/>',
+    quote: '<path d="M10 7H6a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h3v1a3 3 0 0 1-3 3M20 7h-4a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h3v1a3 3 0 0 1-3 3"/>',
+    list: '<path d="M9 6h11M9 12h11M9 18h11"/><circle cx="4.5" cy="6" r="1.3"/><circle cx="4.5" cy="12" r="1.3"/><circle cx="4.5" cy="18" r="1.3"/>',
+    link: '<path d="M10 14a4 4 0 0 0 5.66 0l3-3a4 4 0 0 0-5.66-5.66l-1 1"/><path d="M14 10a4 4 0 0 0-5.66 0l-3 3a4 4 0 0 0 5.66 5.66l1-1"/>',
+    scroll: '<path d="M8 4h11a2 2 0 0 1 2 2v1h-4"/><path d="M17 7v11a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-1h10v1a2 2 0 0 0 4 0V6a2 2 0 0 0-4 0v1"/><path d="M8 4a2 2 0 0 0-2 2v11"/>',
+    compass: '<circle cx="12" cy="12" r="9"/><path d="m15.5 8.5-2 5-5 2 2-5Z"/>',
+    web: '<circle cx="6" cy="6" r="2.2"/><circle cx="18" cy="7" r="2.2"/><circle cx="12" cy="18" r="2.2"/><path d="M8 6.5 15.8 7M7 8l4 8M17 9l-4 7"/>',
+    map: '<path d="M3 6.5 9 4l6 2.5L21 4v13.5L15 20l-6-2.5L3 20Z"/><path d="M9 4v13.5M15 6.5V20"/>',
+    felt: '<rect x="3" y="4" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="2"/><path d="M7.5 18v-2.5a1.5 1.5 0 0 1 3 0V18"/><path d="m14 15 2.5-4 2.5 4Z"/>',
+    time: '<circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/>',
+    print: '<path d="M7 9V3h10v6"/><rect x="3" y="9" width="18" height="8" rx="2"/><path d="M7 14h10v7H7Z"/>',
+    back: '<path d="m15 18-6-6 6-6"/>',
+  };
+  const svg = k => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${ICONS[k]}</svg>`;
+  const T = s => s;   // English here; the page's own translation (i18n.js) gives the Chinese
+
+  // References: "Gen.29.31-30.24", "Gen.3.15", "Gen.3", "Gen.6-8".
+  const RE = /^([1-3]?[A-Za-z]+)\.(\d+)(?:\.(\d+))?(?:-(?:(\d+)\.)?(\d+))?$/;
+  let BOOKS = {};
+  const bookName = b => (ZH && window.I18N && I18N.books && I18N.books[b] ? I18N.books[b][0] : (BOOKS[b] ? BOOKS[b].n : b));
+  const slugHash = b => (BOOKS[b] ? BOOKS[b].n.toLowerCase().replace(/ /g, "-") : b);
+  function parse(r) {
+    const m = RE.exec(r || ""); if (!m) return null;
+    const [, b, c1, v1, c2, e] = m;
+    return { b, c1: +c1, v1: v1 ? +v1 : null, c2: c2 ? +c2 : (v1 ? +c1 : (e ? +e : +c1)), v2: v1 ? (e ? +e : +v1) : null };
+  }
+  function label(r) {
+    const p = parse(r); if (!p) return r;
+    let name = bookName(p.b);
+    if (!ZH && p.b === "Ps" && p.v1 == null && p.c1 === p.c2) name = "Psalm";
+    const sep = ZH ? " " : " ";
+    if (p.v1 == null) return name + sep + (p.c1 === p.c2 ? p.c1 : `${p.c1}–${p.c2}`);
+    if (p.c1 === p.c2) return name + sep + `${p.c1}:${p.v1}` + (p.v2 !== p.v1 ? `–${p.v2}` : "");
+    return name + sep + `${p.c1}:${p.v1}–${p.c2}:${p.v2}`;
+  }
+  const readerLink = r => { const p = parse(r); return p ? `index.html#${slugHash(p.b)}-${p.c1}${p.v1 ? "-" + p.v1 : ""}` : "index.html"; };
+
+  async function getJSON(u) { const res = await fetch(u); if (!res.ok) throw new Error(u); return res.json(); }
+  // The key verses in the site's own translation (in Chinese where it is the page's language).
+  async function keyVerses(r) {
+    const p = parse(r); if (!p || !BOOKS[p.b]) return [];
+    const slug = BOOKS[p.b].slug;
+    let book = null;
+    if (ZH) book = await getJSON(`data/bible/i18n/zh-Hant/text/${slug}.json`).catch(() => null);
+    if (!book) book = await getJSON(`data/bible/text/${slug}.json`);
+    const out = [];
+    for (const ch of book.chapters) {
+      const c = +ch.c;
+      if (c < p.c1 || c > p.c2) continue;
+      for (const row of ch.v) {
+        const v = row[0];
+        if (c === p.c1 && v < p.v1) continue;
+        if (c === p.c2 && v > p.v2) continue;
+        if (row[1]) out.push([v, row[1].replace(/\[\^\w+\]/g, "").replace(/\*/g, "").trim()]);
+      }
+    }
+    return out;
+  }
+
+  async function show() {
+    const m = /^#?q(\d+)-(\d+)$/.exec(location.hash);
+    const q = m ? +m[1] : 1, n = m ? +m[2] : 1;
+    const main = $("main");
+    let data;
+    try {
+      const [books, qd] = await Promise.all([getJSON("data/bible/books.json"), getJSON(`data/course/q${String(q).padStart(2, "0")}.json`)]);
+      BOOKS = Object.fromEntries(books.map(b => [b.osis, b]));
+      data = qd;
+    } catch (e) {
+      main.replaceChildren(el("p", { class: "missing", text: "This lesson isn't ready yet." }));
+      return;
+    }
+    const L = data.lessons.find(x => x.n === n);
+    if (!L) { main.replaceChildren(el("p", { class: "missing", text: "This lesson isn't ready yet." })); return; }
+    const secId = C.lessonSection(q, n) || C.quarters[q - 1], sec = C.sections[secId];
+    document.documentElement.style.setProperty("--c", sec.c);
+    document.documentElement.style.setProperty("--ink-c", sec.ink);
+    document.title = `${pick(L.title)} · ${ZH ? "完整的聖經故事" : "The Complete Bible Story"}`;
+    const year = Math.floor((q - 1) / 4) + 1, qy = (q - 1) % 4 + 1;
+
+    const band = el("header", { class: "band" },
+      el("img", { src: C.icon(secId), alt: "", width: "64", height: "64" }),
+      el("div", {},
+        el("p", { class: "where", translate: "no", text: ZH ? `第${year}年 · 第${qy}季 · 第${n}課` : `Year ${year} · Quarter ${qy} · Lesson ${n}` }),
+        el("p", { class: "sec", translate: "no", text: pick(sec) })),
+      el("div", { class: "band-tools" },
+        el("a", { class: "tbtn", href: "course.html", html: svg("back") + `<span>${ZH ? "所有課程" : "All lessons"}</span>`, translate: "no" }),
+        (() => { const b = el("button", { class: "tbtn", type: "button", html: svg("print") + `<span>${ZH ? "列印" : "Print"}</span>`, translate: "no" }); b.onclick = () => print(); return b; })()));
+
+    const passages = el("div", { class: "passages" }, ...L.passages.map(r => el("a", { href: readerLink(r), translate: "no", html: svg("book") + `<span></span>` })));
+    [...passages.children].forEach((a, i) => { a.querySelector("span").textContent = label(L.passages[i]); });
+
+    const card = (k, icon, title, ...kids) => el("section", { class: "card k-" + k }, el("h2", {}, el("i", { html: svg(icon) }), el("span", { text: title, translate: "no" })), ...kids);
+    const quote = el("blockquote", { translate: "no", lang: ZH ? "zh-Hant" : "en" });
+    const keyCard = card("key", "quote", ZH ? "經文" : "Key passage", quote, el("a", { class: "ref", href: readerLink(L.key), translate: "no", text: label(L.key) }));
+    keyCard.classList.add("key");
+    const points = card("points", "list", ZH ? "重點" : "Key points", el("ol", { class: "points", translate: "no" }, ...(ZH ? L.points.zh : L.points.en).map(s => el("li", { text: s }))));
+    const readings = card("read", "link", ZH ? "相關經文" : "Related readings", el("ul", { class: "readings", translate: "no" }, ...L.readings.map(r => el("li", {}, el("a", { href: readerLink(r.ref) }, el("b", { text: label(r.ref) }), el("span", { text: pick(r.about) }))))));
+    const hist = card("hist", "scroll", ZH ? "歷史背景" : "Historical background", el("ul", { class: "list", translate: "no" }, ...(ZH ? L.history.zh : L.history.en).map(s => el("li", { text: s }))));
+
+    // Resources: the passage in the reader, the chapter in Connections, maps, Felt Stories.
+    const MAPS = { "western-asia": ["Western Asia", "西亞"], exodus: ["The Exodus", "出埃及"], "palestine-history": ["The land in Old Testament times", "舊約時代的迦南地"], kingdoms: ["Judah and Israel", "猶大和以色列"], empires: ["Assyria, Babylon, Persia", "亞述、巴比倫、波斯"], palestine: ["The land in Jesus' day", "耶穌時代的巴勒斯坦"], "roman-empire": ["Paul's travels", "保羅的旅程"], jerusalem: ["Ancient Jerusalem", "古耶路撒冷"], atlas: ["Historical atlas", "歷史地圖集"] };
+    const res = [];
+    const R = (href, icon, color, title, sub) => { const a = el("a", { href, translate: "no", "data-print": "" }, el("i", { html: svg(icon), style: `background:${color}` }), el("span", {}, document.createTextNode(title), el("small", { text: sub }))); return a; };
+    res.push(R(readerLink(L.passages[0]), "book", "#2646a1", ZH ? "閱讀經文" : "Read the passage", label(L.passages[0])));
+    if (L.connections) { const p = parse(L.connections); res.push(R(`graph.html#${slugHash(p.b)}-${p.c1}`, "web", "#0f8c83", ZH ? "關聯" : "Connections", ZH ? "人物、地點和串珠" : "People, places, cross references")); }
+    for (const mId of L.maps || []) res.push(R(`maps/${mId}.html`, "map", "#bf5a1f", ZH ? "地圖" : "Map", MAPS[mId] ? MAPS[mId][ZH ? 1 : 0] : mId));
+    if (L.felt) res.push(R(`storyboard.html#${L.felt.story ? "story=" + encodeURIComponent(L.felt.story) : "find=" + encodeURIComponent(L.felt.find)}`, "felt", sec.c === "#000000" ? "#333" : sec.ink, ZH ? "絨布故事" : "Felt Stories", ZH ? "布置這個故事的場景" : "Set the scene for this story"));
+    res.push(R("history.html", "time", "#a8790a", ZH ? "時間線" : "Timeline", ZH ? "聖經與世界歷史" : "The Bible and world history"));
+    const resCard = card("res", "compass", ZH ? "資源" : "Resources", el("div", { class: "res" }, ...res));
+
+    const sheet = el("article", { class: "sheet" }, band,
+      el("div", { class: "body" }, el("h1", { translate: "no", text: pick(L.title) }), passages,
+        el("div", { class: "grid" }, el("div", { class: "col" }, keyCard, points), el("div", { class: "col" }, readings, hist, resCard))));
+    main.replaceChildren(sheet);
+
+    // The lessons before and after, across quarters.
+    const prev = n > 1 ? [q, n - 1] : q > 1 ? [q - 1, 12] : null, next = n < 12 ? [q, n + 1] : q < 12 ? [q + 1, 1] : null;
+    const foot = $("foot");
+    foot.replaceChildren();
+    const link = (pair, cls, text) => el("a", { class: cls, href: `lesson.html#q${pair[0]}-${pair[1]}`, translate: "no" }, document.createTextNode(text), el("b", { text: "" }));
+    if (prev) foot.append(link(prev, "prev", ZH ? "← 上一課" : "← Previous lesson"));
+    if (next) foot.append(link(next, "next", ZH ? "下一課 →" : "Next lesson →"));
+    // Their titles, from their quarters.
+    for (const [a, pair] of [[foot.querySelector(".prev"), prev], [foot.querySelector(".next"), next]]) {
+      if (!a) continue;
+      getJSON(`data/course/q${String(pair[0]).padStart(2, "0")}.json`).then(d => { const x = d.lessons.find(y => y.n === pair[1]); if (x) a.querySelector("b").textContent = pick(x.title); }).catch(() => {});
+    }
+    scrollTo(0, 0);
+    keyVerses(L.key).then(vs => { quote.replaceChildren(...vs.flatMap(([v, t], i) => [el("sup", { text: String(v) }), document.createTextNode(t + (i < vs.length - 1 ? " " : ""))])); }).catch(() => {});
+  }
+  addEventListener("hashchange", show);
+  show();
+})();
+</script>
+</body>
+</html>

@@ -47,11 +47,15 @@ main { max-width: 1040px; margin-inline: auto; padding-block: clamp(28px, 6vw, 5
 h1 { margin: 0 0 6px; font: 300 clamp(38px, 7vw, 58px)/1.02 var(--read); letter-spacing: -0.02em; }
 .theme { margin: 0 0 14px; font: 500 clamp(19px, 3vw, 23px)/1.3 var(--read); }
 .lede { margin: 0 0 18px; max-width: 680px; color: var(--muted); }
-.legend { display: flex; flex-wrap: wrap; gap: 8px 16px; margin: 0 0 30px; padding: 12px 14px; border-radius: 12px; background: var(--lapis-soft); font: 500 13px/1.3 var(--sans); }
-.legend span { display: inline-flex; align-items: center; gap: 6px; }
-.tag { display: inline-block; padding: 1px 7px; border-radius: 99px; font: 700 10.5px/1.6 var(--sans); letter-spacing: 0.03em; text-transform: uppercase; vertical-align: 1px; }
-.tag.new { background: color-mix(in srgb, #2f8a3c 16%, transparent); color: #2f7d3a; }
-.tag.chg { background: color-mix(in srgb, #c06a00 16%, transparent); color: #a35a00; }
+.parts { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 32px; }
+.parts a { display: block; border-radius: 50%; transition: transform .15s; }
+.parts a:hover { transform: scale(1.08); }
+.parts img { display: block; width: 52px; height: 52px; }
+.q-icon { flex: none; width: 52px; height: 52px; }
+.q li a { display: block; color: inherit; text-decoration: none; }
+.q li:hover:not(.review) { background: color-mix(in srgb, var(--c) 7%, transparent); }
+.q li.other::before { color: var(--c2); }
+.q li.soon { color: var(--muted); font-style: italic; }
 .year { margin: 0 0 40px; }
 .year > h2 { display: flex; align-items: baseline; gap: 12px; margin: 0 0 14px; padding-bottom: 8px; border-bottom: 1px solid var(--line); font: 400 30px/1.2 var(--read); }
 .year > h2 small { font: 500 14px/1.2 var(--sans); color: var(--muted); }
@@ -63,17 +67,12 @@ h1 { margin: 0 0 6px; font: 300 clamp(38px, 7vw, 58px)/1.02 var(--read); letter-
 .q-head h3 { margin: 2px 0 2px; font: 500 21px/1.2 var(--read); }
 .q-head small { display: block; font: 400 13px/1.3 var(--sans); color: var(--muted); }
 .q ol { margin: 0; padding: 6px 0 8px; list-style: none; counter-reset: wk; }
-.q li { counter-increment: wk; display: grid; grid-template-columns: 34px 1fr; gap: 0 6px; padding: 7px 16px 7px 10px; font: 400 15px/1.35 var(--sans); }
+.q li { counter-increment: wk; display: grid; grid-template-columns: 34px 1fr; gap: 0 6px; padding: 8px 16px 8px 10px; font: 500 15px/1.35 var(--sans); }
 .q li + li { border-top: 1px solid color-mix(in srgb, var(--line) 70%, transparent); }
-.q li::before { content: counter(wk); grid-row: span 2; justify-self: end; padding-right: 6px; font: 600 13px/1.6 var(--sans); color: var(--c2, var(--c)); font-variant-numeric: tabular-nums; }
+.q li::before { content: counter(wk); justify-self: end; padding-right: 6px; font: 700 13px/1.6 var(--sans); color: var(--c2, var(--c)); font-variant-numeric: tabular-nums; }
 .q li .t { font-weight: 500; }
-.q li .r { font-size: 13px; color: var(--muted); }
-.q li .note { display: block; font-size: 12.5px; color: #a35a00; }
 .q li.review { background: color-mix(in srgb, var(--c) 6%, transparent); }
 .q li.review .t { font-style: italic; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .tag.new { color: #7fd38f; } :root:not([data-theme="light"]) .tag.chg, :root:not([data-theme="light"]) .q li .note { color: #f2b45a; } }
-:root[data-theme="dark"] .tag.new { color: #7fd38f; } :root[data-theme="dark"] .tag.chg, :root[data-theme="dark"] .q li .note { color: #f2b45a; }
-</style>
 </head>
 <body>
 <header class="appbar">
@@ -84,206 +83,60 @@ h1 { margin: 0 0 6px; font: 300 clamp(38px, 7vw, 58px)/1.02 var(--read); letter-
   <p class="kicker">Resource Room · Teaching Resources</p>
   <h1>The Complete Bible Story</h1>
   <p class="theme">The Bible tells one complete story.</p>
-  <p class="lede">The major stories and themes of the whole Bible, from Genesis to Revelation, in three years: twelve quarters of thirteen weeks, each quarter one part of the story. Each week is one lesson; the thirteenth week of each quarter is kept for review, catching up, or a missed Sunday.</p>
-  <p class="legend" aria-label="What the marks mean"><span><span class="tag new">New</span> a lesson suggested to fill a quarter</span><span><span class="tag chg">Changed</span> a title adjusted from the first outline</span></p>
+  <p class="lede">The major stories and themes of the whole Bible, from Genesis to Revelation, in three years: twelve quarters of thirteen weeks, each quarter one part of the story. Each week is one lesson, on one page; the thirteenth week of each quarter is kept for review.</p>
+  <div class="parts" id="parts" aria-label="The twelve parts of the story"></div>
   <div id="plan"></div>
 </main>
+<script src="course-data.js?v=1"></script>
 <script>
-// The plan: three years, four quarters each. Each quarter is one part of the story, with its color
-// from the outline. Each lesson: [title, passage, mark], where mark is "n" (a new lesson suggested),
-// or a note on a change to the first outline's title.
-const PLAN = [
-  { title: "God Has a Plan", sub: "To unify all things in Christ", span: "Genesis 1–11; Job", c: "#e5322d", lessons: [
-    ["God's plan: all things in Christ", "Ephesians 1:3–10; Colossians 1:15–20", "n"],
-    ["God creates the universe", "Genesis 1"],
-    ["God creates man", "Genesis 2"],
-    ["The garden of Eden and the fall", "Genesis 3"],
-    ["God's first promise", "Genesis 3:15; Galatians 4:4–5", "n"],
-    ["Cain and Abel", "Genesis 4"],
-    ["Evil on the earth; Noah builds the ark", "Genesis 6"],
-    ["The flood; Noah sends the dove", "Genesis 7–8"],
-    ["God's covenant and the rainbow", "Genesis 9:1–17", "n"],
-    ["The tower of Babel", "Genesis 11:1–9"],
-    ["Job: everything taken", "Job 1–2", "Job, in two lessons"],
-    ["Job: God answers", "Job 38–42", "Job, in two lessons"] ] },
-  { title: "God Calls the Patriarchs", sub: "Abraham, Isaac, Jacob and Joseph", span: "Genesis 12–41", c: "#f28b1e", lessons: [
-    ["God calls Abram", "Genesis 12:1–9"],
-    ["Abram blessed by Melchizedek", "Genesis 14:17–24"],
-    ["God's promise: land, nation, and a blessing for every nation", "Genesis 15; 17; Galatians 3:8, 16"],
-    ["Sodom and Gomorrah; the pillar of salt", "Genesis 18–19"],
-    ["Abraham's sacrifice", "Genesis 22"],
-    ["Isaac and Rebekah", "Genesis 24"],
-    ["Jacob and Esau", "Genesis 25:19–34; 27"],
-    ["Jacob works for Rachel and Leah; Laban changes his wages", "Genesis 29–31", "Two lessons joined"],
-    ["The twelve sons of Jacob", "Genesis 29:31–30:24; 35:16–26"],
-    ["God renames Jacob Israel; Jacob meets Esau", "Genesis 32–33", "Two lessons joined"],
-    ["Joseph's coat of many colors", "Genesis 37"],
-    ["Joseph and the king's dreams", "Genesis 39–41"] ] },
-  { title: "God Multiplies His People", sub: "From one family to a nation in Egypt", span: "Genesis 42–50; Exodus 1–15", c: "#f2c12e", on: "#3a2c00", lessons: [
-    ["Joseph meets his brothers", "Genesis 42–45"],
-    ["Jacob's family moves to Egypt", "Genesis 46–47; 50:15–21", "n"],
-    ["Jacob blesses his sons", "Genesis 49", "n"],
-    ["Israel multiplies and is enslaved", "Exodus 1", "n"],
-    ["Hiding baby Moses", "Exodus 2:1–10"],
-    ["Moses flees to Midian", "Exodus 2:11–25", "n"],
-    ["God calls Moses", "Exodus 3–4"],
-    ["Moses before Pharaoh", "Exodus 5–6", "n"],
-    ["The plagues begin", "Exodus 7–9", "The ten plagues, in two lessons"],
-    ["The last plagues", "Exodus 10–11", "The ten plagues, in two lessons"],
-    ["The Passover", "Exodus 12"],
-    ["The parting of the Red Sea", "Exodus 13:17–14:31"] ] },
-  { title: "God Leads His People", sub: "Through the wilderness to the promised land", span: "Exodus 16 – Joshua 6", c: "#8cc63f", on: "#1f3300", lessons: [
-    ["Manna and quail", "Exodus 16"],
-    ["Water from the rock", "Exodus 17:1–7", "n"],
-    ["God gives the law", "Exodus 19–20"],
-    ["The golden calf", "Exodus 32", "n"],
-    ["The tabernacle", "Exodus 25–27; 40", "n"],
-    ["Spies in the promised land", "Numbers 13–14"],
-    ["Korah's rebellion", "Numbers 16", "Was “Sons of Korah”: the story is Korah's rebellion"],
-    ["Wandering in the wilderness; the bronze serpent", "Numbers 14:26–35; 21:4–9"],
-    ["Balaam and Balak", "Numbers 22–24"],
-    ["Moses' last words; Joshua leads", "Deuteronomy 31; 34; Joshua 1", "n"],
-    ["Rahab and the spies", "Joshua 2"],
-    ["Israel enters the promised land: the Jordan and Jericho", "Joshua 3–6"] ] },
-  { title: "God Provides Judges", sub: "Deliverers, and a faithful family", span: "Judges; Ruth; 1 Samuel 1–8", c: "#4fae5c", lessons: [
-    ["The judges: an overview", "Judges 2:6–23"],
-    ["Deborah", "Judges 4–5"],
-    ["God calls Gideon", "Judges 6", "Gideon, in two lessons"],
-    ["Gideon's three hundred", "Judges 7", "Gideon, in two lessons"],
-    ["Samson's strength", "Judges 13–15", "Samson, in two lessons"],
-    ["Samson's fall and last prayer", "Judges 16", "Samson, in two lessons"],
-    ["Ruth and Naomi", "Ruth 1–2", "Ruth, in two lessons"],
-    ["Boaz the redeemer", "Ruth 3–4", "Ruth, in two lessons"],
-    ["Hannah's prayer", "1 Samuel 1–2", "n"],
-    ["God calls Samuel", "1 Samuel 3"],
-    ["The ark is captured", "1 Samuel 4–6", "n"],
-    ["Israel asks for a king", "1 Samuel 8", "n"] ] },
-  { title: "God Anoints Kings", sub: "Saul, David and Solomon", span: "1 Samuel 9 – 1 Kings 8; Psalms; Proverbs; Ecclesiastes", c: "#3fb4cb", on: "#00303a", lessons: [
-    ["Saul, the first king of Israel", "1 Samuel 9–10"],
-    ["Saul's disobedience", "1 Samuel 13; 15"],
-    ["Samuel anoints David", "1 Samuel 16", "n"],
-    ["David and Goliath", "1 Samuel 17"],
-    ["David hides from Saul", "1 Samuel 24; 26"],
-    ["David becomes king", "2 Samuel 2; 5"],
-    ["God's promise to David", "2 Samuel 7", "n"],
-    ["David's sin and repentance", "2 Samuel 11–12; Psalm 51", "n"],
-    ["Psalms: a sampling", "Psalms 1; 23; 100; 139"],
-    ["King Solomon", "1 Kings 3"],
-    ["Building the temple", "1 Kings 6; 8"],
-    ["Proverbs and Ecclesiastes: wisdom for life", "Proverbs 1–3; Ecclesiastes 3; 12", "Two lessons joined"] ] },
-  { title: "God Calls His People to Repent", sub: "The divided kingdom and the prophets", span: "1 Kings 12 – 2 Kings 2; Isaiah; Hosea; Jonah", c: "#2f7fd0", lessons: [
-    ["The kingdom divides; the kings of Israel and Judah", "1 Kings 12", "Two lessons joined"],
-    ["Elijah, the ravens and the widow", "1 Kings 17", "n"],
-    ["Elijah and the false prophets", "1 Kings 18"],
-    ["Elijah and the chariot of fire", "2 Kings 2:1–12"],
-    ["Elisha: the bears and the floating axe head", "2 Kings 2:23–25; 6:1–7"],
-    ["Naaman is healed", "2 Kings 5", "n"],
-    ["Jonah runs from God", "Jonah 1–2", "Jonah, in two lessons"],
-    ["Jonah and Nineveh", "Jonah 3–4", "Jonah, in two lessons"],
-    ["Hosea: God's promise to restore Israel", "Hosea 1–3; 14"],
-    ["Isaiah's calling", "Isaiah 6"],
-    ["Immanuel's birth prophesied", "Isaiah 7:14; 9:1–7"],
-    ["The suffering servant", "Isaiah 52:13–53:12"] ] },
-  { title: "God Exiles His People", sub: "Assyria, Babylon, and God's faithfulness there", span: "2 Kings 17–25; Jeremiah; Ezekiel; Daniel", c: "#3949a8", lessons: [
-    ["The exile of Israel", "2 Kings 17"],
-    ["Hezekiah's prayer", "2 Kings 18–19", "n"],
-    ["Josiah finds the law", "2 Kings 22–23", "n"],
-    ["Jeremiah's calling", "Jeremiah 1"],
-    ["Jeremiah: the potter and the new covenant", "Jeremiah 18; 31:31–34", "n"],
-    ["Jerusalem falls", "2 Kings 25; Lamentations 3:22–24", "n"],
-    ["Ezekiel's calling", "Ezekiel 1–3"],
-    ["The valley of dry bones", "Ezekiel 37", "n"],
-    ["Daniel and the vegetables", "Daniel 1"],
-    ["The fiery furnace", "Daniel 3"],
-    ["The writing on the wall", "Daniel 5", "n"],
-    ["Daniel in the lions' den", "Daniel 6"] ] },
-  { title: "God Brings His People Home", sub: "Return, rebuilding, and waiting for the promise", span: "Ezra; Nehemiah; Esther; the last prophets", c: "#7a4f9e", lessons: [
-    ["Repentance and return", "Daniel 9; Ezra 1"],
-    ["The temple rebuilt", "Ezra 3–6; Haggai 1", "n"],
-    ["Esther becomes queen", "Esther 1–4", "Esther, in two lessons"],
-    ["God saves his people through Esther", "Esther 5–9", "Esther, in two lessons"],
-    ["Ezra teaches the law", "Ezra 7–8", "n"],
-    ["Nehemiah rebuilds the walls", "Nehemiah 1–6", "Was “Rebuilding the Temple”: Nehemiah rebuilt Jerusalem's walls; the temple was rebuilt earlier, under Zerubbabel"],
-    ["The people hear the law", "Nehemiah 8", "n"],
-    ["Zechariah: the coming king", "Zechariah 9:9"],
-    ["Malachi: the messenger", "Malachi 3:1; 4:5–6", "n"],
-    ["Micah: the ruler from Bethlehem", "Micah 5:2", "n"],
-    ["Between the Testaments", "Four hundred years of waiting", "n"],
-    ["The angel's announcements: John and Jesus", "Luke 1", "n"] ] },
-  { title: "God Sends His Son", sub: "Jesus' birth and early ministry", span: "The Gospels", c: "#b65fa6", lessons: [
-    ["The birth of Jesus", "Luke 2:1–20"],
-    ["The wise men", "Matthew 2", "n"],
-    ["Jesus in the temple at twelve", "Luke 2:41–52"],
-    ["Jesus is baptized", "Matthew 3"],
-    ["Satan tempts Jesus in the wilderness", "Matthew 4:1–11"],
-    ["Jesus calls the apostles", "Mark 1:16–20; 3:13–19"],
-    ["Water into wine", "John 2:1–11"],
-    ["Jesus cleanses the temple", "John 2:13–22"],
-    ["The Sermon on the Mount", "Matthew 5–7"],
-    ["Jesus heals the centurion's servant", "Matthew 8:5–13"],
-    ["Jesus heals the lame man", "John 5:1–15"],
-    ["Jesus casts out Legion", "Mark 5:1–20"] ] },
-  { title: "God Sends His Son", sub: "Jesus' miracles, parables, death and resurrection", span: "The Gospels", c: "#b65fa6", lessons: [
-    ["Feeding the five thousand", "John 6:1–14"],
-    ["Jesus walks on water", "Matthew 14:22–33"],
-    ["Healing on the Sabbath", "Luke 13:10–17"],
-    ["The parable of the mustard seed", "Matthew 13:31–32"],
-    ["The good Samaritan", "Luke 10:25–37"],
-    ["The prodigal son", "Luke 15:11–32"],
-    ["The rich man and Lazarus", "Luke 16:19–31"],
-    ["Jesus raises Lazarus", "John 11"],
-    ["The widow's offering", "Mark 12:41–44"],
-    ["Jesus enters Jerusalem", "Mark 11:1–11"],
-    ["The Lord's Supper; Jesus washes his disciples' feet", "John 13; Luke 22:7–20"],
-    ["Jesus' death, burial and resurrection", "Luke 23–24"] ] },
-  { title: "Christ Establishes the Church", sub: "And God unifies all things in Christ", span: "Acts; the letters; Revelation", c: "#e8417a", lessons: [
-    ["Jesus ascends", "Acts 1", "n"],
-    ["The day of Pentecost", "Acts 2"],
-    ["The death of Stephen", "Acts 6–7"],
-    ["Saul meets Jesus on the road", "Acts 9"],
-    ["Peter's vision: the sheet of animals", "Acts 10", "Was “Paul's Dream”: the sheet of animals was Peter's vision (Paul's vision was the man of Macedonia, Acts 16)"],
-    ["Paul's journeys", "Acts 13–14; 16", "n"],
-    ["The fruit of the Spirit", "Galatians 5:16–26"],
-    ["The armor of God", "Ephesians 6:10–18"],
-    ["Running the race", "Hebrews 12:1–3; 1 Corinthians 9:24–27"],
-    ["Faith and works", "James 2:14–26"],
-    ["Revelation: the throne and the Lamb", "Revelation 4–5", "Revelation, in two lessons"],
-    ["God unifies all things in Christ: a new heaven and a new earth", "Revelation 21–22; Ephesians 1:10", "Revelation, in two lessons"] ] },
-];
-const YEARS = [["Year one", "Genesis to Joshua"], ["Year two", "Judges to the exile"], ["Year three", "The return, the Gospels, the church"]];
-const T = s => (window.L && L.t ? L.t(s) : s);
-const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
-const box = document.getElementById("plan");
-PLAN.forEach((q, i) => {
-  const y = Math.floor(i / 4);
-  if (i % 4 === 0) {
-    const sec = el("section", "year"), h = el("h2", null, T(YEARS[y][0]));
-    h.append(el("small", null, T(YEARS[y][1])));
-    sec.append(h, el("div", "quarters"));
-    box.append(sec);
-  }
-  const card = el("article", "q");
-  card.style.setProperty("--c", q.c);
-  if (q.on) card.style.setProperty("--on", q.on), card.style.setProperty("--c2", q.on);
-  const head = el("div", "q-head"), txt = el("div");
-  head.append(el("span", "q-badge", String(i + 1)), txt);
-  txt.append(el("b", null, `${T("Quarter")} ${i % 4 + 1}`), el("h3", null, T(q.title)), el("small", null, `${T(q.sub)} · ${q.span}`));
-  const ol = el("ol");
-  for (const [t, r, m] of q.lessons) {
-    const li = el("li"), body = el("span");
-    const tt = el("span", "t", T(t));
-    if (m === "n") { tt.append(" "); tt.append(el("span", "tag new", T("New"))); }
-    else if (m) { tt.append(" "); tt.append(el("span", "tag chg", T("Changed"))); }
-    body.append(tt, el("br"), el("span", "r", r));
-    if (m && m !== "n") body.append(el("span", "note", T(m)));
-    li.append(body);
-    ol.append(li);
-  }
-  const rv = el("li", "review"); rv.append(el("span", "t", T("Review, or catching up")));
-  ol.append(rv);
-  card.append(head, ol);
-  box.lastElementChild.querySelector(".quarters").append(card);
-});
+// The twelve quarters, each from data/course/qNN.json, with the outline's names, colors and icons.
+(() => {
+  const C = window.COURSE, ZH = C.zh();
+  const pick = o => (o ? (ZH && o.zh ? o.zh : o.en) : "");
+  const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
+  // The parts of the story, as a strip of the outline's icons.
+  document.getElementById("parts").replaceChildren(...C.order.map((id, i) => {
+    const q = C.quarters.indexOf(id) + 1 || 12;
+    const a = el("a", "part"); a.href = "#quarter-" + q; a.title = pick(C.sections[id]); a.setAttribute("translate", "no");
+    const img = el("img"); img.src = C.icon(id); img.alt = pick(C.sections[id]); img.width = 52; img.height = 52;
+    a.append(img); return a;
+  }));
+  const box = document.getElementById("plan");
+  Promise.all(C.quarters.map((_, i) => fetch(`data/course/q${String(i + 1).padStart(2, "0")}.json`).then(r => (r.ok ? r.json() : null)).catch(() => null))).then(qs => {
+    qs.forEach((data, i) => {
+      const q = i + 1, y = Math.floor(i / 4), secId = C.quarters[i], sec = C.sections[secId];
+      if (i % 4 === 0) {
+        const s = el("section", "year"), h = el("h2", null, pick(C.years[y]));
+        h.setAttribute("translate", "no");
+        h.append(el("small", null, pick(C.years[y].span)));
+        s.append(h, el("div", "quarters"));
+        box.append(s);
+      }
+      const card = el("article", "q"); card.id = "quarter-" + q;
+      card.style.setProperty("--c", sec.c); card.style.setProperty("--c2", sec.ink);
+      const head = el("div", "q-head"), txt = el("div");
+      const img = el("img", "q-icon"); img.src = C.icon(secId); img.alt = ""; img.width = 52; img.height = 52;
+      head.append(img, txt);
+      const part = q === 11 ? (ZH ? "（下）" : " (II)") : q === 10 ? (ZH ? "（上）" : " (I)") : "";
+      txt.append(el("b", null, ZH ? `第${(i % 4) + 1}季` : `Quarter ${(i % 4) + 1}`), el("h3", null, pick(sec) + part));
+      txt.setAttribute("translate", "no");
+      const ol = el("ol"); ol.setAttribute("translate", "no");
+      for (const L of (data && data.lessons) || []) {
+        const li = el("li"), a = el("a");
+        a.href = `lesson.html#q${q}-${L.n}`;
+        const ls = C.lessonSection(q, L.n);
+        if (ls) { li.classList.add("other"); li.style.setProperty("--c2", C.sections[ls].ink); }
+        a.append(el("span", "t", pick(L.title)));
+        li.append(a); ol.append(li);
+      }
+      if (!data) ol.append(el("li", "soon", ZH ? "即將推出" : "Coming soon"));
+      const rv = el("li", "review"); rv.append(el("span", "t", ZH ? "複習" : "Review"));
+      ol.append(rv);
+      card.append(head, ol);
+      box.lastElementChild.querySelector(".quarters").append(card);
+    });
+  });
+})();
 </script>
 </body>
 </html>

@@ -1118,7 +1118,18 @@
     pickItems([]);
   }, true);
 
+  // A link from a lesson: #story=noah opens that story's drawer; #find=word searches the drawers.
+  function fromHash() {
+    const h = new URLSearchParams(location.hash.slice(1));
+    if (h.get("story") && storyById[h.get("story")]) { tab = "stories"; story = h.get("story"); query = ""; $("find").value = ""; }
+    else if (h.get("find")) { query = h.get("find"); $("find").value = query; }
+    else return;
+    openDrawer(true); renderTabs(); renderTray();
+    history.replaceState(null, "", location.pathname);
+  }
+  addEventListener("hashchange", fromHash);
+
   renderTabs(); renderTray(); openDrawer(true); render(); showName(); persist();
-  incoming();
+  incoming(); fromHash();
   Sync.run();
 })();
