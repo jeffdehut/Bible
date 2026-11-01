@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, 1 John, Jude drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, 1 and 2 John, Jude drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1688,6 +1688,16 @@ Settled while drafting 1 John:
 | μονογενής (4:9) | 獨生子 | As John 3:16; *monogenes* noted. |
 | 5:6–8 | 藉着水和血來的……作見證的有三個：就是聖靈、水和血，而這三者是一致的 | Water and blood noted (John 19:34). The Johannine Comma (TR, KJV) not in the text, translated in the note at 5:7, as the English; 和合本 numbering (5:6b = its 7; 5:7–8 = its 8) noted. |
 | Names | 該隱 | |
+
+Settled while drafting 2 and 3 John:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| ὁ πρεσβύτερος (2 John 1; 3 John 1) | 作長老的，致…… | *presbyteros* noted; the opening as Romans (致……, no verb). |
+| ἐκλεκτὴ κυρία (2 John 1, 5); ἡ ἀδελφή σου ἡ ἐκλεκτή (13) | 蒙揀選的夫人；夫人哪；你那蒙揀選的姊妹 | The readings as names (*Kyria*, *Electa*) and as a figure for a church (1 Peter 5:13) noted; 和合本「太太」 noted. |
+| ἐν ἀληθείᾳ; περιπατέω ἐν ἀληθείᾳ | 在真理中 (或譯「真誠地」)；在真理中行 | 1 John's vocabulary throughout (住在, 敵基督, 迷惑人的, 在肉身中來的). |
+| χαίρειν λέγω (2 John 10–11) | 問安 | 直譯「說『願你喜樂！』」 noted, as James 1:1. |
+| στόμα πρὸς στόμα | 當面 | 直譯「口對口」 noted. |
 
 ## Style
 
