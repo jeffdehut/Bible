@@ -2164,5 +2164,10 @@ I18N.add({
  "“you”": "「你／你們」",
  "← The Bible Maps": "← 聖經地圖",
  "＋": "＋",
- "＋ New marking": "＋ 新標記"
+ "＋ New marking": "＋ 新標記",
+ "On top": "上方",
+ "The version you read.": "你閱讀的版本。",
+ "Underneath": "下方",
+ "A second version under each verse, to compare them verse by verse.": "每節經文下方的第二個版本，逐節對照。",
+ "Original languages": "原文"
 });
