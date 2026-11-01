@@ -1,6 +1,6 @@
 # Translation status
 
-1103 of 1,189 chapters translated: 1103 draft, 0 checked, 0 reviewed, 0 approved.
+1111 of 1,189 chapters translated: 1111 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -53,3 +53,5 @@
 | 2 Corinthians | 13 | 13 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 |
 | Galatians | 6 | 6 |  |  |  | 1, 2, 3, 4, 5, 6 |
 | Ephesians | 6 | 6 |  |  |  | 1, 2, 3, 4, 5, 6 |
+| Philippians | 4 | 4 |  |  |  | 1, 2, 3, 4 |
+| Colossians | 4 | 4 |  |  |  | 1, 2, 3, 4 |
