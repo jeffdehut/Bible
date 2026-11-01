@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=40"></script>
+<script src="i18n.js?v=41"></script>
 <script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
@@ -195,6 +195,35 @@ mark.hls[data-s="strike"] { text-decoration: line-through var(--c); text-decorat
 .sticky { display: inline-block; width: 0.82em; height: 0.82em; margin: 0 0.12em 0 0.08em; vertical-align: 0.42em; cursor: pointer; line-height: 0; border-radius: 2px; }
 .sticky svg { width: 100%; height: 100%; display: block; overflow: visible; }
 .sticky:hover, .sticky:focus-visible { transform: scale(1.18); outline: none; }
+.sticky.sk-mark { color: var(--lapis); }
+.sticky.sk-mark svg { fill: none; stroke: currentColor; }
+/* The sketchbook: each sketch on its paper, its passage under it. */
+.sk-grid { list-style: none; margin: 12px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 14px; }
+.sk-grid li { position: relative; }
+.sk-grid .card { display: grid; gap: 6px; width: 100%; padding: 0; border: 0; background: none; color: inherit; text-align: left; cursor: pointer; font: inherit; }
+.sk-grid .card .sk-pic { width: 100%; height: auto; aspect-ratio: 1; box-shadow: 0 1px 2px rgb(0 0 0 / 12%), 0 4px 12px rgb(60 45 10 / 14%); transition: transform .15s; }
+.sk-grid .card:hover .sk-pic { transform: rotate(-1deg) scale(1.02); }
+.sk-grid .card b { font: 600 14px/1.25 var(--sans); }
+.sk-grid .card small { font: 400 13px/1.35 var(--read); color: var(--muted); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.sk-grid .pick { position: absolute; top: 6px; left: 6px; width: 24px; height: 24px; accent-color: var(--lapis); display: none; }
+.sk-grid.picking .pick { display: block; }
+.sk-grid.picking li.on .sk-pic { outline: 3px solid var(--lapis); outline-offset: 2px; }
+#sketchbook .empty { margin: 12px 0; color: var(--muted); }
+#vwords .sk-pic { width: 64px; height: 64px; cursor: pointer; box-shadow: 0 1px 3px rgb(0 0 0 / 16%); }
+/* Printing sketches: each at its true size, three inches square, with its passage. */
+#print-sketches { display: none; }
+#ink { position: absolute; left: 0; top: 0; z-index: 3; pointer-events: none; overflow: visible; color: var(--ink); }
+body.inking #ink { pointer-events: auto; cursor: crosshair; }
+body.inking .listen, body.inking .auto { display: none; }
+@media print { #ink { display: none; } }
+@media print {
+  body.print-sketches > *:not(#print-sketches) { display: none !important; }
+  body.print-sketches #print-sketches { display: grid !important; grid-template-columns: repeat(2, 3in); gap: 0.45in 0.6in; justify-content: center; padding-top: 0.3in; }
+  #print-sketches figure { margin: 0; break-inside: avoid; }
+  #print-sketches .sk-pic { width: 3in; height: 3in; border: 0.5pt solid #ccc; print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+  #print-sketches figcaption { margin-top: 6pt; font: 600 10pt/1.3 var(--sans); color: #000; }
+  #print-sketches figcaption span { display: block; font: italic 400 9pt/1.3 var(--read); color: #444; }
+}
 #nc-quote { margin: 0 0 10px; font: 400 17px/1.5 var(--read); color: var(--muted); }
 #nc-quote b { color: var(--ink); font-weight: 500; }
 #nc-text { width: 100%; min-height: 120px; }
@@ -1105,7 +1134,8 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="sheet-head"><h2 id="menu-title">BibleData.org</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="site-menu"><!-- nav.js: the site's menu, the same on every page --></div>
 </section>
-<script src="nav.js?v=40"></script>
+<script src="nav.js?v=41"></script>
+<script src="sketch.js?v=1"></script>
 
 <section class="ui-sheet sheet dialog" id="mine" hidden aria-labelledby="mine-title">
   <div class="grab"></div>
@@ -1132,6 +1162,18 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="account-title">Sync across devices</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="account-body"></div>
+</section>
+
+<section class="ui-sheet sheet dialog" id="sketchbook" hidden aria-labelledby="sketchbook-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="sketchbook-title">Sketchbook</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <p class="hint">Your sketches, each with the words it was drawn for. Tap one to open it, draw more, or share it. To make one, choose some words and tap Sketch.</p>
+  <div class="actions" id="sb-actions">
+    <button class="btn line" type="button" id="sb-select">Select to print</button>
+    <button class="btn solid" type="button" id="sb-print" hidden>Print</button>
+    <button class="btn line" type="button" id="sb-cancel" hidden>Cancel</button>
+  </div>
+  <ol class="sk-grid" id="sb-list"></ol>
 </section>
 
 <section class="ui-sheet sheet dialog" id="notecard" hidden aria-labelledby="nc-title">
@@ -2077,6 +2119,7 @@ function renderVerseMenu(id, span, row) {
     setEmoji: x => whole(() => emojiSelection(x))(),
     clearEmoji: whole(() => clearEmoji()),
     note: whole(() => noteSelection()),
+    sketch: whole(() => sketchSelection()),
     bookmarked: !!a().b,
     bookmark: () => { const on = !!a().b; setBookmark(id, on ? null : id); toast(!on ? L.t("Bookmarked {ref}", { ref: passageLabel(id) }) : "Bookmark removed"); renderVerseMenu(id, span, row); },
     copy: () => copyVerse(row),
@@ -2968,7 +3011,7 @@ function osisOrder(id) {
 }
 function renderMine() {
   const list = $("mine-list"); list.textContent = "";
-  const ids = Object.keys(notes).filter(id => byOsis[id.split(".")[0]] && (notes[id].h || notes[id].n || notes[id].r)).sort((a, b) => osisOrder(a) - osisOrder(b));
+  const ids = Object.keys(notes).filter(id => byOsis[id.split(".")[0]] && (notes[id].h || notes[id].n || (notes[id].r || []).some(q => q[2] !== "i"))).sort((a, b) => osisOrder(a) - osisOrder(b));
   if (!ids.length) { list.append(el("li", { class: "empty", text: "No highlights or notes yet. Tap a verse to add one." })); return; }
   for (const id of ids) {
     const [o, c, v] = id.split(".");
@@ -2978,7 +3021,8 @@ function renderMine() {
       a.n ? el("span", { class: "n", text: a.n }) : null,
       // Notes on words, and your markings, in the verse.
       ...(a.r || []).filter(q => q[2] === "n" && q[3]).map(q => el("span", { class: "n", text: "✎ " + q[3] })),
-      (a.r || []).some(q => q[2] === "e") ? el("span", { class: "n" }, ...a.r.filter(q => q[2] === "e").map(q => emojiEl("span", q[3], { class: "emo" }))) : null)));
+      (a.r || []).some(q => q[2] === "e") ? el("span", { class: "n" }, ...a.r.filter(q => q[2] === "e").map(q => emojiEl("span", q[3], { class: "emo" }))) : null,
+      (a.r || []).some(q => q[2] === "d") ? el("span", { class: "n" }, ...a.r.filter(q => q[2] === "d").map(q => Sketch.picture(q[3], { size: 40 }))) : null)));
   }
 }
 const embedded = (() => { try { return window.top !== window.self; } catch (e) { return true; } })();
@@ -3791,7 +3835,7 @@ function project(fromToks, toToks, s, e) {
   return hi < 0 ? null : [lo, hi];
 }
 // The wording a mark was made on (marks from before the maps: our own, in the site's language).
-const wordingOfMark = (q, b) => (q[2] === "n" || q[2] === "e" ? q[4] && q[4].w : q[3] && q[3].w) || defaultWording(b);
+const wordingOfMark = (q, b) => (q[2] === "n" || q[2] === "e" || q[2] === "d" || q[2] === "i" ? q[4] && q[4].w : q[3] && q[3].w) || defaultWording(b);
 const defaultWording = b => (LANG === "en" || !(LB[LANG] || {})[b.osis]) ? "ours-en" : "ours-" + LANG;
 // After a chapter is shown: the maps it needs, then its marks from other wordings, and the study
 // markings in a version.
@@ -3977,6 +4021,7 @@ function swatchRow(current, pick, { pressed = true } = {}) {
 // was written on}]; start counts in verse f (or this one), end in this one.
 let freshAt = "";   // the note or emoji just made, which arrives with a little motion
 function noteSelection() { anchorSelection("n", ""); }
+function sketchSelection() { anchorSelection("d", ""); }
 function emojiSelection(emoji) {
   store.set("lastEmoji", emoji);
   if (editingEmoji) {
@@ -4000,7 +4045,8 @@ function anchorSelection(kind, value) {
   if (e >= countedText(last).map(n => n.data).join("").trimEnd().length) meta.e = 1;   // to the end of the verse, in every wording
   a.r = a.r || [];
   const same = x => x[0] === s && x[1] === e && (x[4]?.f || null) === (meta.f || null) && (x[4]?.w || meta.w) === meta.w;
-  let k = kind === "n" ? a.r.findIndex(x => x[2] === "n" && same(x)) : a.r.findIndex(x => x[2] === "e" && emojiName(x[3]) === value && same(x));
+  let k = kind === "n" ? a.r.findIndex(x => x[2] === "n" && same(x)) : kind === "e" ? a.r.findIndex(x => x[2] === "e" && emojiName(x[3]) === value && same(x)) : -1;
+  if (kind === "d") { delete meta.c; meta.t = Date.now(); newSketch({ id, s, e, meta, from: meta.f || id }); clearSel(); hlBar.hidden = true; return; }
   if (kind === "e" && k >= 0) {   // the same emoji on the same words again: take it off
     a.r.splice(k, 1); saveAnnotation(id, a); clearSel(); hlBar.hidden = true; repaint(id); toast("Emoji removed"); return;
   }
@@ -4016,6 +4062,7 @@ function anchorSelection(kind, value) {
 }
 // The wording a chapter is read in: a version, or our own translation in the site's language.
 const wordingOf = (chapter, b) => chapter.ver || (b && untranslated(b, chapter) ? "ours-en" : "ours-" + LANG);
+const PENCIL_SVG = '<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 17h3.6L16.5 7.1a1.8 1.8 0 0 0 0-2.6l-1-1a1.8 1.8 0 0 0-2.6 0L3 13.4Z" stroke-width="1.7" stroke-linejoin="round"/><path d="m11.5 5 3.5 3.5" stroke-width="1.7"/></svg>';
 const STICKY_SVG = c => `<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2h16v11l-5 5H2z" style="fill:var(--hl-${c});stroke:var(--ink-${c})" stroke-width="1.6" stroke-linejoin="round"/><path d="M13 18v-5h5" style="fill:var(--ink-${c});fill-opacity:.35;stroke:var(--ink-${c})" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.5 7h9M5.5 10.5h6" style="stroke:var(--ink-${c})" stroke-width="1.4" stroke-linecap="round" opacity=".7"/></svg>`;
 // Where a phrase stands in a verse, whole words, any case: [start, end], or null.
 function phraseIn(words, phrase) {
@@ -4041,7 +4088,7 @@ function placeStickies(span, id, a, wording, b) {
   const toToks = b && (mapNow(wording, b) || {})[c]?.[v];
   const words = countedText(span).map(n => n.data).join("");
   (a.r || []).forEach((q, k) => {
-    if (q[2] !== "n" && q[2] !== "e") return;
+    if (q[2] !== "n" && q[2] !== "e" && q[2] !== "d") return;
     const m = q[4] || {};
     const w = b ? wordingOfMark(q, b) : m.w || "ours-" + LANG;
     let at;
@@ -4056,7 +4103,10 @@ function placeStickies(span, id, a, wording, b) {
     const col = HL.includes(m.c) ? m.c : "yellow";
     let st;
     if (q[2] === "e") st = emojiEl("span", q[3], { class: "emo", role: "button", tabindex: "0", "data-k": k });
-    else {
+    else if (q[2] === "d") {
+      st = el("span", { class: "sticky sk-mark", role: "button", tabindex: "0", "data-k": k, "aria-label": L.t("Sketch"), title: L.t("Sketch") });
+      st.innerHTML = PENCIL_SVG;
+    } else {
       st = el("span", { class: "sticky", role: "button", tabindex: "0", "data-k": k, "aria-label": L.t("Note: {text}", { text: q[3] || "" }), title: q[3] || "" });
       st.innerHTML = STICKY_SVG(col);
     }
@@ -4101,6 +4151,7 @@ function repaintSpan(from, to) {
 // A nudge so the browser lays out and draws the verses again now: Safari can otherwise leave a
 // note or emoji just put in the middle of a line undrawn until the page changes some other way.
 function redraw(spans) {
+  try { queueInk(); } catch (e) { /* before the ink layer is set up */ }
   for (const sp of spans) void sp.offsetHeight;
   requestAnimationFrame(() => { for (const sp of spans) { sp.style.transform = "translateZ(0)"; void sp.offsetHeight; sp.style.transform = ""; } });
 }
@@ -4198,6 +4249,371 @@ function ncLeave() {
   const a = notes[id];
   if (a && a.r && a.r[k]) { a.r[k][3] = $("nc-text").value; if (!a.r[k][3].trim()) deleteNote(id, k); else { saveAnnotation(id, a); repaint(id); } }
 }
+/* ---------- Sketches: a drawing kept with the words it was drawn for ---------- */
+// Kept in the verse's ranges as [start, end, "d", strokes, meta] (sketch.js keeps the strokes as
+// text), beside the notes: so a sketch syncs and backs up with them, and is found in every
+// version as a note is. Shown in the text as a small pencil.
+const sketchTitle = (id, m) => (m.f ? passageLabel(m.f, id) : passageLabel(id));
+const sketchQuote = m => (m.q ? `“${m.q.length > 140 ? m.q.slice(0, 140) + "…" : m.q}”` : "");
+function newSketch({ id, s, e, meta, from }) {
+  Sketch.open({
+    title: sketchTitle(id, meta), sub: sketchQuote(meta), data: "",
+    onSave: d => {
+      if (!d) return;
+      const a = notes[id] || {};
+      const live = (a.r || []).find(q => q[2] === "d" && q[4] === meta);
+      if (live) { if (live[3] === d) return; live[3] = d; }
+      else { a.r = a.r || []; a.r.push([s, e, "d", d, meta]); }
+      saveAnnotation(id, a);
+      freshAt = id + ":" + (a.r.length - 1);
+      repaintSpan(from, id);
+      freshAt = "";
+      renderSketchbook();
+    },
+    onShare: d => shareSketch(id, meta, d),
+  });
+}
+function openSketch(id, k, fromBook) {
+  const a = notes[id], q = a && a.r && a.r[k];
+  if (!q || q[2] !== "d") return;
+  const m = q[4] = q[4] || {};
+  const where = () => (notes[id]?.r || []).indexOf(q);
+  Sketch.open({
+    title: sketchTitle(id, m), sub: sketchQuote(m), data: q[3],
+    onSave: d => {
+      const i = where(); if (i < 0) return;
+      if (!d) notes[id].r.splice(i, 1);
+      else if (q[3] === d) return;
+      else q[3] = d;
+      saveAnnotation(id, notes[id] || {});
+      repaintSpan(m.f || id, id);
+      renderSketchbook();
+    },
+    onDelete: () => {
+      const i = where(); if (i < 0) return;
+      notes[id].r.splice(i, 1); saveAnnotation(id, notes[id]); repaintSpan(m.f || id, id); renderSketchbook(); toast("Sketch deleted");
+    },
+    onShare: d => shareSketch(id, m, d),
+    onGo: fromBook ? () => { closeSheets(); const [o, c, v] = (m.f || id).split("."); go(byOsis[o], +c, +v); } : null,
+  });
+}
+function shareSketch(id, m, d) {
+  const [o, c, v] = (m.f || id).split(".");
+  Share.sketch({ paths: Sketch.paths(d), unit: Sketch.PAD, paper: Sketch.PAPER, ref: sketchTitle(id, m), quote: m.q || "",
+    url: Share.here("index.html", refHash(byOsis[o], +c, +v)).replace(/index\.html#/, "#") });
+}
+// The sketchbook: every sketch, the newest first.
+const allSketches = () => Object.entries(notes).flatMap(([id, a]) => (a.r || []).map((q, k) => [id, k, q]).filter(([, , q]) => q[2] === "d" && q[3]))
+  .sort((x, y) => ((y[2][4] || {}).t || 0) - ((x[2][4] || {}).t || 0) || osisOrder(x[0]) - osisOrder(y[0]));
+let sbPicking = false;
+const sbChosen = new Set();
+function renderSketchbook() {
+  const list = $("sb-list");
+  if (!list) return;
+  const all = allSketches();
+  list.classList.toggle("picking", sbPicking);
+  $("sb-select").hidden = sbPicking || !all.length;
+  $("sb-print").hidden = $("sb-cancel").hidden = !sbPicking;
+  $("sb-print").textContent = sbChosen.size ? L.t("Print {n}", { n: sbChosen.size }) : L.t("Print");
+  $("sb-print").disabled = !sbChosen.size;
+  if (!all.length) { list.replaceChildren(el("li", { class: "empty", text: L.t("No sketches yet. Choose some words, then tap Sketch.") })); return; }
+  list.replaceChildren(...all.map(([id, k, q]) => {
+    const m = q[4] || {}, key = id + ":" + k;
+    const li = el("li", { class: sbChosen.has(key) ? "on" : "" });
+    const pick = el("input", { type: "checkbox", class: "pick", "aria-label": L.t("Choose for printing") });
+    pick.checked = sbChosen.has(key);
+    pick.onchange = () => { if (pick.checked) sbChosen.add(key); else sbChosen.delete(key); renderSketchbook(); };
+    const card = el("button", { type: "button", class: "card", onclick: () => {
+      if (sbPicking) { pick.checked = !pick.checked; pick.onchange(); return; }
+      openSketch(id, k, true);
+    } }, Sketch.picture(q[3], { size: 160 }), el("b", { text: sketchTitle(id, m) }), m.q ? el("small", { text: m.q }) : null);
+    li.append(card, pick);
+    return li;
+  }));
+}
+$("open-sketchbook").onclick = () => { sbPicking = false; sbChosen.clear(); renderSketchbook(); openSheet("sketchbook"); };
+$("sb-select").onclick = () => { sbPicking = true; renderSketchbook(); };
+$("sb-cancel").onclick = () => { sbPicking = false; sbChosen.clear(); renderSketchbook(); };
+// Print the sketches chosen, at their true size: six to a page.
+$("sb-print").onclick = () => {
+  const chosen = allSketches().filter(([id, k]) => sbChosen.has(id + ":" + k));
+  if (!chosen.length) return;
+  let box = $("print-sketches");
+  if (!box) { box = el("div", { id: "print-sketches" }); document.body.append(box); }
+  box.replaceChildren(...chosen.map(([id, , q]) => {
+    const m = q[4] || {};
+    return el("figure", {}, Sketch.picture(q[3], { size: 288 }), el("figcaption", {}, sketchTitle(id, m), m.q ? el("span", { text: `“${m.q}”` }) : null));
+  }));
+  document.body.classList.add("print-sketches");
+  const done = () => { document.body.classList.remove("print-sketches"); removeEventListener("afterprint", done); };
+  addEventListener("afterprint", done);
+  setTimeout(() => window.print(), 50);
+};
+
+/* ---------- Ink on the page: drawing over the text ---------- */
+// Each stroke is kept with the word it was begun beside, in the verse's ranges as
+// [start, end, "i", strokes, {w, n}]: start and end the word, w the wording it was drawn on, n
+// which part of the verse (a verse of poetry is several lines). Its points are counted from the
+// word's top left in sixteenths of the text's size, so the ink keeps to its words when the text
+// is larger or smaller, or the lines break elsewhere. Shown on the wording it was drawn on.
+const INK_U = 16;
+const inkSvg = Sketch.svgEl("svg", { id: "ink", "aria-hidden": "true" });
+const inkLive = Sketch.svgEl("path");
+document.body.append(inkSvg);
+let inkShown = [], inkQueued = false, inking = false;
+const queueInk = () => { if (!inkQueued) { inkQueued = true; requestAnimationFrame(drawInk); } };
+function inkPart(sp) { const sec = sp.closest("section") || $("text"); return [...sec.querySelectorAll(`.v[data-id="${sp.dataset.id}"]`)].indexOf(sp); }
+// The top left of a verse's words from start to end, in page coordinates.
+function wordBox(sp, s, e) {
+  const r = document.createRange();
+  let pos = 0, set = false;
+  for (const node of countedText(sp)) {
+    const len = node.data.length;
+    if (!set && s <= pos + len) { r.setStart(node, Math.max(0, s - pos)); set = true; }
+    if (set && e <= pos + len) { r.setEnd(node, Math.max(0, e - pos)); break; }
+    pos += len;
+  }
+  if (!set) return null;
+  const rc = r.getClientRects()[0] || r.getBoundingClientRect();
+  if (!rc || (!rc.width && !rc.height)) return null;
+  return { x: rc.left + scrollX, y: rc.top + scrollY };
+}
+function drawInk() {
+  inkQueued = false;
+  const W = document.documentElement.clientWidth, H = document.documentElement.scrollHeight;
+  inkSvg.setAttribute("width", W); inkSvg.setAttribute("height", H);
+  inkSvg.style.width = W + "px"; inkSvg.style.height = H + "px";
+  inkShown = [];
+  for (const sp of $("text").querySelectorAll(".v")) {
+    const a = notes[sp.dataset.id];
+    if (!a || !a.r || !a.r.some(q => q[2] === "i")) continue;
+    const ctx = ctxOfNode(sp); if (!ctx) continue;
+    const here = wordingOf(ctx.chapter, ctx.b), part = inkPart(sp);
+    const f = (parseFloat(getComputedStyle(sp).fontSize) || 18) / INK_U;
+    a.r.forEach((q, k) => {
+      if (q[2] !== "i" || (q[4] || {}).w !== here || ((q[4] || {}).n || 0) !== part) return;
+      const box = wordBox(sp, q[0], q[1]); if (!box) return;
+      Sketch.decode(q[3]).forEach(st => {
+        const p = [];
+        for (let i = 0; i < st.p.length; i += 3) p.push(box.x + st.p[i] * f, box.y + st.p[i + 1] * f, st.p[i + 2]);
+        inkShown.push({ id: sp.dataset.id, k, c: st.c, s: st.s, p, f, box, width: Sketch.SIZES[st.s] * f });
+      });
+    });
+  }
+  paintInk();
+}
+function paintInk() {
+  inkSvg.replaceChildren(...inkShown.map(x => Sketch.svgEl("path", { d: Sketch.outline(x.p, x.width), fill: Sketch.colorOf(x.c, true) })), inkLive);
+}
+new ResizeObserver(queueInk).observe($("text"));
+addEventListener("resize", queueInk);
+if (document.fonts) document.fonts.ready.then(queueInk);
+
+// Where a stroke belongs: the word beside its first point (in the margin, the word on that line).
+function inkCaret(x, y) {
+  if (document.caretPositionFromPoint) { const c = document.caretPositionFromPoint(x, y); return c && [c.offsetNode, c.offset]; }
+  if (document.caretRangeFromPoint) { const r = document.caretRangeFromPoint(x, y); return r && [r.startContainer, r.startOffset]; }
+  return null;
+}
+function inkAnchor(px, py) {
+  const tr = $("text").getBoundingClientRect();
+  const x = Math.min(Math.max(px - scrollX, tr.left + 2), tr.right - 2);
+  inkSvg.style.pointerEvents = "none";
+  let hit = null;
+  for (const dy of [0, 6, -6, 12, -12, 20, -20, 30, -30]) {
+    const c = inkCaret(x, py - scrollY + dy);
+    const sp = c && c[0] && (c[0].nodeType === 3 ? c[0].parentElement : c[0]).closest?.(".v");
+    if (sp && $("text").contains(sp)) { hit = [sp, c[0], c[1]]; break; }
+  }
+  inkSvg.style.pointerEvents = "";
+  let sp, at = 0;
+  if (hit) {
+    [sp] = hit;
+    // Count the verse's words up to the caret, wherever the browser puts it (in a text node, or
+    // between elements).
+    const lim = document.createRange();
+    lim.setStart(sp, 0);
+    try { lim.setEnd(hit[1], hit[2]); } catch (e) { lim.setEnd(sp, 0); }
+    for (const node of countedText(sp)) {
+      if (lim.comparePoint(node, node.data.length) <= 0) at += node.data.length;
+      else { if (node === hit[1]) at += hit[2]; break; }
+    }
+  } else {
+    // Nowhere near words: the nearest verse on the screen, at its start.
+    let best = Infinity;
+    for (const v of $("text").querySelectorAll(".v")) {
+      const r = v.getBoundingClientRect();
+      if (r.bottom < -200 || r.top > innerHeight + 200) continue;
+      const d = Math.abs((r.top + r.bottom) / 2 + scrollY - py);
+      if (d < best) { best = d; sp = v; }
+    }
+    if (!sp) return null;
+  }
+  const words = countedText(sp).map(n => n.data).join("");
+  at = Math.min(Math.max(0, at), Math.max(0, words.length - 1));
+  let s = at, e = at + 1;
+  if (/[⺀-鿿豈-﫿]/.test(words[at] || "")) { /* one character is a word */ }
+  else {
+    const isW = ch => /[\p{L}\p{N}'’-]/u.test(ch || "");
+    if (!isW(words[at])) { while (at < words.length && !isW(words[at])) at++; s = at; e = at + 1; }
+    while (s > 0 && isW(words[s - 1])) s--;
+    while (e < words.length && isW(words[e])) e++;
+  }
+  const box = wordBox(sp, s, Math.min(e, words.length));
+  return box && { sp, s, e: Math.min(e, words.length), box };
+}
+// Every verse's ink, for undo: { id: [its ink ranges] }.
+const inkSnapshot = () => {
+  const out = {};
+  for (const [id, a] of Object.entries(notes)) { const r = (a.r || []).filter(q => q[2] === "i"); if (r.length) out[id] = JSON.parse(JSON.stringify(r)); }
+  return out;
+};
+function inkRestore(snap) {
+  const ids = new Set([...Object.keys(inkSnapshot()), ...Object.keys(snap)]);
+  for (const id of ids) {
+    const a = notes[id] || {};
+    a.r = [...(a.r || []).filter(q => q[2] !== "i"), ...(snap[id] || [])];
+    saveAnnotation(id, a);
+  }
+  queueInk();
+}
+const inkHist = Sketch.history(inkSnapshot, inkRestore);
+function inkAdd(points) {
+  const at = inkAnchor(points[0], points[1]);
+  if (!at) return;
+  const ctx = ctxOfNode(at.sp);
+  const f = (parseFloat(getComputedStyle(at.sp).fontSize) || 18) / INK_U;
+  const p = [];
+  for (let i = 0; i < points.length; i += 3) p.push((points[i] - at.box.x) / f, (points[i + 1] - at.box.y) / f, points[i + 2]);
+  const id = at.sp.dataset.id, a = notes[id] || {};
+  const meta = { w: wordingOf(ctx.chapter, ctx.b) };
+  const part = inkPart(at.sp);
+  if (part) meta.n = part;
+  a.r = a.r || [];
+  const q = a.r.find(x => x[2] === "i" && x[0] === at.s && x[1] === at.e && (x[4] || {}).w === meta.w && ((x[4] || {}).n || 0) === part);
+  const st = { c: Sketch.tools.c, s: Sketch.tools.s, p };
+  if (q) q[3] = Sketch.encode([...Sketch.decode(q[3]), st]);
+  else a.r.push([at.s, at.e, "i", Sketch.encode([st]), meta]);
+  saveAnnotation(id, a);
+}
+// After the eraser: each changed range written again from the strokes left on it.
+function inkCommit(touched) {
+  const byRange = new Map();
+  for (const x of inkShown) {
+    const key = x.id + ":" + x.k;
+    if (!touched.has(key)) continue;
+    if (!byRange.has(key)) byRange.set(key, []);
+    const p = [];
+    for (let i = 0; i < x.p.length; i += 3) p.push((x.p[i] - x.box.x) / x.f, (x.p[i + 1] - x.box.y) / x.f, x.p[i + 2]);
+    byRange.get(key).push({ c: x.c, s: x.s, p });
+  }
+  const ids = new Set([...touched].map(t => t.split(":")[0]));
+  for (const id of ids) {
+    const a = notes[id]; if (!a || !a.r) continue;
+    a.r = a.r.map((q, k) => {
+      const key = id + ":" + k;
+      if (!touched.has(key)) return q;
+      const left = byRange.get(key) || [];
+      return left.length ? [q[0], q[1], q[2], Sketch.encode(left), q[4]] : null;
+    }).filter(Boolean);
+    saveAnnotation(id, a);
+  }
+}
+// Drawing mode: one finger (or a pen) draws, two fingers scroll; with a pen, a finger scrolls.
+let inkBar = null;
+function startInk() {
+  if (inking) return;
+  closeSheets(); closeVerse(); clearSel(); hlBar.hidden = true;
+  inking = true;
+  document.body.classList.add("inking");
+  Sketch.css();
+  inkSvg.style.touchAction = Sketch.sawPen ? "pan-y" : "none";
+  Sketch.tools.erase = false;
+  Sketch.tools.changed = () => Sketch.keepTools();
+  const tb = Sketch.toolbar(Sketch.tools, { undo: inkHist.undo, redo: inkHist.redo, page: true });
+  const done = el("button", { type: "button", class: "done", text: L.t("Done"), onclick: stopInk });
+  inkBar = el("div", { class: "sk-bar", role: "toolbar", "aria-label": L.t("Drawing on the page") }, tb, done);
+  inkBar.refresh = tb.refresh;
+  document.body.append(inkBar);
+  queueInk();
+  toast(Sketch.sawPen ? "Draw with your pen. Your finger scrolls." : "Draw with one finger. Two fingers scroll.", 3600);
+}
+function stopInk() {
+  inking = false;
+  document.body.classList.remove("inking");
+  inkBar?.remove(); inkBar = null;
+  inkLive.setAttribute("d", "");
+}
+$("open-draw").onclick = startInk;
+{
+  let pid = null, stroke = null, eraseAt = null, touched = null;
+  const touches = new Map();
+  let twoY = null;
+  const page = ev => [ev.clientX + scrollX, ev.clientY + scrollY];
+  inkSvg.addEventListener("pointerdown", ev => {
+    if (!inking) return;
+    if (ev.pointerType === "touch") {
+      touches.set(ev.pointerId, ev.clientY);
+      if (Sketch.sawPen) return;   // a pen writes; the hand scrolls
+      if (touches.size >= 2) {     // two fingers: scroll, and forget the stroke just begun
+        stroke = null; eraseAt = null; pid = null; inkLive.setAttribute("d", "");
+        twoY = [...touches.values()].reduce((x, y) => x + y, 0) / touches.size;
+        return;
+      }
+    }
+    if (pid !== null) return;
+    ev.preventDefault();
+    inkSvg.setPointerCapture(ev.pointerId); pid = ev.pointerId;
+    if (ev.pointerType === "pen") inkSvg.style.touchAction = "pan-y";
+    inkHist.mark();
+    if (Sketch.tools.erase) { eraseAt = page(ev); touched = new Set(); return; }
+    stroke = Sketch.pen(page, 0.6); stroke.start(ev);
+    inkLive.setAttribute("fill", Sketch.colorOf(Sketch.tools.c, true));
+  });
+  inkSvg.addEventListener("pointermove", ev => {
+    if (!inking) return;
+    if (ev.pointerType === "touch" && touches.has(ev.pointerId)) {
+      touches.set(ev.pointerId, ev.clientY);
+      if (twoY !== null && touches.size >= 2) {
+        const y = [...touches.values()].reduce((x, z) => x + z, 0) / touches.size;
+        scrollBy(0, twoY - y); twoY = y; return;
+      }
+    }
+    if (ev.pointerId !== pid) return;
+    const f = (parseFloat(getComputedStyle($("text")).fontSize) || 18) / INK_U;
+    if (eraseAt) {
+      const to = page(ev), r = Sketch.ERASERS[Sketch.tools.s] * f;
+      const out = Sketch.erase(inkShown, ...eraseAt, ...to, r, x => x.width);
+      eraseAt = to;
+      if (out) {
+        // Which ranges lost ink: those whose strokes changed.
+        const before = new Map(inkShown.map(x => [x, 1]));
+        for (const x of inkShown) if (!out.includes(x)) touched.add(x.id + ":" + x.k);
+        for (const x of out) if (!before.has(x)) touched.add(x.id + ":" + x.k);
+        inkShown = out; paintInk();
+      }
+      return;
+    }
+    if (!stroke) return;
+    stroke.move(ev);
+    inkLive.setAttribute("d", Sketch.outline(stroke.points, Sketch.SIZES[Sketch.tools.s] * f));
+  });
+  const up = ev => {
+    if (ev.pointerType === "touch") { touches.delete(ev.pointerId); if (touches.size < 2) twoY = null; }
+    if (ev.pointerId !== pid) return;
+    pid = null;
+    if (eraseAt) { eraseAt = null; if (touched.size) inkCommit(touched); touched = null; queueInk(); inkBar?.refresh(); return; }
+    if (!stroke) return;
+    stroke.end(ev);
+    const pts = stroke.points; stroke = null;
+    inkLive.setAttribute("d", "");
+    if (pts.length >= 3) inkAdd(pts);
+    queueInk(); inkBar?.refresh();
+  };
+  inkSvg.addEventListener("pointerup", up);
+  inkSvg.addEventListener("pointercancel", up);
+}
+
 $("nc-del").onclick = () => { if (!nc) return; const { id, k } = nc; nc = null; deleteNote(id, k); closeSheets(); toast("Note deleted"); };
 $("nc-done").onclick = () => closeSheets();
 
@@ -4206,13 +4622,15 @@ function renderWordNotes(id, span) {
   const list = $("vwords"), a = notes[id] || {};
   if (ctxOfNode(span)?.chapter.ver) { list.hidden = true; return; }   // they belong to our wording
   const words = countedText(span).map(n => n.data).join("");
-  const items = (a.r || []).filter(q => q[2] === "n" || q[2] === "e").sort((p, q) => p[0] - q[0]);
+  const items = (a.r || []).filter(q => q[2] === "n" || q[2] === "e" || q[2] === "d").sort((p, q) => p[0] - q[0]);
   list.replaceChildren(...items.map(q => {
     const quote = el("div", { class: "q" }, "“", el("b", { text: (q[4] && q[4].q) || words.slice(q[0], q[1]).trim() }), "”");
-    const rm = el("button", { class: "rm", type: "button", "aria-label": q[2] === "n" ? "Delete this note" : "Remove this emoji", text: "✕", onclick: () => {
+    const rm = el("button", { class: "rm", type: "button", "aria-label": q[2] === "n" ? "Delete this note" : q[2] === "d" ? "Delete sketch" : "Remove this emoji", text: "✕", onclick: () => {
+      if (q[2] === "d" && !confirm(L.t("Delete this sketch?"))) return;
       a.r = a.r.filter(x => x !== q); saveAnnotation(id, a); repaint(id); renderWordNotes(id, span);
     } });
     if (q[2] === "e") return el("li", {}, el("div", {}, emojiEl("span", q[3], { class: "emo emo-big" }), quote), rm);
+    if (q[2] === "d") { const pic = Sketch.picture(q[3], { size: 64 }); pic.addEventListener("click", () => openSketch(id, a.r.indexOf(q))); return el("li", {}, el("div", {}, pic, quote), rm); }
     const box = el("textarea", { "aria-label": "My note on these words", placeholder: "Write a note on these words.", "data-s": q[0], "data-e": q[1] });
     box.value = q[3] || "";
     let t = 0;
@@ -4237,6 +4655,7 @@ function barTool(label, icon, onclick, text) {
 }
 // What to do with the chosen words: a row of its own, named, so it is always in view.
 const ICON_STICKY = '<svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2h16v11l-5 5H2z" style="fill:var(--hl-yellow);stroke:var(--ink-yellow)" stroke-width="1.6" stroke-linejoin="round"/><path d="M13 18v-5h5" style="fill:var(--ink-yellow);fill-opacity:.35;stroke:var(--ink-yellow)" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.5 7h9M5.5 10.5h6" style="stroke:var(--ink-yellow)" stroke-width="1.4" stroke-linecap="round"/></svg>';
+const ICON_PENCIL = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4L19 9l-4-4L4 16Z"/><path d="m13.5 6.5 4 4"/></svg>';
 const toolRow = (...tools) => el("div", { class: "row tools" }, ...tools);
 // The menu for marking words: a style (a highlight, a line, a box, lettering, or an emoji), then
 // its color (or which emoji), then a note, a bookmark, a copy. The same menu is the balloon over
@@ -4261,7 +4680,7 @@ function markMenu(t) {
       onclick: () => t.highlight(pen === "bg" ? h : `${pen}:${h}`) }));
     second = el("div", { class: "row" }, ...colors, el("button", { class: "swatch none", type: "button", "aria-label": "Clear highlight", title: "Clear highlight", onmousedown: keepSel, onclick: () => t.highlight(null) }));
   }
-  return [pens, second, toolRow(barTool("Note on these words", ICON_STICKY, t.note, L.t("Note")),
+  return [pens, second, toolRow(barTool("Note on these words", ICON_STICKY, t.note, L.t("Note")), barTool("Sketch for these words", ICON_PENCIL, t.sketch, L.t("Sketch")),
     barTool("Bookmark", ICON_BM, t.bookmark, L.t(t.bookmarked ? "Bookmarked" : "Bookmark")), barTool("Copy the selected words", ICON_COPY, t.copy, L.t("Copy")))];
 }
 // The balloon: for the words chosen, or for an emoji tapped in the text (then that emoji's words).
@@ -4273,7 +4692,7 @@ function hlBarMain() {
   hlBar.replaceChildren(...markMenu({
     again: () => { hlBarMain(); placeHlBar(); },
     emoji: ed ? ed[3] : null,
-    highlight: highlightSelection, setEmoji: emojiSelection, clearEmoji, note: noteSelection, bookmark: bookmarkSelection, copy: copySelection,
+    highlight: highlightSelection, setEmoji: emojiSelection, clearEmoji, note: noteSelection, sketch: sketchSelection, bookmark: bookmarkSelection, copy: copySelection,
   }));
 }
 // Emoji for marking a passage: simple one-color signs in the theme's accent. Kept by name; the
@@ -4538,6 +4957,7 @@ function pickVerse(span) {
 
 $("text").addEventListener("click", ev => {
   const st = ev.target.closest(".sticky, .emo");
+  if (st && st.classList.contains("sk-mark")) { ev.stopPropagation(); skipUntil = 0; clearSel(); openSketch(st.closest(".v").dataset.id, +st.dataset.k); return; }
   if (st && st.classList.contains("emo")) { ev.stopPropagation(); skipUntil = 0; editEmoji(st.closest(".v").dataset.id, +st.dataset.k, st); return; }
   if (st) { ev.stopPropagation(); skipUntil = 0; clearSel(); openNote(st.closest(".v").dataset.id, +st.dataset.k); return; }
   if (Date.now() < skipUntil) { skipUntil = 0; return; }
@@ -4686,7 +5106,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=81").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=82").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -4733,7 +5153,7 @@ var reader = {
 };
 </script>
 <script src="config.js?v=31"></script>
-<script src="share.js?v=31"></script>
+<script src="share.js?v=32"></script>
 <script src="account.js?v=34"></script>
 </body>
 </html>

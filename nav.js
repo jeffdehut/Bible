@@ -33,6 +33,8 @@
     project: '<circle cx="12" cy="12" r="9"/><path d="M12 11v5.5M12 7.6v.1"/>',
     translation: '<path d="M6 3h8.5L19 7.5V21H6z"/><path d="M14 3v5h5"/><path d="M9 12.5h7M9 16h5"/>',
     privacy: '<path d="M12 3 4 6v6c0 5 3.5 8 8 9 4.5-1 8-4 8-9V6Z"/><path d="m9 12 2 2 4-4"/>',
+    draw: '<path d="M3 17c3-3 5-3 6.5-1.5S12 19 14 17s3-6 7-8"/><path d="M15.5 4.5 18 7"/>',
+    sketchbook: '<rect x="5" y="4" width="15" height="17" rx="1.5"/><path d="M3 7h3M3 11h3M3 15h3M9 9.5c2-1.5 3.5 1.5 5.5 0s2 1 2.5 2"/>',
     mail: '<rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m3.5 7 8.5 6 8.5-6"/>',
   };
   // Each: [id, label, icon, where, title, extra]. "where" is a page, or "reader:NAME" for a tool
@@ -42,6 +44,8 @@
     ["Read and study", "", [
       ["read", "Read", "read", "index.html", "Back to the Bible, where you left off", { away: true }],
       ["mine", "Highlights & notes", "mine", "reader:mine", "Your highlights and notes, saved on this device"],
+      ["sketchbook", "Sketchbook", "sketchbook", "reader:sketchbook", "Your sketches, to share or print"],
+      ["draw", "Draw on the page", "draw", "reader:draw", "Write and draw over the text with a finger or a pen", { readerOnly: true }],
       ["bookmarks", "Bookmarks", "bookmarks", "reader:bookmarks", "The passages you bookmarked", { sub: "bookmarks-sub" }],
       ["plans", "Reading plans", "plans", "reader:plans", "Through the Bible in a year, and shorter plans", { sub: "plans-sub" }],
       ["study", "Topics & dictionary", "study", "reader:study", "Nave’s topics and Easton’s Bible dictionary"],
