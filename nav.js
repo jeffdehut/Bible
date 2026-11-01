@@ -35,12 +35,18 @@
     privacy: '<path d="M12 3 4 6v6c0 5 3.5 8 8 9 4.5-1 8-4 8-9V6Z"/><path d="m9 12 2 2 4-4"/>',
     draw: '<path d="M3 17c3-3 5-3 6.5-1.5S12 19 14 17s3-6 7-8"/><path d="M15.5 4.5 18 7"/>',
     sketchbook: '<rect x="5" y="4" width="15" height="17" rx="1.5"/><path d="M3 7h3M3 11h3M3 15h3M9 9.5c2-1.5 3.5 1.5 5.5 0s2 1 2.5 2"/>',
+    account: '<circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-7 8-7s8 2.6 8 7"/>',
+    display: '<path d="M4 19 9 5l5 14M5.8 14h6.4"/><path d="M15 19l3-8 3 8M15.9 16.6h4.2"/>',
     mail: '<rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m3.5 7 8.5 6 8.5-6"/>',
   };
   // Each: [id, label, icon, where, title, extra]. "where" is a page, or "reader:NAME" for a tool
   // of the reader (opened there by its button, #open-NAME). extra.sub gives the reader an
   // element for a live line under the label; extra.hidden starts it hidden.
   const MENU = [
+    ["Settings", "menu-you", [
+      ["account", "Account", "account", "reader:account", "Sign in to keep your highlights and notes on every device", { sub: "account-sub", hidden: true }],
+      ["settings", "Text & display", "display", "reader:settings", "Text size, theme and what the page shows", { readerOnly: true }],
+    ]],
     ["Read and study", "", [
       ["read", "Read", "read", "index.html", "Back to the Bible, where you left off", { away: true }],
       ["mine", "Highlights & notes", "mine", "reader:mine", "Your highlights and notes, saved on this device"],
@@ -51,7 +57,6 @@
       ["study", "Topics & dictionary", "study", "reader:study", "Nave’s topics and Easton’s Bible dictionary"],
       ["parallels", "Parallel passages", "parallels", "reader:parallels", "The Gospels side by side; Kings beside Chronicles"],
       ["marks", "Study markings", "marks", "reader:marks", "Key words marked through the whole Bible", { sub: "marks-sub" }],
-      ["account", "Sign in & sync", "sync", "reader:account", "Sign in to keep your highlights and notes on every device", { sub: "account-sub", hidden: true }],
     ]],
     ["Explore", "menu-explore", [
       ["graph", "Connections", "web", "graph.html", "Every chapter, person and place, and the threads between them"],
@@ -178,10 +183,6 @@
 .sitenav .menu small:empty { display: none; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .sitenav .menu.menu-explore svg { color: #e2bd5c; } }
 :root[data-theme="dark"] .sitenav .menu.menu-explore svg { color: #e2bd5c; }
-.appbar .sitenav-acct { margin-inline-start: auto; position: relative; }
-.appbar .sitenav-acct + .sitenav-btn { margin-inline-start: 2px; }
-.sitenav-acct span { position: absolute; top: 7px; right: 7px; width: 9px; height: 9px; border-radius: 50%; background: #1f9d55; border: 2px solid var(--surface, #fff); display: none; }
-.sitenav-acct.in span { display: block; }
 @media print { .sitenav-btn, .sitenav, .sitenav-scrim { display: none !important; } }`;
   document.head.append(css);
   const btn = document.createElement("button");
@@ -213,18 +214,7 @@
   addEventListener("keydown", e => { if (e.key === "Escape" && !panel.hidden) open(false); });
   // Where the button goes: the site's bar, a map's toolbar, or a corner of its own.
   const bar = document.querySelector(".appbar"), tools = document.querySelector(".bar .tools");
-  if (bar) {
-    // Beside the menu: the account, signed in or not (a green dot when signed in).
-    const acct = document.createElement("a");
-    let inAcct = false;
-    try { inAcct = !!(JSON.parse(localStorage.getItem("pe.account")) || {}).session; } catch (e) { /* storage unavailable */ }
-    acct.className = "sitenav-btn sitenav-acct" + (inAcct ? " in" : "");
-    acct.href = ROOT + "index.html#open=account";
-    acct.title = inAcct ? "Your account" : "Sign in to sync across devices";
-    acct.setAttribute("aria-label", acct.title);
-    acct.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-7 8-7s8 2.6 8 7"/></svg><span aria-hidden="true"></span>';
-    bar.append(acct, btn);
-  }
+  if (bar) bar.append(btn);
   else if (tools) { btn.classList.add("in-tools"); tools.prepend(btn); }
   else { btn.style.cssText = "position:fixed;z-index:59;top:max(10px,env(safe-area-inset-top,0px));right:10px;background:var(--surface,#fff);box-shadow:0 2px 10px rgb(0 0 0 / 15%)"; document.body.append(btn); }
   document.body.append(scrim, panel);

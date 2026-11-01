@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=45"></script>
+<script src="i18n.js?v=46"></script>
 <script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
@@ -109,7 +109,8 @@ a.btn { text-decoration: none; }
   display: flex; align-items: center; gap: 2px; background: color-mix(in srgb, var(--bg) 92%, transparent);
   backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
 }
-.appbar .where { font: 600 16px/1 var(--sans); gap: 4px; padding: 0 12px; }
+.appbar .where { font: 600 16px/1 var(--sans); gap: 4px; padding: 0 10px; min-width: 0; flex: 0 1 auto; }
+#where-label { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
 .appbar .where .chev { width: 16px; height: 16px; opacity: 0.6; }
 .appbar .spacer { flex: 1; }
 .brand {
@@ -932,8 +933,6 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <button class="btn ver-btn" id="ver" type="button" aria-haspopup="dialog" aria-label="Choose a version of the Bible"><span id="ver-label">…</span></button>
   <span class="spacer"></span>
   <button class="btn" id="open-search" type="button" aria-label="Search"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
-  <button class="btn" id="open-settings" type="button" aria-label="Text and display settings"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19 9 5l5 14M5.8 14h6.4"/><path d="M15 19l3-8 3 8M15.9 16.6h4.2"/></svg></button>
-  <button class="btn acct-btn" id="acct-btn" type="button" aria-label="Sign in to sync across devices" title="Sign in to sync across devices" hidden><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-7 8-7s8 2.6 8 7"/></svg><span class="acct-dot" aria-hidden="true"></span></button>
   <button class="btn" id="open-menu" type="button" aria-label="Menu"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
 </header>
 
@@ -1175,7 +1174,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="sheet-head"><h2 id="menu-title">BibleData.org</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="site-menu"><!-- nav.js: the site's menu, the same on every page --></div>
 </section>
-<script src="nav.js?v=41"></script>
+<script src="nav.js?v=42"></script>
 <script src="sketch.js?v=5"></script>
 
 <section class="ui-sheet sheet dialog" id="mine" hidden aria-labelledby="mine-title">
@@ -1416,8 +1415,16 @@ const verOf = id => VERSIONS.find(v => v.id === id);
 const ourName = () => L.en ? "Plain English" : "淺白譯本";
 const shortOf = id => id === "ours" ? ourName() : (verOf(id)?.short || id);
 // On the button, two versions in brief: our own as 淺白 or Plain.
-const tiny = id => (id === "ours" ? (L.en ? "Plain" : "淺白") : verOf(id)?.ours ? (verOf(id).lang === "en" ? "Plain" : "淺白") : shortOf(id));
-const verShort = () => (VER2 ? tiny(VER) + " · " + tiny(VER2) : shortOf(VER));
+// On the bar, each version in three or four letters: our own as OPET (the Open Plain English
+// Translation) or 淺白; the Chinese versions in two characters.
+const tiny = id => {
+  if (id === "ours") return L.en ? "OPET" : "淺白";
+  const v = verOf(id);
+  if (v && v.ours) return v.lang === "en" ? "OPET" : "淺白";
+  const s = shortOf(id);
+  return /[\u3400-\u9fff]/.test(s) ? s.slice(0, 2) : s.slice(0, 4);
+};
+const verShort = () => (VER2 ? tiny(VER) + " · " + tiny(VER2) : tiny(VER));
 // A second version, shown verse by verse under the first (or null): any two of the versions,
 // in either order.
 let VER2 = store.get("ver2." + LANG, null);
@@ -1585,6 +1592,18 @@ function verseLabel(b, c, row) {
 const ctxOf = new WeakMap();          // section → { b, c, data, chapter, letters, prev, next, sec }
 let view = { kind: "bible" };         // "bible", or "plan" for a day of a reading plan
 const bookName = b => psName(b);
+// The book and chapter on the bar: in full where there is room; a long name in its usual short
+// form on a narrow screen (English: "2 Thess 1"; Chinese, the Union Version's: 帖後 1).
+const BOOK_SHORT = {
+  en: "Gen Exod Lev Num Deut Josh Judg Ruth 1·Sam 2·Sam 1·Kgs 2·Kgs 1·Chr 2·Chr Ezra Neh Esth Job Ps Prov Eccl Song Isa Jer Lam Ezek Dan Hos Joel Amos Obad Jonah Mic Nah Hab Zeph Hag Zech Mal Matt Mark Luke John Acts Rom 1·Cor 2·Cor Gal Eph Phil Col 1·Thess 2·Thess 1·Tim 2·Tim Titus Phlm Heb Jas 1·Pet 2·Pet 1·John 2·John 3·John Jude Rev".split(" ").map(x => x.replace("·", " ")),
+  "zh-Hant": "創 出 利 民 申 書 士 得 撒上 撒下 王上 王下 代上 代下 拉 尼 斯 伯 詩 箴 傳 歌 賽 耶 哀 結 但 何 珥 摩 俄 拿 彌 鴻 哈 番 該 亞 瑪 太 可 路 約 徒 羅 林前 林後 加 弗 腓 西 帖前 帖後 提前 提後 多 門 來 雅 彼前 彼後 約壹 約貳 約參 猶 啟".split(" "),
+};
+function whereText(b, c) {
+  const full = bookName(b), short = (BOOK_SHORT[LANG] || BOOK_SHORT.en)[BOOKS.indexOf(b)];
+  const long = LANG === "en" ? full.length > 9 : full.length > 4;
+  return (long && short && innerWidth < 640 ? short : full) + " " + c;
+}
+addEventListener("resize", () => { if (cur) $("where-label").textContent = whereText(cur.b, cur.c); });
 function neighbors(b, c) {
   const idx = BOOKS.indexOf(b);
   return {
@@ -1702,7 +1721,7 @@ function setCurrent(ctx, opts = {}) {
   cur = ctx;
   if (!changed && !opts.force) return;
   const { b, c } = ctx;
-  $("where-label").textContent = bookName(b) + " " + c;
+  $("where-label").textContent = whereText(b, c);
   document.title = `${bookName(b)} ${c} · ${L.t("BibleData.org")}`;
   if (view.kind !== "plan" && opts.address !== false) history.replaceState(null, "", refHash(b, c));
   store.set("last", { s: b.slug, c });
@@ -5279,7 +5298,6 @@ $("open-menu").onclick = () => openSheet("menu");
 $("open-mine").onclick = () => { renderMine(); $("backup-box").hidden = true; openSheet("mine"); };
 $("open-about").onclick = () => openSheet("about");
 $("open-project").onclick = () => openProject();
-$("acct-btn").onclick = () => $("open-account")?.click();
 const welcomed = () => store.set("welcomed", true);
 $("welcome-start").onclick = () => { welcomed(); closeSheets(); };
 $("welcome-contact").addEventListener("click", welcomed);
@@ -5398,7 +5416,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=93").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=94").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -5446,6 +5464,6 @@ var reader = {
 </script>
 <script src="config.js?v=31"></script>
 <script src="share.js?v=32"></script>
-<script src="account.js?v=34"></script>
+<script src="account.js?v=35"></script>
 </body>
 </html>
