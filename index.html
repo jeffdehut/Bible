@@ -1151,7 +1151,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div id="site-menu"><!-- nav.js: the site's menu, the same on every page --></div>
 </section>
 <script src="nav.js?v=41"></script>
-<script src="sketch.js?v=3"></script>
+<script src="sketch.js?v=4"></script>
 
 <section class="ui-sheet sheet dialog" id="mine" hidden aria-labelledby="mine-title">
   <div class="grab"></div>
@@ -4649,7 +4649,9 @@ function stopInk() {
   inkLive.setAttribute("d", "");
 }
 $("open-draw").onclick = startInk;
-Sketch.holdStylus(inkSvg, () => inking);
+// While drawing: a pencil's touches are always held for drawing; without a pencil, one finger
+// draws (so the page must not scroll under it) and two fingers scroll, by the reader's own hand.
+Sketch.holdStylus(inkSvg, () => inking, () => (Sketch.sawPen ? null : "all"));
 {
   let pid = null, stroke = null, eraseAt = null, touched = null;
   const touches = new Map();
@@ -5214,7 +5216,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=87").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=88").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
