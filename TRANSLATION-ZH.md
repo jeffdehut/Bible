@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels and Acts drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1339,6 +1339,38 @@ Settled while drafting John:
 | 20:17 Μή μου ἅπτου; 20:28; 20:31 | 不要拉住我不放 (或譯「不要摸我」)；我的主！我的神！；使你們信 (the present/aorist variant and 19:35 noted) | |
 | Old Testament quotations (12–21) | The Greek in the text; our Old Testament line in the note | 12:13 是應當稱頌的 as Mark 11:9 (Psalm 118:26 是蒙福的 noted); 12:15 錫安的女兒，不要懼怕！看哪，你的王騎着驢駒來了 (as our Zechariah 9:9 note quotes it); 12:38 主啊，我們所傳的，有誰相信呢？ (as our Isaiah 53:1 note); 12:40 他使他們瞎了眼，使他們的心剛硬; 13:18 吃我飯的人，舉起腳跟踢我 (Psalm 41:10's 舉起腳跟踢我 kept); 15:25 他們無緣無故地恨我 (Psalm 69:5); 19:24 identical with our Psalm 22:19; 19:36 他的骨頭，一根也不會折斷; 19:37 他們要仰望自己所刺的人 (as our Zechariah 12:10 note). |
 | Chapter 21 | 後記 noted at 21:1 | 約翰的兒子西門 (約拿 noted); 二百肘, 一百五十三條. |
+
+Settled while drafting Acts:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| The prologue (1:1) | 提阿非羅啊，我在前一本書裏…… | Continues Luke 1:1–4 and 24:49–53; Luke 1:3 noted. |
+| ἀπόστολος; ἐκκλησία | 使徒；教會 | *apostolos* noted at 1:2; *ekklesia* noted at 5:11, its first use for the believers. 7:38 ἡ ἐκκλησία ἐν τῇ ἐρήμῳ is 曠野的會眾, noted as the same word. |
+| ἡ ὁδός (9:2; 19:9, 23; 22:4; 24:14, 22) | 這道 (屬於這道的人) | *hodos* 「道路」 noted, kept apart from *logos* (ὁ λόγος τοῦ θεοῦ 神的道). |
+| πνεῦμα ἅγιον; πνεῦμα | 聖靈；靈 | 6:3 πνεύματος without ἅγιον is 靈 (神的靈), with 「聖靈」 manuscripts noted. |
+| Ἑλληνισταί; Ἑβραῖοι (6:1; 9:29) | 說希臘話的猶太人；說希伯來話的猶太人 | 11:20 Ἑλληνισταί (Gentiles there) 說希臘話的人, noted. |
+| προσήλυτοι; οἱ φοβούμενοι / σεβόμενοι τὸν θεόν | 進猶太教的人；敬畏神的人、敬拜神的…… | *proselytoi* noted at 2:11; God-fearing Gentiles noted (10:2; 13:16, 50). |
+| ἄνδρες ἀδελφοί; ἄνδρες Ἰσραηλῖται | 弟兄們；以色列人哪 | 直譯「人們、弟兄們」 noted. |
+| παῖς (of Jesus, 3:13, 26; 4:25–30) | 僕人 (聖僕) | *pais* 「僕人、孩子」 noted; Isaiah 52:13 LXX noted. |
+| ἀρχηγός | 創始者 (3:15)；元首 (5:31) | *archegos* noted both times. |
+| ἑκατοντάρχης; σπεῖρα; ἀνθύπατος | 百夫長；營；總督 | *anthypatos* noted (和合本「方伯」), kept for the Senate's provinces. |
+| κοινός (10:14–28; 11:8–9); ἔκστασις | 俗物；魂遊象外 | |
+| κλάσις τοῦ ἄρτου; Χριστιανοί | 擘餅；基督徒 | 2:42, 46; 11:26. |
+| Old Testament quotations (1–14) | The Greek in the text; our Old Testament wording where the Greek agrees, and the wording our Old Testament notes already give for these verses | 1:20 Psalm 69:26; 109:8; 2:17–21 as the Joel 3:1–5 note (在末後的日子，神說…… 顯赫的); 2:25–28 Psalm 16 LXX (我的舌頭快樂；安居在盼望中；你的聖者見朽壞); 2:34–35 as Luke 20:42–43 (主對我的主說……作你的腳凳); 4:11 輕視 (*exoutheneo*) for Psalm 118:22's 丟棄; 4:25–26 Psalm 2 LXX 一同聚集; 7:42–43 Amos 5:25–27 LXX (摩洛的帳幕和理番神的星；巴比倫以外); 7:49–50 as the Isaiah 66:1 note; 8:32–33 as the Isaiah 53:7 note; 13:33 Psalm 2:7; 13:34 as the Isaiah 55:3 note; 13:41 Habakkuk 1:5 LXX; 13:47 as the Isaiah 49:6 note. |
+| Stephen's speech (7) | Our Old Testament's names (哈蘭、迦勒底人的地、示劍、哈抹、米甸、紅海、約書亞) | The differences noted as the English: the call before Haran (7:2), Terah's death (7:4), 400 years (7:6), 75 souls (7:14), the tomb at Shechem (7:16), Moses' forty years (7:23), Sinai/Horeb (7:30), Babylon for Damascus (7:43). |
+| Verses absent from the critical text | Skipped with a note, as Mark 7:16 | 8:37 (TR) noted at 8:36; the TR addition at 9:5–6 noted. |
+| Names (classic Union Version forms) | 居比路、埃提阿伯、干大基、革老丟、丟斯、希耳米、推羅、大馬色、巴耶穌、士求保羅 | Today's forms (塞浦路斯、克勞狄、宙斯) in notes where useful; 米底亞人, 克里特人, 阿拉伯人 as the Union Version's Acts 2. |
+| ἀνθύπατος (13:7; 18:12; 19:38) | 總督 | Noted each time; 19:38's plural noted as general. ἡγεμών (Felix, Festus, 23:24–26:30) is also 總督. |
+| χιλίαρχος; παρεμβολή; στρατηγοί (16:20–38); ῥαβδοῦχοι; πολιτάρχαι (17:6, 8) | 千夫長；營樓；官長；衙役；地方官 | Each noted at its first use. |
+| βῆμα; πραιτώριον (23:35) | 審判台 (as 12:21)；官邸 | *bema* noted (18:12; 25:6). |
+| Καῖσαρ; Σεβαστός (25:21, 25); κύριος of the emperor (25:26) | 該撒；皇上；皇上 | Καίσαρα ἐπικαλοῦμαι 上訴於該撒 (25:11–12, 21; 26:32; 28:19). κράτιστε 大人 (23:26; 24:3; 26:25). |
+| The "we" passages | 我們 | Noted at 16:10, 20:5, 27:1 and their end at 28:16. |
+| Old Testament quotations (15–28) | The Greek in the text; our Old Testament wording in the note | 15:16–17 as our Amos 9:12 note (重建大衛那倒塌的棚子；使餘剩的人和所有稱為我名下的外邦人都尋求主); 23:5 Exodus 22:27 LXX (不可惡言毀謗); 28:26–27 identical with Matthew 13:14–15, with 你去告訴這百姓說 and 「『「」』」 nesting. |
+| 17:23, 28 (the Areopagus) | 『未識之神』；『我們也是他所生的』 | Aratus' *Phaenomena* and Epimenides noted; 亞略巴古 without a dot. |
+| Verses absent from the critical text (15–28) | Skipped with a note, as 8:37 | 15:34 (at 15:33); 24:7 with the TR words of 24:6b–8a (at 24:6; 24:8 kept); 28:29 (at 28:28). 19:40b noted （和合本作第41節）. |
+| ἐκκλησία (19:32, 39, 40); γραμματεύς (19:35) | 集會；書記 | The citizens' assembly and the city clerk, both noted apart from 教會 and 經學家. |
+| Names (15–28) | Classic Union forms: 居比路、推羅、該撒利亞、大馬色、革老丟呂西亞、百尼基、革哩底、米利大、非尼基、亞底亞海、丟斯雙子 | No middle dot in compound names (提多猶士都、波求非斯都). The 1989 forms (塞浦路斯、泰爾、凱撒利亞、克勞第、百妮基、克里特、馬耳他) are not used. |
+| The voyage (27) | 船長；船主；救生艇；噚；友拉革羅 | Plain terms; uncertain gear (*boetheiai*, *artemon*, *dithalassos*) explained in notes; 一噚約 1.8 米. |
 
 ## Style
 
