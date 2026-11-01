@@ -19,7 +19,7 @@
   const COLORS = { ink: "#1f2430", blue: "#2456c9", red: "#c8323a", green: "#2c8a4f", purple: "#7442b8", brown: "#9a6a1c" };
   const KEYS = Object.keys(COLORS);
   const SIZES = [1.5, 2.8, 5.2];          // pen widths, in units
-  const ERASERS = [5, 9, 16];             // eraser radii, by the same three sizes
+  const ERASERS = [4, 9, 18];             // eraser radii: small, medium, large
 
   /* ---------- The ink: an outline for a stroke ---------- */
   const r2 = n => Math.round(n * 100) / 100;
@@ -228,6 +228,7 @@
 .sk-b:disabled { opacity: .35; cursor: default; background: transparent; }
 .sk-b svg { width: 20px; height: 20px; }
 .sk-dot { display: block; border-radius: 50%; background: currentColor; }
+.sk-dot.ring { background: transparent; border: 1.6px solid currentColor; }
 .sk-foot { display: flex; gap: 8px; justify-content: flex-end; flex-wrap: wrap; }
 .sk-foot button { border: 1px solid var(--line, #e4e2db); background: var(--surface, #fff); color: inherit; border-radius: 10px; padding: 8px 14px; font: 600 14px/1.2 var(--sans, system-ui, sans-serif); cursor: pointer; }
 .sk-foot button.solid { background: var(--lapis, #2646a1); border-color: var(--lapis, #2646a1); color: var(--surface, #fff); }
@@ -273,10 +274,12 @@
       }
       box.append(Object.assign(document.createElement("span"), { className: "sep" }));
       SIZES.forEach((w, i) => {
-        const b = btn("sk-b", { "aria-label": T(["Fine", "Medium", "Broad"][i]), title: T(["Fine", "Medium", "Broad"][i]), "aria-pressed": String(state.s === i) });
-        const d = 4 + i * 4;
-        b.innerHTML = `<span class="sk-dot" style="width:${d}px;height:${d}px"></span>`;
-        b.onclick = () => { state.s = i; render(); state.changed?.(); };
+        // The pen's sizes, or, with the eraser in hand, the eraser's own (shown as rings).
+        const name = T((state.erase ? ["Small eraser", "Medium eraser", "Large eraser"] : ["Fine", "Medium", "Broad"])[i]);
+        const b = btn("sk-b", { "aria-label": name, title: name, "aria-pressed": String((state.erase ? state.es : state.s) === i) });
+        const d = state.erase ? 8 + i * 5 : 4 + i * 4;
+        b.innerHTML = `<span class="sk-dot${state.erase ? " ring" : ""}" style="width:${d}px;height:${d}px"></span>`;
+        b.onclick = () => { if (state.erase) state.es = i; else state.s = i; render(); state.changed?.(); };
         box.append(b);
       });
       box.append(Object.assign(document.createElement("span"), { className: "brk" }));
@@ -309,9 +312,9 @@
       redo: { can: () => fwd.length > 0, run() { if (!fwd.length) return; back.push(get()); set(fwd.pop()); onMove?.(); } },
     };
   }
-  const tools = { c: "ink", s: 0, erase: false };
+  const tools = { c: "ink", s: 0, es: 1, erase: false };
   try { Object.assign(tools, JSON.parse(localStorage.getItem("pe.sketchTools")) || {}, { erase: false }); } catch (e) { /* storage unavailable */ }
-  const keepTools = () => { try { localStorage.setItem("pe.sketchTools", JSON.stringify({ c: tools.c, s: tools.s })); } catch (e) { /* storage unavailable */ } };
+  const keepTools = () => { try { localStorage.setItem("pe.sketchTools", JSON.stringify({ c: tools.c, s: tools.s, es: tools.es })); } catch (e) { /* storage unavailable */ } };
 
   // Open the pad. opts: {title, href, sub, data, onSave(data or null), onShare(data), onDelete, onGo}.
   function open(opts) {
@@ -357,7 +360,7 @@
     let stroke = null, erasing = null, pid = null;
     const showRing = ev => {
       if (!tools.erase) { ring.style.display = "none"; return; }
-      const r = paper.getBoundingClientRect(), d = ERASERS[tools.s] * 2 * r.width / PAD;
+      const r = paper.getBoundingClientRect(), d = ERASERS[tools.es] * 2 * r.width / PAD;
       Object.assign(ring.style, { display: "block", width: d + "px", height: d + "px", left: ev.clientX - r.left + "px", top: ev.clientY - r.top + "px" });
     };
     paper.addEventListener("pointerdown", ev => {
@@ -366,7 +369,7 @@
       ev.preventDefault();
       paper.setPointerCapture(ev.pointerId); pid = ev.pointerId;
       hist.mark();
-      if (tools.erase) { erasing = local(ev); const n = erase(strokes, ...erasing, ...erasing, ERASERS[tools.s]); if (n) { strokes = n; draw(); } showRing(ev); bar.refresh(); return; }
+      if (tools.erase) { erasing = local(ev); const n = erase(strokes, ...erasing, ...erasing, ERASERS[tools.es]); if (n) { strokes = n; draw(); } showRing(ev); bar.refresh(); return; }
       stroke = pen(local); stroke.start(ev);
       live.setAttribute("fill", COLORS[tools.c]); live.setAttribute("d", outline(stroke.points, SIZES[tools.s]));
     });
@@ -375,7 +378,7 @@
       if (ev.pointerId !== pid) return;
       if (erasing) {
         const to = local(ev);
-        const n = erase(strokes, ...erasing, ...to, ERASERS[tools.s]);
+        const n = erase(strokes, ...erasing, ...to, ERASERS[tools.es]);
         erasing = to;
         if (n) { strokes = n; draw(); }
         return;
@@ -413,7 +416,7 @@
     done.onclick = () => close();
     scrim.addEventListener("pointerdown", e => { if (e.target === scrim) close(); });
     del.onclick = () => { if (confirm(T("Delete this sketch?"))) { close(false); opts.onDelete?.(); } };
-    share.onclick = () => { const d = result(); if (!d) return; opts.onSave?.(d); opts.onShare?.(d); };
+    share.onclick = () => { const d = result(); if (!d) return; close(); opts.onShare?.(d); };
     done.focus();
     return { close };
   }
