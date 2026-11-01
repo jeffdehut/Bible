@@ -63,5 +63,16 @@
   "notice": "聖經當代譯本（開放資源版）© Biblica, Inc. 按照 CC BY-SA 4.0 授權使用。",
   "cite": "當代譯本",
   "share": "當代譯本（CC BY-SA 4.0）"
+ },
+ {
+  "id": "orig",
+  "lang": "he",
+  "short": "Hebrew & Greek",
+  "name": "Hebrew, Aramaic and Greek",
+  "license": "The original languages: the Hebrew and Aramaic of the Leningrad Codex (UXLC 2.6, Tanach.us; may be copied without restriction) and the SBL Greek New Testament (© 2010 Society of Biblical Literature and Logos Bible Software, CC BY 4.0). In the Hebrew, the word as written (ketiv) follows the word as read (qere) in brackets.",
+  "url": "https://tanach.us",
+  "notice": "Hebrew and Aramaic: Unicode/XML Leningrad Codex (UXLC 2.6), Tanach.us. Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software, CC BY 4.0.",
+  "cite": "Hebrew/Greek",
+  "share": "Leningrad Codex (UXLC) · SBL Greek New Testament"
  }
 ]
