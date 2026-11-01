@@ -2,6 +2,11 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Euphrates":"伯拉河",
+"Apollyon":"亞玻倫",
+"Nicolaitans":"尼哥拉黨",
+"Antipas":"安提帕",
+"Patmos":"拔摩",
 "Bosor":"比珥",
 "Hermogenes":"黑摩其尼",
 "Colossae":"歌羅西",

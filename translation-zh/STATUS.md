@@ -1,6 +1,6 @@
 # Translation status
 
-1167 of 1,189 chapters translated: 1167 draft, 0 checked, 0 reviewed, 0 approved.
+1189 of 1,189 chapters translated: 1189 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -69,3 +69,4 @@
 | 2 John | 1 | 1 |  |  |  | 1 |
 | 3 John | 1 | 1 |  |  |  | 1 |
 | Jude | 1 | 1 |  |  |  | 1 |
+| Revelation | 22 | 22 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 |

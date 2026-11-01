@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1 and 2 Peter, 1, 2 and 3 John, Jude drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the whole Bible drafted, Genesis to Revelation (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1700,6 +1700,49 @@ Settled while drafting 2 and 3 John:
 | στόμα πρὸς στόμα | 當面 | 直譯「口對口」 noted. |
 | 3 John: ἀγαπητέ; ἐθνικοί (7); ὑπὲρ τοῦ ὀνόματος (7) | 親愛的；外邦人；為了那名 | 直譯「蒙愛的」 noted; *ethnikoi* and the Name (Christ's or God's) noted. |
 | Names (3 John) | 該猶、丟特腓、低米丟 | Union Version forms; 低米丟 is 和合本's 3 John form, told apart in a note from Acts 19's silversmith 底米丟 (the names table keeps 底米丟). |
+
+Settled while drafting Revelation:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| ἀποκάλυψις (1:1) | 啟示 | *apokalypsis* and 「默示錄」 noted. |
+| ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος (1:4, 8; 4:8; 11:17) | 那今在、昔在、將要來的那一位 | The Greek order; 和合本「昔在、今在、以後永在的」 and the unaltered *apo ho on* (a deliberate solecism) noted at 1:4; 4:8 昔在、今在、將要來的; 11:17 今在、昔在的 (no 將要來的, noted). |
+| τὸ Ἄλφα καὶ τὸ Ὦ (1:8) | 我是阿拉法，是俄梅戛 | The Union Version's names for the letters; noted as the first and last letters. |
+| κύριος ὁ θεὸς ὁ παντοκράτωρ | 主神，全能者 | *pantokrator* and the Septuagint's 萬軍／*Shaddai* noted at 1:8; Isaiah 6:3's 聖哉！聖哉！聖哉！ kept at 4:8. |
+| ἄγγελος (also of the churches, 1:20; 2–3) | 天使 | 或譯「使者」 noted (和合本「使者」 for the churches' angels). |
+| The seven letters (2–3) | 你要寫信給……教會的天使說：那……的，這樣說：我知道你的行為……有耳朵的，就應當聽聖靈對眾教會所說的話。得勝的，我必…… | *tade legei* as the prophets' 耶和華這樣說 (2:1); *nikao* 得勝 (John 16:33's 勝過 noted). The letters are not set in 『』; inner quotations 『』. |
+| The seven churches | 以弗所、士每拿、別迦摩、推雅推喇、撒狄、非拉鐵非、老底嘉 | Union Version forms; 亞細亞 noted as the Roman province. |
+| Names (1–11) | 拔摩、安提帕、巴蘭、巴勒、耶洗別、尼哥拉黨、亞巴頓、亞玻倫、伯拉河、所多瑪；7:5–8 呂便 etc. as our Genesis | 大河伯拉河 in the text, as our Old Testament (Genesis 15:18 大河，就是伯拉河); 和合本 伯拉大河 and 幼發拉底河 noted. Patmos, Antipas, Nicolaitans, Apollyon, Euphrates added to the names table. |
+| ἀρνίον | 羔羊 | As John's *amnos* (神的羔羊); *arnion* noted at 5:6. ἐσφαγμένον 被宰殺過的 (*sphazo* noted, Isaiah 53:7). |
+| σφραγίς; σάλπιγξ; φιάλη | 印 (揭開第……個印)；號 (七枝號、吹號、號聲)；碗 (金碗 where the Greek has χρυσαῖ) | *phiale* noted at 5:8 (和合本 5:8「金爐」, 15:7「金碗」). 1 Thessalonians 4:16's 號角 is the same word. |
+| ζῷα; πρεσβύτεροι; θρόνος | 四個活物 (他們, as our Ezekiel 1)；二十四位長老；寶座 (the elders' θρόνοι 座位) | Ezekiel 1 and Isaiah 6 noted at 4:6–8. |
+| βιβλίον; βιβλαρίδιον (10) | 書卷；小書卷 | |
+| θλῖψις; ὑπομονή | 患難 (7:14 大患難)；忍耐 | |
+| ἅγιοι | 聖徒 | As Romans; 直譯「聖潔的人」 noted. |
+| στέφανος; διάδημα | 冠冕；王冠 | *stephanos* a victor's wreath, noted at 2:10. |
+| ᾅδης; ἄβυσσος | 陰間；無底坑 | 陰間 as settled (with 死亡 personified, 1:18; 6:8); 無底坑 as Luke 8:31. |
+| θηρίον (11:7) | 獸 | Daniel 7's beasts noted. |
+| οὐαί | 禍哉 (8:13)；災禍 (ἡ οὐαί, 9:12; 11:14) | |
+| Numbers | 十四萬四千；一萬二千；一千二百六十天；四十二個月；兩億 (9:16, 直譯 noted)；三天半 | Chinese numerals; 三年半 and Daniel's 一期、兩期、半期 noted at 11:2. |
+| Old Testament allusions | Our Old Testament's wording where the Greek agrees, the source noted | 1:7 as Matthew 24:30 (駕着雲降臨；地上萬族都要……哀哭) and Zechariah 12:10 (刺); 1:13–15 Daniel 7 and 10 (一位好像人子的；像眾水的響聲, Ezekiel 43:2); 1:17 我是首先的，我是末後的 (Isaiah 44:6); 4:8 Isaiah 6:3; 5:5 Genesis 49:9 and Isaiah 11:10; 6:16 Hosea 10:8 with Luke 23:30 in the note (倒在我們身上); 7:16–17 Isaiah 49:10 and 25:8 (擦去……眼淚); 8:11 茵蔯 as Jeremiah 9:14; 11:4 Zechariah 4:3, 14. |
+| 2:27 (Psalm 2:9 LXX) | 他必用鐵杖管轄他們，把他們像瓦器一樣打碎 | *poimaino* 「牧養」 noted; our Psalm's 打碎 (Hebrew) quoted. |
+| ὁ χριστὸς αὐτοῦ (11:15) | 他的基督 | 或譯「他的受膏者」, Psalm 2:2 noted. |
+| δράκων; θηρίον; ὁ ψευδοπροφήτης | 龍 (大紅龍；古蛇，又叫魔鬼，也叫撒但)；獸 (從海裏上來的／從地裏上來的)；假先知 | 牠 for the dragon and the beasts, as Daniel 7's beasts; *drakon* and Leviathan noted at 12:3; 16:13 notes the false prophet as the second beast. |
+| χάραγμα; εἰκών; ἑξακόσιοι ἑξήκοντα ἕξ (13:18) | 印記；獸像；六百六十六 | As the English, the note gives gematria and 尼祿該撒 without settling it; no other number in the apparatus, so 616 is not noted. |
+| Βαβυλὼν ἡ μεγάλη; ἡ πόρνη ἡ μεγάλη | 大巴比倫；大淫婦 | 14:8; 18:2 傾倒了！大巴比倫傾倒了！ as our Isaiah 21:9 (傾倒了！巴比倫傾倒了！), the double ἔπεσεν noted; 和合本's 大淫婦 kept, 直譯「大妓女」 noted at 17:1. |
+| Ἁρμαγεδών (16:16) | 哈米吉多頓 | *har megiddo* 米吉多山 noted. |
+| Ἁλληλουϊά (19:1–6) | 哈利路亞 | *hallelu-yah* and our Psalms' 你們要讚美耶和華 noted. |
+| ὁ λόγος τοῦ θεοῦ (19:13) | 神的道 | As John 1:1 and 10:35. |
+| ἡ λίμνη τοῦ πυρός; ὁ θάνατος ὁ δεύτερος | 火湖 (燒着硫磺的火湖)；第二次的死 | |
+| χίλια ἔτη (20:2–7) | 一千年 | ἡ ἀνάστασις ἡ πρώτη 頭一次的復活. |
+| Γὼγ καὶ Μαγώγ (20:8) | 歌革和瑪各 | Ezekiel 38–39 noted. |
+| οὐρανὸς καινὸς καὶ γῆ καινή (21:1) | 新天新地 | As our Isaiah 65:17. 21:4 擦去……眼淚 as 7:17 (Isaiah 25:8); 21:3 σκηνή 居所 (帳幕 noted). |
+| The stones (21:19–20) | 碧玉、藍寶石、玉髓、綠寶石、纏絲瑪瑙、肉紅玉髓、貴橄欖石、綠柱石、黃玉、綠玉髓、紅鋯石、紫晶 | Modern names, our Exodus 28's where they overlap; 和合本's list in the note. |
+| Measures | 斯他丟 (14:20; 21:16)；肘 (21:17)；他連得 (16:21) | Metric values in notes, as Luke 24:13. |
+| ἔρχομαι ταχύ (3:11; 22:7, 12, 20) | 我快要來了 | 22:20 「是的，我快要來了！」阿們！主耶穌啊，願你來！ (瑪拉那他 noted); 22:21 願主耶穌的恩典與眾人同在！ |
+| 22:18–19 | 加添……加在他身上；刪去……刪去他的份 | Deuteronomy 4:2's 不可加添，也不可刪減 echoed and noted; the TR's 生命冊 noted. |
+| Old Testament allusions (12–22) | As 1–11 | 12:5 and 19:15 Psalm 2:9 as 2:27; 13:1–2 Daniel 7:3–6; 13:5 說誇大……之話的口 (Daniel 7:8); 17:14; 19:16 萬王之王，萬主之主 (Deuteronomy 10:17 萬主之主); 18 Babylon's fall from Isaiah 21, 47 and Jeremiah 50–51, and Tyre's lament (Ezekiel 26–27); 22:2 生命樹 as Genesis 2:9, 葉子可以醫治 as Ezekiel 47:12. |
+| Names (12–22) | 米迦勒、歌革、瑪各、哈米吉多頓、所多瑪、埃及、錫安山 | |
 
 ## Style
 
