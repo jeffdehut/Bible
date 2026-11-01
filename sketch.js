@@ -330,6 +330,7 @@
   }
   const tools = { c: "ink", s: 0, es: 1, erase: false };
   try { Object.assign(tools, JSON.parse(localStorage.getItem("pe.sketchTools")) || {}, { erase: false }); } catch (e) { /* storage unavailable */ }
+  if (!PICK.includes(tools.c)) tools.c = { purple: "violet", brown: "orange" }[tools.c] || "ink";
   const keepTools = () => { try { localStorage.setItem("pe.sketchTools", JSON.stringify({ c: tools.c, s: tools.s, es: tools.es })); } catch (e) { /* storage unavailable */ } };
 
   // Open the pad. opts: {title, href, sub, data, onSave(data or null), onShare(data), onDelete, onGo}.
