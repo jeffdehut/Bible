@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1464,6 +1464,24 @@ Settled while drafting Galatians:
 | The works of the flesh; the fruit of the Spirit (5:19–23) | 淫亂、污穢、放蕩……紛爭、嫉妒、怒氣、自私的野心 (as 2 Corinthians 12:20–21)；仁愛、喜樂、平安、忍耐、恩慈、良善、信實、溫柔、節制 | Two-character list for reading aloud; 仁愛 for *agape* (1 Corinthians 13's 愛 noted), 平安 as in the greetings. |
 | καινὴ κτίσις (6:15) | 新造的人 | As 2 Corinthians 5:17. |
 | Names | 磯法、巴拿巴、提多、安提阿、敘利亞、基利家、阿拉伯、大馬色、夏甲、西奈山 | 阿拉伯 as the rest of this translation (classic Union Version 亞拉伯). |
+
+Settled while drafting Ephesians:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| [ἐν Ἐφέσῳ] (1:1) | 〔在以弗所〕 | The SBLGNT's brackets printed 〔 〕 as in Luke; the manuscripts that lack the words noted. |
+| 1:3–14 (one Greek sentence) | Broken into Chinese sentences | The refrain 為要讚美他的榮耀 (1:12, 14; 1:6 讚美他榮耀的恩典) and 在基督裏／在他裏面 kept; the one-sentence form noted at 1:6. |
+| ἐν τοῖς ἐπουρανίοις | 在天上 | 直譯「在天上的〔領域〕裏」 noted (1:3, 20; 2:6; 3:10; 6:12). |
+| ἀρραβών (1:14); σφραγίζω (1:13; 4:30) | 訂金；蓋上了印 | As 2 Corinthians 1:22. κληρονομία 產業 (as Galatians 3:18), not 和合本「基業」. |
+| μυστήριον; οἰκονομία | 奧祕；安排、管理 (by context) | As 1 Corinthians; *oikonomia* noted (1:10; 3:2, 9). |
+| ἀρχαί, ἐξουσίαι, δυνάμεις, κυριότητες (1:21; 3:10; 6:12) | 統治的、掌權的、有能力的、主治的 | As 1 Corinthians 15:24. |
+| 2:8–9 | 你們得救是本乎恩，也因着信；這並不是出於你們自己，而是神所賜的；也不是出於行為，免得有人自誇 | |
+| Old Testament quotations | Our Old Testament wording, and our notes' wording, where the Greek agrees | 1:22 = Psalm 8:7 (and 1 Corinthians 15:27); 4:8 他升上高處，擄走了俘虜，把禮物賜給人 (our Psalm 68:19 note; 受了/賜給 noted); 4:25 = Zechariah 8:16; 4:26 生氣卻不要犯罪 (our Psalm 4:5 note); 4:30 不要使神的聖靈擔憂 (our Isaiah 63:10 note); 5:31 = Matthew 19:5 (Genesis 2:24's 緊密結合 noted); 6:2–3 要孝敬父母……使你得福，在地上得以長久活着 (Exodus 20:12, Deuteronomy 5:16). |
+| 5:14 | 「你這睡着的人，要醒過來，從死人中起來，基督就要光照你！」 | Not in the Old Testament; noted as perhaps an early hymn. |
+| ὑποτάσσομαι (5:21–24) | 順服 | 5:21 ends the sentence begun at 5:18 (verses 19–20 end in commas); 5:22's missing verb noted. κεφαλή 頭 (元首 for Christ over all things, 1:22; 4:15). |
+| The household code (5:22–6:9) | 作妻子的／作丈夫的／作兒女的／作父親的／作奴僕的／作主人的 | *douloi* noted on slavery (6:5); *kyrioi* 主人, *kyrios* 主. |
+| The armor of God (6:11–17) | 神所賜的全副軍裝；真理作帶子束腰，義作鎧甲……信心作盾牌，救恩作頭盔，聖靈的寶劍 | 鎧甲 and 頭盔 as our Isaiah 59:17. |
+| Names | 以弗所、推基古 | |
 
 ## Style
 
