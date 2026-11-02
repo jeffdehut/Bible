@@ -2480,5 +2480,6 @@ I18N.add({
  "Open the link to make this scene your own in Felt Stories.": "打開連結，就能在絨布故事裏把這個場景變成你自己的。",
  "This scene is too big for a QR code, so share the link.": "這個場景太大，無法放進二維碼，請分享連結。",
  "Open my Felt Stories scene and make it your own:": "打開我的絨布故事場景，變成你自己的：",
- "The scene, with a QR code to open it": "場景和打開它的二維碼"
+ "The scene, with a QR code to open it": "場景和打開它的二維碼",
+ "See the whole board": "看整個故事板"
 });

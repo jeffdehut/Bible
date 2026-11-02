@@ -7,6 +7,7 @@
   const $ = id => document.getElementById(id);
   const NS = "http://www.w3.org/2000/svg";
   const W = 1600, H = 1000;
+  const view = { x: 0, y: 0, z: 1 };   // the board as seen: zoomed in z times, from (x, y)
   const byId = Object.fromEntries(ART.pieces.map(p => [p.id, p]));
   const sceneById = Object.fromEntries(ART.scenes.map(s => [s.id, s]));
   const KEY = "sb.board.v1";
@@ -121,6 +122,7 @@
     uid = board.items.reduce((m, i) => Math.max(m, i.k), 0);
     past.length = 0; $("undo").disabled = true; sel = []; capSel = false; choosing = false;
     itemsG.textContent = "";
+    if (view.z !== 1) setView(0, 0, 1);
     render(); showName();
     if (!quiet) say(t("Opened: ") + doc.name);
   }
@@ -437,6 +439,52 @@
     say(t("Scene: ") + t(sceneById[id].name));
   }
 
+  /* ---------- Zooming the board ---------- */
+  // The board is seen through a window (the stage's viewBox): z times closer, from (x, y). Fingers
+  // pinch it when nothing is picked up, the wheel zooms it then, the buttons in the corner too;
+  // zoomed in, a drag on an empty part of the board looks round it.
+  const ZMAX = 4;
+  function setView(x, y, z) {
+    view.z = Math.max(1, Math.min(ZMAX, z));
+    const vw = W / view.z, vh = H / view.z;
+    view.x = Math.max(0, Math.min(W - vw, x)); view.y = Math.max(0, Math.min(H - vh, y));
+    stage.setAttribute("viewBox", `${view.x} ${view.y} ${vw} ${vh}`);
+    $("zoom-pct").textContent = Math.round(view.z * 100) + "%";
+    $("zoom-out").disabled = view.z <= 1; $("zoom-in").disabled = view.z >= ZMAX;
+    $("zoom-fit").disabled = view.z <= 1;
+    Pop.place();
+  }
+  // Where on the screen the board's window begins, and how many pixels a board unit is now.
+  function screenScale() {
+    const m = stage.getScreenCTM();
+    return { s: m.a, ox: m.e + m.a * view.x, oy: m.f + m.d * view.y };
+  }
+  // Zoom to z, keeping the board point under (cx, cy) on the screen where it is.
+  function zoomAt(z, cx, cy) {
+    const sc = screenScale(), px = view.x + (cx - sc.ox) / sc.s, py = view.y + (cy - sc.oy) / sc.s;
+    const nz = Math.max(1, Math.min(ZMAX, z)), s1 = (sc.s / view.z) * nz;
+    setView(px - (cx - sc.ox) / s1, py - (cy - sc.oy) / s1, nz);
+  }
+  const zoomBy = k => { const r = stage.getBoundingClientRect(); zoomAt(view.z * k, r.left + r.width / 2, r.top + r.height / 2); };
+  $("zoom-in").onclick = () => zoomBy(1.5);
+  $("zoom-out").onclick = () => zoomBy(1 / 1.5);
+  $("zoom-fit").onclick = () => setView(0, 0, 1);
+
+  /* ---------- The loupe: what's under the finger, while a piece is moved ---------- */
+  const loupe = $("loupe"), loupeSvg = $("loupe-svg");
+  function showLoupe(e) {
+    if (e.pointerType !== "touch") return;
+    const m = stage.getScreenCTM().inverse(), q = new DOMPoint(e.clientX, e.clientY).matrixTransform(m);
+    const sc = stage.getScreenCTM().a, r = 66 / sc / 1.8;          // 1.8 times closer than the board is seen
+    loupeSvg.setAttribute("viewBox", `${q.x - r} ${q.y - r} ${2 * r} ${2 * r}`);
+    // Above the finger; beside it near the top of the screen.
+    const above = e.clientY - 120 > 70;
+    loupe.style.left = (above ? e.clientX : e.clientX + (e.clientX > innerWidth / 2 ? -110 : 110)) + "px";
+    loupe.style.top = (above ? e.clientY - 120 : e.clientY) + "px";
+    loupe.hidden = false;
+  }
+  const hideLoupe = () => { loupe.hidden = true; };
+
   /* ---------- Moving pieces: pointer ---------- */
   const pts = new Map();
   let drag = null;
@@ -444,13 +492,16 @@
     const m = stage.getScreenCTM().inverse(), q = new DOMPoint(e.clientX, e.clientY).matrixTransform(m);
     return { x: q.x, y: q.y };
   }
+  const ptsClient = new Map();
   stage.addEventListener("pointerdown", e => {
+    ptsClient.set(e.pointerId, [e.clientX, e.clientY]);
     kbd = false;
     mouse = e.pointerType === "mouse";
     const q = toBoard(e);
     pts.set(e.pointerId, q);
     stage.setPointerCapture(e.pointerId);
     if (pts.size === 2 && sel.length) { startPinch(); return; }
+    if (pts.size === 2) { startZoom(); return; }
     if (pts.size > 2) return;
     const h = e.target.closest && e.target.closest(".handle");
     if (h && sel.length) {
@@ -476,18 +527,27 @@
       stage.classList.add("dragging");
       Pop.hide();
       e.preventDefault();
-    } else if (e.pointerType === "touch" && sel.length && !choosing) {
-      // A finger on the board beside what is picked up: if a second finger joins it, the two
-      // pinch the piece; if it lifts alone, the piece is let go.
-      drag = { mode: "letgo" };
-    } else { if (!choosing) pickItems([]); drag = null; }
+    } else {
+      // The empty board: a drag looks round it (zoomed in); a tap lets go of what is picked up.
+      // A second finger joining this one pinches what is picked up, or else zooms the board.
+      drag = { mode: "empty", c0: [e.clientX, e.clientY], v0: { ...view }, sc: screenScale(), moved: false };
+    }
   });
   stage.addEventListener("pointermove", e => {
     if (!pts.has(e.pointerId)) return;
+    ptsClient.set(e.pointerId, [e.clientX, e.clientY]);
     const q = toBoard(e);
     pts.set(e.pointerId, q);
     if (drag && drag.mode === "pinch") { doPinch(); return; }
-    if (!drag || drag.mode === "letgo") return;
+    if (drag && drag.mode === "zoom") { doZoom(); return; }
+    if (drag && drag.mode === "empty") {
+      const dx = e.clientX - drag.c0[0], dy = e.clientY - drag.c0[1];
+      if (!drag.moved && Math.hypot(dx, dy) < 6) return;
+      drag.moved = true;
+      if (view.z > 1) { stage.classList.add("panning"); setView(drag.v0.x - dx / drag.sc.s, drag.v0.y - dy / drag.sc.s, view.z); }
+      return;
+    }
+    if (!drag) return;
     if (drag.mode === "move") {
       let dx = q.x - drag.start.x, dy = q.y - drag.start.y;
       if (!drag.moved && Math.hypot(dx, dy) < 3) return;
@@ -499,6 +559,7 @@
       for (const o of drag.snap) { o.it.x = Math.round(o.x + dx); o.it.y = Math.round(o.y + dy); }
       for (const o of drag.snap) { const g = itemsG.querySelector(`[data-k="${o.it.k}"]`); if (g) place(g, o.it); }
       selG.innerHTML = "";
+      showLoupe(e);
       return;
     }
     if (drag.mode === "size") transformFrom(drag.snap, drag.cx, drag.cy, Math.hypot(q.x - drag.cx, q.y - drag.cy) / Math.max(1, drag.d0), 0);
@@ -511,10 +572,12 @@
     update();
   });
   const end = e => {
-    pts.delete(e.pointerId);
+    pts.delete(e.pointerId); ptsClient.delete(e.pointerId);
     stage.classList.remove("dragging");
     if (drag && drag.mode === "pinch") { if (pts.size < 2) { drag = null; save(); drawSel(); } return; }
-    if (drag && drag.mode === "letgo") { drag = null; if (!pts.size) pickItems([]); return; }
+    hideLoupe();
+    if (drag && drag.mode === "zoom") { if (pts.size < 2) drag = null; return; }
+    if (drag && drag.mode === "empty") { stage.classList.remove("panning"); if (!drag.moved && !pts.size && !choosing) pickItems([]); if (!pts.size) drag = null; return; }
     if (!drag) return;
     if (drag.mode === "move" && !drag.moved) past.pop();     // a tap: nothing to undo
     $("undo").disabled = !past.length;
@@ -530,6 +593,21 @@
     drag = { mode: "pinch", snap: snapshot(sel), cx: bx.cx, cy: bx.cy, d0: Math.hypot(b.x - a.x, b.y - a.y), a0: Math.atan2(b.y - a.y, b.x - a.x), mx: (a.x + b.x) / 2, my: (a.y + b.y) / 2 };
     Pop.hide();
   }
+  function startZoom() {
+    const [a, b] = [...ptsClient.values()];
+    drag = { mode: "zoom", d0: Math.max(1, Math.hypot(b[0] - a[0], b[1] - a[1])), m0: [(a[0] + b[0]) / 2, (a[1] + b[1]) / 2], v0: { ...view }, sc: screenScale() };
+    Pop.hide(); hideLoupe();
+  }
+  function doZoom() {
+    const [a, b] = [...ptsClient.values()];
+    const d = Math.hypot(b[0] - a[0], b[1] - a[1]), m = [(a[0] + b[0]) / 2, (a[1] + b[1]) / 2];
+    // The board point under the fingers' first middle stays under their middle now.
+    // (sc was measured when the pinch began, at the zoom v0.z.)
+    const { sc, v0 } = drag, s0 = sc.s;
+    const px = v0.x + (drag.m0[0] - sc.ox) / s0, py = v0.y + (drag.m0[1] - sc.oy) / s0;
+    const nz = Math.max(1, Math.min(ZMAX, v0.z * d / drag.d0)), s1 = (sc.s / v0.z) * nz;
+    setView(px - (m[0] - sc.ox) / s1, py - (m[1] - sc.oy) / s1, nz);
+  }
   function doPinch() {
     const [a, b] = [...pts.values()];
     transformFrom(drag.snap, drag.cx, drag.cy, Math.hypot(b.x - a.x, b.y - a.y) / Math.max(1, drag.d0), (Math.atan2(b.y - a.y, b.x - a.x) - drag.a0) * 180 / Math.PI);
@@ -541,7 +619,7 @@
   }
   // A mouse wheel or trackpad over the board resizes what is picked up.
   stage.addEventListener("wheel", e => {
-    if (!sel.length) return;
+    if (!sel.length) { e.preventDefault(); zoomAt(view.z * Math.exp(-e.deltaY * 0.0015), e.clientX, e.clientY); return; }
     e.preventDefault();
     const b = boxOf(sel);
     // Shift and the wheel turn it (some systems send Shift and the wheel sideways); the wheel alone,
@@ -920,14 +998,7 @@
     try { await navigator.clipboard.writeText(shareState.link); notice(t("Link copied")); }
     catch (e) { prompt(t("Copy this link"), shareState.link); }
   };
-  $("sh-save").onclick = () => {
-    if (!shareState) return;
-    const a = document.createElement("a");
-    a.href = URL.createObjectURL(shareState.blob); a.download = shareState.file.name;
-    document.body.append(a); a.click(); a.remove();
-    setTimeout(() => URL.revokeObjectURL(a.href), 4000);
-    notice(t("Picture saved"));
-  };
+
   // Opening a shared scene: a look at it first, then a copy in My boards, in "Shared with me".
   async function fromShared() {
     const code = new URLSearchParams(location.hash.slice(1)).get("s");
