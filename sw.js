@@ -6,7 +6,7 @@
 //
 // The page registers this file as sw.js?v=N with N the number in VERSION (index.html), so each
 // release has a new address that no cache along the way can hold an old copy of: change both.
-const VERSION = "reader-153";
+const VERSION = "reader-154";
 const SHELL = ["./", "index.html", "config.js?v=31", "account.js?v=37", "i18n.js?v=69", "ui.js?v=3", "sketch.js?v=13", "nav.js?v=54", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png", "data/bible/books.json"];
 
 self.addEventListener("install", event => {

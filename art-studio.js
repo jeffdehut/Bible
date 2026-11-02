@@ -161,6 +161,11 @@
 .st-sw.custom { background: conic-gradient(red, yellow, lime, cyan, blue, magenta, red); position: relative; overflow: hidden; }
 .st-sw.custom input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
 .st-sep { width: 1px; height: 26px; background: var(--line, #ddd6c8); margin: 0 4px; }
+.st-photo { display: flex; align-items: center; gap: 6px; width: 100%; flex-wrap: wrap; }
+.st-photo .st-b span { font-weight: 600; }
+.st-photo-l { font: 600 13px/1 var(--sans); color: var(--muted, #6b6457); margin-inline-end: 2px; }
+.st-op { flex: 1 1 120px; min-width: 100px; accent-color: var(--lapis, #2646a1); }
+.st-tb.danger { color: #b3261e; }
 .st-tb { width: 40px; height: 40px; display: grid; place-items: center; border: 1px solid var(--line, #ddd6c8); border-radius: 10px; background: var(--surface, #fff); cursor: pointer; }
 .st-tb svg { width: 20px; height: 20px; }
 .st-tb[aria-pressed="true"] { background: var(--lapis-soft, #e7ecf8); border-color: var(--lapis, #2646a1); }
@@ -196,6 +201,9 @@
     undo: '<path d="M9 14 4 9l5-5"/><path d="M4 9h10.5a5.5 5.5 0 0 1 0 11H11"/>',
     redo: '<path d="m15 14 5-5-5-5"/><path d="M20 9H9.5a5.5 5.5 0 0 0 0 11H13"/>',
     eye: '<path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/>',
+    photo: '<rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="1.8"/><path d="m21 16-5-5-8 8"/>',
+    move: '<path d="M12 3v18M3 12h18M12 3l-3 3M12 3l3 3M12 21l-3-3M12 21l3-3M3 12l3-3M3 12l3 3M21 12l-3-3M21 12l-3 3"/>',
+    trash: '<path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3"/>',
     paper: '<rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8"/>',
   };
   const icon = k => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${IC[k]}</svg>`;
@@ -291,7 +299,23 @@
     svg.style.aspectRatio = k.w + " / " + k.h;
     const paperG = svgEl("g"), guideG = svgEl("g", { opacity: "0.16", "pointer-events": "none" }), colG = svgEl("g"), linG = svgEl("g"), live = svgEl("path");
     if (a.kind === "person") guideG.innerHTML = PERSON_GUIDE;
-    svg.append(paperG, guideG, colG, linG, live);
+    // A reference photo, under the colour and the lines: kept with the draft on this device, never
+    // published. While "Move photo" is on, a finger (or the mouse) moves it, two fingers pinch it
+    // larger or smaller, and the wheel zooms it.
+    const refImg = svgEl("image", { preserveAspectRatio: "none", "pointer-events": "none" });
+    const refBox = svgEl("rect", { fill: "none", stroke: "#2646a1", "stroke-width": 2, "stroke-dasharray": "10 8", "vector-effect": "non-scaling-stroke", "pointer-events": "none" });
+    const refG = svgEl("g"); refG.append(refImg, refBox);
+    svg.append(paperG, refG, guideG, colG, linG, live);
+    let refSrc = null;
+    function drawRef() {
+      const r = a.ref;
+      refG.style.display = r && !r.hide ? "" : "none";
+      if (!r) return;
+      if (refSrc !== r.src) { refImg.setAttribute("href", r.src); refSrc = r.src; }
+      for (const el2 of [refImg, refBox]) { el2.setAttribute("x", r.x); el2.setAttribute("y", r.y); el2.setAttribute("width", r.w); el2.setAttribute("height", r.h); }
+      refImg.setAttribute("opacity", r.o);
+      refBox.style.display = tool.photo ? "" : "none";
+    }
     const draw = () => {
       paperG.innerHTML = a.paper ? `<rect width="${k.w}" height="${k.h}" fill="${a.paper}"/>` : "";
       colG.replaceChildren(...a.color.map(s => svgEl("path", { d: outlineOf(s), fill: s.c })));
@@ -299,6 +323,7 @@
       colG.style.display = paperG.style.display = tool.show.color ? "" : "none";
       linG.style.display = tool.show.line ? "" : "none";
       guideG.style.display = tool.show.guide ? "" : "none";
+      drawRef();
     };
     const snap = () => JSON.stringify({ c: enc(a.color), l: enc(a.line), p: a.paper });
     const back = [], fwd = [];
@@ -315,6 +340,71 @@
       Object.assign(ring.style, { display: "block", width: d + "px", height: d + "px", left: ev.clientX + "px", top: ev.clientY + "px" });
     };
     let stroke = null, erasing = null, pid = null;
+    // Moving the photo: one pointer drags it; with two, it follows their middle and their spread.
+    const pts = new Map();
+    let pdrag = null;
+    const begin = () => {
+      const r = a.ref, ps = [...pts.values()];
+      pdrag = { x0: r.x, y0: r.y, w0: r.w, h0: r.h, p: ps[0] };
+      if (ps.length >= 2) { const [p1, p2] = ps; pdrag.m = [(p1[0] + p2[0]) / 2, (p1[1] + p2[1]) / 2]; pdrag.d = Math.max(1, Math.hypot(p1[0] - p2[0], p1[1] - p2[1])); }
+    };
+    // Larger or smaller by k about (cx, cy), from where it was; never under a twentieth of the canvas.
+    const scaleRef = (k, cx, cy, from) => {
+      const r = a.ref, least = 0.05 * Math.max(KINDS[a.kind].w, KINDS[a.kind].h) / Math.max(from.w0, from.h0);
+      const nk = Math.max(least, Math.min(20, k));
+      r.w = from.w0 * nk; r.h = from.h0 * nk;
+      r.x = cx - (cx - from.x0) * nk; r.y = cy - (cy - from.y0) * nk;
+    };
+    const photoMode = () => tool.photo && a.ref && !a.ref.hide;
+    svg.addEventListener("pointerdown", ev => {
+      if (!photoMode()) return;
+      ev.preventDefault(); ev.stopImmediatePropagation();
+      try { svg.setPointerCapture(ev.pointerId); } catch (e) { /* not capturable */ }
+      pts.set(ev.pointerId, local(ev)); begin();
+    }, true);
+    svg.addEventListener("pointermove", ev => {
+      if (!photoMode() || !pts.has(ev.pointerId)) return;
+      ev.stopImmediatePropagation();
+      pts.set(ev.pointerId, local(ev));
+      const ps = [...pts.values()], r = a.ref;
+      if (ps.length >= 2 && pdrag.m) {
+        const [p1, p2] = ps, m = [(p1[0] + p2[0]) / 2, (p1[1] + p2[1]) / 2], d = Math.hypot(p1[0] - p2[0], p1[1] - p2[1]);
+        scaleRef(d / pdrag.d, pdrag.m[0], pdrag.m[1], pdrag);
+        r.x += m[0] - pdrag.m[0]; r.y += m[1] - pdrag.m[1];
+      } else if (pdrag.p) { r.x = pdrag.x0 + ps[0][0] - pdrag.p[0]; r.y = pdrag.y0 + ps[0][1] - pdrag.p[1]; }
+      drawRef();
+    }, true);
+    const photoUp = ev => {
+      if (!pts.has(ev.pointerId)) return;
+      ev.stopImmediatePropagation();
+      pts.delete(ev.pointerId);
+      if (pts.size) begin(); else { pdrag = null; keep(); }
+    };
+    svg.addEventListener("pointerup", photoUp, true);
+    svg.addEventListener("pointercancel", photoUp, true);
+    svg.addEventListener("wheel", ev => {
+      if (!photoMode()) return;
+      ev.preventDefault();
+      const [cx, cy] = local(ev), r = a.ref;
+      scaleRef(Math.exp(-ev.deltaY * 0.0015), cx, cy, { x0: r.x, y0: r.y, w0: r.w, h0: r.h });
+      drawRef(); clearTimeout(svg._wk); svg._wk = setTimeout(keep, 400);
+    }, { passive: false });
+    // A photo from this device: made smaller (1,600 pixels at most along its longer side) and
+    // laid over the whole canvas, faint.
+    async function addPhoto(file) {
+      if (!file || !/^image\//.test(file.type)) return;
+      let img;
+      try { img = await createImageBitmap(file); } catch (e) { SB.notice("That photo couldn't be opened."); return; }
+      const sc = Math.min(1, 1600 / Math.max(img.width, img.height)), cw = Math.round(img.width * sc), ch = Math.round(img.height * sc);
+      const c = document.createElement("canvas"); c.width = cw; c.height = ch;
+      c.getContext("2d").drawImage(img, 0, 0, cw, ch);
+      const src = c.toDataURL("image/jpeg", 0.82);
+      const K = KINDS[a.kind], fit = Math.min(K.w / cw, K.h / ch);
+      a.ref = { src, w: cw * fit, h: ch * fit, x: (K.w - cw * fit) / 2, y: (K.h - ch * fit) / 2, o: a.ref ? a.ref.o : 0.45, hide: false };
+      tool.photo = true;
+      draw(); keep(); tools();
+      SB.notice("Drag the photo into place, and pinch to size it. Press Done when it's right.");
+    }
     svg.addEventListener("pointerdown", ev => {
       if (pid !== null) return;
       if (ev.pointerType === "touch" && Sketch.sawPen) return;
@@ -382,6 +472,27 @@
         layers.append(g);
       }
       bar.append(layers);
+      // The reference photo: add one, move it, how faint, show or hide, take it away.
+      const ph = el("div", "st-photo");
+      const pick = el("input"); pick.type = "file"; pick.accept = "image/*"; pick.hidden = true;
+      pick.onchange = () => { addPhoto(pick.files[0]); pick.value = ""; };
+      ph.append(pick);
+      if (!a.ref) ph.append(button("st-b", icon("photo") + "<span>Reference photo</span>", () => pick.click(), "Add a reference photo"));
+      else {
+        const mv = button("st-b", icon("move") + `<span>${tool.photo ? "Done" : "Move photo"}</span>`, () => { tool.photo = !tool.photo; if (tool.photo) a.ref.hide = false; draw(); tools(); }, tool.photo ? "Done moving the photo" : "Move or resize the photo");
+        mv.setAttribute("aria-pressed", String(!!tool.photo));
+        const op = el("input", "st-op"); op.type = "range"; op.min = 5; op.max = 100; op.value = Math.round(a.ref.o * 100);
+        op.setAttribute("aria-label", "How clear the photo is"); op.title = "How clear the photo is";
+        op.oninput = () => { a.ref.o = op.value / 100; a.ref.hide = false; drawRef(); };
+        op.onchange = () => keep();
+        const eye = button("st-eye", icon("eye"), () => { a.ref.hide = !a.ref.hide; if (a.ref.hide) tool.photo = false; draw(); keep(); tools(); }, a.ref.hide ? "Show the photo" : "Hide the photo");
+        eye.setAttribute("aria-pressed", String(!a.ref.hide));
+        const swap = button("st-tb", icon("photo"), () => pick.click(), "Use a different photo");
+        const del = button("st-tb danger", icon("trash"), () => { if (confirm("Take the reference photo away?")) { a.ref = null; tool.photo = false; draw(); keep(); tools(); } }, "Take the photo away");
+        ph.append(el("span", "st-photo-l", "Photo"), mv, op, eye, swap, del);
+      }
+      bar.append(ph);
+      if (tool.photo && a.ref) return;   // while moving the photo, the drawing tools wait
       if (tool.layer === "color") {
         const colors = [...new Set([...PALETTE, ...a.color.map(s => s.c)])].slice(0, PALETTE.length + 6);
         for (const c of colors) {
