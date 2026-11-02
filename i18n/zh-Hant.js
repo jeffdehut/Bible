@@ -2481,5 +2481,6 @@ I18N.add({
  "This scene is too big for a QR code, so share the link.": "這個場景太大，無法放進二維碼，請分享連結。",
  "Open my Felt Stories scene and make it your own:": "打開我的絨布故事場景，變成你自己的：",
  "The scene, with a QR code to open it": "場景和打開它的二維碼",
- "See the whole board": "看整個故事板"
+ "See the whole board": "看整個故事板",
+ "Slide a finger anywhere on the board to move it. Pinch it with two fingers to resize or turn it.": "在故事板上任何地方滑動一隻手指就能移動它。用兩隻手指捏合可以縮放或旋轉。"
 });
