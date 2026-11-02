@@ -179,6 +179,8 @@
 :root[data-theme="dark"] :is(.menu-group, ul.menu).menu-resources { --mc: #5fd47e; } :root[data-theme="dark"] :is(.menu-group, ul.menu).menu-you { --mc: #b58cff; }
 :root[data-theme="dark"] :is(.menu-group, ul.menu).menu-about { --mc: #ff7c9c; }
 h3.menu-group[class*="menu-"] { color: var(--mc); }
+/* Menu names wrap only between words, never broken with a hyphen. */
+ul.menu, ul.menu a, ul.menu button { hyphens: none !important; -webkit-hyphens: none !important; }
 ul.menu[class*="menu-"] li svg { width: 46px; height: 46px; padding: 11px; border-radius: 14px; box-sizing: border-box; flex: none; background: color-mix(in srgb, var(--mc) 20%, transparent); color: var(--mc); }
 ul.menu[class*="menu-"] li a:hover, ul.menu[class*="menu-"] li button:hover { background: color-mix(in srgb, var(--mc) 10%, transparent); }
 ul.menu[class*="menu-"] li a:hover svg, ul.menu[class*="menu-"] li button:hover svg { background: color-mix(in srgb, var(--mc) 28%, transparent); }
