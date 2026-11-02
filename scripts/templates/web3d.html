@@ -133,6 +133,7 @@ html.ar-on .card .close { top: 6px; right: 6px; }
 
 <script src="share.js?v=33"></script>
 <script>
+const AR_READY = false;   // augmented reality: hidden until it has been polished
 (() => {
   const $ = id => document.getElementById(id);
   const el = (tag, attrs = {}, ...kids) => { const e = document.createElement(tag); for (const k in attrs) { if (k === "text") e.textContent = attrs[k]; else if (k === "class") e.className = attrs[k]; else if (k.startsWith("on")) e.addEventListener(k.slice(2), attrs[k]); else e.setAttribute(k, attrs[k]); } for (const c of kids) if (c != null) e.append(c); return e; };
@@ -512,7 +513,9 @@ html.ar-on .card .close { top: 6px; right: 6px; }
   (async () => {
     try { AR.xr = !!(navigator.xr && await navigator.xr.isSessionSupported("immersive-ar")); } catch (e) { AR.xr = false; }
     const camOk = !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia) && "DeviceOrientationEvent" in window && matchMedia("(pointer: coarse)").matches;
-    $("ar").hidden = !(AR.xr || camOk || quickLook);
+    // Augmented reality is set aside for now (it didn't work as intended): AR_READY = true offers
+    // it again once it has been polished.
+    $("ar").hidden = !AR_READY || !(AR.xr || camOk || quickLook);
   })();
   // Apple's AR Quick Look (iPhone, iPad, Vision Pro): Safari places a model in the room with
   // ARKit, the phone's own AR. It shows a model and runs none of the page, so the model is built
