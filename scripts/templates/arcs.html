@@ -223,7 +223,7 @@ canvas { display: block; width: 100%; touch-action: pan-y; cursor: crosshair; }
   }
   const plain = t => (t || "").replace(/\[\^\w+\]/g, "").replace(/\*/g, "");
   async function wordsOf(bi, c, v, c2 = c, v2 = v) {
-    const S = await slugs(), d = await getJSON(`data/bible/text/${S[D.books[bi][1]]}.json`);
+    const S = await slugs(), d = await getJSON(window.I18N && I18N.ours === false ? `data/bible/${I18N.textFile(S[D.books[bi][1]])}` : `data/bible/text/${S[D.books[bi][1]]}.json`);
     const out = [];
     for (const ch of d.chapters) {
       if (ch.c < c || ch.c > c2) continue;

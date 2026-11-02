@@ -76,7 +76,7 @@
     ]],
     ["About", "menu-about", [
       ["project", "This project", "project", "reader:project", "Who made it"],
-      ["about", "This translation", "translation", "reader:about", "A first draft, awaiting review"],
+      ["about", window.I18N && I18N.ours === false ? "Our translation" : "This translation", "translation", "reader:about", window.I18N && I18N.ours === false ? "Being reviewed: can you help?" : "A first draft, awaiting review"],
       ["privacy", "Privacy", "privacy", "privacy.html", "What this site keeps about you"],
       ["feedback", "Send feedback", "mail", "mailto:info@bibledata.org", "Questions, mistakes and ideas", { id: "menu-feedback" }],
     ]],

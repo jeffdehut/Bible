@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="../i18n.js?v=63"></script>
+<script src="../i18n.js?v=64"></script>
 <script src="../ui.js?v=3"></script>
 <link rel="icon" href="../icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="../icons/icon-192.png">
@@ -167,7 +167,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 <header class="appbar">
   <a class="brand" href="../index.html"><img src="../icons/icon.svg" alt="BibleData.org"><span aria-hidden="true">BibleData.org</span></a>
 </header>
-<script src="../nav.js?v=50"></script>
+<script src="../nav.js?v=51"></script>
 <main>
   <div class="kicker"><a href="../library.html">Visual Bible</a></div>
   <h1 id="title"></h1>
@@ -278,7 +278,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   const plain = s => (s || "").replace(/\[\^\w+\]/g, "").replace(/\*/g, "").trim();
   async function text() {
     if (TEXT) return TEXT;
-    const r = await fetch(`../data/bible/text/${D.slug}.json`);
+    const r = await fetch(window.I18N && I18N.ours === false ? `../data/bible/${I18N.textFile(D.slug)}` : `../data/bible/text/${D.slug}.json`);
     const j = await r.json();
     TEXT = new Map();
     for (const ch of j.chapters) for (const row of ch.v) TEXT.set(ch.c + ":" + row[0], plain(row[1]));
