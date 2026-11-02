@@ -2461,5 +2461,7 @@ I18N.add({
  "We're preparing our own plain translation in English and Chinese, made with the help of AI. It will be published once it has been reviewed, and readers of Hebrew, Greek or Chinese who can help check it are very welcome. Questions and ideas are welcome too. Gifts pay for hosting, review and new languages.": "我們正在預備自己的淺白英文和中文譯本，是藉著 AI 的幫助完成的初稿。經過審閱以後才會發布；非常歡迎懂希伯來文、希臘文或中文的讀者幫忙核對。也歡迎提出問題和建議。奉獻會用在網站維護、審閱和新語言上。",
  "We're preparing our own plain translation in English and Chinese. It will appear here once it has been reviewed. ": "我們正在預備自己的淺白英文和中文譯本，經過審閱以後會在這裏出現。",
  "Can you help?": "你能幫忙嗎？",
- "The 3D web paused to save memory. Tap to start it again.": "為了節省記憶體，立體網絡暫停了。點一下重新開始。"
+ "The 3D web paused to save memory. Tap to start it again.": "為了節省記憶體，立體網絡暫停了。點一下重新開始。",
+ "Bible Connections in 3D": "聖經立體關聯網",
+ "Bible Connections in 3D · BibleData.org": "聖經立體關聯網 · BibleData.org"
 });
