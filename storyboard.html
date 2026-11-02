@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=70"></script>
+<script src="i18n.js?v=71"></script>
 <script src="ui.js?v=3"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -73,6 +73,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .zoombar button:disabled { opacity: .35; cursor: default; background: transparent; }
 .zoombar svg { width: 18px; height: 18px; }
 #stage.panning { cursor: grabbing; }
+/* While pinching or panning, the felt texture waits (it is the slow part to draw). */
+#stage.fast [filter] { filter: none !important; }
 #stage { display: block; width: 100%; height: 100%; touch-action: none; user-select: none; -webkit-user-select: none; }
 #stage .item { cursor: grab; outline: none; }
 #stage .item:focus-visible .focus-ring { display: block; }
@@ -442,6 +444,6 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
 <script src="config.js?v=31"></script>
 <script src="storyboard-art.js?v=5"></script>
 <script src="qr.js?v=1"></script>
-<script src="storyboard.js?v=18"></script>
+<script src="storyboard.js?v=19"></script>
 </body>
 </html>

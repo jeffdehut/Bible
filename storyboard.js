@@ -233,9 +233,9 @@
     drawSel();
     if (sel.length && announce) say(t("Picked up: ") + sel.map(nameOf).join(", "));
     // The first time on a touch screen: how to make it bigger or turn it.
-    if (sel.length && matchMedia("(pointer: coarse)").matches && !storeGet("sb.pinchHint", false)) {
-      storeSet("sb.pinchHint", true);
-      notice(t("Pinch with two fingers to make it bigger or smaller, and twist to turn it."));
+    if (sel.length && matchMedia("(pointer: coarse)").matches && !storeGet("sb.moveHint", false)) {
+      storeSet("sb.moveHint", true);
+      notice(t("Slide a finger anywhere on the board to move it. Pinch it with two fingers to resize or turn it."));
     }
   }
   const pick = (it, announce) => pickItems(it ? groupOf(it) : [], announce);
@@ -444,7 +444,21 @@
   // pinch it when nothing is picked up, the wheel zooms it then, the buttons in the corner too;
   // zoomed in, a drag on an empty part of the board looks round it.
   const ZMAX = 4;
-  function setView(x, y, z) {
+  // During a pinch or a pan the board is drawn plain (the felt texture is the slow part to draw),
+  // once per screen refresh, with the menu out of the way; the felt comes back when it ends.
+  let viewRaf = 0, pendingView = null;
+  function queueView(x, y, z) {
+    pendingView = [x, y, z];
+    stage.classList.add("fast");
+    if (!viewRaf) viewRaf = requestAnimationFrame(() => { viewRaf = 0; if (pendingView) setView(...pendingView, true); pendingView = null; });
+  }
+  function settleView() {
+    if (viewRaf) { cancelAnimationFrame(viewRaf); viewRaf = 0; }
+    if (pendingView) { setView(...pendingView, true); pendingView = null; }
+    stage.classList.remove("fast", "panning");
+    drawSel();
+  }
+  function setView(x, y, z, quiet) {
     view.z = Math.max(1, Math.min(ZMAX, z));
     const vw = W / view.z, vh = H / view.z;
     view.x = Math.max(0, Math.min(W - vw, x)); view.y = Math.max(0, Math.min(H - vh, y));
@@ -452,7 +466,7 @@
     $("zoom-pct").textContent = Math.round(view.z * 100) + "%";
     $("zoom-out").disabled = view.z <= 1; $("zoom-in").disabled = view.z >= ZMAX;
     $("zoom-fit").disabled = view.z <= 1;
-    Pop.place();
+    if (!quiet) Pop.place();
   }
   // Where on the screen the board's window begins, and how many pixels a board unit is now.
   function screenScale() {
@@ -460,10 +474,10 @@
     return { s: m.a, ox: m.e + m.a * view.x, oy: m.f + m.d * view.y };
   }
   // Zoom to z, keeping the board point under (cx, cy) on the screen where it is.
-  function zoomAt(z, cx, cy) {
+  function zoomAt(z, cx, cy, quiet) {
     const sc = screenScale(), px = view.x + (cx - sc.ox) / sc.s, py = view.y + (cy - sc.oy) / sc.s;
     const nz = Math.max(1, Math.min(ZMAX, z)), s1 = (sc.s / view.z) * nz;
-    setView(px - (cx - sc.ox) / s1, py - (cy - sc.oy) / s1, nz);
+    setView(px - (cx - sc.ox) / s1, py - (cy - sc.oy) / s1, nz, quiet);
   }
   const zoomBy = k => { const r = stage.getBoundingClientRect(); zoomAt(view.z * k, r.left + r.width / 2, r.top + r.height / 2); };
   $("zoom-in").onclick = () => zoomBy(1.5);
@@ -486,8 +500,14 @@
     const q = toBoard(e);
     pts.set(e.pointerId, q);
     stage.setPointerCapture(e.pointerId);
-    if (pts.size === 2 && sel.length) { startPinch(); return; }
-    if (pts.size === 2) { startZoom(); return; }
+    // Two fingers: begun on what is picked up, they resize and turn it; begun on the board, they
+    // zoom and pan the board.
+    if (pts.size === 2 && sel.length && !(drag && drag.mode === "empty")) { startPinch(); return; }
+    if (pts.size === 2) {
+      if (drag && drag.mode === "empty" && drag.pad && drag.moved) save();
+      if (drag && drag.mode === "empty" && drag.pad && !drag.moved) past.pop();
+      startZoom(); return;
+    }
     if (pts.size > 2) return;
     const h = e.target.closest && e.target.closest(".handle");
     if (h && sel.length) {
@@ -516,7 +536,11 @@
     } else {
       // The empty board: a drag looks round it (zoomed in); a tap lets go of what is picked up.
       // A second finger joining this one pinches what is picked up, or else zooms the board.
-      drag = { mode: "empty", c0: [e.clientX, e.clientY], v0: { ...view }, sc: screenScale(), moved: false };
+      // With a piece picked up, a finger on the empty board moves it like a trackpad, so the
+      // finger never hides it (a mouse moves it directly).
+      const pad = e.pointerType === "touch" && sel.length && !choosing;
+      drag = { mode: "empty", c0: [e.clientX, e.clientY], v0: { ...view }, sc: screenScale(), moved: false, pad, snap: pad ? snapshot(sel) : null };
+      if (pad) remember();
     }
   });
   stage.addEventListener("pointermove", e => {
@@ -529,8 +553,17 @@
     if (drag && drag.mode === "empty") {
       const dx = e.clientX - drag.c0[0], dy = e.clientY - drag.c0[1];
       if (!drag.moved && Math.hypot(dx, dy) < 6) return;
+      if (!drag.moved) Pop.hide();
       drag.moved = true;
-      if (view.z > 1) { stage.classList.add("panning"); setView(drag.v0.x - dx / drag.sc.s, drag.v0.y - dy / drag.sc.s, view.z); }
+      if (drag.pad) {
+        // The pieces go as far on the board as the finger goes on the screen, and stay on it.
+        let bx = dx / drag.sc.s, by = dy / drag.sc.s;
+        const xs = drag.snap.map(o => o.x), ys = drag.snap.map(o => o.y);
+        bx = Math.max(-Math.min(...xs), Math.min(W - Math.max(...xs), bx));
+        by = Math.max(-Math.min(...ys), Math.min(H - Math.max(...ys), by));
+        for (const o of drag.snap) { o.it.x = Math.round(o.x + bx); o.it.y = Math.round(o.y + by); const g = itemsG.querySelector(`[data-k="${o.it.k}"]`); if (g) place(g, o.it); }
+        selG.innerHTML = "";
+      } else if (view.z > 1) { stage.classList.add("panning"); queueView(drag.v0.x - dx / drag.sc.s, drag.v0.y - dy / drag.sc.s, view.z); }
       return;
     }
     if (!drag) return;
@@ -560,8 +593,15 @@
     pts.delete(e.pointerId); ptsClient.delete(e.pointerId);
     stage.classList.remove("dragging");
     if (drag && drag.mode === "pinch") { if (pts.size < 2) { drag = null; save(); drawSel(); } return; }
-    if (drag && drag.mode === "zoom") { if (pts.size < 2) drag = null; return; }
-    if (drag && drag.mode === "empty") { stage.classList.remove("panning"); if (!drag.moved && !pts.size && !choosing) pickItems([]); if (!pts.size) drag = null; return; }
+    if (drag && drag.mode === "zoom") { if (pts.size < 2) { drag = null; settleView(); } return; }
+    if (drag && drag.mode === "empty") {
+      if (drag.pad) {
+        if (drag.moved) { save(); $("undo").disabled = !past.length; drawSel(); }
+        else { past.pop(); $("undo").disabled = !past.length; if (!pts.size) pickItems([]); }
+      } else { settleView(); if (!drag.moved && !pts.size && !choosing) pickItems([]); }
+      if (!pts.size) drag = null;
+      return;
+    }
     if (!drag) return;
     if (drag.mode === "move" && !drag.moved) past.pop();     // a tap: nothing to undo
     $("undo").disabled = !past.length;
@@ -590,7 +630,7 @@
     const { sc, v0 } = drag, s0 = sc.s;
     const px = v0.x + (drag.m0[0] - sc.ox) / s0, py = v0.y + (drag.m0[1] - sc.oy) / s0;
     const nz = Math.max(1, Math.min(ZMAX, v0.z * d / drag.d0)), s1 = (sc.s / v0.z) * nz;
-    setView(px - (m[0] - sc.ox) / s1, py - (m[1] - sc.oy) / s1, nz);
+    queueView(px - (m[0] - sc.ox) / s1, py - (m[1] - sc.oy) / s1, nz);
   }
   function doPinch() {
     const [a, b] = [...pts.values()];
@@ -603,7 +643,13 @@
   }
   // A mouse wheel or trackpad over the board resizes what is picked up.
   stage.addEventListener("wheel", e => {
-    if (!sel.length) { e.preventDefault(); zoomAt(view.z * Math.exp(-e.deltaY * 0.0015), e.clientX, e.clientY); return; }
+    if (!sel.length) {
+      e.preventDefault();
+      stage.classList.add("fast"); Pop.hide();
+      zoomAt(view.z * Math.exp(-e.deltaY * 0.0015), e.clientX, e.clientY, true);
+      clearTimeout(stage._wz); stage._wz = setTimeout(settleView, 180);
+      return;
+    }
     e.preventDefault();
     const b = boxOf(sel);
     // Shift and the wheel turn it (some systems send Shift and the wheel sideways); the wheel alone,
