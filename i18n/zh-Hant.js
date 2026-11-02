@@ -2463,5 +2463,22 @@ I18N.add({
  "Can you help?": "你能幫忙嗎？",
  "The 3D web paused to save memory. Tap to start it again.": "為了節省記憶體，立體網絡暫停了。點一下重新開始。",
  "3D Connections": "立體關聯網",
- "3D Connections · BibleData.org": "立體關聯網 · BibleData.org"
+ "3D Connections · BibleData.org": "立體關聯網 · BibleData.org",
+ "Share this scene": "分享這個場景",
+ "Anyone with the link or the QR code can open their own copy of this scene in Felt Stories, and change it as they like.": "任何人只要有這個連結或二維碼，就可以在絨布故事裏打開這個場景的副本，隨意修改。",
+ "Copy link": "複製連結",
+ "Save picture": "儲存圖片",
+ "Copy this link": "複製這個連結",
+ "A scene was shared with you": "有人與你分享了一個場景",
+ "Open your own copy to keep it in My boards and change it as you like.": "打開你自己的副本，存在「我的故事板」裏，隨意修改。",
+ "Not now": "暫時不要",
+ "Open a copy": "打開副本",
+ "Shared with me": "與我分享的",
+ "Your copy is in My boards, in “Shared with me”.": "你的副本在「我的故事板」的「與我分享的」裏。",
+ "That link to a scene couldn't be read.": "無法讀取這個場景的連結。",
+ "Scan to open this scene in Felt Stories, and make it your own.": "掃描就能在絨布故事裏打開這個場景，變成你自己的。",
+ "Open the link to make this scene your own in Felt Stories.": "打開連結，就能在絨布故事裏把這個場景變成你自己的。",
+ "This scene is too big for a QR code, so share the link.": "這個場景太大，無法放進二維碼，請分享連結。",
+ "Open my Felt Stories scene and make it your own:": "打開我的絨布故事場景，變成你自己的：",
+ "The scene, with a QR code to open it": "場景和打開它的二維碼"
 });
