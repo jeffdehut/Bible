@@ -104,6 +104,7 @@
     }).observe(document.documentElement, { childList: true, subtree: true, characterData: true, attributes: true, attributeFilter: ATTRS });
   }
 
+  const OURS_OPEN = (() => { try { return (((JSON.parse(localStorage.getItem("pe.account")) || {}).session || {}).user?.email || "").toLowerCase() === "jeff@jeffdehut.com"; } catch (e) { return false; } })();
   window.I18N = {
     lang, LANGS, ROOT,
     locale: LANGS[lang].locale,
@@ -121,6 +122,14 @@
       location.replace(u.href);
     },
     translate,
+    // Our own translation (English and Chinese) is a first draft, made with AI, and is shown only
+    // to the translator's account until it has been reviewed. Everyone else reads the Berean
+    // Standard Bible, or in Chinese the Chinese Union Version; textFile gives the book's file
+    // under data/bible/ for this reader. (The draft's files stay on the server: this keeps them
+    // out of sight, it doesn't lock them.)
+    ours: OURS_OPEN,
+    fallback: /^zh/.test(lang) ? "cuv" : "bsb",
+    textFile: slug => (OURS_OPEN ? (/^zh/.test(lang) ? `i18n/${lang}/text/${slug}.json` : `text/${slug}.json`) : `versions/${/^zh/.test(lang) ? "cuv" : "bsb"}/${slug}.json`),
     number: n => Number(n).toLocaleString(LANGS[lang].locale),
     date: (d, opts) => new Date(d).toLocaleDateString(LANGS[lang].locale, opts),
   };

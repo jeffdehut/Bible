@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=63"></script>
+<script src="i18n.js?v=64"></script>
 <script src="ui.js?v=3"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -118,7 +118,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 <header class="appbar">
   <a class="brand" href="index.html"><img src="icons/icon.svg" alt="BibleData.org"><span aria-hidden="true">BibleData.org</span></a>
 </header>
-<script src="nav.js?v=50"></script>
+<script src="nav.js?v=51"></script>
 
 <main>
   <h1>Threads of Cross-References</h1>
@@ -259,7 +259,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   }
   const plain = t => (t || "").replace(/\[\^\w+\]/g, "").replace(/\*/g, "");
   async function wordsOf(bi, c, v, c2 = c, v2 = v) {
-    const S = await slugs(), d = await getJSON(`data/bible/text/${S[D.books[bi][1]]}.json`);
+    const S = await slugs(), d = await getJSON(window.I18N && I18N.ours === false ? `data/bible/${I18N.textFile(S[D.books[bi][1]])}` : `data/bible/text/${S[D.books[bi][1]]}.json`);
     const out = [];
     for (const ch of d.chapters) {
       if (ch.c < c || ch.c > c2) continue;

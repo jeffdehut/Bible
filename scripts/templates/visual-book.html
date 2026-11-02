@@ -242,7 +242,7 @@ svg.vis .lab { font: 600 11px var(--sans); fill: var(--ink); }
   const plain = s => (s || "").replace(/\[\^\w+\]/g, "").replace(/\*/g, "").trim();
   async function text() {
     if (TEXT) return TEXT;
-    const r = await fetch(`../data/bible/text/${D.slug}.json`);
+    const r = await fetch(window.I18N && I18N.ours === false ? `../data/bible/${I18N.textFile(D.slug)}` : `../data/bible/text/${D.slug}.json`);
     const j = await r.json();
     TEXT = new Map();
     for (const ch of j.chapters) for (const row of ch.v) TEXT.set(ch.c + ":" + row[0], plain(row[1]));

@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=63"></script>
+<script src="i18n.js?v=64"></script>
 <script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<meta name="description" content="The Open Plain English Translation, a first draft of the whole Bible, with the Hebrew, Aramaic and Greek beneath every verse.">
+<meta name="description" content="Read the Bible with the Hebrew, Aramaic and Greek beneath every verse, and explore it through maps, timelines, family trees and connections.">
 <meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0d111b" media="(prefers-color-scheme: dark)">
 <link rel="manifest" href="manifest.webmanifest">
@@ -98,6 +98,9 @@ a { color: var(--lapis); }
 .btn:hover { background: var(--lapis-soft); }
 .btn.solid { background: var(--lapis); color: var(--surface); }
 a.btn { text-decoration: none; }
+.ours-wip { margin: 0 0 18px; padding: 14px 16px; border-radius: 14px; background: var(--lapis-soft); }
+.ours-wip p:last-child { margin-bottom: 0; }
+.ver-wip { margin: 14px 4px 4px; font: 400 13.5px/1.45 var(--sans); color: var(--muted); }
 #bar-draw[aria-pressed="true"] { background: var(--lapis); color: var(--surface); }
 .btn.line { border: 1px solid var(--line); }
 .eyebrow { font: 600 12px/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0; }
@@ -1215,7 +1218,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="sheet-head"><h2 id="menu-title">BibleData.org</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="site-menu"><!-- nav.js: the site's menu, the same on every page --></div>
 </section>
-<script src="nav.js?v=50"></script>
+<script src="nav.js?v=51"></script>
 <script src="sketch.js?v=12"></script>
 
 <section class="ui-sheet sheet dialog" id="mine" hidden aria-labelledby="mine-title">
@@ -1313,11 +1316,11 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="prose">
     <p>One place for Bible translations and Bible data that are open and free of commercial restrictions, made easy to explore and understand through maps, timelines, family trees and connections.</p>
     <ul class="welcome-list">
-      <li><b>Read</b> a new open translation, or other free versions, with the original words beneath.</li>
+      <li id="welcome-read"><b>Read</b> a new open translation, or other free versions, with the original words beneath.</li>
       <li><b>See</b> it visually: Explore, in the menu.</li>
       <li><b>Mark up</b> what you read: tap a verse or select words. Notes stay on this device.</li>
     </ul>
-    <p class="hint">Our translation is a draft, made with the help of AI and being reviewed. Questions and ideas are welcome, and readers of Hebrew, Greek or Chinese who can help check it are very welcome. Gifts pay for hosting, review and new languages.</p>
+    <p class="hint" id="welcome-draft">Our translation is a draft, made with the help of AI and being reviewed. Questions and ideas are welcome, and readers of Hebrew, Greek or Chinese who can help check it are very welcome. Gifts pay for hosting, review and new languages.</p>
     <p class="hint" id="welcome-install" hidden>Tip: add this site to your Home Screen to open it like an app and read offline.</p>
     <p class="welcome-lang" id="welcome-lang" hidden><button class="btn" type="button" lang="zh-Hant" translate="no">改用繁體中文閱讀</button></p>
     <div class="welcome-actions">
@@ -1372,6 +1375,12 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="about-title">About this translation</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div class="prose">
+    <div class="ours-wip" id="ours-wip" hidden>
+      <p><strong>We're making our own translation, and we'd love your help.</strong> BibleData.org is preparing its own plain translation of the Bible into English and into Traditional Chinese, from the Hebrew, Aramaic and Greek. It is a first draft, made with the help of AI, so it stays out of sight until people who read the original languages have reviewed and verified it, chapter by chapter.</p>
+      <p>Until then you read the <em>Berean Standard Bible</em> in English and the <em>Chinese Union Version</em> in Chinese, and every other version in the list.</p>
+      <p><strong>Can you help?</strong> We are looking for reviewers who read Hebrew, Aramaic or Greek, and for careful readers of English or Chinese. Write to <a href="mailto:info@bibledata.org?subject=Helping%20with%20the%20translation">info@bibledata.org</a>.</p>
+    </div>
+    <div class="ours-only">
     <p><strong>Every chapter is a first draft.</strong> The Open Plain English Translation was drafted with the help of AI (Claude), from the Hebrew and Aramaic of the Leningrad Codex and the Greek of the SBL Greek New Testament. No chapter has been reviewed yet. Until a chapter is reviewed, it carries a <em>Draft</em> label.</p>
     <h3>How a chapter is reviewed</h3>
     <ul>
@@ -1382,6 +1391,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     </ul>
     <h3>The aim</h3>
     <p>Say what the original says, in natural modern English that a reader around 12 to 14 years old can follow. Where the original can be read more than one way, or the manuscripts differ, a note says so. God's personal name, YHWH, is written "the LORD" in small capitals, as in most English Bibles.</p>
+    </div>
     <h3>Under each verse</h3>
     <p>Tap a verse to see it in Hebrew, Aramaic or Greek, word by word. The words, glosses and grammar come from STEPBible's tagged texts (TAHOT and TAGNT), and the definitions from its brief lexicons (TBESH and TBESG). STEPBible's glosses are its own, not this translation's.</p>
     <p>People a verse names are listed under <em>People</em>: tap one to see their family in the genealogy. The names come from STEPBible's TIPNR, which marks each name in the Hebrew, Aramaic and Greek.</p>
@@ -1451,6 +1461,7 @@ const psName = b => (b.osis === "Ps" && L.en ? "Psalm" : b.n);
 // translation into the site's other languages is listed too ("ours-zh-Hant", "ours-en"), and
 // reads like another version: highlights on words and notes on words stay with the wording
 // they were made on.
+const OURS_OPEN = L.ours !== false;   // our own translation shown (i18n.js: only to the translator until reviewed)
 let VERSIONS = [], VER = store.get("ver." + LANG, "ours");
 const verOf = id => VERSIONS.find(v => v.id === id);
 const ourName = () => L.en ? "Plain English" : "淺白譯本";
@@ -1815,7 +1826,7 @@ async function show(b, c, v, opts = {}) {
     if (v) { target.classList.add("flash"); setTimeout(() => target.classList.remove("flash"), 1700); }
   } else scrollTo({ top: 0, behavior: "instant" });
   if (view.kind === "bible") watchEnds();
-  if ((ctx.chapter.s || "draft") === "draft" && !store.get("seenDraft", false) && store.get("welcomed", false)) {
+  if (OURS_OPEN && VER === "ours" && (ctx.chapter.s || "draft") === "draft" && !store.get("seenDraft", false) && store.get("welcomed", false)) {
     store.set("seenDraft", true);
     toast("This translation is a first draft. Tap the Draft label to learn more.", 5200);
   }
@@ -3192,7 +3203,7 @@ async function runSearch() {
   }
   if (!searchData) {
     $("q-count").textContent = "Loading the text…";
-    try { searchData = await getJSON("search.json"); } catch (e) { $("q-count").textContent = "Search couldn't load. Check your connection."; return; }
+    try { searchData = await getJSON(OURS_OPEN ? "search.json" : `versions/${L.fallback === "cuv" ? "bsb" : L.fallback}/search.json`); } catch (e) { $("q-count").textContent = "Search couldn't load. Check your connection."; return; }
   }
   const phrases = [...q.matchAll(/"([^"]+)"/g)].map(m => m[1].toLowerCase());
   const words = q.replace(/"[^"]*"/g, " ").toLowerCase().split(/\s+/).filter(w => w.length > 1 || /\d/.test(w));
@@ -4099,7 +4110,7 @@ function openVersions() {
   const opt = v => v === "ours" ? { id: "ours", short: ourName(), name: ourFull, about: L.t("Our own translation, from the Hebrew, Aramaic and Greek. A first draft.") }
     : { id: v.id, short: v.id === "orig" ? origShort() : v.short, name: v.id === "orig" ? origName() : v.name, about: v.license };
   const groups = [
-    ["", ["ours", ...VERSIONS.filter(v => v.lang === LANG && v.id !== "orig")]],
+    ["", [...(OURS_OPEN ? ["ours"] : []), ...VERSIONS.filter(v => v.lang === LANG && v.id !== "orig")]],
     ["Original languages", VERSIONS.filter(v => v.id === "orig")],
     ["Other languages", VERSIONS.filter(v => v.lang !== LANG && v.id !== "orig").sort((a, b) => !!b.ours - !!a.ours)],
   ].map(([t, list]) => [t, list.map(opt)]);
@@ -4127,7 +4138,9 @@ function openVersions() {
     section("top", 4, "On top", "The version you read.", VER, setVersion),
     section("bottom", 6, "Underneath", "A second version under each verse, to compare them verse by verse.", VER2 || null, setSecond,
       { id: null, short: "", name: L.t("None"), about: L.t("One version only.") }, VER),
-    Object.assign($("ver-foot").cloneNode(true), { id: "", hidden: false }));
+    Object.assign($("ver-foot").cloneNode(true), { id: "", hidden: false }),
+    OURS_OPEN ? "" : el("p", { class: "ver-wip" }, L.t("We're preparing our own plain translation in English and Chinese. It will appear here once it has been reviewed. "),
+      el("a", { href: "#", text: L.t("Can you help?"), onclick: ev => { ev.preventDefault(); closeSheets(); openSheet("about"); } })));
   openSheet("versions");
   requestAnimationFrame(() => { $("ver-body").scrollTop = 0; });
 }
@@ -5577,6 +5590,16 @@ function route() {
 }
 applySettings();
 autoScroll.render();
+if (!OURS_OPEN) {
+  $("ours-wip").hidden = false;
+  if (!L.en) $("ours-wip").innerHTML = `<p><strong>我們正在預備自己的譯本，很需要你的幫助。</strong>BibleData.org 正從希伯來文、亞蘭文和希臘文，把聖經翻譯成淺白的英文和繁體中文。這是藉著 AI 幫助完成的初稿，所以在懂原文的人逐章審閱、核實以前，暫時不公開。</p>
+      <p>在此期間，中文讀者閱讀《和合本》，英文讀者閱讀《伯里亞標準譯本》（BSB），也可以選擇清單裏的其他譯本。</p>
+      <p><strong>你能幫忙嗎？</strong>我們正在尋找懂希伯來文、亞蘭文或希臘文的審閱者，也需要細心的中文和英文讀者。請寫信到 <a href="mailto:info@bibledata.org?subject=Helping%20with%20the%20translation">info@bibledata.org</a>。</p>`;
+  for (const n of document.querySelectorAll(".ours-only")) n.hidden = true;
+  $("about-title").textContent = L.t("About our translation");
+  $("welcome-read").innerHTML = L.t("<b>Read</b> free versions of the Bible, with the original words beneath.");
+  $("welcome-draft").textContent = L.t("We're preparing our own plain translation in English and Chinese, made with the help of AI. It will be published once it has been reviewed, and readers of Hebrew, Greek or Chinese who can help check it are very welcome. Questions and ideas are welcome too. Gifts pay for hosting, review and new languages.");
+}
 const ourLangs = Object.keys(L.LANGS).filter(k => k !== "en" && L.LANGS[k].bible);
 Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/${k}/books.json`).catch(() => ({})))),
   getJSON("versions.json").catch(() => [])]).then(([list, lbooks, versions]) => {
@@ -5588,7 +5611,11 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
     "zh-Hant": { short: "淺白中文", name: "淺白中文譯本", license: "Our own translation into Traditional Chinese, from the Hebrew, Aramaic and Greek. A first draft; books not yet translated are shown in English." },
   };
   const others = ["en", ...ourLangs].filter(k => k !== LANG && OURS[k] && (k === "en" || Object.keys(LB[k] || {}).length));
-  VERSIONS = [...others.map(k => ({ id: "ours-" + k, lang: k, ours: true, ...OURS[k] })), ...versions];
+  VERSIONS = [...(OURS_OPEN ? others.map(k => ({ id: "ours-" + k, lang: k, ours: true, ...OURS[k] })) : []), ...versions];
+  // Our own translation is hidden until reviewed (i18n.js): the Berean Standard Bible, or the
+  // Chinese Union Version, is read in its place.
+  if (!OURS_OPEN && (VER === "ours" || !verOf(VER))) VER = verOf(L.fallback) ? L.fallback : VERSIONS.find(v => v.lang === LANG && v.id !== "orig")?.id || "ours";
+  if (!OURS_OPEN && VER2 === "ours") VER2 = null;
   if (!verOf(VER)) VER = "ours";
   if (VER2 && ((VER2 !== "ours" && !verOf(VER2)) || VER2 === VER)) VER2 = null;
   $("ver-label").textContent = verShort();
@@ -5605,7 +5632,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=144").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=145").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
