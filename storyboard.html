@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=69"></script>
+<script src="i18n.js?v=70"></script>
 <script src="ui.js?v=3"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -66,6 +66,18 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 
 /* The board. */
 .stage-wrap { position: relative; flex: 1; min-height: 0; min-width: 0; padding: 10px; }
+/* Zoom: buttons in the corner (fingers pinch the board, the wheel zooms it). */
+.zoombar { position: absolute; right: 18px; bottom: 18px; z-index: 5; display: flex; align-items: center; gap: 2px; padding: 3px; border-radius: 12px; background: color-mix(in srgb, var(--raised) 88%, transparent); border: 1px solid var(--line); box-shadow: 0 4px 14px rgb(0 0 0 / 14%); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); }
+.zoombar button { min-width: 34px; height: 34px; padding: 0 6px; border: 0; border-radius: 9px; background: transparent; color: var(--ink); cursor: pointer; display: grid; place-items: center; font: 600 12.5px/1 var(--sans); }
+.zoombar button:hover { background: var(--lapis-soft); }
+.zoombar button:disabled { opacity: .35; cursor: default; background: transparent; }
+.zoombar svg { width: 18px; height: 18px; }
+#stage.panning { cursor: grabbing; }
+/* The loupe: what is under the finger while a piece is moved, larger, above the finger. */
+.loupe { position: fixed; z-index: 80; width: 132px; height: 132px; margin: -66px 0 0 -66px; border-radius: 50%; overflow: hidden; pointer-events: none; border: 3px solid #fff; box-shadow: 0 6px 22px rgb(0 0 0 / 35%), 0 0 0 1px rgb(0 0 0 / 12%); background: #fff; }
+.loupe[hidden] { display: none; }
+.loupe svg { display: block; width: 100%; height: 100%; }
+.loupe i { position: absolute; left: 50%; top: 50%; width: 14px; height: 14px; margin: -7px 0 0 -7px; border-radius: 50%; border: 2px solid #2646a1; box-shadow: 0 0 0 2px rgb(255 255 255 / 80%); }
 #stage { display: block; width: 100%; height: 100%; touch-action: none; user-select: none; -webkit-user-select: none; }
 #stage .item { cursor: grab; outline: none; }
 #stage .item:focus-visible .focus-ring { display: block; }
@@ -345,6 +357,12 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
           <g id="sel"></g>
         </g>
       </svg>
+      <div class="zoombar" id="zoombar" role="group" aria-label="Zoom">
+        <button type="button" id="zoom-out" aria-label="Zoom out" title="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 12h12"/></svg></button>
+        <button type="button" id="zoom-fit" aria-label="See the whole board" title="See the whole board"><span id="zoom-pct">100%</span></button>
+        <button type="button" id="zoom-in" aria-label="Zoom in" title="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 12h12M12 6v12"/></svg></button>
+      </div>
+      <div class="loupe" id="loupe" hidden aria-hidden="true"><svg id="loupe-svg" viewBox="0 0 100 100"><use href="#bg"/><use href="#items"/><use href="#cap"/></svg><i></i></div>
       <div class="empty-hint" id="empty" hidden><p>Open a drawer and tap a piece, or drag it onto the board. Then move it with your finger or the mouse.</p></div>
       <p class="turn-tip">Turn your phone sideways for a bigger board.</p>
     </div>
@@ -374,7 +392,6 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
     <p class="sh-note" id="sh-note" hidden></p>
     <div class="ask-btns sh-btns">
       <button type="button" class="tbtn" id="sh-copy">Copy link</button>
-      <button type="button" class="tbtn" id="sh-save">Save picture</button>
       <button type="button" class="tbtn primary" id="sh-go">Share</button>
     </div>
     <button type="button" class="x sh-x" id="sh-close" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
@@ -431,6 +448,6 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
 <script src="config.js?v=31"></script>
 <script src="storyboard-art.js?v=5"></script>
 <script src="qr.js?v=1"></script>
-<script src="storyboard.js?v=16"></script>
+<script src="storyboard.js?v=17"></script>
 </body>
 </html>
