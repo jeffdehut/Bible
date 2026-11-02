@@ -16,9 +16,11 @@
   const PAPER = "#fbfdff";
   // Papers to sketch on: pale pastels, so every ink still reads on them. A sketch keeps its paper
   // at the end of its text (";p" and the name), which a reader that doesn't know papers passes over.
-  const PAPERS = { white: PAPER, cream: "#fdf7e7", yellow: "#fff8cf", peach: "#ffeadc", pink: "#fde8ef", lavender: "#f0eafc", blue: "#e6f1fc", mint: "#e5f6ec" };
-  const PAPER_NAMES = { white: "White", cream: "Cream", yellow: "Yellow", peach: "Peach", pink: "Pink", lavender: "Lavender", blue: "Blue", mint: "Mint" };
-  const paperKey = text => { const m = /;p([a-z]+)$/.exec(text || ""); return m && PAPERS[m[1]] ? m[1] : "white"; };
+  // "graph" (light blue graph paper) is the paper a sketch has when it names none.
+  const PAPERS = { graph: PAPER, white: "#ffffff", cream: "#fdf7e7", yellow: "#fff8cf", peach: "#ffeadc", pink: "#fde8ef", lavender: "#f0eafc", blue: "#e6f1fc", mint: "#e5f6ec" };
+  const PAPER_NAMES = { graph: "Graph paper", white: "White", cream: "Cream", yellow: "Yellow", peach: "Peach", pink: "Pink", lavender: "Lavender", blue: "Blue", mint: "Mint" };
+  const paperKey = text => { const m = /;p([a-z]+)$/.exec(text || ""); return m && PAPERS[m[1]] ? m[1] : "graph"; };
+  const isGraph = text => paperKey(text) === "graph";
   const paperOf = text => PAPERS[paperKey(text)];
   // Light blue graph paper: a line every quarter inch, a stronger one every inch.
   const GRID = 24, GRID_MINOR = "#d6e6f7", GRID_MAJOR = "#a9c9ec";
@@ -104,7 +106,7 @@
     return out;
   }
   function encode(strokes, paper) {
-    const tail = paper && paper !== "white" && PAPERS[paper] ? ";p" + paper : "";
+    const tail = paper && paper !== "graph" && PAPERS[paper] ? ";p" + paper : "";
     return "1|" + strokes.filter(s => s.p.length).map(s => {
       const p = simplify(s.p, 0.18), out = [Math.max(0, KEYS.indexOf(s.c)), s.s];
       let px = 0, py = 0, pp = 0;
@@ -220,8 +222,8 @@
   // A sketch as a small picture on its paper.
   function picture(data, { size = 96, paper = true } = {}) {
     const svg = svgEl("svg", { viewBox: `0 0 ${PAD} ${PAD}`, width: size, height: size, class: "sk-pic", "aria-hidden": "true" });
-    if (paper) svg.append(svgEl("rect", { width: PAD, height: PAD, fill: paperOf(data) }),
-      svgEl("path", { d: GRID_D.minor, stroke: GRID_MINOR, "stroke-width": 0.8, fill: "none" }), svgEl("path", { d: GRID_D.major, stroke: GRID_MAJOR, "stroke-width": 1, fill: "none" }));
+    if (paper) svg.append(svgEl("rect", { width: PAD, height: PAD, fill: paperOf(data) }));
+    if (paper && isGraph(data)) svg.append(svgEl("path", { d: GRID_D.minor, stroke: GRID_MINOR, "stroke-width": 0.8, fill: "none" }), svgEl("path", { d: GRID_D.major, stroke: GRID_MAJOR, "stroke-width": 1, fill: "none" }));
     for (const x of paths(data)) svg.append(svgEl("path", { d: x.d, fill: x.color }));
     return svg;
   }
@@ -240,16 +242,19 @@
 .sk-x { flex: none; width: 34px; height: 34px; border: 0; border-radius: 10px; background: transparent; color: inherit; font-size: 18px; cursor: pointer; }
 .sk-x:hover { background: var(--lapis-soft, #e7ecf8); }
 .sk-paper { position: relative; justify-self: center; width: min(288px, calc(100vw - 72px)); aspect-ratio: 1; border-radius: 3px;
-  background: linear-gradient(${GRID_MAJOR} 1px, transparent 1px) 0 0 / calc(100% / 3) calc(100% / 3), linear-gradient(90deg, ${GRID_MAJOR} 1px, transparent 1px) 0 0 / calc(100% / 3) calc(100% / 3),
-    linear-gradient(${GRID_MINOR} 1px, transparent 1px) 0 0 / calc(100% / 12) calc(100% / 12), linear-gradient(90deg, ${GRID_MINOR} 1px, transparent 1px) 0 0 / calc(100% / 12) calc(100% / 12), var(--paper, ${PAPER});
-  transition: background-color .2s;
+  background-color: var(--paper, ${PAPER}); transition: background-color .2s;
   box-shadow: 0 1px 2px rgb(0 0 0 / 12%), 0 6px 16px rgb(60 45 10 / 16%); touch-action: none; cursor: crosshair; overflow: hidden; }
 .sk-paper svg { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
 .sk-paper.erasing { cursor: cell; }
 .sk-ring { position: absolute; border: 1.5px solid rgb(31 36 48 / 45%); border-radius: 50%; pointer-events: none; transform: translate(-50%, -50%); display: none; }
+.sk-paper.grid, .sk-pp.grid { background-image: linear-gradient(${GRID_MAJOR} 1px, transparent 1px), linear-gradient(90deg, ${GRID_MAJOR} 1px, transparent 1px),
+    linear-gradient(${GRID_MINOR} 1px, transparent 1px), linear-gradient(90deg, ${GRID_MINOR} 1px, transparent 1px);
+  background-size: calc(100% / 3) calc(100% / 3), calc(100% / 3) calc(100% / 3), calc(100% / 12) calc(100% / 12), calc(100% / 12) calc(100% / 12); }
+.sk-pp.grid { background-size: 8px 8px, 8px 8px, 4px 4px, 4px 4px; background-color: var(--p); }
 .sk-papers { display: flex; align-items: center; justify-content: center; gap: 7px; flex-wrap: wrap; }
 .sk-papers span { font: 600 12px/1 var(--sans, system-ui, sans-serif); color: var(--muted, #5b6475); margin-inline-end: 2px; }
 .sk-pp { width: 26px; height: 26px; padding: 0; border-radius: 7px; border: 1px solid rgb(0 0 0 / 14%); background: var(--p); cursor: pointer; }
+@media (max-width: 420px) { .sk-papers { gap: 5px; } .sk-papers span { display: none; } .sk-pp { width: 25px; height: 25px; } }
 .sk-pp[aria-pressed="true"] { box-shadow: 0 0 0 2px var(--surface, #fff), 0 0 0 4px var(--lapis, #2646a1); }
 .sk-tools { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 6px; }
 .sk-tools .sep { width: 1px; height: 24px; background: var(--line, #e4e2db); margin: 0 2px; }
@@ -373,7 +378,7 @@
   function open(opts) {
     css();
     let strokes = decode(opts.data);
-    let pk = opts.data ? paperKey(opts.data) : (PAPERS[tools.paper] ? tools.paper : "white");
+    let pk = opts.data ? paperKey(opts.data) : (PAPERS[tools.paper] ? tools.paper : "graph");
     const scrim = document.createElement("div");
     scrim.className = "sk-scrim";
     const box = document.createElement("div");
@@ -392,12 +397,13 @@
     const live = svgEl("path");
     const ring = document.createElement("div"); ring.className = "sk-ring";
     paper.append(svg, ring);
-    const papers = document.createElement("div"); papers.className = "sk-papers";
-    const showPaper = () => { paper.style.setProperty("--paper", PAPERS[pk]); for (const b of papers.querySelectorAll(".sk-pp")) b.setAttribute("aria-pressed", String(b.dataset.p === pk)); };
+    const papers = document.createElement("div"); papers.className = "sk-papers"; papers.setAttribute("role", "group"); papers.setAttribute("aria-label", T("Paper"));
+    const showPaper = () => { paper.style.setProperty("--paper", PAPERS[pk]); paper.classList.toggle("grid", pk === "graph"); for (const b of papers.querySelectorAll(".sk-pp")) b.setAttribute("aria-pressed", String(b.dataset.p === pk)); };
     papers.append(Object.assign(document.createElement("span"), { textContent: T("Paper") }));
     for (const k of Object.keys(PAPERS)) {
       const b = btn("sk-pp", { "data-p": k, "aria-label": T(PAPER_NAMES[k]) + " " + T("paper"), title: T(PAPER_NAMES[k]) });
       b.style.setProperty("--p", PAPERS[k]);
+      if (k === "graph") b.classList.add("grid");
       b.onclick = () => { pk = k; tools.paper = k; keepTools(); showPaper(); };
       papers.append(b);
     }
@@ -486,6 +492,6 @@
     return { close };
   }
 
-  window.Sketch = { holdStylus, PAD, PAPER, PAPERS, paperOf, GRID, GRID_MINOR, GRID_MAJOR, COLORS, KEYS, PICK, SIZES, ERASERS, outline, encode, decode, erase, pen, paths, picture, toolbar, history, open, css, colorOf, svgEl, tools, keepTools,
+  window.Sketch = { holdStylus, PAD, PAPER, PAPERS, paperOf, isGraph, GRID, GRID_MINOR, GRID_MAJOR, COLORS, KEYS, PICK, SIZES, ERASERS, outline, encode, decode, erase, pen, paths, picture, toolbar, history, open, css, colorOf, svgEl, tools, keepTools,
     get sawPen() { return sawPen; } };
 })();

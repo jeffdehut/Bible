@@ -104,6 +104,9 @@
     }).observe(document.documentElement, { childList: true, subtree: true, characterData: true, attributes: true, attributeFilter: ATTRS });
   }
 
+  // A double tap doesn't zoom the page (on an iPhone it got in the way of tapping through the app);
+  // pinching still zooms, for anyone who needs the text larger.
+  document.write("<style>html { touch-action: manipulation; }</style>");
   const OURS_OPEN = (() => { try { return (((JSON.parse(localStorage.getItem("pe.account")) || {}).session || {}).user?.email || "").toLowerCase() === "jeff@jeffdehut.com"; } catch (e) { return false; } })();
   window.I18N = {
     lang, LANGS, ROOT,
