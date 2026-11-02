@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=65"></script>
+<script src="i18n.js?v=66"></script>
 <script src="ui.js?v=3"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -77,6 +77,7 @@ a { color: var(--lapis); }
 .hint { position: absolute; left: 50%; bottom: calc(max(14px, env(safe-area-inset-bottom, 0px)) + 58px); transform: translateX(-50%); width: max-content; max-width: calc(100% - 32px); padding: 6px 12px; border-radius: 99px; background: rgb(5 7 13 / 70%); color: var(--muted); font-size: 14px; text-align: center; pointer-events: none; transition: opacity 0.6s; }
 .hint.gone { opacity: 0; }
 /* Augmented reality: the web in the room (WebXR), or over the camera's picture (the iPhone). */
+.gl-lost { position: fixed; inset: 0; z-index: 95; display: grid; place-items: center; padding: 24px; border: 0; background: #05070d; color: #e9ecf3; font: 500 16px/1.5 var(--sans); text-align: center; cursor: pointer; }
 #ar-video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: none; background: #000; }
 html.ar-cam #ar-video { display: block; }
 html.ar-cam, html.ar-cam body { background: transparent !important; }
@@ -241,6 +242,15 @@ const AR_READY = false;   // augmented reality: hidden until it has been polishe
 
   /* ---------- WebGL ---------- */
   const gl = $("gl").getContext("webgl", { antialias: true, alpha: true, premultipliedAlpha: false });
+  // If the phone takes the 3D drawing back (short of memory), say so, and a tap starts it afresh.
+  $("gl").addEventListener("webglcontextlost", e => {
+    e.preventDefault();
+    const m = document.createElement("button");
+    m.type = "button"; m.className = "gl-lost";
+    m.textContent = window.I18N ? I18N.t("The 3D web paused to save memory. Tap to start it again.") : "The 3D web paused to save memory. Tap to start it again.";
+    m.onclick = () => location.reload();
+    document.body.append(m);
+  });
   const lc = $("labels").getContext("2d");
   if (!gl) {
     $("hint").remove();
@@ -735,6 +745,10 @@ const AR_READY = false;   // augmented reality: hidden until it has been polishe
     const [, x, y, z] = bookCenters.find(c => c[0] === b), w = mvp[3] * x + mvp[7] * y + mvp[11] * z + mvp[15];
     return w <= 1 ? null : [((mvp[0] * x + mvp[4] * y + mvp[8] * z + mvp[12]) / w + 1) * W / 2, (1 - (mvp[1] * x + mvp[5] * y + mvp[9] * z + mvp[13]) / w) * Hh / 2, w];
   }
+  // Label sizes in half pixels: a size worked out afresh each frame gave thousands of slightly
+  // different fonts while zooming, and Safari keeps each one, until an iPhone ran out of memory
+  // and closed the page.
+  const half = v => Math.round(v * 2) / 2;
   function drawLabels() {
     lc.clearRect(0, 0, W, Hh);
     const mvp = mul(proj, view), f = focal(), cx = W / 2, cy = Hh / 2, reach = Math.hypot(cx, cy);
@@ -765,7 +779,7 @@ const AR_READY = false;   // augmented reality: hidden until it has been polishe
       if (placed.has(L.key) || (L.tier === 4 && named >= budget)) continue;
       const book = L.tier === 3;
       L.text = book ? tr(D.books[L.book][0]) : label(L.key);
-      L.size = L.tier === 0 ? 16 : book ? clamp(13 * home.dist / cam.dist, 11.5, 15) : L.tier === 4 ? clamp(10.5 + L.r * 0.35, 11, 14) : 12.5;
+      L.size = half(L.tier === 0 ? 16 : book ? clamp(13 * home.dist / cam.dist, 11.5, 15) : L.tier === 4 ? clamp(10.5 + L.r * 0.35, 11, 14) : 12.5);
       L.br = book ? 0 : clamp(L.r, 6.5, 12);
       lc.font = `${L.tier === 0 || book ? 600 : 500} ${L.size}px ${FONT}`;
       const w = lc.measureText(L.text).width;
@@ -783,7 +797,7 @@ const AR_READY = false;   // augmented reality: hidden until it has been polishe
       const book = typeof key === "string", s = book ? bookAt(+key.slice(1), mvp) : project(key, mvp);
       if (!onScreen(s)) continue;
       const L = { key, s, tier: book ? 3 : 4, book: book ? +key.slice(1) : null, r: book ? 0 : sizeOf(key) * f / s[2] / 2 };
-      L.text = book ? tr(D.books[L.book][0]) : label(key); L.size = book ? 13 : clamp(10.5 + L.r * 0.35, 11, 14); L.br = book ? 0 : clamp(L.r, 6.5, 12);
+      L.text = book ? tr(D.books[L.book][0]) : label(key); L.size = book ? 13 : half(clamp(10.5 + L.r * 0.35, 11, 14)); L.br = book ? 0 : clamp(L.r, 6.5, 12);
       paint(L, b * (book ? 0.85 * bookA : 1));
     }
     for (const L of [...placed.values()].reverse()) {
