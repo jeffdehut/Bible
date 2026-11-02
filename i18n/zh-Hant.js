@@ -2462,6 +2462,6 @@ I18N.add({
  "We're preparing our own plain translation in English and Chinese. It will appear here once it has been reviewed. ": "我們正在預備自己的淺白英文和中文譯本，經過審閱以後會在這裏出現。",
  "Can you help?": "你能幫忙嗎？",
  "The 3D web paused to save memory. Tap to start it again.": "為了節省記憶體，立體網絡暫停了。點一下重新開始。",
- "Bible Connections in 3D": "聖經立體關聯網",
- "Bible Connections in 3D · BibleData.org": "聖經立體關聯網 · BibleData.org"
+ "3D Connections": "立體關聯網",
+ "3D Connections · BibleData.org": "立體關聯網 · BibleData.org"
 });

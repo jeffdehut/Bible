@@ -58,7 +58,7 @@
     ]],
     ["Explore", "menu-explore", [
       ["graph", "Connections", "web", "graph.html", "Every chapter, person and place, and the threads between them"],
-      ["web3d", "Bible Connections in 3D", "web3d", "web3d.html", "The web of Scripture in three dimensions"],
+      ["web3d", "3D Connections", "web3d", "web3d.html", "The web of Scripture in three dimensions"],
       ["history", "Timeline", "time", "history.html", "World history beside the Bible, from Creation"],
       ["genealogy", "Genealogy", "gen", "genealogy.html", "From Adam to Jesus, and every family"],
       ["visual", "Visual Bible", "visual", "library.html", "Each book on the shelf, and seen whole from its own words"],
