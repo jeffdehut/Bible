@@ -73,11 +73,6 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .zoombar button:disabled { opacity: .35; cursor: default; background: transparent; }
 .zoombar svg { width: 18px; height: 18px; }
 #stage.panning { cursor: grabbing; }
-/* The loupe: what is under the finger while a piece is moved, larger, above the finger. */
-.loupe { position: fixed; z-index: 80; width: 132px; height: 132px; margin: -66px 0 0 -66px; border-radius: 50%; overflow: hidden; pointer-events: none; border: 3px solid #fff; box-shadow: 0 6px 22px rgb(0 0 0 / 35%), 0 0 0 1px rgb(0 0 0 / 12%); background: #fff; }
-.loupe[hidden] { display: none; }
-.loupe svg { display: block; width: 100%; height: 100%; }
-.loupe i { position: absolute; left: 50%; top: 50%; width: 14px; height: 14px; margin: -7px 0 0 -7px; border-radius: 50%; border: 2px solid #2646a1; box-shadow: 0 0 0 2px rgb(255 255 255 / 80%); }
 #stage { display: block; width: 100%; height: 100%; touch-action: none; user-select: none; -webkit-user-select: none; }
 #stage .item { cursor: grab; outline: none; }
 #stage .item:focus-visible .focus-ring { display: block; }
@@ -362,7 +357,6 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
         <button type="button" id="zoom-fit" aria-label="See the whole board" title="See the whole board"><span id="zoom-pct">100%</span></button>
         <button type="button" id="zoom-in" aria-label="Zoom in" title="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 12h12M12 6v12"/></svg></button>
       </div>
-      <div class="loupe" id="loupe" hidden aria-hidden="true"><svg id="loupe-svg" viewBox="0 0 100 100"><use href="#bg"/><use href="#items"/><use href="#cap"/></svg><i></i></div>
       <div class="empty-hint" id="empty" hidden><p>Open a drawer and tap a piece, or drag it onto the board. Then move it with your finger or the mouse.</p></div>
       <p class="turn-tip">Turn your phone sideways for a bigger board.</p>
     </div>
@@ -448,6 +442,6 @@ dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
 <script src="config.js?v=31"></script>
 <script src="storyboard-art.js?v=5"></script>
 <script src="qr.js?v=1"></script>
-<script src="storyboard.js?v=17"></script>
+<script src="storyboard.js?v=18"></script>
 </body>
 </html>

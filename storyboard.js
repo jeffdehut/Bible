@@ -470,20 +470,6 @@
   $("zoom-out").onclick = () => zoomBy(1 / 1.5);
   $("zoom-fit").onclick = () => setView(0, 0, 1);
 
-  /* ---------- The loupe: what's under the finger, while a piece is moved ---------- */
-  const loupe = $("loupe"), loupeSvg = $("loupe-svg");
-  function showLoupe(e) {
-    if (e.pointerType !== "touch") return;
-    const m = stage.getScreenCTM().inverse(), q = new DOMPoint(e.clientX, e.clientY).matrixTransform(m);
-    const sc = stage.getScreenCTM().a, r = 66 / sc / 1.8;          // 1.8 times closer than the board is seen
-    loupeSvg.setAttribute("viewBox", `${q.x - r} ${q.y - r} ${2 * r} ${2 * r}`);
-    // Above the finger; beside it near the top of the screen.
-    const above = e.clientY - 120 > 70;
-    loupe.style.left = (above ? e.clientX : e.clientX + (e.clientX > innerWidth / 2 ? -110 : 110)) + "px";
-    loupe.style.top = (above ? e.clientY - 120 : e.clientY) + "px";
-    loupe.hidden = false;
-  }
-  const hideLoupe = () => { loupe.hidden = true; };
 
   /* ---------- Moving pieces: pointer ---------- */
   const pts = new Map();
@@ -559,7 +545,6 @@
       for (const o of drag.snap) { o.it.x = Math.round(o.x + dx); o.it.y = Math.round(o.y + dy); }
       for (const o of drag.snap) { const g = itemsG.querySelector(`[data-k="${o.it.k}"]`); if (g) place(g, o.it); }
       selG.innerHTML = "";
-      showLoupe(e);
       return;
     }
     if (drag.mode === "size") transformFrom(drag.snap, drag.cx, drag.cy, Math.hypot(q.x - drag.cx, q.y - drag.cy) / Math.max(1, drag.d0), 0);
@@ -575,7 +560,6 @@
     pts.delete(e.pointerId); ptsClient.delete(e.pointerId);
     stage.classList.remove("dragging");
     if (drag && drag.mode === "pinch") { if (pts.size < 2) { drag = null; save(); drawSel(); } return; }
-    hideLoupe();
     if (drag && drag.mode === "zoom") { if (pts.size < 2) drag = null; return; }
     if (drag && drag.mode === "empty") { stage.classList.remove("panning"); if (!drag.moved && !pts.size && !choosing) pickItems([]); if (!pts.size) drag = null; return; }
     if (!drag) return;
@@ -596,7 +580,7 @@
   function startZoom() {
     const [a, b] = [...ptsClient.values()];
     drag = { mode: "zoom", d0: Math.max(1, Math.hypot(b[0] - a[0], b[1] - a[1])), m0: [(a[0] + b[0]) / 2, (a[1] + b[1]) / 2], v0: { ...view }, sc: screenScale() };
-    Pop.hide(); hideLoupe();
+    Pop.hide();
   }
   function doZoom() {
     const [a, b] = [...ptsClient.values()];
