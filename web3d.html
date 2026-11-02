@@ -77,6 +77,21 @@ a { color: var(--lapis); }
 .hint { position: absolute; left: 50%; bottom: calc(max(14px, env(safe-area-inset-bottom, 0px)) + 58px); transform: translateX(-50%); width: max-content; max-width: calc(100% - 32px); padding: 6px 12px; border-radius: 99px; background: rgb(5 7 13 / 70%); color: var(--muted); font-size: 14px; text-align: center; pointer-events: none; transition: opacity 0.6s; }
 .hint.gone { opacity: 0; }
 /* Augmented reality: the web in the room (WebXR), or over the camera's picture (the iPhone). */
+/* The card tucks away (ui.js), as in Connections: on a phone, drag it down by its handle or press
+   the arrow; on a wide screen, the arrow tucks it to the side. A tap on what's left brings it back. */
+.card .tuck { position: absolute; top: 10px; right: 48px; z-index: 4; width: 36px; height: 36px; border: 0; background: transparent; border-radius: 10px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
+.card .tuck:hover { background: var(--lapis-soft); }
+.card .tuck svg { transition: transform 0.3s; }
+.card.tucked { cursor: pointer; }
+.card.tucked .tuck svg { transform: rotate(180deg); }
+@media (min-width: 760px) { .card.tucked .tuck { right: auto; left: 7px; } }
+@media (max-width: 759px) {
+  .card .tuck { top: 24px; }
+  .card .tuck svg { transform: rotate(90deg); }
+  .card.tucked .tuck svg { transform: rotate(-90deg); }
+}
+html.ar-on .card .tuck { display: none; }
+.tools [hidden] { display: none !important; }
 .gl-lost { position: fixed; inset: 0; z-index: 95; display: grid; place-items: center; padding: 24px; border: 0; background: #05070d; color: #e9ecf3; font: 500 16px/1.5 var(--sans); text-align: center; cursor: pointer; }
 #ar-video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: none; background: #000; }
 html.ar-cam #ar-video { display: block; }
@@ -157,7 +172,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   </div>
   <div class="key" id="key"></div>
   <div class="hint" id="hint">Loading the web …</div>
-  <article class="card ui-sheet" id="card" hidden aria-live="polite"></article>
+  <article class="card ui-sheet" id="card" data-tuck hidden aria-live="polite"></article>
   <div id="ar-choose" hidden role="menu">
       <button type="button" id="ar-room" role="menuitem"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 20 7.5v9L12 21l-8-4.5v-9Z"/><path d="M4 7.5 12 12l8-4.5M12 12v9"/><path d="M2 21h20"/></svg><span id="ar-room-t">Place it in your room</span><small id="ar-room-s">Apple's own AR: it stands on your floor or table and you walk round it.</small></button>
       <button type="button" id="ar-cam" role="menuitem"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l2-3h6l2 3h3v11H4Z"/><circle cx="12" cy="13" r="3.5"/></svg><span>Look through the camera</span><small>Tap points in it and follow their connections, one to the next.</small></button>
@@ -381,7 +396,8 @@ const AR_READY = false;   // augmented reality: hidden until it has been polishe
       proj = perspective(FOV, W / Hh, near, far);
       // On a phone the card covers the lower part of the screen, so the middle of the view moves
       // up into the part left showing.
-      const card = $("card"), lift = !card.hidden && W < 760 ? card.offsetHeight / Hh : 0;
+      // (Tucked, only its top edge shows.)
+      const card = $("card"), lift = !card.hidden && W < 760 ? (card.classList.contains("tucked") ? 92 : card.offsetHeight) / Hh : 0;
       shiftY += (lift - shiftY) * (still ? 1 : 0.12);
       for (let c = 0; c < 4; c++) proj[4 * c + 1] += shiftY * proj[4 * c + 3];
       fogNear = Math.max(near, cam.dist - 1600); fogFar = cam.dist + 2600;
@@ -749,6 +765,18 @@ const AR_READY = false;   // augmented reality: hidden until it has been polishe
   // different fonts while zooming, and Safari keeps each one, until an iPhone ran out of memory
   // and closed the page.
   const half = v => Math.round(v * 2) / 2;
+  /* ---------- The card tucks away (ui.js moves it; see the style above) ---------- */
+  const TUCK = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>';
+  function tuckButton() {
+    const b = el("button", { type: "button", class: "tuck ui-tuck", "aria-label": "Slide the card out of the way" });
+    b.innerHTML = TUCK;
+    b.onclick = e => { e.stopPropagation(); UI.tuck($("card"), !$("card").classList.contains("tucked")); };
+    return b;
+  }
+  // A tap on the tucked card brings it back, rather than acting on what's under the tap.
+  $("card").addEventListener("click", e => {
+    if ($("card").classList.contains("tucked") && !e.target.closest(".close, .tuck")) { e.preventDefault(); e.stopPropagation(); UI.tuck($("card"), false); }
+  }, true);
   function drawLabels() {
     lc.clearRect(0, 0, W, Hh);
     const mvp = mul(proj, view), f = focal(), cx = W / 2, cy = Hh / 2, reach = Math.hypot(cx, cy);
@@ -855,7 +883,7 @@ const AR_READY = false;   // augmented reality: hidden until it has been polishe
       showCard(i);
       try { history.replaceState(null, "", "#" + (i < NC ? `${slug(D.books[bookOf[i]][0])}-${chapterOf[i]}` : `n${i}`)); } catch (e) {}
     } else {
-      kin = []; $("card").hidden = true;
+      kin = []; $("card").hidden = true; UI.tuck($("card"), false);
       try { history.replaceState(null, "", location.pathname); } catch (e) {}
     }
     if (threadsOnly) applyThreads();
@@ -879,6 +907,7 @@ const AR_READY = false;   // augmented reality: hidden until it has been polishe
     $("card").replaceChildren(
       el("div", { class: "ui-grab" }),
       el("button", { class: "close", type: "button", "aria-label": "Close", text: "✕", onclick: () => select(null, { fly: false }) }),
+      tuckButton(),
       el("div", { class: "ui-head" }, el("div", { class: "kicker" }, dotOf(i), kicker), el("h2", { text: label(i) })), brief,
       el("div", { class: "acts" },
         reader ? el("a", { class: "solid", href: reader, text: k === 0 ? "Read it" : "Read where it’s first named" }) : null,
@@ -886,6 +915,7 @@ const AR_READY = false;   // augmented reality: hidden until it has been polishe
         window.Share ? el("a", { href: "#", role: "button", onclick: e => { e.preventDefault(); shareView(); } }, "Share") : null,
         window.Web3D && Web3D.arHere() ? el("a", { href: "#", role: "button", onclick: e => { e.preventDefault(); Web3D.ar(); } }, "In your room") : null),
       ...groups.flat().filter(Boolean));
+    UI.tuck($("card"), false);
     $("card").hidden = false;
     if (k) (briefs ||= fetch("data/graph-briefs.json").then(r => r.json()).catch(() => null)).then(B => {
       if (B && selected === i && B[i - NC]) shareInfo.sub = brief.textContent = `${B[i - NC]} · ${fmt.format(kin.length)} connections`;
