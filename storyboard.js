@@ -63,6 +63,7 @@
   const cachedArt = (() => { try { return JSON.parse(localStorage.getItem(ART_KEY)) || []; } catch (e) { return []; } })();
   installArt(cachedArt);
   // The newest artwork from the server; anything new or changed goes into the drawers now.
+  let artReady = Promise.resolve();
   async function fetchArt() {
     if (!ABASE || navigator.onLine === false) return;
     try {
@@ -827,22 +828,130 @@
     });
   }
   const fileName = () => (doc.name || "felt-stories").replace(/[\\/:*?"<>|]+/g, "").trim().slice(0, 60) || "felt-stories";
-  // Share: the device's own share sheet where it can take a picture (phones, tablets, some
-  // desktops); otherwise the picture is saved.
+  /* ---------- Sharing a scene: a link that carries it, and a picture with a QR code ---------- */
+  // The scene travels in the link itself (after #s=), so nothing is kept on a server and no
+  // account is needed: its backdrop, each piece (where, how big, how turned, flipped, clipped),
+  // and the verse on it, as compact numbers, compressed, in URL-safe base64. Opening the link
+  // offers a copy of the scene in the reader's own boards.
+  const b64 = bytes => { let s = ""; for (const b of bytes) s += String.fromCharCode(b); return btoa(s).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, ""); };
+  const unb64 = str => Uint8Array.from(atob(str.replace(/-/g, "+").replace(/_/g, "/")), c => c.charCodeAt(0));
+  async function squeeze(bytes, how) {
+    const stream = new Blob([bytes]).stream().pipeThrough(how === "in" ? new CompressionStream("deflate-raw") : new DecompressionStream("deflate-raw"));
+    return new Uint8Array(await new Response(stream).arrayBuffer());
+  }
+  async function packScene() {
+    const gs = {}; let gi = 0;
+    const items = board.items.map(it => [it.a, Math.round(it.x), Math.round(it.y), Math.round(it.s * 100), Math.round(it.r || 0), (it.f || 1) < 0 ? -1 : 1, it.g ? (gs[it.g] ??= ++gi) : 0]);
+    const c = board.cap;
+    const json = JSON.stringify([1, (doc.name || "").slice(0, 80), board.bg, items, c && c.text ? [c.text, c.ref || "", c.ver || "", c.pos || "bottom", Math.round((c.size || 1) * 100)] : 0]);
+    const raw = new TextEncoder().encode(json);
+    if (typeof CompressionStream === "function") { try { return "z" + b64(await squeeze(raw, "in")); } catch (e) { /* plain below */ } }
+    return "j" + b64(raw);
+  }
+  async function unpackScene(code) {
+    const raw = code[0] === "z" ? await squeeze(unb64(code.slice(1)), "out") : unb64(code.slice(1));
+    const [v, name, bg, items, cap] = JSON.parse(new TextDecoder().decode(raw));
+    if (v !== 1 || !Array.isArray(items)) throw new Error("not a scene");
+    const clips = {};
+    const data = cleanData({
+      bg, items: items.slice(0, 400).map(([a, x, y, s100, r, f, g], k) => ({ k: k + 1, a: String(a), x: +x || 0, y: +y || 0, s: Math.max(0.15, Math.min(6, (+s100 || 100) / 100)), r: +r || 0, f: f < 0 ? -1 : 1, ...(g ? { g: clips[g] ??= newClip() } : {}) })),
+      ...(Array.isArray(cap) && cap[0] ? { cap: { text: String(cap[0]).slice(0, 2000), ref: String(cap[1] || ""), ver: String(cap[2] || ""), pos: cap[3] === "top" ? "top" : "bottom", size: Math.max(0.6, Math.min(1.6, (+cap[4] || 100) / 100)) } } : {}),
+    });
+    return { name: String(name || "").slice(0, 120), data, missing: items.length - data.items.length };
+  }
+  const sceneLink = code => new URL("storyboard.html#s=" + code, location.href).href;
+  // The picture to share: the scene, its name, and a QR code that opens it.
+  async function shareCard(link) {
+    const pic = await boardPNG();
+    const img = await new Promise((res, rej) => { const i = new Image(); i.onload = () => res(i); i.onerror = rej; i.src = URL.createObjectURL(pic); });
+    const Wc = 1080, pad = 48, sw = Wc - 2 * pad, sh = Math.round(sw * H / W);
+    // A dense code (a busy scene) is drawn larger, so a phone's camera can still read it.
+    const code = QR.make(link), qpx = code ? Math.max(3, Math.floor((code.size > 57 ? 560 : 300) / (code.size + 8))) : 0, qs = code ? (code.size + 8) * qpx : 0;
+    const Hc = pad + 70 + sh + 40 + Math.max(qs, 200) + pad;
+    const c = document.createElement("canvas"); c.width = Wc; c.height = Hc;
+    const g = c.getContext("2d");
+    g.fillStyle = "#f6f1e6"; g.fillRect(0, 0, Wc, Hc);
+    g.fillStyle = "#7a5a2e"; g.font = `600 30px "Libre Franklin", system-ui, sans-serif`; g.textBaseline = "alphabetic";
+    g.fillText(t("Felt Stories") + " · BibleData.org", pad, pad + 40);
+    g.save(); g.beginPath(); g.roundRect(pad, pad + 70, sw, sh, 22); g.clip(); g.drawImage(img, pad, pad + 70, sw, sh); g.restore();
+    URL.revokeObjectURL(img.src);
+    const y0 = pad + 70 + sh + 40;
+    let tx = pad;
+    if (code) { QR.draw(g, code, pad, y0, qpx); tx = pad + qs + 36; }
+    const words = (str, font, maxW, y, color, lh) => {
+      g.font = font; g.fillStyle = color;
+      const out = []; let line = "";
+      for (const w of str.split(/(\s+)/)) { const next = line + w; if (g.measureText(next).width > maxW && line.trim()) { out.push(line.trim()); line = w.trimStart(); } else line = next; }
+      if (line.trim()) out.push(line.trim());
+      out.slice(0, 3).forEach((l, i) => g.fillText(l, tx, y + i * lh));
+      return y + Math.min(out.length, 3) * lh;
+    };
+    let y = y0 + 44;
+    y = words(doc.name || untitled(), `500 44px "Frank Ruhl Libre", Georgia, serif`, Wc - pad - tx, y, "#2b2420", 52) + 14;
+    words(code ? t("Scan to open this scene in Felt Stories, and make it your own.") : t("Open the link to make this scene your own in Felt Stories."), `400 28px "Libre Franklin", system-ui, sans-serif`, Wc - pad - tx, y, "#5b4a36", 38);
+    return new Promise((res, rej) => c.toBlob(b => (b ? res(b) : rej(new Error("no picture"))), "image/png"));
+  }
+  let shareState = null;
   $("share").onclick = async () => {
-    let blob;
-    try { blob = await boardPNG(); } catch (e) { say(t("The picture couldn't be made")); return; }
-    const file = new File([blob], fileName() + ".png", { type: "image/png" });
+    const dlg = $("share-dlg");
+    $("sh-card").removeAttribute("src"); $("sh-note").hidden = true;
+    dlg.showModal();
+    try {
+      const link = sceneLink(await packScene());
+      const blob = await shareCard(link);
+      shareState = { link, blob, file: new File([blob], fileName() + ".png", { type: "image/png" }) };
+      $("sh-card").src = URL.createObjectURL(blob);
+      if (!QR.make(link)) { $("sh-note").textContent = t("This scene is too big for a QR code, so share the link."); $("sh-note").hidden = false; }
+    } catch (e) { $("sh-note").textContent = t("The picture couldn't be made"); $("sh-note").hidden = false; }
+  };
+  $("sh-close").onclick = () => $("share-dlg").close();
+  $("share-dlg").addEventListener("click", e => { if (e.target === $("share-dlg")) $("share-dlg").close(); });
+  $("sh-go").onclick = async () => {
+    if (!shareState) return;
+    const { link, file } = shareState, text = t("Open my Felt Stories scene and make it your own:");
     if (navigator.canShare && navigator.canShare({ files: [file] })) {
-      try { await navigator.share({ files: [file], title: doc.name || t("Felt Stories") }); return; }
-      catch (e) { if (e.name === "AbortError") return; }
+      try { await navigator.share({ files: [file], title: doc.name || t("Felt Stories"), text: text + " " + link }); return; } catch (e) { if (e.name === "AbortError") return; }
     }
+    if (navigator.share) { try { await navigator.share({ title: doc.name || t("Felt Stories"), text, url: link }); return; } catch (e) { if (e.name === "AbortError") return; } }
+    $("sh-copy").click();
+  };
+  $("sh-copy").onclick = async () => {
+    if (!shareState) return;
+    try { await navigator.clipboard.writeText(shareState.link); notice(t("Link copied")); }
+    catch (e) { prompt(t("Copy this link"), shareState.link); }
+  };
+  $("sh-save").onclick = () => {
+    if (!shareState) return;
     const a = document.createElement("a");
-    a.href = URL.createObjectURL(blob); a.download = file.name;
+    a.href = URL.createObjectURL(shareState.blob); a.download = shareState.file.name;
     document.body.append(a); a.click(); a.remove();
     setTimeout(() => URL.revokeObjectURL(a.href), 4000);
-    say(t("Picture saved"));
+    notice(t("Picture saved"));
   };
+  // Opening a shared scene: a look at it first, then a copy in My boards, in "Shared with me".
+  async function fromShared() {
+    const code = new URLSearchParams(location.hash.slice(1)).get("s");
+    if (!code) return false;
+    history.replaceState(null, "", location.pathname);
+    await artReady;                    // pieces drawn in the studio, so the scene has them all
+    let got;
+    try { got = await unpackScene(code); } catch (e) { notice(t("That link to a scene couldn't be read.")); return true; }
+    const dlg = $("got-dlg");
+    $("got-prev").innerHTML = Library.preview({ data: got.data });
+    $("got-name").textContent = got.name || untitled();
+    $("got-no").onclick = () => dlg.close();
+    $("got-yes").onclick = () => {
+      dlg.close();
+      const folder = t("Shared with me");
+      const d = newDoc(got.name || untitled(), folder, got.data);
+      lib.docs[d.id] = d; touch(d);
+      if (!lib.folders.includes(folder)) setFolders([...lib.folders, folder]);
+      openDoc(d.id, true);
+      notice(t("Your copy is in My boards, in “Shared with me”."));
+    };
+    dlg.showModal();
+    return true;
+  }
   // Print: in full colour, or as line art to colour in. The page is laid out sideways, with the
   // board's name above it.
   function printBoard(mode) {
@@ -1157,7 +1266,7 @@
     };
     $("lib-clear").onclick = () => { dlg.close(); clearBoard(); };
     Sync.on(() => { if (dlg.open) status(); });
-    return { refresh };
+    return { refresh, preview };
   })();
   /* ---------- Signing in, here ---------- */
   const SignIn = (() => {
@@ -1309,5 +1418,9 @@
 
   renderTabs(); renderTray(); openDrawer(true); render(); showName(); persist();
   incoming(); fromHash();
-  Sync.run(); fetchArt();
+  Sync.run();
+  // The newest artwork, and a shared scene once it's here (no longer than three seconds' wait).
+  artReady = Promise.race([fetchArt(), new Promise(r => setTimeout(r, 3000))]);
+  fromShared();
+  addEventListener("hashchange", () => { if (/[#&]s=/.test(location.hash)) fromShared(); });
 })();
